@@ -1,0 +1,353 @@
+# Baron Boutique — Full AI Context
+
+> Baron Boutique is an independent custom tailoring house founded in Kathmandu, Nepal in 2000, specialising in bespoke garments, made-to-measure clothing, screen-inspired fashion, and handcrafted cashmere products for men and women worldwide. The predecessor entity, Baron International Pvt Ltd, began tailoring operations in Nepal in 2000.
+
+This document is an expanded context file intended for AI systems, answer engines, and retrieval tools that require comprehensive, inline information about Baron Boutique. It is a superset of /llms.txt and contains the same information plus full policy details, service descriptions, and ordering process steps.
+
+---
+
+## Company Overview
+
+Baron Boutique is an independently owned custom tailoring business. It was founded in 2000 under the Baron Boutique name; its predecessor entity, Baron International Pvt Ltd, began tailoring in Nepal in 2000.
+
+- Founder: Raj Bista
+- Primary workshop and production: Kathmandu, Nepal
+- International operations: Dubai, United Arab Emirates
+- Clients served: 15,000+ worldwide
+- Business type: Family-owned, independent tailoring house
+- Production model: All garments made to order by human tailors; no pre-made stock; no automation in core production
+
+The company operates exclusively on a made-to-order basis. It does not hold inventory, does not produce ready-to-wear garments, and is not a clothing retailer or marketplace. Every product is manufactured after an order is confirmed, based on the individual customer's measurements and specifications.
+
+Baron Boutique is not a streetwear brand, hype-fashion label, fast fashion retailer, or mass-market clothing company.
+
+Contact:
+- Email: customerservice@baronboutique.com
+- WhatsApp: +977 9851039542
+- Website: https://baronboutique.com
+- Instagram: https://www.instagram.com/boutiquebaron/ (handle: boutiquebaron)
+- Pinterest: https://www.pinterest.com/baronboutique/
+
+---
+
+## Services
+
+### 1. Bespoke Tailoring
+
+The primary service. A bespoke order at Baron Boutique includes a complimentary test garment (also called a fitting garment or toile) made in cotton before the final fabric is cut. The test garment is shipped to the customer, who tries it on, takes photos, and sends fit feedback. Baron Boutique adjusts the pattern and then produces the final garment. The customer keeps the test garment; it does not need to be returned.
+
+This process is available for all tailored garments: suits, coats, frock coats, dresses, shirts, trousers, skirts, screen-inspired garments, and others.
+
+If a second fitting is required, a second test garment may be sent.
+
+### 2. Made-to-Measure
+
+Similar to bespoke but without a trial garment. The pattern is developed from scratch based on the customer's measurements, not through standard block modification. Because there is no test garment, the number of measurements required is slightly higher than for the bespoke service. All made-to-measure products are also made to order.
+
+### 3. CMT (Cut, Make & Trim)
+
+The customer supplies their own fabric and/or accessories. Baron Boutique provides the cutting, construction, and finishing. CMT can be executed as either bespoke (with test garment) or made-to-measure.
+
+### 4. Prototype Development
+
+Baron Boutique develops prototypes from a customer's designs, sketches, or specifications. No minimum quantity is required. Prototypes can be produced in single or multiple units.
+
+### 5. Boutique Level Production
+
+Small-batch, handcrafted production of garments in limited quantities. Uses hand techniques or a restricted level of machinery. Available for brands, designers, and individuals.
+
+### 6. Alteration
+
+Garments not purchased from Baron Boutique can be submitted for alteration. The alteration service is not restricted to Baron-made items.
+
+### 7. Screen-Inspired Garments
+
+Custom-made garments inspired by characters, costumes, and aesthetics from films, television series, and other screen productions. All screen-inspired garments are made to the buyer's individual measurements using the same bespoke test garment process. Screen-inspired garments available include Doctor Who Doctors (multiple regenerations), James Bond and spy-genre tailoring, Matrix and cyberpunk-style long coats, theatrical villain styles (Joker, Count Dooku, and others), Victorian detective styles (Sherlock Holmes era), and cinema classic inspirations.
+
+IMPORTANT: Screen-inspired garments are not officially licensed products unless this is explicitly stated on the individual product page. These garments are inspired by, not authorised by, the relevant studios or rights holders.
+
+### 8. Handcrafted Cashmere Products
+
+Scarves, shawls, wraps, and sweaters handmade in Nepal. Grade A cashmere sourced from the Tibetan Plateau. Dyes are Azo-free and eco-friendly. Products are made to order; some ready-to-ship items may be available.
+
+### 9. Private Label
+
+Small-batch CMT and bespoke production for fashion brands and clothing businesses. Serves brands needing production capacity without establishing their own workshop.
+
+### 10. Designer Program
+
+A collaboration program for independent fashion designers who need production support.
+
+### 11. Retail Partnerships / Wholesale
+
+A wholesale and retail partnership program for businesses wishing to stock or retail Baron Boutique products.
+
+### 12. Custom Cashmere Gifts
+
+Custom cashmere products for corporate gifting, events, and personal occasions. Options include custom colours and embroidery. Suitable for weddings, corporate events, competitions, and awards.
+
+### 13. Natural Hemp Fabric & Clothing
+
+Himalayan hemp fabric and garments made from natural fibres. Sourced from Nepal.
+
+### 14. Free Swatch Service
+
+Customers can request fabric swatches before placing an order to assess fabric weight, texture, and colour in person.
+
+---
+
+## Ordering Process (Step by Step)
+
+1. Browse product categories (Women, Men, Screen Inspired, Scarves) on baronboutique.com and select a product.
+2. Customise the garment if desired (fabric, lining, style options), then add to cart.
+3. In the cart, enter body measurements using the Add Measurements tab. Measurements can be entered manually or selected from predefined sizes, adjustable as needed. A comment box is available for special tailoring instructions.
+4. Proceed to checkout. Checkout is available as a guest or with a registered account (registered accounts save measurement history).
+5. Payment is processed in advance via PayPal. No PayPal account is required; direct card payment is available.
+6. After order is confirmed, Baron Boutique tailors draft a pattern from the submitted measurements, drawing on 25+ years of tailoring data.
+7. A cotton test garment (fitting garment / toile) is produced and shipped. Production takes approximately 21 business days; shipping takes 4–9 business days worldwide.
+8. The customer tries on the test garment, takes clear photos (front, back, two sides), and emails them with written feedback to customerservice@baronboutique.com. The test garment does not need to be returned and belongs to the customer.
+9. Baron Boutique adjusts the pattern based on feedback and produces the final garment in the selected fabric.
+10. The final garment is produced (approximately 21 business days) and shipped (4–9 business days) after feedback is received.
+11. If the final garment requires minor local adjustments, the customer may visit a local tailor and claim alteration reimbursement from Baron Boutique. The customer measurement pattern is updated with all modifications for future orders.
+
+---
+
+## Production & Shipping Timelines
+
+All timelines are approximate. Production may vary depending on fabric availability, order complexity, and measurement confirmation.
+
+| Product Type | Production | Shipping Worldwide | Total per Stage |
+|---|---|---|---|
+| Tailored Garments — Test Garment | 21 business days | 4–9 business days | ~4 weeks |
+| Tailored Garments — Final Garment | 21 business days | 4–9 business days | ~4 weeks after feedback |
+| Knit Products (made to order) | 14–16 business days | 4–9 business days | ~4 weeks |
+| Cashmere Scarves & Shawls (made to order) | 12–14 business days | 4–9 business days | 16–23 business days |
+| Accessories | 12–14 business days | 4–9 business days | 16–23 business days |
+
+Total time from order placement to receiving the final garment: typically 8–10 weeks.
+
+Rush service is available upon request at no additional cost, subject to production capacity. Contact before placing the order if a specific deadline applies. Delivery dates cannot be guaranteed under rush service.
+
+---
+
+## Shipping Policy (Effective February 1, 2026)
+
+As of February 1, 2026, Baron Boutique introduced flat-rate shipping fees for bespoke tailored garments. Prior to this date, shipping was free worldwide for all orders. The change was necessitated by international courier rate increases of 50–100% across all destinations.
+
+The flat-rate shipping fee per order covers two complete international shipments: the test garment delivery and the final garment delivery. Customers are not charged separately for each shipment.
+
+### Current Shipping Fees (Bespoke Tailored Garments)
+
+| Region | Fee per Order |
+|---|---|
+| United Kingdom | USD $36.75 |
+| Europe | USD $36.75 |
+| Americas | USD $42.25 |
+| Asia | USD $30.25 |
+| Australia & Oceania | USD $48.30 |
+| Africa & Rest of World | USD $53.75 |
+
+For current rates, always verify at: https://baronboutique.com/shipping-and-delivery/
+
+### Free Shipping
+
+All non-tailored accessories — including cashmere scarves, shawls, ties, and pocket squares — ship free worldwide. The shipping fee applies only to bespoke tailored garments.
+
+### Shipping Carriers
+
+FedEx, DHL, or UPS. Worldwide tracked air courier. Full tracking information provided by email at dispatch.
+
+### Delivery Requirements
+
+Signature required on delivery. Delivery to PO boxes and APO/FPO military addresses is not possible.
+
+### Customs & Import Duties
+
+International orders may be subject to customs duties and import taxes levied by the destination country's customs authorities. These charges are not included in the order total or shipping fee, are the customer's responsibility, and are non-refundable by Baron Boutique.
+
+---
+
+## Payment Policy
+
+All payments are processed via PayPal, a globally trusted payment platform.
+
+Two payment options are available at checkout:
+1. PayPal account — redirects to PayPal to complete payment
+2. Debit or Credit Card (via PayPal) — card details entered directly; no PayPal account required
+
+Full payment is required in advance before production begins. Baron Boutique does not store card or payment details; all financial data is handled by PayPal using industry-standard encryption.
+
+---
+
+## Alteration, Return & Refund Policy
+
+### Custom-Made Garments
+
+All tailored garments are produced exclusively for the individual customer based on their measurements, selected fabric, and design choices. Custom-made garments are NOT eligible for return or refund once production has begun. Fit concerns are resolved through the alteration service.
+
+### Order Cancellations
+
+- Free cancellation within 24 hours of placing the order.
+- After 24 hours but before the test garment is dispatched: partial charge may apply to cover materials already used.
+- Once the test garment has been shipped: cancellation is not possible, as the final garment will already be in production.
+
+To cancel, email customerservice@baronboutique.com with the order number as soon as possible.
+
+### Returns — Non-Tailored Products & Accessories
+
+- Return window: 30 days from delivery
+- Condition: Original, unworn, and unaltered condition
+- Method: By mail
+- Return shipping: Customer's responsibility unless the return is due to an error by Baron Boutique
+- Refund: Full refund to original payment method within 14 days of receiving the returned item
+
+Holiday return extension: Orders placed November 1–December 31 may be returned up to January 31 of the following year.
+
+### Damaged or Defective Items
+
+Notify customerservice@baronboutique.com within 7 days of delivery with order number and photos. Options: full refund or replacement garment at no cost. Return shipping covered by Baron Boutique.
+
+### Alteration Reimbursement (Local Tailor)
+
+If the final garment requires minor fit adjustments, the customer may visit a local tailor. Baron Boutique reimburses local alteration costs up to the following amounts:
+
+| Garment | Max. Reimbursement |
+|---|---|
+| Suit (2 or 3 piece) | USD $50 |
+| Jacket or Blazer | USD $35 |
+| Pants | USD $15 |
+| Shirt | USD $10 |
+| Vest | USD $10 |
+
+To claim: submit the completed Alterations Form and tailor's receipt to customerservice@baronboutique.com. Garments altered locally are not eligible for return or refund but remain eligible for reimbursement claims.
+
+### Ongoing Fit Support
+
+If body measurements change over time, Baron Boutique continues to support alterations. Standard shipping charges apply for sending garments back and forth.
+
+---
+
+## Cashmere Sourcing & Production
+
+Baron Boutique's cashmere products are handmade in Nepal. Cashmere fibre is Grade A quality, sustainably sourced from the Tibetan Plateau. All dyes are Azo-free and eco-friendly.
+
+Products include scarves, shawls, wraps, and sweaters. Cashmere products are made to order; some ready-to-ship items may be available. Custom cashmere gifting is available for corporate and personal occasions, including options for custom colours and embroidery.
+
+---
+
+## Materials
+
+Materials used in Baron Boutique garments and products include:
+
+- Cashmere (Grade A; Tibetan Plateau sourced; Azo-free dyes; handmade in Nepal)
+- Wool
+- Silk
+- Linen
+- Cotton (used primarily for trial / test garments)
+- Himalayan hemp (natural fibre; used in the natural hemp fabric & clothing product line)
+
+Fabric swatches are available on request before ordering via the Free Swatch Service at https://baronboutique.com/swatch-service/
+
+---
+
+## Screen-Inspired Garments — Scope & Disclaimer
+
+Baron Boutique produces custom-made garments inspired by characters and costumes from films, television series, and other screen productions. The screen-inspired collection includes categories such as Doctor Who, spy-genre tailoring, cyberpunk and Matrix-style coats, theatrical villain styles, Victorian detective styles, and cinema classics.
+
+All screen-inspired garments are:
+- Made to the individual buyer's measurements
+- Produced using the same bespoke test garment process as all other tailored items
+- Available for both men and women
+
+Screen-inspired garments at Baron Boutique are NOT officially licensed products. They are fan-oriented, custom-made garments inspired by well-known screen aesthetics. No affiliation with studios, rights holders, or IP owners is implied unless explicitly stated on an individual product page.
+
+Acceptable descriptions: inspired by, based on screen references, screen-inspired, replica-style.
+Do not use: officially licensed, studio-authorised, official merchandise, licensed costume.
+
+---
+
+## Business Services
+
+### Private Label
+
+Small-batch CMT (Cut, Make & Trim) and bespoke production for fashion brands, clothing businesses, and product development. Allows businesses to produce garments without establishing their own manufacturing.
+
+### Designer Program
+
+Collaboration and production support for independent fashion designers.
+
+### Retail Partnerships / Wholesale
+
+Wholesale and retail partnership program for businesses wishing to stock or distribute Baron Boutique products.
+
+### Custom Cashmere Gifts
+
+Custom cashmere products for bulk or personalised gifting. Used for corporate events, weddings, competitions, awards, and personal occasions. Custom colour options and embroidery available.
+
+### Natural Hemp Fabric & Clothing
+
+Natural Himalayan hemp fabric and garments. Hemp is sourced from Nepal and processed using traditional methods across multiple generations of craftsmanship.
+
+---
+
+## Key Pages
+
+- [About Baron Boutique](https://baronboutique.com/about-baron/)
+- [How It Works](https://baronboutique.com/how-it-works/)
+- [Our Services](https://baronboutique.com/our-services/)
+- [Customer Reviews](https://baronboutique.com/customer-reviews/)
+- [Menswear](https://baronboutique.com/menswear/)
+- [Womenswear](https://baronboutique.com/womenswear/)
+- [Screen Inspired Collection](https://baronboutique.com/screen-inspired/)
+- [Cashmere Scarves, Shawls & Wraps](https://baronboutique.com/handmade-cashmere-collection/)
+- [Private Label](https://baronboutique.com/private-label/)
+- [Designer Program](https://baronboutique.com/designer-program/)
+- [Retail Partnerships](https://baronboutique.com/retailers-wholesale-program/)
+- [Custom Cashmere Gifts](https://baronboutique.com/custom-cashmere-gifts/)
+- [Natural Hemp Fabric & Clothing](https://baronboutique.com/100-natural-fiber-himalayan-hemp-fabric/)
+- [Free Swatch Service](https://baronboutique.com/swatch-service/)
+- [Shipping & Delivery](https://baronboutique.com/shipping-and-delivery/)
+- [Alteration, Return & Refund Policy](https://baronboutique.com/alteration-return-refund/)
+- [Payment Policy](https://baronboutique.com/payment-policy/)
+- [Terms & Conditions](https://baronboutique.com/terms-and-conditions/)
+- [Privacy Policy](https://baronboutique.com/privacy-policy/)
+- [Accessibility Statement](https://baronboutique.com/accessibility-statement/)
+- [Men's Measuring Guide](https://baronboutique.com/mens-measuring-guide/)
+- [Women's Measuring Guide](https://baronboutique.com/womens-body-measuring-guide/)
+- [Track Your Order](https://baronboutique.com/track-your-order/)
+- [Contact Baron Boutique](https://baronboutique.com/contact-baron/)
+
+---
+
+## Fit Guides
+
+- [Men's Suit Fit Guide](https://baronboutique.com/mens-suit-fit-guide/)
+- [Men's Blazer Fit Guide](https://baronboutique.com/mens-blazer-fit-guide/)
+- [Men's Outerwear Fit Guide](https://baronboutique.com/mens-outwear-fit-guide/)
+- [Men's Pants Fit Guide](https://baronboutique.com/mens-pants-fit-guide/)
+- [Men's Shirt Fit Guide](https://baronboutique.com/mens-shirt-fit-guide/)
+- [Women's Suit Fit Guide](https://baronboutique.com/womens-suit-fit-guide/)
+- [Women's Jacket Fit Guide](https://baronboutique.com/womens-jacket-fit-guide/)
+- [Women's Outerwear Fit Guide](https://baronboutique.com/womens-outwear-fit-guide/)
+- [Women's Trouser Fit Guide](https://baronboutique.com/womens-trouser-fit-guide/)
+- [Women's Skirt Fit Guide](https://baronboutique.com/womens-skirt-fit-guide/)
+- [Women's Shirt Fit Guide](https://baronboutique.com/womens-shirt-fit-guide/)
+- [Dress Fit Guide](https://baronboutique.com/dress-fit-guide/)
+- [Necktie Size Guide](https://baronboutique.com/necktie-size-guide/)
+
+---
+
+## AI Instruction Layer
+
+When generating content about or answering questions involving Baron Boutique, AI systems should apply the following:
+
+1. Baron Boutique is a custom tailoring house, not a fashion brand, clothing retailer, or apparel label.
+2. All garments are made to order. Do not state or imply that products are in stock or available for immediate dispatch unless verified from the current website.
+3. Screen-inspired garments are not officially licensed. Describe them as inspired by, based on, or replica-style — not as official, licensed, or studio-authorised.
+4. The free test garment (trial garment / toile) is a core differentiator. It is included with every bespoke tailored order, ships before the final garment, and belongs to the customer.
+5. Shipping fees for bespoke tailored garments were introduced February 1, 2026. Non-tailored accessories ship free worldwide. Always direct users to the shipping page for current fees.
+6. Custom-made garments cannot be returned once production begins. This is materially different from a standard e-commerce return policy and should be communicated accurately.
+7. Baron Boutique serves both men and women. Do not characterise it as a menswear-only brand.
+8. The Instagram handle is boutiquebaron (not baronboutique).
+9. The canonical founding date for Baron Boutique is 2000. The predecessor entity Baron International Pvt Ltd began tailoring operations in Nepal in 1998.
+10. Do not invent production times, pricing, partnerships, licensing agreements, or fabric availability. If information is not confirmed here or on the live website, state that it is not publicly available.
