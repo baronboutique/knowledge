@@ -1,18 +1,46 @@
 ---
 type: Product
 title: "James Bond Skyfall Peacoat"
-description: "Screen-inspired bespoke replica: James Bond Skyfall Peacoat. Custom-made using Baron Boutique's test-garment process."
-resource: https://baronboutique.com/product/james-bond-navy-peacoat-from-skyfall/
-tags: [screen-inspired, bespoke-replica, james-bond, spy-tailoring, bespoke, custom-made, made-to-order]
-timestamp: 2026-06-13T00:00:00Z
+description: "One of the most coveted collectibles for avid James Bond fans, Skyfall peacoat in unlined construction crafted from navy Melton wool."
+resource: https://baronboutique.com/james-bond-navy-peacoat-from-skyfall/
+tags: [men, peacoat, wool, double-breasted, navy, cosplay, screen-inspired, replica, bespoke, made-to-order]
+timestamp: 2026-06-18T09:15:58Z
 ---
 
 # James Bond Skyfall Peacoat
 
-> **Licensing note:** This garment is inspired by a film or television production. It is NOT an officially licensed product unless explicitly stated on the product page. Baron Boutique creates bespoke replicas based on publicly available visual references.
-**Product ID:** 28593
-**URL:** https://baronboutique.com/product/james-bond-navy-peacoat-from-skyfall/
+**SKU:** 5001002  
+**URL:** https://baronboutique.com/james-bond-navy-peacoat-from-skyfall/  
+**Type:** bespoke (made to order)  
+**Price:** USD 609.00 (verify current price on product page)  
+
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
+**Licensing note:** This garment is inspired by a screen production and is NOT an officially licensed product unless stated otherwise on the product page.
+
+## Options
+
+- **Melton Wool Fabric:** 15 options available
+
+## Summary
+
+One of the most coveted collectibles for avid James Bond fans, Skyfall peacoat in unlined construction crafted from navy Melton wool. James Bond Skyfall navy peacoat is cut slim and accented with leather details beneath the collar and hip pocket flap. This double-breasted Daniel Craig cosplay pea coat also features waist-slanted pockets and a single rear vent.
+
+James Bond Skyfall Test Peacoat-Fit and Style Evaluation The Skyfall Peacoat: An Icon of Naval Heritage, Reimagined Embrace the enduring authority of the peacoat, elevated to new heights of sophistication. Inspired by the James Bond Skyfall peacoat, this garment is not merely outerwear; it is a statement of refined taste, offering both commanding presence and exceptional warmth. Discover your ideal silhouette within our collection of Skyfall peacoat replicas. The Substance of Style: Melton Wool and Refined Detail Experience the substantial warmth of our impeccably tailored James Bond Skyfall navy peacoat, crafted from a robust Melton wool. The classic double-breasted design speaks of tradition, while the unlined interior ensures a comfortable drape. Envision this navy peacoat as the cornerstone of a distinguished wardrobe, the perfect complement to your custom-made trousers. Uncompromising Quality: Lambskin Accents and Buffalo Horn This exceptional 007 Skyfall peacoat showcases the artistry of fine tailoring.
+
+## Categories
+
+- Screen Inspired › Spy Tailoring
+
+## Related
+
+- [Spy Tailoring Category](../../../categories/screen-inspired/spy-tailoring.md)
+- [Spy Tailoring Products](index.md)
+- [Products Index](../../index.md)
+- [Company](../../../company.md)
+- [How Bespoke Orders Work](../../../guides/how-it-works.md)
+- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
+
 ## Citations
-[1] [Product page](https://baronboutique.com/product/james-bond-navy-peacoat-from-skyfall/)
+
+[1] [Product page](https://baronboutique.com/james-bond-navy-peacoat-from-skyfall/)

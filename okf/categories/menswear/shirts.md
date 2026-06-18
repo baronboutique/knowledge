@@ -1,25 +1,35 @@
 ---
 type: Product Category
-title: Men's Shirts
-description: Bespoke shirts for men, made to individual measurements.
+title: "Shirts"
+description: "Buy mens dress shirts, stylish full sleeves silk shirts, and cotton shirts boutique made. Mens dress shirts in elegant designs for every man. Free try on …"
 resource: https://baronboutique.com/menswear/shirts/
-tags: [shirts, bespoke, menswear]
-timestamp: 2026-06-13T00:00:00Z
+tags: [shirts, dress-shirts, formal-shirts, custom-shirts, mens-shirts, menswear, bespoke, made-to-order, baron-boutique]
+timestamp: 2026-06-18T09:15:58Z
 ---
 
-# Men's Shirts
+# Shirts
 
-Bespoke shirts for men, made to individual measurements.
+Buy mens dress shirts, stylish full sleeves silk shirts, and cotton shirts boutique made. Mens dress shirts in elegant designs for every man. Free try on …
 
-All garments in this category are made to order by [Baron Boutique](/okf/company.md) using the [bespoke tailoring](/okf/services/bespoke-tailoring.md) process with a complimentary cotton test garment.
+All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
+
+## Products
+
+- [Egyptian Cotton Dress Shirts](../../products/menswear/shirts/mens-light-blue-egyptian-cotton-shirt.md)
+- [Grey Raw Silk Shirt - Short Sleeves](../../products/menswear/shirts/mens-gray-raw-silk-shirt.md)
+- [Men's Twill Dress Shirts](../../products/menswear/shirts/mens-light-blue-twill-cotton-shirt.md)
+- [Navy Twill Shirt](../../products/menswear/shirts/mens-navy-twill-cotton-shirt.md)
+- [Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made](../../products/menswear/shirts/satin-silk-shirt.md)
+- [The Linen & Cotton Shirt](../../products/menswear/shirts/mens-dark-blue-linen-cotton-shirt.md)
+- [The Pink Oxford Shirt](../../products/menswear/shirts/mens-pink-oxford-cotton-shirt.md)
+- [The Raw Silk Shirt](../../products/menswear/shirts/mens-gold-raw-silk-shirt.md)
+- [The Tailored Linen Shirts](../../products/menswear/shirts/tailored-linen-shirts.md)
 
 ## Related
 
-- [Menswear Overview](/okf/categories/menswear/)
-- [Bespoke Tailoring Process](/okf/services/bespoke-tailoring.md)
-- [How It Works](/okf/guides/how-it-works.md)
-- [Womenswear](/okf/categories/womenswear/) — Equivalent categories for women
+- [Men Category Index](index.md)
+- [Browse all Shirts products](../../products/menswear/shirts/index.md)
 
 ## Citations
 
-[1] [Men's Shirts](https://baronboutique.com/menswear/shirts/)
+[1] [Shirts](https://baronboutique.com/menswear/shirts/)

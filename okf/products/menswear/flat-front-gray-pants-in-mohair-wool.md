@@ -1,15 +1,45 @@
 ---
 type: Product
 title: "Mens Mohair Pants"
-description: "Bespoke flat-front mohair wool gray pants made to order by Baron Boutique."
-resource: https://baronboutique.com/product/flat-front-gray-pants-in-mohair-wool/
-tags: [menswear, trousers, mohair, bespoke, made-to-order]
-timestamp: 2026-06-13T00:00:00Z
+description: "In a world turned upside down, wear mens mohair pants that are cozy, simple, and well-cut. Mens gray mohair pants in flat front are comfortable work pants that go with every kind of dress code."
+resource: https://baronboutique.com/flat-front-gray-pants-in-mohair-wool/
+tags: [men, trousers, pants, mohair, bespoke, made-to-order]
+timestamp: 2026-06-18T09:15:58Z
 ---
 
 # Mens Mohair Pants
-**Product ID:** 3545
-**URL:** https://baronboutique.com/product/flat-front-gray-pants-in-mohair-wool/
+
+**SKU:** 1900008  
+**URL:** https://baronboutique.com/flat-front-gray-pants-in-mohair-wool/  
+**Type:** bespoke (made to order)  
+**Price:** USD 239 (verify current price on product page)  
+
+Every garment is made to order after the order is confirmed. No pre-made stock.
+
+## Options
+
+- **Mohair Wool Fabric:** Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
+- **Acetate Lining:** 34 options available
+
+## Summary
+
+In a world turned upside down, wear mens mohair pants that are cozy, simple, and well-cut. Mens gray mohair pants in flat front are comfortable work pants that go with every kind of dress code. With mohair and merino wool's natural stretch the waist and crotch don't ride you when sitting in front of computers for long hours. With smooth straight lines through the hips, wear this mohair blend pants trousers as dress pants without a jacket or blazer.
+
+The addition of mohair to fine merino wool creates a cloth of exceptional character, prized by discerning dressers for its remarkable crease resistance and elegant, low lustre. These trousers are engineered for the gentleman whose day demands unwavering performance—a garment that appears as sharp at dusk as it did at dawn. Form & Foundation The design is an exercise in clean lines, featuring a classic flat front for a modern, uninterrupted silhouette. The construction is meticulous, with subtle reinforcements at critical stress points to ensure durability without compromising the trousers' elegant line. The waistband can be specified with traditional belt loops or the clean sophistication of side-adjusters for a precise, beltless fit. A Personal Commission The creation of your **Men's Mohair Pants** is a collaborative process. You will define the final silhouette—from a classic tailored fit to a more relaxed interpretation—and specify the details that make the garment uniquely yours. Accommodations, such as a fully extended lining, are naturally part of our bespoke service. The Bespoke Promise: Your Fitting Canvas A garment engineered for performance demands an unimpeachable fit.
+
+## Categories
+
+- Men › Pants
+
+**Related terms:** dress pants, tailored trousers, wool
+
+## Related
+
+- [Men Category](../../categories/menswear/index.md)
+- [Products Index](../index.md)
+- [Company](../../company.md)
+- [How Bespoke Orders Work](../../guides/how-it-works.md)
 
 ## Citations
-[1] [Product page](https://baronboutique.com/product/flat-front-gray-pants-in-mohair-wool/)
+
+[1] [Product page](https://baronboutique.com/flat-front-gray-pants-in-mohair-wool/)

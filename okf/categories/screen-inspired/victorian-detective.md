@@ -1,25 +1,29 @@
 ---
 type: Product Category
-title: Victorian Detective
-description: Sherlock Holmes era and Victorian detective-inspired garments, custom made to measurements. Not officially licensed.
+title: "Victorian Detective"
+description: "The Baker Street Collection The great Victorian detective set the standard for how a man of intellect should dress. This collection honours that standard. Wide peak lapels. Rugged corduroy. Cotton twill built for action. Every garment draws from the silhouettes that defined the golden age of the Victorian consulting detective on page and on screen. Each piece is masterfully tailored to your precise measurements. Our complimentary test garment process guarantees a flawless fit before your final garment is made."
 resource: https://baronboutique.com/screen-inspired/victorian-detective/
-tags: [sherlock-holmes, victorian, detective, screen-inspired, bespoke]
-timestamp: 2026-06-13T00:00:00Z
+tags: [victorian-detective, victorian, detective-coat, period-tailoring, inverness-cape, sherlock-style, screen-inspired, cinematic-fashion, bespoke, made-to-order, baron-boutique]
+timestamp: 2026-06-18T09:15:58Z
 ---
 
 # Victorian Detective
 
-Sherlock Holmes era and Victorian detective-inspired garments, custom made to measurements. Not officially licensed.
+The Baker Street Collection The great Victorian detective set the standard for how a man of intellect should dress. This collection honours that standard. Wide peak lapels. Rugged corduroy. Cotton twill built for action. Every garment draws from the silhouettes that defined the golden age of the Victorian consulting detective on page and on screen. Each piece is masterfully tailored to your precise measurements. Our complimentary test garment process guarantees a flawless fit before your final garment is made.
 
-**Licensing note:** This collection is inspired by screen productions. These are NOT officially licensed products unless explicitly stated on the individual product page.
+**Licensing note:** This collection is inspired by screen productions. These garments are NOT officially licensed products unless explicitly stated on the individual product page.
 
-All garments are made to order by [Baron Boutique](/okf/company.md) using the [bespoke tailoring](/okf/services/bespoke-tailoring.md) process with a complimentary cotton test garment.
+All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
+
+## Products
+
+- [John Watson Black Shooting Jacket BBC Sherlock Holmes](../../products/screen-inspired/victorian-detective/bbc-sherlock-watson-shooting-jacket.md)
+- [Sherlock Holmes Coat (2009 film)](../../products/menswear/mens-coats-and-overcoats/sherlock-holmes-frock-coat.md)
 
 ## Related
 
-- [Screen-Inspired Service](/okf/services/screen-inspired.md)
-- [All Screen-Inspired Collections](/okf/categories/screen-inspired/)
-- [How It Works](/okf/guides/how-it-works.md)
+- [Screen Inspired Category Index](index.md)
+- [Browse all Victorian Detective products](../../products/screen-inspired/victorian-detective/index.md)
 
 ## Citations
 

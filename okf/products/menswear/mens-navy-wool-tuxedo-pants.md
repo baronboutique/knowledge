@@ -1,15 +1,45 @@
 ---
 type: Product
 title: "Mens Navy Dress Pants"
-description: "Bespoke navy wool tuxedo-style dress pants made to order by Baron Boutique."
-resource: https://baronboutique.com/product/mens-navy-wool-tuxedo-pants/
-tags: [menswear, trousers, bespoke, made-to-order]
-timestamp: 2026-06-13T00:00:00Z
+description: "Designed for style and wearability, mens navy dress pants achieve a new level of comfort and professionalism. Crafted from super 140s 8oz 100% worsted wool in plain cloth with a slight sheen."
+resource: https://baronboutique.com/mens-navy-wool-tuxedo-pants/
+tags: [men, trousers, pants, dress, tropical-wool, pleated, navy, bespoke, made-to-order]
+timestamp: 2026-06-18T09:15:58Z
 ---
 
 # Mens Navy Dress Pants
-**Product ID:** 16320
-**URL:** https://baronboutique.com/product/mens-navy-wool-tuxedo-pants/
+
+**SKU:** 1900024  
+**URL:** https://baronboutique.com/mens-navy-wool-tuxedo-pants/  
+**Type:** bespoke (made to order)  
+**Price:** USD 239 (verify current price on product page)  
+
+Every garment is made to order after the order is confirmed. No pre-made stock.
+
+## Options
+
+- **Tropical Wool Fabric:** 14 options available
+- **Acetate Lining:** 34 options available
+
+## Summary
+
+Designed for style and wearability, mens navy dress pants achieve a new level of comfort and professionalism. Crafted from super 140s 8oz 100% worsted wool in plain cloth with a slight sheen. Tropical weight wool. This navy blue dress pants with pleated front keep your formal wear classic and fashionable. Designed for men who like to be a sharp dresser.
+
+The navy trouser is a foundational element of the masculine wardrobe, an indispensable anchor for any tailored ensemble. Our interpretation is commissioned in a fine tropical wool, a cloth prized for its exceptional breathability and crisp, elegant drape, making it a versatile staple for all but the coldest climates. Form & Foundation These **mens navy dress pants** are designed as a canvas for personal style. The construction can be specified with a classic pleated front, offering additional comfort, or with the clean line of side-adjusters for a precise, beltless fit. The waistband is engineered to provide support and maintain a sharp silhouette throughout the day. A Personal Commission The creation of your trousers is a collaborative process. Through our customizer, you will define the final silhouette and specify the details that make the garment uniquely yours—from the depth of the pleats to the precise taper of the leg. Accommodations, such as a fully extended lining, are naturally part of our bespoke service. The Bespoke Promise: Your Fitting Canvas A garment of such foundational importance demands an unimpeachable fit.
+
+## Categories
+
+- Men › Pants
+
+**Related terms:** dress pants, tailored trousers, gown, occasion dress, wool
+
+## Related
+
+- [Men Category](../../categories/menswear/index.md)
+- [Products Index](../index.md)
+- [Company](../../company.md)
+- [How Bespoke Orders Work](../../guides/how-it-works.md)
 
 ## Citations
-[1] [Product page](https://baronboutique.com/product/mens-navy-wool-tuxedo-pants/)
+
+[1] [Product page](https://baronboutique.com/mens-navy-wool-tuxedo-pants/)

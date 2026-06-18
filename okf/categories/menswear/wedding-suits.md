@@ -1,25 +1,39 @@
 ---
 type: Product Category
-title: Men's Wedding Suits
-description: Custom wedding suits for men, made to individual measurements.
+title: "Wedding Suits"
+description: "Bespoke men's wedding suits tailored to your exact measurements. Choose your fabric, style & fit. Free test suit before your final order. Ships worldwide."
 resource: https://baronboutique.com/menswear/wedding-suits/
-tags: [wedding, bespoke, suits, menswear]
-timestamp: 2026-06-13T00:00:00Z
+tags: [wedding-suits, wedding-suit, grooms-suit, groomswear, wedding-tailoring, menswear, bespoke, made-to-order, baron-boutique]
+timestamp: 2026-06-18T09:15:58Z
 ---
 
-# Men's Wedding Suits
+# Wedding Suits
 
-Custom wedding suits for men, made to individual measurements.
+Bespoke men's wedding suits tailored to your exact measurements. Choose your fabric, style & fit. Free test suit before your final order. Ships worldwide.
 
-All garments in this category are made to order by [Baron Boutique](/okf/company.md) using the [bespoke tailoring](/okf/services/bespoke-tailoring.md) process with a complimentary cotton test garment.
+All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
+
+## Products
+
+- [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
+- [Blue Linen Suit for Men, Made to Measure](../../products/menswear/wedding-suits/linen-suits-for-men.md)
+- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../products/womenswear/destination-wedding-suit.md)
+- [Linen Wedding Suit for Grooms, Made to Measure](../../products/menswear/wedding-suits/grooms-linen-suit-for-wedding.md)
+- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/mens-linen-frock-coat-summer-wedding.md)
+- [Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels](../../products/menswear/tuxedos/mens-navy-herringbone-wool-tuxedo.md)
+- [Mens Burgundy Flannel Tuxedo](../../products/menswear/tuxedos/light-weight-all-season-wool-flannel-tuxedo-suit.md)
+- [One Button Notch Lapel Tuxedo](../../products/menswear/tuxedos/one-button-merino-wool-tuxedo.md)
+- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/pirate-frock-coat.md)
+- [Slate Blue Sharkskin Suit](../../products/menswear/wedding-suits/sharkskin-wedding-suit.md)
+- [The Linen Ceremonial Suit](../../products/menswear/wedding-suits/wedding-party-linen-suit.md)
+- [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
+- [Western Frock Coat in Wool, Made to Measure](../../products/menswear/mens-frock-coat.md)
 
 ## Related
 
-- [Menswear Overview](/okf/categories/menswear/)
-- [Bespoke Tailoring Process](/okf/services/bespoke-tailoring.md)
-- [How It Works](/okf/guides/how-it-works.md)
-- [Womenswear](/okf/categories/womenswear/) — Equivalent categories for women
+- [Men Category Index](index.md)
+- [Browse all Wedding Suits products](../../products/menswear/wedding-suits/index.md)
 
 ## Citations
 
-[1] [Men's Wedding Suits](https://baronboutique.com/menswear/wedding-suits/)
+[1] [Wedding Suits](https://baronboutique.com/menswear/wedding-suits/)

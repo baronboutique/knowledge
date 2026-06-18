@@ -1,29 +1,21 @@
+---
+type: Index
+title: "Services"
+description: "All tailoring, production, and cashmere services offered by Baron Boutique."
+timestamp: 2026-06-18T09:15:58Z
+---
+
 # Services
 
-All services offered by [Baron Boutique](/okf/company.md).
+- [Our Services](our-services.md)
+- [Private Label](private-label.md): Baron Boutique offers expert private label and white label production partnership for brands seeking high-quality custom…
+- [Custom Cashmere Gifts](custom-cashmere-gifts.md): Baron Boutique offers a bespoke cashmere gifting service for life's most meaningful occasions, including weddings, corpo…
+- [Retail Partnerships](retail-partnerships.md): Baron Boutique offers comprehensive wholesale partnership opportunities for boutique retailers seeking premium custom-ta…
+- [Designer Program](designer-program.md): Baron Boutique's Designer Program provides emerging and established fashion designers with affordable, flexible producti…
+- [How It Works](how-it-works.md)
+- [Natural Hemp Fabric & Clothing](natural-hemp-fabric-clothing.md): Baron Boutique offers premium 100% natural hemp fabric and clothing production from high-altitude Nepal (1500m-3000m ele…
 
-## Tailoring Services
+## Related
 
-* [Bespoke Tailoring](bespoke-tailoring.md) — Full bespoke process with complimentary cotton test garment
-* [Made-to-Measure](made-to-measure.md) — Pattern from measurements, no test garment
-* [CMT (Cut, Make & Trim)](cmt.md) — Customer supplies fabric; Baron Boutique constructs
-* [Prototype Development](prototype-development.md) — Single or small-run prototypes from designs or sketches
-* [Boutique Level Production](boutique-level-production.md) — Small-batch handcrafted production
-* [Alteration](alteration.md) — Alterations for any garment, not limited to Baron-made items
-
-## Specialist Garments
-
-* [Screen-Inspired Garments](screen-inspired.md) — Film and TV character-inspired custom tailoring
-* [Cashmere Products](cashmere-products.md) — Handcrafted Grade A cashmere scarves, shawls, sweaters
-
-## Business Services
-
-* [Private Label](private-label.md) — CMT and bespoke production for fashion brands
-* [Designer Program](designer-program.md) — Production support for independent designers
-* [Retail Partnerships](retail-partnerships.md) — Wholesale and retail partnership program
-* [Custom Cashmere Gifts](custom-cashmere-gifts.md) — Custom cashmere for corporate and personal gifting
-* [Natural Hemp Fabric & Clothing](hemp-fabric.md) — Himalayan hemp fabric and garments
-
-## Additional Services
-
-* [Free Swatch Service](swatch-service.md) — Fabric swatches on request before ordering
+- [Baron Boutique](../company.md)
+- [How It Works](../guides/how-it-works.md)
