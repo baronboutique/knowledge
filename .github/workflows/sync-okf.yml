@@ -1,0 +1,75 @@
+name: Sync OKF bundle from baronboutique.com
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 9 * * 0'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: okf-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Rebuild okf/ from the live manifest
+        env:
+          OKF_TOKEN: ${{ secrets.OKF_MANIFEST_TOKEN }}
+          SITE: https://baronboutique.com
+        run: |
+          set -euo pipefail
+          if [ -z "${OKF_TOKEN}" ]; then
+            echo "::error::OKF_MANIFEST_TOKEN secret is not set."; exit 1
+          fi
+          curl -sf "${SITE}/wp-json/bbaikm/v1/okf-manifest?token=${OKF_TOKEN}" -o manifest.json
+          test -s manifest.json
+          rm -rf okf
+          python3 - <<'PY'
+          import json, base64, os
+          m = json.load(open('manifest.json'))
+          files = m.get('files', [])
+          if not files:
+              raise SystemExit('Manifest contained no files - aborting.')
+          count = 0
+          for f in files:
+              path = f.get('path', '')
+              content = f.get('content')
+              if not path or content is None:
+                  continue
+              if '..' in path or path.startswith('/'):
+                  continue
+              os.makedirs(os.path.dirname(path) or '.', exist_ok=True)
+              with open(path, 'wb') as fh:
+                  fh.write(base64.b64decode(content))
+              count += 1
+          print('wrote %d OKF files' % count)
+          PY
+          rm -f manifest.json
+
+      - name: Refresh llms.txt and llms-full.txt
+        env:
+          SITE: https://baronboutique.com
+        run: |
+          set -euo pipefail
+          curl -sf "${SITE}/llms.txt" -o llms.txt || echo "llms.txt fetch skipped"
+          curl -sf "${SITE}/llms-full.txt" -o llms-full.txt || echo "llms-full.txt fetch skipped"
+
+      - name: Commit and push changes
+        run: |
+          set -euo pipefail
+          git config user.name  "okf-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Sync OKF bundle + llms files from baronboutique.com ($(date -u +%Y-%m-%d))"
+            git push
+          fi
