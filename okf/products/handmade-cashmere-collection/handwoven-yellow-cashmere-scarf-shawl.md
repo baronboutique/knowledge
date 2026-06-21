@@ -4,7 +4,7 @@ title: "Handwoven Yellow Cashmere Scarf Shawl"
 description: "Golden Glow of Tibet: Your New Favorite Cashmere Scarf Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/handwoven-yellow-cashmere-scarf-shawl/
 tags: [women, scarf, shawl, cashmere, yellow, handwoven, handmade, heirloom]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Handwoven Yellow Cashmere Scarf Shawl

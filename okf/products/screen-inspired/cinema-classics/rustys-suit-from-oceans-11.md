@@ -4,7 +4,7 @@ title: "Brad Pitt Oceans 11 Suit"
 description: "Custom-made Brad Pitt Oceans 11 suit replica crafted from sharkskin wool. If you are a busy person, Brad Pitt's grey suit is a perfect choice."
 resource: https://baronboutique.com/rustys-suit-from-oceans-11/
 tags: [men, suit, wool, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Brad Pitt Oceans 11 Suit

@@ -4,7 +4,7 @@ title: "Men's Double Breasted Long Peacoat"
 description: "Men's double-breasted long peacoat has stepped up and given winter events a new level of a dandy with its extra protection."
 resource: https://baronboutique.com/mens-double-breasted-peacoat/
 tags: [men, overcoat, peacoat, wool, double-breasted, charcoal, winter, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Men's Double Breasted Long Peacoat

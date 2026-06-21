@@ -4,7 +4,7 @@ title: "Men's Silk Suit, Custom Made in 100% Dupioni Silk"
 description: "Men's silk suits off the rack almost never fit, and cheap ones don't even look like silk. We fix both."
 resource: https://baronboutique.com/mens-silk-suit-in-dupioni-silk/
 tags: [men, suit, blazer, dupioni-silk, silk, wedding, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Men's Silk Suit, Custom Made in 100% Dupioni Silk

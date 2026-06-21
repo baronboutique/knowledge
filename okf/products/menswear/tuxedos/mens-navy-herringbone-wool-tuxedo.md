@@ -4,7 +4,7 @@ title: "Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels"
 description: "Most navy tuxedos photograph almost black. A flat wool or polyester blend absorbs venue lighting and loses the color you chose."
 resource: https://baronboutique.com/mens-navy-herringbone-wool-tuxedo/
 tags: [men, suit, blazer, tuxedo, herringbone, canvas-front, peak-lapel, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels

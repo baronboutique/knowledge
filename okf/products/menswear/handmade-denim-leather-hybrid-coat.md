@@ -4,7 +4,7 @@ title: "3/4 Length Denim-Leather Hybrid Coat"
 description: "Elevate your style with our exquisite 3/4 Length Denim-Leather Hybrid Coat. This unique piece seamlessly blends rugged denim with sophisticated distressed leather, offering a perfect balance of casual…"
 resource: https://baronboutique.com/handmade-denim-leather-hybrid-coat/
 tags: [men, overcoat, leather, single-breasted, evening, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # 3/4 Length Denim-Leather Hybrid Coat

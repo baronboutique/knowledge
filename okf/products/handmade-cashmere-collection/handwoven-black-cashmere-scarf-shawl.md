@@ -4,7 +4,7 @@ title: "Handwoven Black Cashmere Scarf Shawl"
 description: "Eclipse of Himalayan Elegance: Your New Favorite Cashmere Scarf Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/handwoven-black-cashmere-scarf-shawl/
 tags: [women, scarf, shawl, cashmere, black, handwoven, handmade, heirloom]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Handwoven Black Cashmere Scarf Shawl

@@ -4,7 +4,7 @@ title: "Joker Trench Coat Black Leather Dark Knight"
 description: "The Dark Knight Joker coat in full-grain leather -- for buyers who want the silhouette permanently, not just for one convention."
 resource: https://baronboutique.com/joker-coat-in-leather/
 tags: [men, overcoat, trench-coat, leather, peak-lapel, black, convention, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Joker Trench Coat Black Leather Dark Knight

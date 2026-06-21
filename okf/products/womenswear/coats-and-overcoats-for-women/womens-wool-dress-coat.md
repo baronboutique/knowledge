@@ -4,7 +4,7 @@ title: "Womens Dress Coats Winter"
 description: "Womens dress coats winter tops the list when talking about timeless and classic wool coats. Our womens dress coats for winter is elegantly tailored and polished to go with any outfit."
 resource: https://baronboutique.com/womens-wool-dress-coat/
 tags: [women, overcoat, dress, wool, single-breasted, gold, winter, fall, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Womens Dress Coats Winter

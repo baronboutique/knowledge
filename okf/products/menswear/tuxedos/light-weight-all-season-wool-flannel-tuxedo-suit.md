@@ -4,7 +4,7 @@ title: "Mens Burgundy Flannel Tuxedo"
 description: "Burgundy is having a genuine moment in menswear — runway-validated, worn by men who know the difference between a statement and a mistake."
 resource: https://baronboutique.com/light-weight-all-season-wool-flannel-tuxedo-suit/
 tags: [men, dinner-jacket, suit, blazer, flannel, canvas-front, shawl-collar, burgundy, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Mens Burgundy Flannel Tuxedo

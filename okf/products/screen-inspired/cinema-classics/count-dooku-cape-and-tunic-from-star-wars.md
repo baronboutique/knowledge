@@ -4,7 +4,7 @@ title: "Count Dooku Cape and Tunic Star Wars"
 description: "Embody the measured elegance and formidable power of a Sith Lord. This is the definitive, screen-accurate replica of Count Dooku's attire, meticulously custom-tailored to be a masterpiece of cosplay c…"
 resource: https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/
 tags: [men, tunic, cape, satin-silk, silk, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Count Dooku Cape and Tunic Star Wars

@@ -4,7 +4,7 @@ title: "Womens Peacoat Wool Double Breasted"
 description: "Womens peacoat double-breasted in Melton wool is a worthy wardrobe investment. Womens peacoat in 3/4 length cut is a statement coat to keep your style elevated and practical during walks around the ne…"
 resource: https://baronboutique.com/12th-quantum-coat-for-women/
 tags: [women, overcoat, peacoat, wool, double-breasted, turquoise, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Womens Peacoat Wool Double Breasted

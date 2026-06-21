@@ -4,7 +4,7 @@ title: "Destination Wedding Suit with Cape, Custom Made in Fresco Wool"
 description: "Most grooms at destination weddings wear the same suit they could have worn at any church ceremony in their hometown. This three-piece ensemble is different in a way that requires no explanation."
 resource: https://baronboutique.com/destination-wedding-suit/
 tags: [men, suit, cape, satin-silk, silk, black, wedding, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Destination Wedding Suit with Cape, Custom Made in Fresco Wool

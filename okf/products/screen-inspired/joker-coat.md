@@ -4,7 +4,7 @@ title: "Joker Trench Coat, Dark Knight Inspired in Purple Melton Wool"
 description: "Most Joker coats are polyester approximations that read as costume the moment they are photographed. Baron builds this coat in 100% Melton wool, to your measurements, with canvas front construction, t…"
 resource: https://baronboutique.com/joker-coat/
 tags: [men, trench-coat, wool, canvas-front, aubergine, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Joker Trench Coat, Dark Knight Inspired in Purple Melton Wool

@@ -4,7 +4,7 @@ title: "Silk Nehru Jacket James Bond Dr. No"
 description: "Our silk Nehru jacket is a classic. James Bond Nehru jacket designed for the stylish gentleman. A classic cut with a wonderful nubby silk fabric fits like a glove."
 resource: https://baronboutique.com/dr-no-silk-jacket/
 tags: [men, suit, blazer, silk, mandarin-collar, rust, wedding, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Silk Nehru Jacket James Bond Dr. No

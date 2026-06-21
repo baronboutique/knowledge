@@ -4,7 +4,7 @@ title: "Handwoven Ivory Cashmere Scarf Shawl"
 description: "Pure Elegance of the Himalayas: Your New Favorite Cashmere Scarf Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/handwoven-ivory-cashmere-scarf-shawl/
 tags: [women, scarf, shawl, cashmere, ivory, handwoven, handmade, heirloom]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Handwoven Ivory Cashmere Scarf Shawl

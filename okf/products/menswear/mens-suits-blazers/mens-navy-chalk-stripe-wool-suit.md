@@ -4,7 +4,7 @@ title: "Navy Chalk Stripe Suit"
 description: "Not your ordinary navy chalk stripe suit. These mens chalk stripe suits are carefully constructed from year-round lightweight pure wool cloths for a refined yet effortless look for any occasion."
 resource: https://baronboutique.com/mens-navy-chalk-stripe-wool-suit/
 tags: [men, suit, blazer, wool, notch-lapel, navy, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Navy Chalk Stripe Suit

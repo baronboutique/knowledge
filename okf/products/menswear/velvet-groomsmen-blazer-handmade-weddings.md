@@ -4,7 +4,7 @@ title: "Velvet Groomsmen Blazer – Handmade for Weddings"
 description: "Elevate your wedding style with our Velvet Groomsmen Blazer. Handmade to perfection, this blazer offers a luxurious feel and a tailored fit that complements any wedding theme."
 resource: https://baronboutique.com/velvet-groomsmen-blazer-handmade-weddings/
 tags: [men, suit, blazer, velvet, green, wedding, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Velvet Groomsmen Blazer – Handmade for Weddings

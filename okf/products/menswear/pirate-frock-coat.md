@@ -4,7 +4,7 @@ title: "Pirate Frock Coat in Velvet, Made to Measure"
 description: "Every pirate frock coat sold online is a costume — polyester, S/M/L, warehouse-photographed, built to wear twice."
 resource: https://baronboutique.com/pirate-frock-coat/
 tags: [men, frock-coat, suit, velvet, canvas-front, black, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Pirate Frock Coat in Velvet, Made to Measure

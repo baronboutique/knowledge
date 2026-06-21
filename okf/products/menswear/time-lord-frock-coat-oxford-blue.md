@@ -4,7 +4,7 @@ title: "Time Lord Frock Coat (Oxford Blue)"
 description: "Channel timeless style with Baron Boutique’s Time Lord Frock Coat in Oxford Blue. Crafted from fine wool and tailored to perfection, it’s iconic, elegant, and uniquely yours."
 resource: https://baronboutique.com/time-lord-frock-coat-oxford-blue/
 tags: [men, frock-coat, tropical-wool, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Time Lord Frock Coat (Oxford Blue)

@@ -4,7 +4,7 @@ title: "Unlined Linen Duster Coat"
 description: "Every linen duster coat you have ordered online was too big through the shoulders, too long in the sleeve, or so shapeless it read as a robe. That is a fit problem, not a linen problem."
 resource: https://baronboutique.com/linen-dress-jacket-with-notch-collar/
 tags: [women, dress, linen, natural, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Unlined Linen Duster Coat

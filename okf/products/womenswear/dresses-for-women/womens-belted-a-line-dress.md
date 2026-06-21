@@ -4,7 +4,7 @@ title: "Belted V-Neck Shift Dress Pockets Knee Length"
 description: "Achieve effortless office style with the one dress that does it all. This custom-tailored V-neck shift combines a waist-defining belt with functional pockets for a look that's both polished on its own…"
 resource: https://baronboutique.com/womens-belted-a-line-dress/
 tags: [women, dress, cotton, v-neck, black, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Belted V-Neck Shift Dress Pockets Knee Length

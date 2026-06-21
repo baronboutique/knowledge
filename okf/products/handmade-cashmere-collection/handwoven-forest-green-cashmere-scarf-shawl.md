@@ -4,7 +4,7 @@ title: "Handwoven Forest Green Cashmere Scarf Shawl"
 description: "Whisper of the Mountain Forest: Your New Favorite Green Cashmere Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/
 tags: [women, scarf, shawl, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Handwoven Forest Green Cashmere Scarf Shawl

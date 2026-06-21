@@ -4,7 +4,7 @@ title: "Men's Pure New Wool Suit, Custom Made in Super 160s VBC Wool"
 description: "Made to your exact measurements, this bespoke grey wool suit is crafted from luxurious Super 160s worsted wool that feels smooth, breathable, and comfortable throughout the year."
 resource: https://baronboutique.com/pure-new-wool-suit-in-year-round-hues/
 tags: [men, suit, blazer, wool, canvas-front, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Men's Pure New Wool Suit, Custom Made in Super 160s VBC Wool

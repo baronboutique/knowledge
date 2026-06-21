@@ -4,7 +4,7 @@ title: "Matrix Coat Neo Trench Coat Black"
 description: "Softly tailored Matrix coat with a graceful ankle-length to set yourself apart and express your personality."
 resource: https://baronboutique.com/the-matrix-coat/
 tags: [men, trench-coat, cotton, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Matrix Coat Neo Trench Coat Black

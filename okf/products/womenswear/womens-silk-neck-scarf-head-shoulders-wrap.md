@@ -4,7 +4,7 @@ title: "Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Si
 description: "Womens silk neck scarf soft and cozy in solid color satin silk is the most elegant and modern way to celebrate all seasons this year."
 resource: https://baronboutique.com/womens-silk-neck-scarf-head-shoulders-wrap/
 tags: [women, scarf, wrap, satin-silk, silk, plum, handmade, heirloom]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap

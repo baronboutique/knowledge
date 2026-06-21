@@ -4,7 +4,7 @@ title: "Thirteenth Doctor Teal Wool Pants"
 description: "Authenticity is in the fit. These Thirteenth Doctor Pants use a guaranteed custom-tailored fit to perfectly replicate Jodie Whittaker's unique silhouette."
 resource: https://baronboutique.com/13th-doctor-pants/
 tags: [women, trousers, pants, mohair, teal, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Thirteenth Doctor Teal Wool Pants

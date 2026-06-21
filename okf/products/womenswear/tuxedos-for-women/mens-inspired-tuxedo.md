@@ -4,7 +4,7 @@ title: "The Women's Bespoke Tuxedo"
 description: "This is the tuxedo, not a \"female version\" of it. Our Menswear-Inspired Tuxedo for Women is built with authentic, bespoke details like roped shoulders and dramatic satin wing-peak lapels."
 resource: https://baronboutique.com/mens-inspired-tuxedo/
 tags: [women, suit, blazer, tuxedo, wool, peak-lapel, black, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # The Women's Bespoke Tuxedo

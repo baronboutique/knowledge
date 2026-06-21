@@ -4,7 +4,7 @@ title: "Mens Sharkskin Dress Pants"
 description: "Mens Sharkskin dress pants work well as a replacement for suit pants. Well-fitting men's sharkskin pants can be worn alone with a dress shirt and belt, or with a tailored jacket for a more polished lo…"
 resource: https://baronboutique.com/mens-dress-pants-in-sharkskin/
 tags: [men, trousers, pants, dress, wool, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Mens Sharkskin Dress Pants

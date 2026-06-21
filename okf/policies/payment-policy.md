@@ -4,7 +4,7 @@ title: "Payment Policy"
 description: "Payment is processed via PayPal. Customers may pay by debit or credit card without a PayPal account. Full payment is required in advance."
 resource: https://baronboutique.com/payment-policy/
 tags: [payment, paypal, credit-card, policy, advance-payment]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Payment Policy

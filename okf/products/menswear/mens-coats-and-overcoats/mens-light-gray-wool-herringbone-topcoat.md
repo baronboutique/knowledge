@@ -4,7 +4,7 @@ title: "Wool Herringbone Topcoat"
 description: "Wool herringbone topcoat boutique made with higher-end fabrication and detailed elements. The sharp texture of grey wool herringbone signals serious presence and style."
 resource: https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/
 tags: [men, overcoat, topcoat, herringbone, grey, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Wool Herringbone Topcoat

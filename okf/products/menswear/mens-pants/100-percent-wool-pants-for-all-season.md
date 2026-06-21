@@ -4,7 +4,7 @@ title: "100 Percent Wool Dress Pants"
 description: "A well-tailored men's 100% wool dress pants take you from day to night seamlessly. Finely woven 100 percent wool fabric does not wrinkle as easily and feel comfortable on the skin."
 resource: https://baronboutique.com/100-percent-wool-pants-for-all-season/
 tags: [men, trousers, pants, dress, wool, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # 100 Percent Wool Dress Pants

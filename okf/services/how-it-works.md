@@ -4,7 +4,7 @@ title: "How It Works"
 description: "How It Works — service by Baron Boutique."
 resource: https://baronboutique.com/how-it-works/
 tags: [how-it-works, baron-boutique, service]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # How It Works

@@ -4,7 +4,7 @@ title: "Sweater Size Guide"
 description: "Find perfect fit with our women's cashmere sweater size guide. Compare body & garment measurements in cm & inches for a comfortable fit."
 resource: https://baronboutique.com/womens-dropped-shoulder-sweater-size-guide/
 tags: [guide, sizing, fit-guide, bespoke]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Sweater Size Guide

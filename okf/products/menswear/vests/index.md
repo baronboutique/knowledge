@@ -4,7 +4,7 @@ title: "Vests"
 description: "Mens vests – Dress vests for men boutique made of linen and wool. High-quality tailored waistcoats in personalized style for every man. Free try on vest."
 resource: https://baronboutique.com/menswear/vests/
 tags: [vests, waistcoat, vest, three-piece-vest, tailored-vest, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Vests

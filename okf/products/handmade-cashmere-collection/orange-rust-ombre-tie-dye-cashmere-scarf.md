@@ -4,7 +4,7 @@ title: "Orange Rust Ombre Tie-Dye Cashmere Scarf – Hand-Finished in Twill"
 description: "A radiant fusion of orange and rust hues in an ombre tie-dye, this lightweight cashmere scarf is a warm embrace for every season. Woven in twill and hand-finished in Nepal."
 resource: https://baronboutique.com/orange-rust-ombre-tie-dye-cashmere-scarf/
 tags: [women, scarf, tie, cashmere, handmade, heirloom]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Orange Rust Ombre Tie-Dye Cashmere Scarf – Hand-Finished in Twill

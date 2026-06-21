@@ -4,7 +4,7 @@ title: "Women's Twelfth Doctor Navy Velvet Coat"
 description: "Women's Twelfth Doctor Navy Velvet Coat to make you look good in your character. Engage with your imagination and take a break from your real life."
 resource: https://baronboutique.com/12th-doctors-navy-velvet-coat-for-women/
 tags: [women, overcoat, velvet, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Women's Twelfth Doctor Navy Velvet Coat

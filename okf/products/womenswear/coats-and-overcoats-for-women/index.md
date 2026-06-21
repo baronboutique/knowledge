@@ -4,7 +4,7 @@ title: "Coats & Overcoats"
 description: "Tailored designs and fashion trend coats and overcoats for women. High quality coats. Free shipping worldwide. Free customization. Free try-on coat."
 resource: https://baronboutique.com/womenswear/coats-and-overcoats-for-women/
 tags: [coats-overcoats, coats, overcoats, womens-outerwear, statement-coats, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Coats & Overcoats

@@ -4,7 +4,7 @@ title: "Designer Program"
 description: "Baron Boutique's Designer Program provides emerging and established fashion designers with affordable, flexible production support. Start with prototypes, scale at your own pace, and access master craftsmanship without minimum orders or large upfront investments. Perfect for designers transitioning into the industry, recent graduates, or entrepreneurs with niche concepts."
 resource: https://baronboutique.com/designer-program/
 tags: [designer-program, baron-boutique, service]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Designer Program

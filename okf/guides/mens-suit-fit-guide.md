@@ -4,7 +4,7 @@ title: "Suit Fit Guide"
 description: "Find your perfect fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for your style."
 resource: https://baronboutique.com/mens-suit-fit-guide/
 tags: [guide, sizing, fit-guide, bespoke]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Suit Fit Guide

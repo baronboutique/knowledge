@@ -4,7 +4,7 @@ title: "Allan Quatermain Long Coat League of Extraordinary Gentlemen"
 description: "Allan Quatermain character played by Sean Connery in the movie League of Extraordinary Gentlemen. The Allan Quatermain long coat is not only for collection but can be worn in everyday life."
 resource: https://baronboutique.com/sean-connery-long-coat-from-league-of-extraordinary-gentlemen/
 tags: [men, overcoat, cotton, brown, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Allan Quatermain Long Coat League of Extraordinary Gentlemen

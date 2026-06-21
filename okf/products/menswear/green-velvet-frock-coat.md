@@ -4,7 +4,7 @@ title: "Green Velvet Frock Coat"
 description: "Step out in style with our green velvet frock coat. The rich, forest green color is sure to turn heads, while the velvet fabric adds a luxurious touch."
 resource: https://baronboutique.com/green-velvet-frock-coat/
 tags: [men, frock-coat, velvet, green, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Green Velvet Frock Coat

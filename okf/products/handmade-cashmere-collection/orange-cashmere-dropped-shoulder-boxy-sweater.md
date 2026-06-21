@@ -4,7 +4,7 @@ title: "Orange Cashmere Dropped Shoulder Sweater"
 description: "Experience the captivating Ember Glow of our orange cashmere sweater. Its modern boxy fit, chic dropped shoulders, and breathable cashmere fabric kissed by elegant contrast tipping, offer a luxurious …"
 resource: https://baronboutique.com/orange-cashmere-dropped-shoulder-boxy-sweater/
 tags: [women, sweater, cashmere, dropped-shoulder, boxy, round-neck, jersey, long-sleeve, orange, winter, fall, hand-knitted, handmade, heirloom]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Orange Cashmere Dropped Shoulder Sweater

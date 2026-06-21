@@ -4,7 +4,7 @@ title: "12th Grey Linen Coat, Capaldi Series 10"
 description: "The 12th Doctor's grey linen frock coat is the rarest variant in Capaldi's wardrobe and the one almost nobody makes."
 resource: https://baronboutique.com/12th-doctor-grey-linen-coat/
 tags: [men, overcoat, linen, notch-lapel, pleated, grey, convention, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # 12th Grey Linen Coat, Capaldi Series 10

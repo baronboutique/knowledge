@@ -4,7 +4,7 @@ title: "The Sharkskin Work Suit"
 description: "This is the end of the \"boring work suit.\" Our Women's Work Suit in Sharkskin is crafted from a unique sharkskin wool, a fabric whose subtle two-tone luster adds a layer of intelligence and sophistica…"
 resource: https://baronboutique.com/womens-work-suit-in-sharkskin/
 tags: [women, suit, blazer, wool, navy, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # The Sharkskin Work Suit

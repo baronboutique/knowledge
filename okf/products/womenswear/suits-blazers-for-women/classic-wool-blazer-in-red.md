@@ -4,7 +4,7 @@ title: "The Statement Red Blazer"
 description: "This is the power of red, intelligently executed. Our Women's Red Blazer Jacket is crafted from breathable, wrinkle-resistant Fresco wool, a superior fabric that ensures your statement piece looks uni…"
 resource: https://baronboutique.com/classic-wool-blazer-in-red/
 tags: [women, suit, blazer, wool, red, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # The Statement Red Blazer

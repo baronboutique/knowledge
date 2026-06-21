@@ -4,7 +4,7 @@ title: "Black Mohair Tuxedo, Made to Measure"
 description: "Most grooms choosing a black tuxedo don't know there's a version that behaves differently under evening light."
 resource: https://baronboutique.com/essential-black-mohair-wool-tuxedo-2-button/
 tags: [men, dinner-jacket, suit, blazer, mohair, canvas-front, notch-lapel, black, wedding, evening, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Black Mohair Tuxedo, Made to Measure

@@ -4,7 +4,7 @@ title: "The Modern Relaxed-Fit Work Trouser"
 description: "This is the solution to the 9-to-5 comfort problem. Our Women's Workwear Relaxed-Fit Pants are crafted from lightweight, breathable tropical wool designed for all-day wear."
 resource: https://baronboutique.com/womens-all-season-tropical-pants/
 tags: [women, trousers, tropical-wool, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # The Modern Relaxed-Fit Work Trouser

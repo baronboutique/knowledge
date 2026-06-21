@@ -4,7 +4,7 @@ title: "The Bespoke Women's Suit"
 description: "This is the end of the frustrating search for a power suit that truly fits. The Bespoke VBC Wool Suit solves the biggest problem of off-the-rack clothing with our free test suit process, guaranteeing …"
 resource: https://baronboutique.com/womens-tailored-suit/
 tags: [women, suit, blazer, wool, black, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # The Bespoke Women's Suit

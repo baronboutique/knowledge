@@ -4,7 +4,7 @@ title: "James West Wild Wild West Suit"
 description: "James West Wild Wild West suit is for men who need an edge to accomplish their mission statement of looking cool."
 resource: https://baronboutique.com/james-west-wild-wild-west-suit/
 tags: [men, suit, merino-wool, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # James West Wild Wild West Suit

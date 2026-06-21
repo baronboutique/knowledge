@@ -4,7 +4,7 @@ title: "Men's Linen Frock Coat Summer Wedding Tailored Dress Coat"
 description: "Most men's frock coats online are Halloween costumes in polyester. If you want the real garment — 100% linen, full canvas front, hand-carved horn buttons, made to your exact measurements — this is the…"
 resource: https://baronboutique.com/mens-linen-frock-coat-summer-wedding/
 tags: [men, frock-coat, suit, dress, linen, canvas-front, full-canvas, khaki, wedding, summer, bespoke, made-to-order]
-timestamp: 2026-06-18T09:15:58Z
+timestamp: 2026-06-18T10:29:32Z
 ---
 
 # Men's Linen Frock Coat Summer Wedding Tailored Dress Coat
