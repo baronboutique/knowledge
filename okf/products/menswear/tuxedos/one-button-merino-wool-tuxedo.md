@@ -4,7 +4,7 @@ title: "One Button Notch Lapel Tuxedo"
 description: "Put together a custom look for any occasion where you need the best tuxedo. A single-breasted one-button tuxedo with double vents back and notch lapel gives you the most appealing custom-made tuxedo s…"
 resource: https://baronboutique.com/one-button-merino-wool-tuxedo/
 tags: [men, dinner-jacket, suit, blazer, tropical-wool, single-breasted, notch-lapel, black, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # One Button Notch Lapel Tuxedo

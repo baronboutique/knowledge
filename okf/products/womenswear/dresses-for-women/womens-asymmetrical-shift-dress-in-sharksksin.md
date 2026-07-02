@@ -4,7 +4,7 @@ title: "Asymmetrical Hem Zipper Dress"
 description: "Effortless sophistication, solved. With its chic asymmetrical hem and comfortable shift silhouette, this is the endlessly versatile dress that ensures you look polished and modern at any occasion, fro…"
 resource: https://baronboutique.com/womens-asymmetrical-shift-dress-in-sharksksin/
 tags: [women, dress, wool, blue, wedding, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Asymmetrical Hem Zipper Dress

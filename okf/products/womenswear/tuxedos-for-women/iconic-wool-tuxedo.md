@@ -4,7 +4,7 @@ title: "The Women's Tuxedo Suit"
 description: "For the woman who knows a dress isn’t the only answer. Our Female Tuxedo is not a costume; it's an icon, re-engineered."
 resource: https://baronboutique.com/iconic-wool-tuxedo/
 tags: [women, suit, blazer, tuxedo, tropical-wool, white, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # The Women's Tuxedo Suit

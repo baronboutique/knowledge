@@ -4,7 +4,7 @@ title: "Women's Dark Knight Joker Coat | Bespoke Leather"
 description: "Every women's version of the Dark Knight Joker coat is a polyester Halloween accessory. This is the actual coat -- full-grain cow Nappa leather, wide peak lapels, flared five-button cuffs, triple rear…"
 resource: https://baronboutique.com/womens-joker-coat-in-leather/
 tags: [women, overcoat, leather, peak-lapel, princess-seam, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Women's Dark Knight Joker Coat | Bespoke Leather

@@ -4,7 +4,7 @@ title: "Shirts"
 description: "Womens shirts, silk shirts, cotton dress shirts and blouses custom-made. Womens dress shirts in elegant designs for every woman. Best tailored shirts."
 resource: https://baronboutique.com/womenswear/shirts-for-women/
 tags: [shirts, blouses, womens-shirts, tailored-blouse, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Shirts

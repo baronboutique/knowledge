@@ -4,7 +4,7 @@ title: "Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & T
 description: "Crafted from 100% pure, allergen-free Grade A cashmere for superior warmth and breathability. Sustainably sourced from the Tibetan Plateau, supporting ethical and eco-conscious production."
 resource: https://baronboutique.com/cashmere-wrap-scarf-womens-80-plus-colors/
 tags: [men, scarf, wrap, cashmere, orange, wedding, winter, handmade, heirloom]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors

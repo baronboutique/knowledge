@@ -4,7 +4,7 @@ title: "Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors"
 description: "Most shawls sold as pashmina are blends. This one is 100% Grade A pashmina fiber from the Himalayan highlands — handwoven on a traditional loom over five days, 70 grams, 36 x 80 inches."
 resource: https://baronboutique.com/mens-pashmina-shawl-handwoven/
 tags: [men, shawl, pashmina, black, handwoven, handmade, heirloom]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors

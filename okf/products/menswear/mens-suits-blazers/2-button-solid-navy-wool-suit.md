@@ -4,7 +4,7 @@ title: "2 Button Solid Navy Wool Suit"
 description: "A two-button solid navy wool suit is a versatile piece that can be dressed up or down depending on the occasion in your calendar."
 resource: https://baronboutique.com/2-button-solid-navy-wool-suit/
 tags: [men, suit, blazer, tropical-wool, navy, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # 2 Button Solid Navy Wool Suit

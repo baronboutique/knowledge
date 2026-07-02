@@ -4,7 +4,7 @@ title: "Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool"
 description: "Most men's grey pinstripe pants are built for a size, not a body. These are classic mens pinstripe suit pants built for a tailored fit, cut to your exact measurements in Super 150s merino wool, 13 str…"
 resource: https://baronboutique.com/mens-gray-pinstripe-pants/
 tags: [men, trousers, pants, merino-wool, grey, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool

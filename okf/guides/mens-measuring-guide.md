@@ -4,7 +4,7 @@ title: "Men’s Measuring Guide"
 description: "Ensure your custom garment fits flawlessly. Our men's measurement guide provides step-by-step tutorials on measuring everything."
 resource: https://baronboutique.com/mens-measuring-guide/
 tags: [measurements, guide, bespoke, sizing]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Men’s Measuring Guide

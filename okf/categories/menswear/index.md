@@ -4,7 +4,7 @@ title: "Men"
 description: "Bespoke Menswear, Built to Your Measure From custom suits, tuxedos, and frock coats to overcoats, shirts, and cashmere, every piece is made to order and hand‑tailored to your exact measurements — never pulled from a rack. Before we cut the final cloth, a complimentary test garment comes to your home, so the fit is approved first. Collector‑quality construction."
 resource: https://baronboutique.com/menswear/
 tags: [men, mens-tailoring, custom-menswear, mens-suits, mens-formalwear, mens-outerwear, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Men

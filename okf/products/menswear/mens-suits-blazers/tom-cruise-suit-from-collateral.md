@@ -4,7 +4,7 @@ title: "Tom Cruise Collateral Suit"
 description: "Grey suits are easy to find. A grey suit designed to be unremarkable but impossible to forget once you know what you are looking at is something else entirely."
 resource: https://baronboutique.com/tom-cruise-suit-from-collateral/
 tags: [men, suit, blazer, tropical-wool, canvas-front, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Tom Cruise Collateral Suit

@@ -4,7 +4,7 @@ title: "The Custom Slim-Fit Bootcut Trouser"
 description: "This is how you unlock the legendary power of the bootcut. Our Women's Flat-Front Slim-Fit Bootcut Pants solve the biggest challenge of this style: getting the silhouette just right."
 resource: https://baronboutique.com/womens-iconic-wool-pants/
 tags: [women, trousers, wool, flat-front, cobalt, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # The Custom Slim-Fit Bootcut Trouser

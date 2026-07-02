@@ -4,7 +4,7 @@ title: "Blue Linen Suit for Men, Made to Measure"
 description: "Powder blue and light blue linen are the benchmark palette for coastal and destination weddings in 2026."
 resource: https://baronboutique.com/linen-suits-for-men/
 tags: [men, suit, blazer, linen, canvas-front, blue, wedding, summer, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Blue Linen Suit for Men, Made to Measure

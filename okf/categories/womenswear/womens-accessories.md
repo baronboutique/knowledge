@@ -4,7 +4,7 @@ title: "Accessories"
 description: "Buy womens handmade accessories neckties & pocket squares, shawls, wraps, & scarves, silks & cashmere online. Cashmere silk accessories for all occasions."
 resource: https://baronboutique.com/womenswear/womens-accessories/
 tags: [accessories, cashmere-scarf, cashmere-shawl, cashmere-wrap, pashmina, stole, handwoven-cashmere, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Accessories

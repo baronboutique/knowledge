@@ -4,7 +4,7 @@ title: "The High-Performance Mohair Suit"
 description: "This is the power suit engineered for the modern professional. Our Women's Mohair Suit is crafted from a high-performance mohair-wool blend, a fabric prized for its natural wrinkle resistance and subt…"
 resource: https://baronboutique.com/womens-mohair-wool-suit/
 tags: [women, suit, blazer, mohair, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # The High-Performance Mohair Suit

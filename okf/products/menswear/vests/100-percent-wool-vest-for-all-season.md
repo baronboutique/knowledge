@@ -4,7 +4,7 @@ title: "The Worsted Wool Waistcoat"
 description: "The definitive third piece, this waistcoat is tailored from a fine Super 160s' worsted wool by Vitale Barberis Canonico."
 resource: https://baronboutique.com/100-percent-wool-vest-for-all-season/
 tags: [men, waistcoat, worsted-wool, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # The Worsted Wool Waistcoat

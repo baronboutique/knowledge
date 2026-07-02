@@ -4,7 +4,7 @@ title: "13th Doctor Pants Men Jodie Whittaker Cosplay"
 description: "Meticulously tailored 13th Doctor pants for men are a great way to change your look. The male version of the Jodie Whittaker cosplay pants is the stylish and comfortable change for any man."
 resource: https://baronboutique.com/13th-doctor-pants-for-men/
 tags: [men, pants, mohair, teal, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # 13th Doctor Pants Men Jodie Whittaker Cosplay

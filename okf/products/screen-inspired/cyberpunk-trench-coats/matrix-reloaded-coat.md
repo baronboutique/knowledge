@@ -4,7 +4,7 @@ title: "Matrix Reloaded Neo Coat"
 description: "Most Matrix coat sellers deliver a polyester approximation in a generic size. The sheen is wrong, the length is approximate, and the silhouette collapses the moment you raise an arm."
 resource: https://baronboutique.com/matrix-reloaded-coat/
 tags: [men, coat, wool, canvas-front, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Matrix Reloaded Neo Coat

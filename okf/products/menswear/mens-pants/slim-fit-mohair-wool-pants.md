@@ -4,7 +4,7 @@ title: "Wool Mohair Dress Pants"
 description: "A custom-made mohair wool dress pants are noticeable and set you above the rest of the crowd. Regardless of the circumstance, you’re going to want a pair that fits and feels comfortable at the ready."
 resource: https://baronboutique.com/slim-fit-mohair-wool-pants/
 tags: [men, trousers, pants, dress, mohair, black, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Wool Mohair Dress Pants

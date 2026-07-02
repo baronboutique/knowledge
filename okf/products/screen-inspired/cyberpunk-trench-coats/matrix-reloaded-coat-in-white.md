@@ -4,7 +4,7 @@ title: "White Long Coat Matrix Reloaded Neo Style Coat"
 description: "This white long coat is one of the most talked-about Neo style coats. Crafted from ultra-light worsted wool fabric that has an excellent drape and a very elegant feel to it."
 resource: https://baronboutique.com/matrix-reloaded-coat-in-white/
 tags: [men, coat, tropical-wool, white, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # White Long Coat Matrix Reloaded Neo Style Coat

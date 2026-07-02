@@ -4,7 +4,7 @@ title: "The Essential Black Tailored Shirt"
 description: "End the frustrating search for the perfect black shirt. The Essential Custom-Tailored Black Shirt is your answer."
 resource: https://baronboutique.com/womens-basic-black-twill-cotton-shirt/
 tags: [women, shirt, cotton, black, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # The Essential Black Tailored Shirt

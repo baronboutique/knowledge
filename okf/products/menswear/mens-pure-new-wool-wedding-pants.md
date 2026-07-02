@@ -4,7 +4,7 @@ title: "Mens wedding pants"
 description: "Mens wedding pants hand-tailored for the perfect fit and comfort. Wedding dress pants for groom and groomsmen that promise to impress and bring joy and laughter."
 resource: https://baronboutique.com/mens-pure-new-wool-wedding-pants/
 tags: [men, trousers, pants, wool, wedding, prom, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Mens wedding pants

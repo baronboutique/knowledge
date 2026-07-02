@@ -4,7 +4,7 @@ title: "Newt Inspired British Herringbone Tweed Coat"
 description: "The coat that made a generation of fantasy film fans fall in love with British tweed. Every version we make is hand-tailored to your measurements in authentic herringbone tweed, finished with dark lea…"
 resource: https://baronboutique.com/newt-inspired-herringbone-tweed-coat/
 tags: [men, overcoat, tweed, herringbone, canvas-front, grey, fall, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Newt Inspired British Herringbone Tweed Coat

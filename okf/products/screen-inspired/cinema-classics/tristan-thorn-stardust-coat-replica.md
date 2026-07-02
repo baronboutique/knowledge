@@ -4,7 +4,7 @@ title: "Tristan Thorn Stardust Coat Replica"
 description: "Embrace the magic of Stardust with this exquisite replica of Tristan Thorn's iconic coat. Made from high-quality linen fabric, this Stardust coat features a classic long design, a contrast collar, and…"
 resource: https://baronboutique.com/tristan-thorn-stardust-coat-replica/
 tags: [men, coat, linen, grey, wedding, winter, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Tristan Thorn Stardust Coat Replica

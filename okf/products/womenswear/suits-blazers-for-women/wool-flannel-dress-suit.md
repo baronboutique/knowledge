@@ -4,7 +4,7 @@ title: "The Bespoke Wool Flannel Suit Dress"
 description: "This is the strategic answer to a demanding schedule. Our bespoke wool flannel suit dress is engineered as a single, cohesive uniform of power, combining a tailored jacket and a matching sheath dress …"
 resource: https://baronboutique.com/wool-flannel-dress-suit/
 tags: [women, suit, blazer, dress, flannel, wool-flannel, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # The Bespoke Wool Flannel Suit Dress

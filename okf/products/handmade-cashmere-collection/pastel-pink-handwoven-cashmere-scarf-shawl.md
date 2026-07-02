@@ -4,7 +4,7 @@ title: "Pastel Pink Handwoven Cashmere Scarf Shawl"
 description: "Blush of the Himalayan Dawn: Your New Favorite Pink Cashmere Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/pastel-pink-handwoven-cashmere-scarf-shawl/
 tags: [women, scarf, shawl, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Pastel Pink Handwoven Cashmere Scarf Shawl

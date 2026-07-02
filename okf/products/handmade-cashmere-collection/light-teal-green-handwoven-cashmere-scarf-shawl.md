@@ -4,7 +4,7 @@ title: "Light Teal Green Handwoven Cashmere Scarf Shawl"
 description: "Blush of the Himalayan Dawn: Embrace the softness of your new favorite Light Teal Green Handwoven Cashmere Scarf Shawl Crafted from 100% pure, allergen-free Grade A cashmere."
 resource: https://baronboutique.com/light-teal-green-handwoven-cashmere-scarf-shawl/
 tags: [women, scarf, shawl, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Light Teal Green Handwoven Cashmere Scarf Shawl

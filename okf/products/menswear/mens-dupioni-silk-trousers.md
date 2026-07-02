@@ -4,7 +4,7 @@ title: "The Bespoke Dupioni Silk Trousers"
 description: "Embrace a unique sartorial language with The Bespoke Dupioni Silk Trousers. Crafted from Dupioni silk, a fabric prized for its distinctive texture and elegant luster, these trousers are the epitome of…"
 resource: https://baronboutique.com/mens-dupioni-silk-trousers/
 tags: [men, trousers, dupioni-silk, silk, green, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # The Bespoke Dupioni Silk Trousers

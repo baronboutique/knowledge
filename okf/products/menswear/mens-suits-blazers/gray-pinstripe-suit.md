@@ -4,7 +4,7 @@ title: "Grey Pinstripe Suit"
 description: "The definitive grey pinstripe suit, an artifact of timeless sartorial authority. Tailored from a fine, lightweight Merino wool, it is an ideal choice for warm-weather business and travel."
 resource: https://baronboutique.com/gray-pinstripe-suit/
 tags: [men, suit, blazer, merino-wool, grey, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Grey Pinstripe Suit

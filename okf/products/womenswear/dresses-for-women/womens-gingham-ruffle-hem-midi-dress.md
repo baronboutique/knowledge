@@ -4,7 +4,7 @@ title: "Gingham Ruffle Hem Midi Dress"
 description: "This is how you win \"best-dressed guest.\" A dress that combines the playful charm of gingham with a custom-tailored fit that ensures a flattering silhouette on every figure."
 resource: https://baronboutique.com/womens-gingham-ruffle-hem-midi-dress/
 tags: [women, dress, cotton, midnight, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Gingham Ruffle Hem Midi Dress

@@ -4,7 +4,7 @@ title: "Emerald Green Handwoven Cashmere Scarf Shawl"
 description: "Vibrant Greens of Mountain Valleys: Your New Favorite Emerald Elegance Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/
 tags: [women, scarf, shawl, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Emerald Green Handwoven Cashmere Scarf Shawl

@@ -4,7 +4,7 @@ title: "Suits & Blazers"
 description: "Bespoke Suits & Blazers, Cut for You From sharp two-piece business suits to three-piece statement tailoring and unstructured blazers, every jacket is made to order and hand-tailored to your exact measurements — never altered off a rack. Choose your cloth and lining, and we send a complimentary test garment before cutting the final fabric, so the fit is approved first. Collector-quality canvas construction."
 resource: https://baronboutique.com/menswear/mens-suits-blazers/
 tags: [suits-blazers, suits, blazers, bespoke-suits, two-piece-suit, three-piece-suit, sport-coat, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Suits & Blazers

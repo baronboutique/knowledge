@@ -4,7 +4,7 @@ title: "Merino Wool Dress Pants"
 description: "These classic merino wool dress pants are effortlessly stylish and easy to care for - perfect for both everyday wear on the job and all sorts of formal and business occasions."
 resource: https://baronboutique.com/merino-wool-dress-pants/
 tags: [men, trousers, pants, dress, merino-wool, grey, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Merino Wool Dress Pants

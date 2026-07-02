@@ -4,7 +4,7 @@ title: "Fantastic Beasts Percival Graves Black Coat"
 description: "Every Graves coat online is a costume set, cotton, polyester, a size chart, and a shawl collar that approximates the shape. This is the coat."
 resource: https://baronboutique.com/percival-graves-black-coat/
 tags: [men, overcoat, tropical-wool, canvas-front, shawl-collar, princess-seam, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Fantastic Beasts Percival Graves Black Coat

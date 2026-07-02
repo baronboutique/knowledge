@@ -4,7 +4,7 @@ title: "Chalk Stripe Pants"
 description: "If you're looking for something you can wear constantly, a pair of men's chalk stripe pants are tough to beat."
 resource: https://baronboutique.com/mens-navy-chalk-stripe-wool-suit-pant/
 tags: [men, trousers, pants, wool, navy, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Chalk Stripe Pants

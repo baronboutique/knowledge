@@ -4,7 +4,7 @@ title: "The Dupioni Silk Blazer"
 description: "This is the most transformative piece you will ever own. Our Women's Silk Jacket is crafted from iridescent, 100% Dupioni silk, a couture-level fabric that shimmers with living color."
 resource: https://baronboutique.com/womens-dupioni-silk-jacket/
 tags: [women, suit, blazer, dupioni-silk, silk, silver, bespoke, made-to-order]
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # The Dupioni Silk Blazer

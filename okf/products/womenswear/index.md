@@ -2,7 +2,7 @@
 type: Index
 title: "Women"
 description: "Bespoke Womenswear, Tailored to You Custom suits, dresses, coats, wedding suits, and handcrafted cashmere. Each garment is made to order. Hand‑tailored to your measurements and your brief, engineered for your figure rather than adjusted to it. A complimentary test garment arrives before we cut the final fabric, so the fit is right before production. Collector‑quality craftsmanship."
-timestamp: 2026-06-18T10:29:32Z
+timestamp: 2026-07-02T12:14:50Z
 ---
 
 # Women
