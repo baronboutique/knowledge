@@ -1,9 +1,31 @@
 name: Sync OKF bundle from baronboutique.com
 
+# Pulls the live OKF bundle (and llms.txt / llms-full.txt) from the WordPress
+# plugin's token-authenticated manifest endpoint and commits any changes.
+# Runs server-side on GitHub's runner, so it is NOT affected by robots.txt and
+# needs no credentials beyond the OKF manifest token (stored as a repo secret).
+#
+# v2 (2026-07-02) HARDENING: the original version committed 0-byte llms.txt /
+# llms-full.txt when the front-end fetch failed (curl -sf -o creates an empty
+# file on failure, and `git add -A` committed it — this emptied both files in
+# the repo from 2026-06-18 to 2026-07-02). Now: downloads go to temp files with
+# a browser User-Agent and retries, and the repo copy is only replaced when the
+# download is non-empty and starts with "# Baron Boutique". Failures emit a
+# visible workflow warning instead of silently corrupting the repo.
+#
+# SETUP (one time):
+#   1) In the repo:  Settings -> Secrets and variables -> Actions
+#        -> New repository secret
+#        Name:  OKF_MANIFEST_TOKEN
+#        Value: <your OKF manifest token from Baron Boutique AI -> OKF Generator>
+#   2) Replace the file at:  .github/workflows/sync-okf.yml  (on branch main)
+#   3) Run it:  Actions tab -> "Sync OKF bundle from baronboutique.com"
+#        -> Run workflow.  After this it also runs automatically every Sunday.
+
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '0 9 * * 0'
+    - cron: '0 9 * * 0'   # every Sunday 09:00 UTC
 
 permissions:
   contents: write
@@ -17,7 +39,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Rebuild okf/ from the live manifest
         env:
@@ -28,8 +50,10 @@ jobs:
           if [ -z "${OKF_TOKEN}" ]; then
             echo "::error::OKF_MANIFEST_TOKEN secret is not set."; exit 1
           fi
-          curl -sf "${SITE}/wp-json/bbaikm/v1/okf-manifest?token=${OKF_TOKEN}" -o manifest.json
+          curl -sf --retry 3 --retry-delay 5 \
+            "${SITE}/wp-json/bbaikm/v1/okf-manifest?token=${OKF_TOKEN}" -o manifest.json
           test -s manifest.json
+          # Rebuild okf/ from scratch so additions, updates AND deletions all sync.
           rm -rf okf
           python3 - <<'PY'
           import json, base64, os
@@ -53,13 +77,30 @@ jobs:
           PY
           rm -f manifest.json
 
-      - name: Refresh llms.txt and llms-full.txt
+      - name: Refresh llms.txt and llms-full.txt (guarded)
         env:
           SITE: https://baronboutique.com
+          UA: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 okf-sync-bot"
         run: |
           set -euo pipefail
-          curl -sf "${SITE}/llms.txt" -o llms.txt || echo "llms.txt fetch skipped"
-          curl -sf "${SITE}/llms-full.txt" -o llms-full.txt || echo "llms-full.txt fetch skipped"
+          refresh () {
+            local name="$1"
+            local tmp
+            tmp="$(mktemp)"
+            if curl -sf --retry 3 --retry-delay 5 -A "${UA}" \
+                 -H "Accept: text/plain,text/markdown,*/*" \
+                 "${SITE}/${name}" -o "${tmp}" \
+               && [ -s "${tmp}" ] \
+               && head -c 16 "${tmp}" | grep -q "# Baron Boutique"; then
+              mv "${tmp}" "${name}"
+              echo "${name}: refreshed ($(wc -c < "${name}") bytes)"
+            else
+              rm -f "${tmp}"
+              echo "::warning::${name} fetch failed or returned invalid content - keeping the existing repo copy."
+            fi
+          }
+          refresh llms.txt
+          refresh llms-full.txt
 
       - name: Commit and push changes
         run: |
