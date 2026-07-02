@@ -1,25 +1,25 @@
 name: Sync OKF bundle from baronboutique.com
 
-# Pulls the live OKF bundle (and llms.txt / llms-full.txt) from the WordPress
+# Pulls the live OKF bundle AND llms.txt / llms-full.txt from the WordPress
 # plugin's token-authenticated manifest endpoint and commits any changes.
 # Runs server-side on GitHub's runner, so it is NOT affected by robots.txt and
 # needs no credentials beyond the OKF manifest token (stored as a repo secret).
 #
-# v2 (2026-07-02) HARDENING: the original version committed 0-byte llms.txt /
-# llms-full.txt when the front-end fetch failed (curl -sf -o creates an empty
-# file on failure, and `git add -A` committed it — this emptied both files in
-# the repo from 2026-06-18 to 2026-07-02). Now: downloads go to temp files with
-# a browser User-Agent and retries, and the repo copy is only replaced when the
-# download is non-empty and starts with "# Baron Boutique". Failures emit a
-# visible workflow warning instead of silently corrupting the repo.
+# v3 (2026-07-02) — REQUIRES PLUGIN v1.9.8+. The llms.txt / llms-full.txt
+# front-end fetch step is GONE: the host firewall blocks GitHub's runners on
+# front-end routes (this emptied both files in the repo from 2026-06-18 to
+# 2026-07-02), while the REST manifest route works. Plugin v1.9.8 ships both
+# llms files inside the manifest, so everything now syncs through the one
+# channel that works. The writer only accepts paths under okf/ or the two
+# llms files, so a compromised manifest cannot write elsewhere.
 #
 # SETUP (one time):
-#   1) In the repo:  Settings -> Secrets and variables -> Actions
-#        -> New repository secret
-#        Name:  OKF_MANIFEST_TOKEN
-#        Value: <your OKF manifest token from Baron Boutique AI -> OKF Generator>
-#   2) Replace the file at:  .github/workflows/sync-okf.yml  (on branch main)
-#   3) Run it:  Actions tab -> "Sync OKF bundle from baronboutique.com"
+#   1) Install plugin v1.9.8 in WordPress and regenerate llms + OKF once.
+#   2) In the repo:  Settings -> Secrets and variables -> Actions
+#        -> secret OKF_MANIFEST_TOKEN = the token from
+#           Baron Boutique AI -> OKF Generator (value after token= only).
+#   3) Replace .github/workflows/sync-okf.yml with this file (branch main).
+#   4) Run it:  Actions tab -> "Sync OKF bundle from baronboutique.com"
 #        -> Run workflow.  After this it also runs automatically every Sunday.
 
 on:
@@ -41,7 +41,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Rebuild okf/ from the live manifest
+      - name: Rebuild okf/ + llms files from the live manifest
         env:
           OKF_TOKEN: ${{ secrets.OKF_MANIFEST_TOKEN }}
           SITE: https://baronboutique.com
@@ -53,7 +53,9 @@ jobs:
           curl -sf --retry 3 --retry-delay 5 \
             "${SITE}/wp-json/bbaikm/v1/okf-manifest?token=${OKF_TOKEN}" -o manifest.json
           test -s manifest.json
-          # Rebuild okf/ from scratch so additions, updates AND deletions all sync.
+          # Rebuild okf/ from scratch so additions, updates AND deletions all
+          # sync. llms files are only replaced when the manifest carries them
+          # (plugin v1.9.8+), never blanked.
           rm -rf okf
           python3 - <<'PY'
           import json, base64, os
@@ -61,7 +63,8 @@ jobs:
           files = m.get('files', [])
           if not files:
               raise SystemExit('Manifest contained no files - aborting.')
-          count = 0
+          ALLOWED_ROOT = ('llms.txt', 'llms-full.txt')
+          count = llms = 0
           for f in files:
               path = f.get('path', '')
               content = f.get('content')
@@ -69,38 +72,23 @@ jobs:
                   continue
               if '..' in path or path.startswith('/'):
                   continue
+              if not (path.startswith('okf/') or path in ALLOWED_ROOT):
+                  continue
+              data = base64.b64decode(content)
+              if path in ALLOWED_ROOT:
+                  if not data.strip():
+                      print('::warning::%s arrived empty in the manifest - keeping the existing repo copy.' % path)
+                      continue
+                  llms += 1
               os.makedirs(os.path.dirname(path) or '.', exist_ok=True)
               with open(path, 'wb') as fh:
-                  fh.write(base64.b64decode(content))
+                  fh.write(data)
               count += 1
-          print('wrote %d OKF files' % count)
+          print('wrote %d files (%d llms)' % (count, llms))
+          if llms == 0:
+              print('::warning::Manifest carried no llms files - plugin older than v1.9.8, or public output disabled, or llms not generated yet. Existing repo copies kept.')
           PY
           rm -f manifest.json
-
-      - name: Refresh llms.txt and llms-full.txt (guarded)
-        env:
-          SITE: https://baronboutique.com
-          UA: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 okf-sync-bot"
-        run: |
-          set -euo pipefail
-          refresh () {
-            local name="$1"
-            local tmp
-            tmp="$(mktemp)"
-            if curl -sf --retry 3 --retry-delay 5 -A "${UA}" \
-                 -H "Accept: text/plain,text/markdown,*/*" \
-                 "${SITE}/${name}" -o "${tmp}" \
-               && [ -s "${tmp}" ] \
-               && head -c 16 "${tmp}" | grep -q "# Baron Boutique"; then
-              mv "${tmp}" "${name}"
-              echo "${name}: refreshed ($(wc -c < "${name}") bytes)"
-            else
-              rm -f "${tmp}"
-              echo "::warning::${name} fetch failed or returned invalid content - keeping the existing repo copy."
-            fi
-          }
-          refresh llms.txt
-          refresh llms-full.txt
 
       - name: Commit and push changes
         run: |
