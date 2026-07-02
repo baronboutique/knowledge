@@ -4,7 +4,7 @@ title: "Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels"
 description: "A classic clean line burgundy velvet dinner jacket cut slim that fits perfectly. Inspired by the traditional velvet smoking suit jacket but tailored for the taste of modern man."
 resource: https://baronboutique.com/slim-fit-burgundy-velvet-jacket/
 tags: [men, dinner-jacket, suit, blazer, velvet, silk, peak-lapel, burgundy, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels

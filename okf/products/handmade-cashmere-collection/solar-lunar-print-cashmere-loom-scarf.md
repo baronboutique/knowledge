@@ -4,7 +4,7 @@ title: "Solar and Lunar Print Cashmere Loom Scarf"
 description: "Experience the celestial dance on this exquisite scarf, featuring a captivating solar and lunar print."
 resource: https://baronboutique.com/solar-lunar-print-cashmere-loom-scarf/
 tags: [women, scarf, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Solar and Lunar Print Cashmere Loom Scarf

@@ -4,7 +4,7 @@ title: "Hei Trench Coat from Darker Than Black, Custom Made in Wool"
 description: "Most Hei cosplay coats get the shape roughly right and miss everything else. The wrong fabric, the wrong lining color, buttons that fall off after two conventions."
 resource: https://baronboutique.com/hei-trench-coat-darker-than-black/
 tags: [men, trench-coat, tropical-wool, black, fall, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Hei Trench Coat from Darker Than Black, Custom Made in Wool

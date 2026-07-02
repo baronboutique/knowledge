@@ -4,7 +4,7 @@ title: "Cinema Classics"
 description: "The Cinema Classics Collection Cinema has always known how to dress a man. This collection pays tribute to the garments that made history on screen. From Victorian frock coats to sharp Edwardian cuts, every piece draws from the silhouettes and fabrics that defined iconic moments in film. The tailoring is precise. The materials are uncompromising. The fit is entirely your own. Each garment is bespoke, cut and constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made."
 resource: https://baronboutique.com/screen-inspired/cinema-classics/
 tags: [cinema-classics, cinema, classic-film, movie-inspired, vintage-cinema, costume-tailoring, screen-inspired, cinematic-fashion, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Cinema Classics

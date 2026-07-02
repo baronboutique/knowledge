@@ -17,7 +17,7 @@ Screen-inspired garments are recreations based on screen references, not license
 
 - [llms-full.txt](https://baronboutique.com/llms-full.txt): complete structured knowledge base — products with specifications and prices, FAQs, services, and policies
 - [OKF Knowledge Bundle](https://baronboutique.com/okf/index.md): full machine-readable knowledge graph in Open Knowledge Format — company, products, categories, services, guides, and policies, with relative links between every file
-- [Knowledge Repository (GitHub)](https://github.com/baronboutique/knowledge): the complete OKF bundle mirrored and version-controlled on GitHub.
+- [Knowledge Repository (GitHub)](https://github.com/baronboutique/knowledge): the complete OKF bundle mirrored and version-controlled on GitHub, synced automatically from this site
 
 ## Collections
 
@@ -68,12 +68,10 @@ Screen-inspired garments are recreations based on screen references, not license
 
 ## Services
 
-- [Our Services](https://baronboutique.com/our-services/): Explore our expert tailoring services of bespoke suits, made-to-measure, CMT, prototype development, small-batch production, & alterations.
 - [Private Label](https://baronboutique.com/private-label/): Baron Boutique offers expert private label and white label production partnership for brands seeking high-quality custom tailored garments …
 - [Custom Cashmere Gifts](https://baronboutique.com/custom-cashmere-gifts/): Baron Boutique offers a bespoke cashmere gifting service for life's most meaningful occasions, including weddings, corporate milestones, ba…
 - [Retail Partnerships](https://baronboutique.com/retailers-wholesale-program/): Baron Boutique offers comprehensive wholesale partnership opportunities for boutique retailers seeking premium custom-tailored menswear, wo…
 - [Designer Program](https://baronboutique.com/designer-program/): Baron Boutique's Designer Program provides emerging and established fashion designers with affordable, flexible production support. Start w…
-- [How It Works](https://baronboutique.com/how-it-works/): Baron Boutique's step-by-step tailoring process. Choose your garment, enter measurements, receive a free test garment, & then your final pi…
 - [Natural Hemp Fabric & Clothing](https://baronboutique.com/100-natural-fiber-himalayan-hemp-fabric/): Baron Boutique offers premium 100% natural hemp fabric and clothing production from high-altitude Nepal (1500m-3000m elevation). Our alpine…
 
 ## Policies

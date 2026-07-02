@@ -4,7 +4,7 @@ title: "Women's 12th Doctor Burgundy Velvet Coat"
 description: "Screen inspired Women's 12th Doctor Burgundy Velvet Coat custom-made with the higher-end fabrication that adds extra personality."
 resource: https://baronboutique.com/12th-doctor-burgundy-velvet-coat-for-women/
 tags: [women, overcoat, velvet, burgundy, cosplay, convention, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Women's 12th Doctor Burgundy Velvet Coat

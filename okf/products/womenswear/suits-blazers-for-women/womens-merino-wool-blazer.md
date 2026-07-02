@@ -4,7 +4,7 @@ title: "The Sculpted Wool Blazer"
 description: "Crafted from fine merino wool, The Sculpted Wool Blazer is tailored to flatter the feminine form with precision darting and a contoured silhouette—no more boxy fit."
 resource: https://baronboutique.com/womens-merino-wool-blazer/
 tags: [women, suit, blazer, merino-wool, boxy, blue, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # The Sculpted Wool Blazer

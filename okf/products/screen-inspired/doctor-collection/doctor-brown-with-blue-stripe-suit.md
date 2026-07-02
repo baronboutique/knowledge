@@ -4,7 +4,7 @@ title: "Tennant Brown and Blue Stripe Suit"
 description: "Our uncontested tenth Doctor brown and blue stripe suit is a favorite among cosplayers who strive for the Tennant look."
 resource: https://baronboutique.com/doctor-brown-with-blue-stripe-suit/
 tags: [men, suit, cotton, brown, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Tennant Brown and Blue Stripe Suit

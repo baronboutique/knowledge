@@ -4,7 +4,7 @@ title: "Vintage Sharkskin Suit"
 description: "Men's vintage sharkskin suit in slim fit offers a nice drape with subtle sheen appropriate for work and business environments."
 resource: https://baronboutique.com/versatile-all-purpose-suit-in-vintage-sharkskin/
 tags: [men, suit, blazer, wool, navy, wedding, summer, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Vintage Sharkskin Suit

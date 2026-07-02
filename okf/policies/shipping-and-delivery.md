@@ -4,7 +4,7 @@ title: "Shipping & Delivery Policy"
 description: "Baron Boutique worldwide shipping policy — carriers, fees, timelines, and restrictions. Effective February 1, 2026."
 resource: https://baronboutique.com/shipping-and-delivery/
 tags: [shipping, delivery, fedex, dhl, ups, worldwide, policy]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Shipping & Delivery Policy

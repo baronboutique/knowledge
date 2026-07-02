@@ -4,7 +4,7 @@ title: "Peter B Parker Green Jacket Spider Man Into The Spider Verse"
 description: "Peter B Parker jacket from Spider-Man: Into the Spider-Verse for cosplayers who want to be Spider-Man with the mask off."
 resource: https://baronboutique.com/peter-b-parker-coat-spider-man-into-the-spider-verse/
 tags: [men, jacket, cotton, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Peter B Parker Green Jacket Spider Man Into The Spider Verse

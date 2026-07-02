@@ -4,7 +4,7 @@ title: "Egyptian Cotton Dress Shirts"
 description: "Off-the-rack Egyptian cotton dress shirts get the fabric right and the fit wrong. This one gets both. Every shirt is 100% Egyptian cotton at 220 thread count, cut to your exact measurements; and befor…"
 resource: https://baronboutique.com/mens-light-blue-egyptian-cotton-shirt/
 tags: [men, shirt, dress, cotton, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Egyptian Cotton Dress Shirts

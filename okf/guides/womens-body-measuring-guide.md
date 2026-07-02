@@ -4,7 +4,7 @@ title: "Women’s Body Measuring Guide"
 description: "Step-by-step guide on how to measure women accurately. Learn to measure your bust, waist, hips, & more with clear images & easy instructions."
 resource: https://baronboutique.com/womens-body-measuring-guide/
 tags: [measurements, guide, bespoke, sizing]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Women’s Body Measuring Guide

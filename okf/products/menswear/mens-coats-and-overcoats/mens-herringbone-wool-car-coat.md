@@ -4,7 +4,7 @@ title: "Herringbone Car Coat in Tweed Wool"
 description: "A bespoke herringbone car coat in Super 110s' tweed wool, hand-tailored with full canvas construction and natural horn button closures."
 resource: https://baronboutique.com/mens-herringbone-wool-car-coat/
 tags: [men, overcoat, herringbone, tweed, full-canvas, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Herringbone Car Coat in Tweed Wool

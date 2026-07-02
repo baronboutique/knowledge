@@ -4,7 +4,7 @@ title: "The Linen & Cotton Shirt"
 description: "Get in the men's soft linen-cotton blend shirts for that cool, comfortable feeling. Designed in half sleeves to complement and match any wardrobe in a neutral shade of black, white, navy, khaki, and m…"
 resource: https://baronboutique.com/mens-dark-blue-linen-cotton-shirt/
 tags: [men, shirt, linen, cotton, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # The Linen & Cotton Shirt

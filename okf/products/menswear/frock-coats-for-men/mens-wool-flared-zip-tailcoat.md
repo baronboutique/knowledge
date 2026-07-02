@@ -4,7 +4,7 @@ title: "Men's Wool Flared Zip Tailcoat"
 description: "Make a powerful statement with our \"Men's Wool Flared Zip Tailcoat.\" This coat merges classic tailoring with a modern, edgy design."
 resource: https://baronboutique.com/mens-wool-flared-zip-tailcoat/
 tags: [men, frock-coat, tailcoat, wool, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Men's Wool Flared Zip Tailcoat

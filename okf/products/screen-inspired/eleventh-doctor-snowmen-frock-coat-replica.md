@@ -4,7 +4,7 @@ title: "Eleventh Doctor's \"Snowmen\" Frock Coat"
 description: "This is not a costume — it's history, perfected. Our replica of the Eleventh Doctor's \"Snowmen\" Frock Coat is a meticulous recreation, capturing every detail of its iconic Victorian design."
 resource: https://baronboutique.com/eleventh-doctor-snowmen-frock-coat-replica/
 tags: [men, frock-coat, wool, burgundy, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Eleventh Doctor's "Snowmen" Frock Coat

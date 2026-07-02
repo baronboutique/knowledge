@@ -4,7 +4,7 @@ title: "Screen Inspired"
 description: "Screen Inspired — For Her Cinema's most compelling silhouettes, recut for the modern woman. From sharp Edwardian cuts to floor-length statement coats, every piece in this collection draws from the garments that defined iconic moments on screen. Structured. Precise. Unapologetically bold. Each garment is bespoke, constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made."
 resource: https://baronboutique.com/womenswear/screen-inspired-women/
 tags: [screen-inspired, movie-inspired, tv-inspired, cinematic-fashion, costume-tailoring, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Screen Inspired

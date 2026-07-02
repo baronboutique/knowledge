@@ -4,7 +4,7 @@ title: "Fog Cable Knit Cashmere Turtleneck Sweater"
 description: "Envelop yourself in the subtle allure of our Fog Cable Knit Cashmere Turtleneck Sweater. This classic fit, crafted from 100% pure cashmere in a gentle fog hue, offers unparalleled comfort and a refine…"
 resource: https://baronboutique.com/fog-cable-knit-cashmere-turtleneck/
 tags: [women, sweater, turtleneck, cashmere, cable-knit, fit, long-sleeve, shoulder-fit, white, winter, fall, hand-knitted, handmade, heirloom]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Fog Cable Knit Cashmere Turtleneck Sweater

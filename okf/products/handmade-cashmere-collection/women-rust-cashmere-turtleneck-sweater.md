@@ -4,7 +4,7 @@ title: "Women's Rust Cashmere Turtleneck Sweater"
 description: "This rust-colored cashmere turtleneck brings Himalayan heritage to your wardrobe. Hand-knitted from Grade A Tibetan Plateau fiber, each piece is made to order in Nepal using traditional techniques and…"
 resource: https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/
 tags: [women, sweater, turtleneck, cashmere, jersey-knit, fit, long-sleeve, shoulder-fit, rust, winter, fall, hand-knitted, handmade, heirloom]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Women's Rust Cashmere Turtleneck Sweater

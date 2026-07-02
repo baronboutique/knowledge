@@ -4,7 +4,7 @@ title: "Grey Melange Dress Pants"
 description: "Gray melange dress pants for men are an icon of your confidence. It's the well-dressed alternative to a suit pant that pairs just as well with sweaters as it does with your best dress shirts."
 resource: https://baronboutique.com/gray-melange-dress-pants/
 tags: [men, trousers, pants, dress, tropical-wool, grey, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Grey Melange Dress Pants

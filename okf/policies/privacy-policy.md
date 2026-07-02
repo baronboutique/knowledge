@@ -4,7 +4,7 @@ title: "Privacy Policy"
 description: "Customer's privacy is very important to us. To better protect your privacy, we provide this privacy policy explaining our online information practices."
 resource: https://baronboutique.com/privacy-policy/
 tags: [policy, legal]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Privacy Policy

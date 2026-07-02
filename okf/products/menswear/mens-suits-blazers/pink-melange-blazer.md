@@ -4,7 +4,7 @@ title: "The Pink Wool Blazer"
 description: "When it comes to dressing for success, the well-tailored blazer remains one of the most essential menswear pieces for office attire today. Mens pink blazer helps create depth and interest."
 resource: https://baronboutique.com/pink-melange-blazer/
 tags: [men, suit, blazer, wool, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # The Pink Wool Blazer

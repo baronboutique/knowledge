@@ -4,7 +4,7 @@ title: "The Essential Sheath Dress"
 description: "The dress that passes every test—from the boardroom to the dinner table. Custom-tailored for a perfect silhouette, its brilliance lies in the details: a perfectly placed back vent that offers elegant …"
 resource: https://baronboutique.com/womens-timeless-black-sheath-dress-in-seasonless-wool/
 tags: [women, dress, wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # The Essential Sheath Dress

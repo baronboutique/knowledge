@@ -4,7 +4,7 @@ title: "Men's Charcoal Gray Pants"
 description: "Men's charcoal gray pants are truly a staple when it comes to dressing up for formal occasions. Great fit men's charcoal dress pants are very versatile and can be very freely matched with different sh…"
 resource: https://baronboutique.com/flat-front-charcoal-gray-pants/
 tags: [men, trousers, pants, wool, flat-front, charcoal, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Men's Charcoal Gray Pants

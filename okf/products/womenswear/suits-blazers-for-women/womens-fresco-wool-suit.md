@@ -4,7 +4,7 @@ title: "The Fresco Performance Suit"
 description: "This is the suit engineered for high-pressure days. Our Fresco Wool Suit is crafted from a legendary performance fabric, a naturally breathable and wrinkle-resistant wool designed to keep you looking …"
 resource: https://baronboutique.com/womens-fresco-wool-suit/
 tags: [women, suit, blazer, wool, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # The Fresco Performance Suit

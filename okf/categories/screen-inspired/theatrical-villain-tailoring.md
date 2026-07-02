@@ -4,7 +4,7 @@ title: "Theatrical Villain"
 description: "Theatrical Villain Darker. Bolder. Built for those who understand that the villain always has the better wardrobe. Every coat, suit, and tailcoat in this collection draws from the most iconic villain moments in modern cinema. The silhouettes are dramatic. The fabrics are uncompromising. The tailoring is entirely your own. Each piece is bespoke, cut and constructed exclusively for your measurements. Our complimentary test garment process guarantees a flawless fit before a single thread is committed to your final garment."
 resource: https://baronboutique.com/screen-inspired/theatrical-villain-tailoring/
 tags: [theatrical-villain, villain-costume, gothic-tailoring, dramatic-coat, theatrical-fashion, screen-inspired, cinematic-fashion, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Theatrical Villain

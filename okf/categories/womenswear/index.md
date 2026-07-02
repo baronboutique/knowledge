@@ -4,7 +4,7 @@ title: "Women"
 description: "Bespoke Womenswear, Tailored to You Custom suits, dresses, coats, wedding suits, and handcrafted cashmere. Each garment is made to order. Hand‑tailored to your measurements and your brief, engineered for your figure rather than adjusted to it. A complimentary test garment arrives before we cut the final fabric, so the fit is right before production. Collector‑quality craftsmanship."
 resource: https://baronboutique.com/womenswear/
 tags: [women, womens-tailoring, custom-womenswear, womens-suits, womens-formalwear, womens-dresses, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Women

@@ -4,7 +4,7 @@ title: "Navy Flannel Suit"
 description: "Every man should have wool flannel suits in his wardrobe. Start with a simple solid navy flannel suit with a perfect sleeve-length jacket and notch lapel front."
 resource: https://baronboutique.com/mens-navy-wool-flannel-suit/
 tags: [men, suit, blazer, flannel, notch-lapel, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Navy Flannel Suit

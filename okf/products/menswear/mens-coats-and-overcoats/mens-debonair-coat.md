@@ -4,7 +4,7 @@ title: "Men's Debonair Coat"
 description: "Men's debonair coat has plenty to offer to its wearer, from cleanly tailored lines to undeniably sophisticated glamour."
 resource: https://baronboutique.com/mens-debonair-coat/
 tags: [men, overcoat, wool, camel, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Men's Debonair Coat

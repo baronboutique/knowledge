@@ -4,7 +4,7 @@ title: "Shirts"
 description: "Buy mens dress shirts, stylish full sleeves silk shirts, and cotton shirts boutique made. Mens dress shirts in elegant designs for every man. Free try on …"
 resource: https://baronboutique.com/menswear/shirts/
 tags: [shirts, dress-shirts, formal-shirts, custom-shirts, mens-shirts, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Shirts

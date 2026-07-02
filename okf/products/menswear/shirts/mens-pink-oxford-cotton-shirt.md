@@ -4,7 +4,7 @@ title: "The Pink Oxford Shirt"
 description: "The essential pink oxford shirt, a cornerstone of masculine style. Its versatile character pairs with the smooth finish of a worsted suit or provides a point of textural contrast to a flannel blazer."
 resource: https://baronboutique.com/mens-pink-oxford-cotton-shirt/
 tags: [men, shirt, cotton, pink, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # The Pink Oxford Shirt

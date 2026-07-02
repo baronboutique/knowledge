@@ -1,10 +1,10 @@
 # Baron Boutique
 
 Generated-By: Baron Boutique AI Knowledge Manager
-Version: 1.9.7
-Generated: 2026-06-18 10:27 UTC
-Knowledge-Revision: 7
-Last-Updated: 2026-06-18
+Version: 1.9.9
+Generated: 2026-07-02 14:07 UTC
+Knowledge-Revision: 8
+Last-Updated: 2026-07-02
 
 ## What you can do with this document
 
@@ -3486,7 +3486,7 @@ SKU: 1600024
 Price: USD 1499 (as of generation date)
 Cape Fabric: 13 options available
 Satin Silk Lining: 20 options available
-Tunic & Pants Fabric: 13 options available
+Tunic &amp; Pants Fabric: 13 options available
 Acetate Lining: 34 options available
 
 Most grooms at destination weddings wear the same suit they could have worn at any church ceremony in their hometown. This three-piece ensemble is different in a way that requires no explanation. A mandarin-collar tunic in Super 130s Fresco wool, tailored trousers, and a floor-length cape lined in pure satin silk, built to your measurements in 13 colors. We send a free test suit first. You board the plane knowing the fit is right.
@@ -3774,9 +3774,6 @@ Mens vests – Dress vests for men boutique made of linen and wool. High-quality
 
 ## Services
 
-### Our Services
-URL: https://baronboutique.com/our-services/
-
 ### Private Label
 Baron Boutique offers expert private label and white label production partnership for brands seeking high-quality custom tailored garments (bespoke, MTM suits, shirts, etc.) and luxurious bespoke cashmere items (scarves, shawls, sweaters, robes, throws and more). Leverage our atelier craftsmanship to build your brand. Develop diverse product lines seamlessly with a single, trusted partner.
 URL: https://baronboutique.com/private-label/
@@ -3792,9 +3789,6 @@ URL: https://baronboutique.com/retailers-wholesale-program/
 ### Designer Program
 Baron Boutique's Designer Program provides emerging and established fashion designers with affordable, flexible production support. Start with prototypes, scale at your own pace, and access master craftsmanship without minimum orders or large upfront investments. Perfect for designers transitioning into the industry, recent graduates, or entrepreneurs with niche concepts.
 URL: https://baronboutique.com/designer-program/
-
-### How It Works
-URL: https://baronboutique.com/how-it-works/
 
 ### Natural Hemp Fabric & Clothing
 Baron Boutique offers premium 100% natural hemp fabric and clothing production from high-altitude Nepal (1500m-3000m elevation). Our alpine-grade Himalayan hemp is handcrafted by skilled artisans, stronger than cotton (3x tensile strength), sustainable, chemical-free, and perfect for fashion designers, brands, and eco-conscious consumers embracing the 2026 Bio-Integrity movement. Services include hemp fabric by the meter, custom clothing, private label production, bespoke hemp garments, and wholesale hemp collections.
@@ -3849,24 +3843,6 @@ Skirts → is a subcategory of → Women
 Vests → is a subcategory of → Men
 
 ## FAQ Knowledge Base
-
-Q: How does the online consultation process work for bespoke and made-to-measure services?
-A: Our online consultation involves a detailed discussion about your style preferences, garment needs, and fit requirements. We guide you through the measurement process with easy-to-follow instructions and visual aids to ensure accuracy from the comfort of your home. Submit the form with your required service to get started.
-
-Q: What kind of communication can I expect during the creation of my custom garment?
-A: We believe in keeping you informed every step of the way. You can expect regular updates on the progress of your garment, including photos or videos at key stages. Our team is also readily available to answer any questions you may have throughout the process via email.
-
-Q: If I'm unsure about the design, do you offer any design assistance?
-A: Yes, we provide design assistance. Baron offers personalized recommendations based on your needs and current trends.
-
-Q: What are the shipping options and estimated delivery times for international orders?
-A: We offer international shipping via established courier providers such as FedEx, DHL, and UPS. Delivery timelines are estimates and may vary depending on your location, courier operations, and customs processing. Tracking details are provided once your order is dispatched.
-
-Q: What happens if I need alterations after receiving my made-to-measure garment since I'm located internationally?
-A: For both bespoke and made-to-measure orders, we include a complimentary test fit to minimize the need for alterations. However, if minor adjustments are necessary—such as sleeve or pant length alterations—we recommend visiting a trusted local tailor. For more significant modifications, please contact us to receive shipping instructions for returning the garment to us for alteration.
-
-Q: Can I see examples of previous online custom projects you've completed?
-A: Yes, we have pictures of custom garments we've created for clients worldwide through our online services. Please contact us, and we'd be happy to share relevant examples of our craftsmanship.
 
 Q: What is Private Label?
 A: Private label means we produce goods (in this case, custom tailored clothing or cashmere items) specifically for your brand, which you then sell under your own name. You control the branding, marketing, and pricing.
@@ -3974,7 +3950,7 @@ Q: Do you ship internationally? What are the costs?
 A: Yes, we ship worldwide with tracked delivery. Shipping is included in your quote. Delivery times vary by destination (typically 1-2 weeks after production). Customers may be responsible for customs duties based on their country's taxation requirements. We ensure secure, protective packaging for safe transit.
 
 Q: How long does production and delivery take?
-A: Production typically takes 4-6 weeks from design approval to delivery, depending on customization complexity and order size. For time-sensitive events like weddings or corporate milestones, contact us early—we offer rush service at no additional cost when absolutely needed. We ship worldwide with tracked delivery included.
+A: Production is typically 4 to 6 weeks from order confirmation. This covers making the test coat, shipping it to you, receiving your fit confirmation, and completing the final garment. Worldwide tracked shipping is included in the price. If you have a fixed deadline — a wedding, convention, or event — mention it at checkout and we will advise on feasibility.
 
 Q: What if I need gifts delivered by a specific event date?
 A: Contact us as early as possible with your event date (ideally 8-12 weeks in advance for custom orders). We prioritize deadline-driven orders and provide honest timeline assessments. Rush service is available at no additional cost when absolutely needed, subject to production capacity and customization complexity.
@@ -4062,39 +4038,6 @@ A: Yes. Our flexible approach makes this ideal for designers building their bran
 
 Q: What makes Baron Boutique different from other manufacturers?
 A: Several factors: no minimum orders (you can start with one piece), in-house production with quality control, master craftsmanship on every piece, transparent communication, design consultation included, affordable prototyping, and genuine commitment to emerging designers. We've been doing this for over 20 years. We believe great design shouldn't require great wealth, and we back that belief with flexible terms and fair pricing.
-
-Q: Is the test garment free?
-A: Yes. The test garment is included with every bespoke tailored order at no extra charge. It is made in cotton, shipped to you, and is yours to keep.
-
-Q: What if the test garment doesn't fit properly?
-A: That is exactly what the test garment is for. Try it on, photograph yourself from the front, back, and sides, and email the photos to us with your feedback. Our tailors will correct the pattern before making your final garment. Minor fit issues at this stage are normal and expected.
-
-Q: Can I skip the test garment and go straight to the final garment?
-A: We strongly advise against it. The test garment is how we guarantee your fit. Without it, we cannot correct any measurement discrepancies before cutting your final fabric. The two-stage process exists to protect you.
-
-Q: What measurements do I need to provide?
-A: The measurements required depend on the garment. A full suit requires jacket and trouser measurements including chest, waist, hips, shoulders, sleeve length, trouser length, and rise. A measuring guide is available on every product page with step-by-step instructions for taking each measurement accurately.
-
-Q: How do I send my test garment photos and feedback?
-A: After trying on the test garment, have someone take clear photos of you from the front, back, and both sides for each garment. Email the photos along with your written feedback to customerservice@baronboutique.com. The more specific your feedback, the more precisely we can adjust the final garment.
-
-Q: Can I change my order after placing it?
-A: Changes may be possible before production begins. Contact us as soon as possible at customerservice@baronboutique.com. Once fabric sourcing or production has started, changes may not be possible.
-
-Q: I don't have a PayPal account. Can I still pay?
-A: Yes. At checkout, select the card payment option through PayPal and enter your debit or credit card details directly. No PayPal account is required at any point. See our Payment Policy for full details.
-
-Q: How long does the whole process take from order to final garment?
-A: The full process involves two stages. Your test garment takes approximately 4 weeks (21 business days production + shipping). After you send your feedback, the final garment takes another 4 weeks. Total time from order to final delivery is typically 8 to 10 weeks for most customers.
-
-Q: Do cashmere scarves and accessories go through the same process?
-A: No. Scarves, shawls, wraps, and non-tailored accessories do not require measurements or a test garment. You simply add them to your cart, pay, and they are made to order and shipped within 12–14 business days. Accessories ship free worldwide.
-
-Q: If I order again in the future, do I need another test garment?
-A: If your measurements haven't changed, your saved pattern means subsequent orders can often skip the test garment stage or require only minor adjustments. We keep your pattern on file and update it with any corrections from your previous order.
-
-Q: What if the final garment still needs alterations?
-A: All garments are made with extra seam allowances for this reason. If minor local alterations are needed after the final garment arrives, we reimburse reasonable local tailoring costs. Contact us with photos and your receipts. See our Alteration & Refund Policy for full details.
 
 Q: What makes Himalayan hemp different from other hemp fabric?
 A: Our hemp is cultivated at high altitudes in Nepal's pristine mountain environment, where clean air, natural rainfall, and chemical-free farming create superior fiber quality. Combined with traditional handweaving techniques passed down through generations, our Himalayan hemp offers exceptional strength, softness, and durability that mass-produced hemp cannot match.
@@ -4206,9 +4149,6 @@ A: Car coats sitting at the hip are the most practical for everyday use and work
 
 Q: Can I choose the lining and color of my coat?
 A: Yes. Most styles are available in multiple outer fabric colors, and lining options vary by coat. The peacoat collection offers 33 lining color choices. Some styles offer standard acetate lining; others allow bespoke lining selection. The specific options for each coat are listed on its individual product page.
-
-Q: How long does production and delivery take?
-A: Production is typically 4 to 6 weeks from order confirmation. This covers making the test coat, shipping it to you, receiving your fit confirmation, and completing the final garment. Worldwide tracked shipping is included in the price. If you have a fixed deadline — a wedding, convention, or event — mention it at checkout and we will advise on feasibility.
 
 Q: What type of coat does Neo wear in The Matrix?
 A: Neo wears a floor-length black wool trench coat with a wide notch lapel, deep back vent, and structured shoulder — designed to read as a modern interpretation of a cassock or ecclesiastical robe. In the original Matrix film the coat is relatively softly structured. In The Matrix Reloaded, the coat becomes more dramatic — longer, with a mandarin collar, no visible buttons, and a flare that begins below the knee rather than the hip. Each film features a slightly different construction, which is why this collection offers a separate coat for each version.

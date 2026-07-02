@@ -4,7 +4,7 @@ title: "Black Dress With Leather Trim Sleeveless Zipper Back"
 description: "Black Dress with Leather Trim – Sleek & Stylish. This sleeveless black dress with a leather-trimmed zipper back is your go-to for parties and evening events."
 resource: https://baronboutique.com/womens-black-dress/
 tags: [women, dress, tropical-wool, leather, black, evening, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Black Dress With Leather Trim Sleeveless Zipper Back

@@ -4,7 +4,7 @@ title: "The Piped-Trim Pencil Skirt"
 description: "This is the wardrobe staple, brilliantly reimagined. Our Women's Black Pencil Skirt is elevated from a simple basic into a modern statement piece with its sharp, contrasting white piped trim."
 resource: https://baronboutique.com/womens-white-trim-pencil-skirt/
 tags: [women, skirt, wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # The Piped-Trim Pencil Skirt

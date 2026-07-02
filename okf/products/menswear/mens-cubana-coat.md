@@ -4,7 +4,7 @@ title: "Men's Cubana Coat"
 description: "Men's Cubana coat is a must-have addition to a cutting-edge wardrobe for its sophistication and versatility."
 resource: https://baronboutique.com/mens-cubana-coat/
 tags: [men, overcoat, flannel, pleated, grey, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Men's Cubana Coat

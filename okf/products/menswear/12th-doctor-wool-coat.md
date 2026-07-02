@@ -4,7 +4,7 @@ title: "12th Doctor Blue Coat with Red Lining"
 description: "A gorgeous blue 12th Doctor coat with a red lining is perfect for everyday use and ideal for a light winter. The 12th Doctor coat is tailored from Super 120s 100% wool flannel in navy blue cloth."
 resource: https://baronboutique.com/12th-doctor-wool-coat/
 tags: [men, overcoat, flannel, blue, winter, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # 12th Doctor Blue Coat with Red Lining

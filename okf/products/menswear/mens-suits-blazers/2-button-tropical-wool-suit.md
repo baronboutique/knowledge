@@ -4,7 +4,7 @@ title: "Tropical Wool Suit"
 description: "Men's 2 buttons tropical wool suit to fulfill your business needs. If you live and work in climate-controlled environments these tropical wool suits are a year-round option."
 resource: https://baronboutique.com/2-button-tropical-wool-suit/
 tags: [men, suit, blazer, tropical-wool, gray, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Tropical Wool Suit

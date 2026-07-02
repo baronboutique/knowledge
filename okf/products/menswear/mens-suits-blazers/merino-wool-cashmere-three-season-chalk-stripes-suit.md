@@ -4,7 +4,7 @@ title: "Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere"
 description: "Most chalk stripe suits fail on fit. The bold vertical stripe amplifies everything - including a jacket that pulls across the chest or trousers that break at the wrong angle."
 resource: https://baronboutique.com/merino-wool-cashmere-three-season-chalk-stripes-suit/
 tags: [men, suit, blazer, merino-wool, cashmere, canvas-front, bespoke, made-to-order]
-timestamp: 2026-07-02T12:14:50Z
+timestamp: 2026-07-02T14:15:55Z
 ---
 
 # Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere
