@@ -3,8 +3,8 @@ type: Product
 title: "Mens Fitted Peacoat Black Quantum Of Solace Ending"
 description: "Mens fitted peacoat in black made famous by James Bond. The minified replica coat from Quantum Of Solace ending scene mens black peacoat is known for its warmth and durability."
 resource: https://baronboutique.com/quantum-of-solace-peacoat/
-tags: [men, overcoat, peacoat, cashmere, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, peacoat, wool, double-breasted, winter-coat, james-bond, spy-tailoring, quantum-of-solace, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Mens Fitted Peacoat Black Quantum Of Solace Ending
@@ -32,7 +32,7 @@ Own the sharp, commanding style of 007 with this fitted peacoat, a faithful repl
 - Men › Coats & Overcoats
 - Screen Inspired › Spy Tailoring
 
-**Related terms:** topcoat, winter coat, wool
+**Related terms:** Daniel Craig pea coat, 007 navy coat, spy movie winter coat, naval officer coat
 
 ## Related
 

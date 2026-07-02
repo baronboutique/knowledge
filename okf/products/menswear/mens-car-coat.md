@@ -3,8 +3,8 @@ type: Product
 title: "Men's Car Coat In Wool"
 description: "Single breasted men's car coat for a cozy ensemble. When it comes to enjoying a night out in the town this wool car coat is men's fashionable outwear to spice up the casual style."
 resource: https://baronboutique.com/mens-car-coat/
-tags: [men, overcoat, wool, charcoal, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, car-coat, overcoat, long-coat, wool, winter-coat, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Men's Car Coat In Wool
@@ -31,7 +31,7 @@ Men’s Wool Car Coat Built for weather and refined for style, this men’s car 
 
 - Men › Coats & Overcoats
 
-**Related terms:** topcoat, winter coat
+**Related terms:** three quarter length coat, mens short overcoat, driving coat, commuter wool coat
 
 ## Related
 

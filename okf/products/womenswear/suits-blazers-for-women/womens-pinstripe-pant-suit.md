@@ -3,8 +3,8 @@ type: Product
 title: "Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend"
 description: "New Collection New Fabric Collection — Now Available We've expanded our pinstripe merino wool selection with a new fabric range."
 resource: https://baronboutique.com/womens-pinstripe-pant-suit/
-tags: [women, suit, blazer, merino-wool, cashmere, canvas-front, peak-lapel, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, suit, pant-suit, pants, pinstripe, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend
@@ -97,7 +97,7 @@ Full Specification
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** pinstripe trouser suit for women, banker stripe pantsuit, power suit with stripes, boardroom suit for her, custom striped suit ladies
 
 ## Related
 

@@ -4,7 +4,7 @@ title: "The Crepe Silk Shirt Dress"
 description: "This is the end of the \"what to wear\" dilemma. Our Silk Shirt Dress for women is the ultimate instant outfit, combining the polished look of a classic shirt with the luxurious, fluid drape of pure cre…"
 resource: https://baronboutique.com/womens-tie-waist-crepe-silk-tailored-blouse/
 tags: [women, shirt, dress, crepe-silk, silk, black, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Crepe Silk Shirt Dress

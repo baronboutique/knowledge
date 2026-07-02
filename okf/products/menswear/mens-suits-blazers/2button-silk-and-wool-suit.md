@@ -3,8 +3,8 @@ type: Product
 title: "2 Button Silk and Wool Suit"
 description: "Well-made men's 2 button silk and wool suit in the quality fabric makes the perfect addition to your wardrobe."
 resource: https://baronboutique.com/2button-silk-and-wool-suit/
-tags: [men, suit, blazer, silk, wedding, summer, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, silk-wool, silk, wool, two-button, single-breasted, summer, wedding, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # 2 Button Silk and Wool Suit
@@ -31,7 +31,7 @@ The introduction of silk to fine worsted wool creates a cloth of exceptional cha
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, silk wool
+**Related terms:** silk wool blend suit, summer wedding suit, sheen suit for parties, lightweight travel suit, custom silk mix suit
 
 ## Related
 

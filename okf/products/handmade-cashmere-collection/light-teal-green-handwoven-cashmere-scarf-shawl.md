@@ -3,8 +3,8 @@ type: Product
 title: "Light Teal Green Handwoven Cashmere Scarf Shawl"
 description: "Blush of the Himalayan Dawn: Embrace the softness of your new favorite Light Teal Green Handwoven Cashmere Scarf Shawl Crafted from 100% pure, allergen-free Grade A cashmere."
 resource: https://baronboutique.com/light-teal-green-handwoven-cashmere-scarf-shawl/
-tags: [women, scarf, shawl, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, shawl, wrap, handwoven, teal-green, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Light Teal Green Handwoven Cashmere Scarf Shawl
@@ -31,7 +31,7 @@ Yarn and Weight 200/2 yarn count 14-16 microns diameter 35-55mm yarn length Feat
 - Scarves
 - Women › Accessories
 
-**Related terms:** wrap, stole, muffler, pashmina
+**Related terms:** teal pashmina wrap, seafoam green stole, light green cashmere muffler, oversized aqua shawl, Nepal handloom wrap
 
 ## Related
 

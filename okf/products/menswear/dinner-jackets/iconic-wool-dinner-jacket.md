@@ -4,7 +4,7 @@ title: "Off White Dinner Jacket"
 description: "Our off-white dinner jacket is beautifully tailored for an incredibly flattering shape. These men's dinner jacket is all about making a smart statement on occasions that call for something a bit speci…"
 resource: https://baronboutique.com/iconic-wool-dinner-jacket/
 tags: [men, dinner-jacket, suit, blazer, wool, peak-lapel, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Off White Dinner Jacket

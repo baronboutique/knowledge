@@ -3,8 +3,8 @@ type: Product
 title: "Navy Flannel Suit"
 description: "Every man should have wool flannel suits in his wardrobe. Start with a simple solid navy flannel suit with a perfect sleeve-length jacket and notch lapel front."
 resource: https://baronboutique.com/mens-navy-wool-flannel-suit/
-tags: [men, suit, blazer, flannel, notch-lapel, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, flannel, wool, navy, notch-lapel, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Navy Flannel Suit
@@ -31,7 +31,7 @@ The navy flannel suit is a cornerstone of the sophisticated masculine wardrobe, 
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** navy flannel two piece, soft wool business suit, brushed wool suit, cold weather suit custom, winter interview suit
 
 ## Related
 

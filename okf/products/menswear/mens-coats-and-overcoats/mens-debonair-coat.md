@@ -3,8 +3,8 @@ type: Product
 title: "Men's Debonair Coat"
 description: "Men's debonair coat has plenty to offer to its wearer, from cleanly tailored lines to undeniably sophisticated glamour."
 resource: https://baronboutique.com/mens-debonair-coat/
-tags: [men, overcoat, wool, camel, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, coat, overcoat, topcoat, wool, winter-coat, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Men's Debonair Coat
@@ -31,7 +31,7 @@ This is the definitive camel coat, reimagined in a robust, 18-ounce Melton wool.
 
 - Men › Coats & Overcoats
 
-**Related terms:** topcoat, winter coat
+**Related terms:** men's dress overcoat, tailored city coat, classic wool topcoat, custom winter overcoat, elegant long coat for suits
 
 ## Related
 

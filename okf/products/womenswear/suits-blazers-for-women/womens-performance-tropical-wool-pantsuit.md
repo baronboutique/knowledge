@@ -3,8 +3,8 @@ type: Product
 title: "The Performance Tropical Wool Suit"
 description: "This is your armor for high-pressure days. The Performance Tropical Wool Suit is crafted from lightweight, breathable tropical wool to keep you looking sharp and feeling cool."
 resource: https://baronboutique.com/womens-performance-tropical-wool-pantsuit/
-tags: [women, suit, blazer, tropical-wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, suit, pant-suit, tropical-wool, wool, summer, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Performance Tropical Wool Suit
@@ -31,7 +31,7 @@ Your Armor for the Concrete Jungle This is the power suit, engineered for the mo
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** lightweight summer suit for women, breathable travel pantsuit, hot weather business suit, custom ladies trouser suit, cool wearing suit for work trips
 
 ## Related
 

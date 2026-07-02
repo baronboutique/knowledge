@@ -3,8 +3,8 @@ type: Product
 title: "The Pink Oxford Shirt"
 description: "The essential pink oxford shirt, a cornerstone of masculine style. Its versatile character pairs with the smooth finish of a worsted suit or provides a point of textural contrast to a flannel blazer."
 resource: https://baronboutique.com/mens-pink-oxford-cotton-shirt/
-tags: [men, shirt, cotton, pink, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, shirt, dress-shirt, oxford-cotton, cotton, pink, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Pink Oxford Shirt
@@ -30,7 +30,7 @@ Machine wash. Pink Oxford Shirt Features 100% Oxford cotton plain button-front s
 
 - Men › Shirts
 
-**Related terms:** dress shirt, formal shirt
+**Related terms:** pink oxford shirt, salmon dress shirt, pastel shirt for suits, custom pink business shirt, oxford weave shirt for men
 
 ## Related
 

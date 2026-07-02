@@ -3,8 +3,8 @@ type: Product
 title: "New Generation Line Navy Wool Pants"
 description: "Handmade navy wool dress pants perfectly tailored to customer's measurements. The new generation aims to stand out from a crowd with their unique clothing choices."
 resource: https://baronboutique.com/new-generation-navy-wool-pants/
-tags: [men, trousers, pants, wool, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, pants, dress-pants, wool, navy, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # New Generation Line Navy Wool Pants
@@ -31,7 +31,7 @@ Sharkskin is a connoisseur's cloth, a two-toned worsted wool prized for its uniq
 
 - Men › Pants
 
-**Related terms:** dress pants, tailored trousers
+**Related terms:** navy dress trousers, modern fit wool pants, office slacks navy, custom navy trousers, business pants staple
 
 ## Related
 

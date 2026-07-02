@@ -3,8 +3,8 @@ type: Product
 title: "Prince Vlad Dracula London Suit"
 description: "Every Gary Oldman Dracula costume online gets the grey right and misses everything else -- no dupioni silk lapels, wrong vest construction, no princess seams."
 resource: https://baronboutique.com/vlad-dracula-london-suit/
-tags: [men, suit, dupioni-silk, silk, canvas-front, double-breasted, princess-seam, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, wool, dupioni-silk, vest, gray, victorian-style, dracula, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Prince Vlad Dracula London Suit
@@ -110,7 +110,7 @@ Trousers
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, wool
+**Related terms:** Gary Oldman Dracula suit, Bram Stoker's Dracula costume, Prince Vlad gray suit, Victorian three piece suit, vampire costume suit
 
 ## Related
 

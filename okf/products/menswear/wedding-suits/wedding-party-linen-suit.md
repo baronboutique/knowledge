@@ -3,8 +3,8 @@ type: Product
 title: "The Linen Ceremonial Suit"
 description: "Putting on a beautifully tailored linen wedding party suit elevates your spirit and helps to define you as a man to whom details matter."
 resource: https://baronboutique.com/wedding-party-linen-suit/
-tags: [men, suit, blazer, linen, wedding, ceremonial, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, linen, summer, wedding, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Linen Ceremonial Suit
@@ -32,7 +32,7 @@ A wedding is a collective celebration, and the attire of the wedding party shoul
 - Men › Wedding Suits
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** beach wedding suit, groomsmen linen suit, summer groom suit, destination wedding outfit, breathable ceremony suit
 
 ## Related
 

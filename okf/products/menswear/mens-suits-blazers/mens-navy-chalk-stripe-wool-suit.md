@@ -3,8 +3,8 @@ type: Product
 title: "Navy Chalk Stripe Suit"
 description: "Not your ordinary navy chalk stripe suit. These mens chalk stripe suits are carefully constructed from year-round lightweight pure wool cloths for a refined yet effortless look for any occasion."
 resource: https://baronboutique.com/mens-navy-chalk-stripe-wool-suit/
-tags: [men, suit, blazer, wool, notch-lapel, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, wool, chalk-stripe, navy, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Navy Chalk Stripe Suit
@@ -31,7 +31,7 @@ The navy chalk stripe suit is the definitive uniform of the global business elit
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** chalk stripe suit custom, navy striped business suit, banker suit, power suit with stripes, 1930s style striped suit
 
 ## Related
 

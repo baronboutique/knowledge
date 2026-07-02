@@ -3,8 +3,8 @@ type: Product
 title: "Mens Burgundy Flannel Tuxedo"
 description: "Burgundy is having a genuine moment in menswear — runway-validated, worn by men who know the difference between a statement and a mistake."
 resource: https://baronboutique.com/light-weight-all-season-wool-flannel-tuxedo-suit/
-tags: [men, dinner-jacket, suit, blazer, flannel, canvas-front, shawl-collar, burgundy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, tuxedo, dinner-jacket, burgundy, flannel, wool, shawl-collar, canvas-front, wedding, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Mens Burgundy Flannel Tuxedo
@@ -81,7 +81,7 @@ If you are the groom, these are options for your wedding party, your guests, and
 - Men › Dinner Jackets
 - Men › Wedding Suits
 
-**Related terms:** tuxedo jacket, smoking jacket, two-piece suit, three-piece suit, formal suit, sport coat
+**Related terms:** burgundy tuxedo, smoking jacket, colored tuxedo, wedding tuxedo, black-tie alternative
 
 ## Related
 

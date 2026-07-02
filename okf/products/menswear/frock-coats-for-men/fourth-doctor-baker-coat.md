@@ -4,7 +4,7 @@ title: "Fourth Doctor Horror Of Fang Baker Coat"
 description: "A timeless fourth Doctor Baker Horror Of Fang Baker coat is truly an iconic coat essential for your cosplay collection."
 resource: https://baronboutique.com/fourth-doctor-baker-coat/
 tags: [men, frock-coat, wool, grey, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Fourth Doctor Horror Of Fang Baker Coat

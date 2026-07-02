@@ -3,8 +3,8 @@ type: Product
 title: "The Essential Black Pant Suit"
 description: "This is your wardrobe's 'master key.' The Essential Black Pant Suit is custom-tailored from a luxurious wool-cashmere blend for a flawless, powerful silhouette."
 resource: https://baronboutique.com/womens-essential-black-pant-suit/
-tags: [women, suit, blazer, wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, suit, pant-suit, wool-cashmere, wool, black, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Essential Black Pant Suit
@@ -31,7 +31,7 @@ Your Wardrobe's "Master Key" This is not just a black suit. This is the single m
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** black trouser suit, interview suit for women, wool cashmere pantsuit, funeral suit for women, year round black suit
 
 ## Related
 

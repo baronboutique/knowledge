@@ -3,8 +3,8 @@ type: Product
 title: "Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool"
 description: "The off-white pinstripe suit that actually fits. Custom made to your measurements in Super 130s merino wool - double-breasted jacket with canvas front and wide peak lapels, wide-leg trouser with bell …"
 resource: https://baronboutique.com/womens-off-white-pinstripe-double-breasted-suit/
-tags: [women, suit, blazer, merino-wool, canvas-front, double-breasted, peak-lapel, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, suit, wool, merino-wool, off-white, pinstripe, double-breasted, peak-lapel, canvas-front, wedding, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool
@@ -105,7 +105,7 @@ The Trousers
 - Women › Suits & Blazers
 - Women › Wedding Suits
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** cream pinstripe pantsuit, Zendaya Met Gala style suit, ivory power suit women, bridal trouser suit, wide leg pinstripe suit
 
 ## Related
 

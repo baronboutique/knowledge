@@ -3,8 +3,8 @@ type: Product
 title: "Hand Finished Silk Pocket Squares"
 description: "Baron Boutique offers the best hand finished custom silk pocket squares. The squares crafted with the finest 100% satin silk and meticulously stitched by hand."
 resource: https://baronboutique.com/silk-pocket-squares-handmade/
-tags: [women, pocket-square, satin-silk, silk, purple, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, pocket-square, silk, solid-color, formalwear, wedding, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Hand Finished Silk Pocket Squares
@@ -31,6 +31,8 @@ Packaging of Custom Silk Pocket Squares The silk pocket square is the punctuatio
 
 - Women › Accessories
 - Men › Accessories
+
+**Related terms:** silk hankie for suit, hand rolled pocket square, groom pocket square, suit accessory gift
 
 ## Related
 

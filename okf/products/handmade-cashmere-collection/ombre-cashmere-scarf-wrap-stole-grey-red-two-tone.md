@@ -3,8 +3,8 @@ type: Product
 title: "Ombre Cashmere Scarf Wrap Stole"
 description: "Embrace luxurious comfort with this ultra-soft Ombre Cashmere Scarf Wrap Stole. Featuring a beautiful grey & red two-tone gradient, this versatile, lightweight piece adds effortless elegance to any lo…"
 resource: https://baronboutique.com/ombre-cashmere-scarf-wrap-stole-grey-red-two-tone/
-tags: [women, scarf, wrap, stole, cashmere, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, wrap, stole, ombre, grey, red, handwoven, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Ombre Cashmere Scarf Wrap Stole
@@ -31,7 +31,7 @@ Gradient Sky Feel the mountain air captured in this cashmere wrap. A blend of so
 - Scarves
 - Women › Accessories
 
-**Related terms:** muffler
+**Related terms:** two tone pashmina, gradient cashmere shawl, grey and red muffler, dip dye cashmere wrap
 
 ## Related
 

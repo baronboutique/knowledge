@@ -3,8 +3,8 @@ type: Product
 title: "The Leather-Trimmed Sharkskin Blazer"
 description: "This is the end of the \"boring office blazer.\" Our Women’s Office Work Blazer Jacket is elevated with the unexpected, luxurious touch of a genuine leather collar, set against the subtle texture of sha…"
 resource: https://baronboutique.com/womens-sharkskin-jacket/
-tags: [women, suit, blazer, leather, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, blazer, sharkskin-wool, wool, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Leather-Trimmed Sharkskin Blazer
@@ -32,7 +32,7 @@ The Blazer, Upgraded with a Designer's Edge This is the antidote to the boring o
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** sharkskin blazer for women, iridescent gray jacket, two tone weave blazer, ladies tailored suit jacket, shimmering office blazer
 
 ## Related
 

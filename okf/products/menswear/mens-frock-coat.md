@@ -3,8 +3,8 @@ type: Product
 title: "Western Frock Coat in Wool, Made to Measure"
 description: "Every western frock coat online is either a polyester costume or a standard suit jacket with \"western\" in the title."
 resource: https://baronboutique.com/mens-frock-coat/
-tags: [men, frock-coat, suit, flannel, canvas-front, wedding, black-tie, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, frock-coat, long-coat, flannel, wool, western, wedding, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Western Frock Coat in Wool, Made to Measure
@@ -83,7 +83,7 @@ A western or ranch ceremony has its own visual language, and the groom's coat se
 - Men › Coats & Overcoats
 - Men › Frock Coats
 
-**Related terms:** long coat, tailcoat, morning coat, ceremonial coat, two-piece suit, three-piece suit
+**Related terms:** old west preacher coat, gunslinger coat, victorian style coat, cowboy wedding coat, gentleman duster
 
 ## Related
 

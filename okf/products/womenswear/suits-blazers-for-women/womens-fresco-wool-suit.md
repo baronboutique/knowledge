@@ -3,8 +3,8 @@ type: Product
 title: "The Fresco Performance Suit"
 description: "This is the suit engineered for high-pressure days. Our Fresco Wool Suit is crafted from a legendary performance fabric, a naturally breathable and wrinkle-resistant wool designed to keep you looking …"
 resource: https://baronboutique.com/womens-fresco-wool-suit/
-tags: [women, suit, blazer, wool, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, suit, pant-suit, wool, fresco-wool, high-twist-wool, summer, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Fresco Performance Suit
@@ -31,7 +31,7 @@ Your Secret Weapon for High-Stakes Days This is the suit you wear when the press
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** fresco travel suit, breathable summer suit for women, wrinkle free business suit, high twist wool ladies suit, cool wearing office suit
 
 ## Related
 

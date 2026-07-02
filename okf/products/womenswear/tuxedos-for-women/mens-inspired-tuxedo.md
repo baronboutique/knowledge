@@ -3,8 +3,8 @@ type: Product
 title: "The Women's Bespoke Tuxedo"
 description: "This is the tuxedo, not a \"female version\" of it. Our Menswear-Inspired Tuxedo for Women is built with authentic, bespoke details like roped shoulders and dramatic satin wing-peak lapels."
 resource: https://baronboutique.com/mens-inspired-tuxedo/
-tags: [women, suit, blazer, tuxedo, wool, peak-lapel, black, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, tuxedo, wool, peak-lapel, menswear-inspired, black-tie, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Women's Bespoke Tuxedo
@@ -32,7 +32,7 @@ An Icon, Masterfully Reinterpreted This is not a "female version" of a tuxedo. T
 - Women › Tuxedos
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, dinner suit
+**Related terms:** androgynous tuxedo for women, masculine cut womens tux, Marlene Dietrich style suit, peak lapel tuxedo ladies, black tie tuxedo for her
 
 ## Related
 

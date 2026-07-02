@@ -4,7 +4,7 @@ title: "James Bond Skyfall Peacoat"
 description: "One of the most coveted collectibles for avid James Bond fans, Skyfall peacoat in unlined construction crafted from navy Melton wool."
 resource: https://baronboutique.com/james-bond-navy-peacoat-from-skyfall/
 tags: [men, peacoat, wool, double-breasted, navy, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # James Bond Skyfall Peacoat

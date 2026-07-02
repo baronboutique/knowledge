@@ -3,8 +3,8 @@ type: Product
 title: "Dryden Vos Costume Solo: A Star Wars Story Cosplay"
 description: "Make your own sleek, sophisticated, and stylish look with our screen-accurate Dryden Vos costume. The custom-made Dryden Vos outfit is perfect for any Star Wars fan."
 resource: https://baronboutique.com/dryden-vos-costumes-solo/
-tags: [men, crepe-silk, silk, black, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, jacket, cape, pants, wool, star-wars, theatrical-villain, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Dryden Vos Costume Solo: A Star Wars Story Cosplay
@@ -36,7 +36,7 @@ Dryden Vos Costume from Solo: A Star Wars Story Channel the sharp style of the C
 - Screen Inspired › Theatrical Villain
 - Screen Inspired › Cinema Classics
 
-**Related terms:** wool
+**Related terms:** Dryden Vos outfit, Solo movie villain suit, Star Wars crime lord costume, Crimson Dawn cosplay
 
 ## Related
 

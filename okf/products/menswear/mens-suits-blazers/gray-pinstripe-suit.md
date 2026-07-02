@@ -3,8 +3,8 @@ type: Product
 title: "Grey Pinstripe Suit"
 description: "The definitive grey pinstripe suit, an artifact of timeless sartorial authority. Tailored from a fine, lightweight Merino wool, it is an ideal choice for warm-weather business and travel."
 resource: https://baronboutique.com/gray-pinstripe-suit/
-tags: [men, suit, blazer, merino-wool, grey, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, wool, gray, pinstripe, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Grey Pinstripe Suit
@@ -31,7 +31,7 @@ The pinstripe suit is an artifact of pure sartorial authority, a foundational ga
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** pinstripe business suit, gray striped suit custom, banker style suit, power suit gray, striped two piece
 
 ## Related
 

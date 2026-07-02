@@ -3,8 +3,8 @@ type: Product
 title: "Black Slim Fit Pants"
 description: "Expertly tailored from premium wool, our black slim fit pants offer a refined look for both formal and smart-casual occasions."
 resource: https://baronboutique.com/crimson-black-slim-fit-pants/
-tags: [men, trousers, pants, tropical-wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, pants, dress-pants, crimson-black, slim-fit, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Black Slim Fit Pants
@@ -31,7 +31,7 @@ The essential black trouser, reimagined for a modern sensibility. This is the de
 
 - Men › Pants
 
-**Related terms:** dress pants, tailored trousers, wool
+**Related terms:** dark red dress pants, slim burgundy trousers, statement slacks, party pants for men, tapered red black trousers
 
 ## Related
 

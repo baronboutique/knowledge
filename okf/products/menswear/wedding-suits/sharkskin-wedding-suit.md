@@ -3,8 +3,8 @@ type: Product
 title: "Slate Blue Sharkskin Suit"
 description: "Slate blue wedding suit perfectly tailored to your body and styled to your personality. Use our free customizer to choose lapel style, lining, and buttons for a look that is exclusively yours."
 resource: https://baronboutique.com/sharkskin-wedding-suit/
-tags: [men, suit, blazer, wool, wedding, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, sharkskin-wool, wool, slate-blue, wedding, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Slate Blue Sharkskin Suit
@@ -32,7 +32,7 @@ To select a slate blue suit for a wedding is a statement of modern, sophisticate
 - Men › Wedding Suits
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** slate blue groom suit, sharkskin suit for wedding, blue gray two tone suit, iridescent wedding suit, custom groom outfit
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "Tristan Thorn Stardust Coat Replica"
 description: "Embrace the magic of Stardust with this exquisite replica of Tristan Thorn's iconic coat. Made from high-quality linen fabric, this Stardust coat features a classic long design, a contrast collar, and…"
 resource: https://baronboutique.com/tristan-thorn-stardust-coat-replica/
-tags: [men, coat, linen, grey, wedding, winter, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, coat, long-coat, linen, contrast-collar, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Tristan Thorn Stardust Coat Replica
@@ -33,6 +33,8 @@ Charlie Cox, the talented English actor, brought the character of Tristan Thorn 
 ## Categories
 
 - Screen Inspired › Cinema Classics
+
+**Related terms:** Tristan Thorn costume, Stardust movie coat, fantasy film long coat, Charlie Cox Stardust jacket
 
 ## Related
 

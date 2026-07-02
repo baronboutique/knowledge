@@ -4,14 +4,14 @@ title: "Alteration, Return & Refund Policy"
 description: "Custom-made garments are non-returnable once production has begun. Non-tailored accessories may be returned within 30 days. Alteration reimbursement is available for minor local adjustments."
 resource: https://baronboutique.com/alteration-return-refund/
 tags: [returns, refunds, alterations, policy, custom-garments, accessories]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Alteration, Return & Refund Policy
 
 ## Custom-Made Garments
 
-Custom-made garments are **not eligible for return or refund** once production has begun. This applies to all bespoke and made-to-measure garments.
+Custom-made garments are **not eligible for return or refund** once production has begun. This applies to all bespoke and made-to-order garments.
 
 Fit concerns are resolved through the test garment process (before the final garment is produced) and through the alteration service (after delivery).
 

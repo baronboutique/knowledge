@@ -4,7 +4,7 @@ title: "The Grey Flannel Suit"
 description: "A grey flannel suit is the outfit of preference and symbol of loyalty. You’ll definitely make a statement in this look."
 resource: https://baronboutique.com/iconic-hollywood-gray-flannel-suit/
 tags: [men, suit, blazer, flannel, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Grey Flannel Suit

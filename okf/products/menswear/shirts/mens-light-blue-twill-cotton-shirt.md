@@ -3,8 +3,8 @@ type: Product
 title: "Men's Twill Dress Shirts"
 description: "Men's twill dress shirts featuring fine craftsmanship, and offer a choice of button cuffs or French cuffs for the man who enjoys wearing cuff links."
 resource: https://baronboutique.com/mens-light-blue-twill-cotton-shirt/
-tags: [men, shirt, dress, cotton, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, shirt, dress-shirt, cotton, twill, light-blue, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Men's Twill Dress Shirts
@@ -30,7 +30,7 @@ The twill dress shirt is an exercise in textural sophistication. Its distinctive
 
 - Men › Shirts
 
-**Related terms:** dress shirt, formal shirt, gown, occasion dress
+**Related terms:** light blue office shirt, custom fitted dress shirt, blue twill work shirt, tailored shirt for suits, sky blue formal shirt
 
 ## Related
 

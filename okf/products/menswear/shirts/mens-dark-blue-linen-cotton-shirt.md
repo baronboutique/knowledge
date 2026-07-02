@@ -3,8 +3,8 @@ type: Product
 title: "The Linen & Cotton Shirt"
 description: "Get in the men's soft linen-cotton blend shirts for that cool, comfortable feeling. Designed in half sleeves to complement and match any wardrobe in a neutral shade of black, white, navy, khaki, and m…"
 resource: https://baronboutique.com/mens-dark-blue-linen-cotton-shirt/
-tags: [men, shirt, linen, cotton, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, shirt, dress-shirt, linen-cotton, linen, cotton, dark-blue, summer, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Linen & Cotton Shirt
@@ -30,7 +30,7 @@ The linen and cotton shirt is an exercise in sartorial engineering. It combines 
 
 - Men › Shirts
 
-**Related terms:** dress shirt, formal shirt, linen cotton
+**Related terms:** linen cotton blend shirt, navy summer shirt, breathable dress shirt, blue vacation shirt, custom warm weather shirt
 
 ## Related
 

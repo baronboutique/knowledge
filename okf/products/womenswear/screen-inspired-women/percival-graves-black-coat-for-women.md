@@ -3,8 +3,8 @@ type: Product
 title: "Black Wizard Robe Womens Percival Graves Fantastic Beasts Cosplay"
 description: "Womens black wizard robe replica from the Fantastic Beasts for Percival Graves cosplay. It wouldn’t take a magical spell to stand out from other things."
 resource: https://baronboutique.com/percival-graves-black-coat-for-women/
-tags: [women, overcoat, tropical-wool, black, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, coat, long-coat, wool, black, fantastic-beasts, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Black Wizard Robe Womens Percival Graves Fantastic Beasts Cosplay
@@ -32,7 +32,7 @@ Fantastic Beasts Percival Graves Test Robe-Fit and Style Evaluation The Attire o
 - Women › Screen Inspired
 - Women › Coats & Overcoats
 
-**Related terms:** topcoat, winter coat, wool
+**Related terms:** Colin Farrell coat for women, wizarding world costume, Graves overcoat for her, witch robe coat
 
 ## Related
 

@@ -4,7 +4,7 @@ title: "Collared Crossover Sheath Dress"
 description: "The answer to \"what should I wear?\" This is the dress you'll reach for again and again. Its clever crossover design is universally flattering, while the sharp collar keeps it polished and professional…"
 resource: https://baronboutique.com/womens-wrap-dress/
 tags: [women, dress, tropical-wool, blue, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Collared Crossover Sheath Dress

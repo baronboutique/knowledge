@@ -3,8 +3,8 @@ type: Product
 title: "Cloud Stripe Spring Cashmere Scarf"
 description: "A breath of highland air woven in cashmere—this lightweight striped spring scarf moves with grace, echoing the hush of grey skies and snow-melt winds."
 resource: https://baronboutique.com/cloud-stripe-spring-cashmere-scarf/
-tags: [women, scarf, cashmere, spring, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, wrap, striped, grey, lightweight, handwoven, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Cloud Stripe Spring Cashmere Scarf
@@ -31,7 +31,7 @@ Whispers of Thawing Valleys A sky-bound rhythm flows through the Cloud Stripe Sp
 - Scarves
 - Women › Accessories
 
-**Related terms:** wrap, stole, muffler
+**Related terms:** spring pashmina, airy cashmere muffler, soft grey stole, light summer scarf
 
 ## Related
 

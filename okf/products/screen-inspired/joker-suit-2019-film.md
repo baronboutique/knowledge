@@ -3,8 +3,8 @@ type: Product
 title: "Joker Suit 2019 Replica | Arthur Fleck Bespoke Three-Piece"
 description: "Arthur Fleck’s iconic Joker suit from the unforgettable 2019 staircase scene, tailored in rich burgundy Melton wool with a striking gold waistcoat."
 resource: https://baronboutique.com/joker-suit-2019-film/
-tags: [men, suit, wool, canvas-front, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, three-piece-suit, waistcoat, melton-wool, burgundy, joker, arthur-fleck, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Joker Suit 2019 Replica | Arthur Fleck Bespoke Three-Piece
@@ -106,7 +106,7 @@ Bespoke vs. Off the Rack
 - Screen Inspired › Theatrical Villain
 - Screen Inspired › Cinema Classics
 
-**Related terms:** two-piece suit, three-piece suit, formal suit
+**Related terms:** Joker 2019 costume, Joaquin Phoenix Joker suit, red Joker suit, staircase scene suit, villain suit
 
 ## Related
 

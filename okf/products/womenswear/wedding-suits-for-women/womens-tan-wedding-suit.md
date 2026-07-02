@@ -3,8 +3,8 @@ type: Product
 title: "The Modern Bride's Wedding Suit"
 description: "For the bride who walks her own aisle, this is the answer. Our Women's Tan Wedding Suit is for the woman who knows that true bridal style is about feeling like yourself."
 resource: https://baronboutique.com/womens-tan-wedding-suit/
-tags: [women, suit, blazer, tropical-wool, tan, wedding, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, suit, pant-suit, tropical-wool, wool, tan, wedding, bridal-suit, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Modern Bride's Wedding Suit
@@ -32,7 +32,7 @@ For the Bride Who Writes Her Own Vows This is a celebration of personal style. A
 - Women › Wedding Suits
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** bridal pantsuit, tan wedding suit for bride, alternative to wedding dress, civil ceremony outfit, beige bridal trouser suit
 
 ## Related
 

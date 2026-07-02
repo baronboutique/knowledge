@@ -3,8 +3,8 @@ type: Product
 title: "Mens Navy Dress Pants"
 description: "Designed for style and wearability, mens navy dress pants achieve a new level of comfort and professionalism. Crafted from super 140s 8oz 100% worsted wool in plain cloth with a slight sheen."
 resource: https://baronboutique.com/mens-navy-wool-tuxedo-pants/
-tags: [men, trousers, pants, dress, tropical-wool, pleated, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, pants, tuxedo-pants, wool, navy, black-tie, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Mens Navy Dress Pants
@@ -31,7 +31,7 @@ The navy trouser is a foundational element of the masculine wardrobe, an indispe
 
 - Men › Pants
 
-**Related terms:** dress pants, tailored trousers, gown, occasion dress, wool
+**Related terms:** navy dinner suit trousers, black tie pants, custom tuxedo bottoms, formal evening trousers, satin stripe pants
 
 ## Related
 

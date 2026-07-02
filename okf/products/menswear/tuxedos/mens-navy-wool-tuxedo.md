@@ -3,8 +3,8 @@ type: Product
 title: "The Peak Lapel Tuxedo"
 description: "Richly styled slim fit peak lapel tuxedo tailored from Super 140s' 8oz 100% worsted wool in plain cloth with a slight sheen."
 resource: https://baronboutique.com/mens-navy-wool-tuxedo/
-tags: [men, suit, blazer, tuxedo, tropical-wool, peak-lapel, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, tuxedo, wool, peak-lapel, single-breasted, slim-fit, black-tie, wedding, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Peak Lapel Tuxedo
@@ -32,7 +32,7 @@ The peak lapel is a definitive statement of formal intent. Its sharp, architectu
 - Men › Tuxedos
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, dinner suit
+**Related terms:** navy peak lapel tux, midnight blue tuxedo, slim tuxedo for groom, one button dinner suit, custom navy tux
 
 ## Related
 

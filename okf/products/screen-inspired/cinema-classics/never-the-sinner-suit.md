@@ -3,8 +3,8 @@ type: Product
 title: "Never The Sinner Suit"
 description: "Indistinct 1920 style, Never The Sinner suit tailored in belted model with off-centered vent. A well-written play requires a well-made suit."
 resource: https://baronboutique.com/never-the-sinner-suit/
-tags: [men, suit, blazer, tropical-wool, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, tropical-wool, wool, single-breasted, black, belted, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Never The Sinner Suit
@@ -34,7 +34,7 @@ Never The Sinner Suit in Tropical Wool Tailored from Super 140s 8oz 100% tropica
 - Screen Inspired › Cinema Classics
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** 1920s play costume suit, Leopold and Loeb suit, jazz age black suit, theater production suit
 
 ## Related
 

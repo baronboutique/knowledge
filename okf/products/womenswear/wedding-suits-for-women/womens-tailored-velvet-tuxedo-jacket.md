@@ -4,7 +4,7 @@ title: "The Velvet Tuxedo Jacket"
 description: "This is the icon of eveningwear, perfected for you. Our Women's Velvet Tuxedo Blazer combines the timeless glamour of a **satin peak lapel with the rich texture of plush velvet**, all sculpted with a …"
 resource: https://baronboutique.com/womens-tailored-velvet-tuxedo-jacket/
 tags: [women, suit, blazer, tuxedo, velvet, peak-lapel, black, evening, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Velvet Tuxedo Jacket

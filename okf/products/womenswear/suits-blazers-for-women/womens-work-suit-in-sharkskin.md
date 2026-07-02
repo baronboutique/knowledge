@@ -3,8 +3,8 @@ type: Product
 title: "The Sharkskin Work Suit"
 description: "This is the end of the \"boring work suit.\" Our Women's Work Suit in Sharkskin is crafted from a unique sharkskin wool, a fabric whose subtle two-tone luster adds a layer of intelligence and sophistica…"
 resource: https://baronboutique.com/womens-work-suit-in-sharkskin/
-tags: [women, suit, blazer, wool, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, suit, sharkskin-wool, two-tone, workwear, power-suit, blazer, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Sharkskin Work Suit
@@ -31,7 +31,7 @@ Your New Secret Weapon for the Office This is the suit for the woman who underst
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** women's business suit, iridescent wool suit, office pant suit, sharkskin fabric suit
 
 ## Related
 

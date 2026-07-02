@@ -3,8 +3,8 @@ type: Product
 title: "Himalayan Horizon Striped Cashmere Scarf – Hand-Finished in Twill Weave"
 description: "Breathe in the spirit of the mountains. The Himalayan Horizon Striped Cashmere Scarf drapes you in soft blue, deep green, and muted tan—whispering stories of open skies and memorable journeys, hand fi…"
 resource: https://baronboutique.com/blue-green-tan-striped-cashmere-scarf/
-tags: [women, scarf, cashmere, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, wrap, striped, multicolor, handwoven, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Himalayan Horizon Striped Cashmere Scarf – Hand-Finished in Twill Weave
@@ -31,7 +31,7 @@ Whispers Across the Range Where blue skies meet ancient ridges, the Himalayan Ho
 - Scarves
 - Women › Accessories
 
-**Related terms:** wrap, stole, muffler
+**Related terms:** striped pashmina, colorful cashmere muffler, teal and tan stole, spring stripe shawl
 
 ## Related
 

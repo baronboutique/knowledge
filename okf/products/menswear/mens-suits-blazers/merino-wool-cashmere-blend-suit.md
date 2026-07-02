@@ -3,8 +3,8 @@ type: Product
 title: "Merino Wool Cashmere Blend Suit"
 description: "A cornerstone of the sophisticated wardrobe, this charcoal grey suit is tailored from a luxurious blend of fine merino wool and soft cashmere."
 resource: https://baronboutique.com/merino-wool-cashmere-blend-suit/
-tags: [men, suit, blazer, merino-wool, cashmere, canvas-front, full-canvas, charcoal, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, wool-cashmere, merino-wool, cashmere, charcoal, canvas-front, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Merino Wool Cashmere Blend Suit
@@ -31,7 +31,7 @@ The addition of fine cashmere to merino wool creates a cloth of exceptional char
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** cashmere blend business suit, charcoal gray custom suit, soft touch wool suit, interview suit for men, boardroom suit
 
 ## Related
 

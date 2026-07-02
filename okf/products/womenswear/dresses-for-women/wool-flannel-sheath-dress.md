@@ -3,8 +3,8 @@ type: Product
 title: "V-Neck Women's Sheath Dress"
 description: "This is your one-piece solution to a demanding schedule. Our women's sheath dress uses the power of a flawless, custom-tailored fit to create a sharp, body-skimming silhouette that effortlessly transi…"
 resource: https://baronboutique.com/wool-flannel-sheath-dress/
-tags: [women, dress, flannel, v-neck, evening, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, dress, sheath-dress, flannel, wool, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # V-Neck Women's Sheath Dress
@@ -31,7 +31,7 @@ The Ultimate Wardrobe Weapon This is the one dress that simplifies a busy schedu
 
 - Women › Dresses
 
-**Related terms:** gown, occasion dress, wool
+**Related terms:** wool shift dress, winter office dress, professional dress custom made, warm business dress, tailored dress for work
 
 ## Related
 

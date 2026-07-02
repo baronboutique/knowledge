@@ -3,8 +3,8 @@ type: Product
 title: "Navy Blue Tuxedo Pants"
 description: "Navy tuxedo pants are a journey into handmade creative ingenuity. Dressing up daily in a well-made navy herringbone wool tuxedo pants makes you feel put together and organized."
 resource: https://baronboutique.com/mens-navy-herringbone-wool-tuxedo-pants/
-tags: [men, trousers, tuxedo, pants, herringbone, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, pants, tuxedo-pants, wool, herringbone, navy, black-tie, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Navy Blue Tuxedo Pants
@@ -31,7 +31,7 @@ To select a navy tuxedo trouser, particularly one in a herringbone weave, is a s
 
 - Men › Pants
 
-**Related terms:** dress pants, tailored trousers, dinner suit, black-tie suit, evening suit, wool
+**Related terms:** navy dinner suit trousers, textured tuxedo pants, black tie trousers, herringbone formal pants, custom evening trousers
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "Smith Shetland Tweed Blazer, W. Bill 100% Pure New Wool"
 description: "Off-the-rack tweed blazers come in three sizes, none of them yours, and most are not even real Shetland wool. We fix both."
 resource: https://baronboutique.com/smith-shetland-tweed-blazer-jacket/
-tags: [men, suit, blazer, tweed, tan, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, blazer, jacket, tweed, wool, doctor-who, eleventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Smith Shetland Tweed Blazer, W. Bill 100% Pure New Wool
@@ -87,7 +87,7 @@ Who this blazer is for
 - Men › Suits & Blazers
 - Screen Inspired › Doctor Collection
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** Matt Smith tweed jacket, Eleventh Doctor blazer, Shetland wool sport coat, Doctor Who tweed jacket, heritage British tweed blazer
 
 ## Related
 

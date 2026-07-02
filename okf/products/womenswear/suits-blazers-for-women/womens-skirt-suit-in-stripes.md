@@ -3,8 +3,8 @@ type: Product
 title: "Womens Skirt Suit"
 description: "This is the power suit, redefined for the modern woman. Our Women's Skirt Suit combines the authority of a sharp pinstripe with a flawless, custom-tailored fit, creating a look that is commanding, not…"
 resource: https://baronboutique.com/womens-skirt-suit-in-stripes/
-tags: [women, suit, blazer, skirt, wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, suit, skirt-suit, skirt, striped, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Womens Skirt Suit
@@ -31,7 +31,7 @@ The Power Suit, Redefined This is the modern answer to formal and professional d
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, pencil skirt
+**Related terms:** striped skirt suit, women's skirt and blazer set, office skirt suit, two piece skirt outfit for work, custom ladies skirt suit
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "Men's Wool Flared Zip Tailcoat"
 description: "Make a powerful statement with our \"Men's Wool Flared Zip Tailcoat.\" This coat merges classic tailoring with a modern, edgy design."
 resource: https://baronboutique.com/mens-wool-flared-zip-tailcoat/
-tags: [men, frock-coat, tailcoat, wool, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, tailcoat, long-coat, wool, merino-wool, mandarin-collar, flared, cyberpunk, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Men's Wool Flared Zip Tailcoat
@@ -33,7 +33,7 @@ Sculpt Your Silhouette: The Modernist Zip Tailcoat This is not merely a tailcoat
 - Men › Coats & Overcoats
 - Screen Inspired › Cyberpunk Trench Coats
 
-**Related terms:** long coat, morning coat, ceremonial coat, tails, evening coat
+**Related terms:** futuristic tailcoat, zip up frock coat, gothic long coat men, techwear formal coat, modern morning coat
 
 ## Related
 

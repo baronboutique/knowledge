@@ -3,8 +3,8 @@ type: Product
 title: "The Raw Silk Shirt"
 description: "Buying beautiful raw silk shirts that you'll want to wear forever will always make you feel better about the world."
 resource: https://baronboutique.com/mens-gold-raw-silk-shirt/
-tags: [men, shirt, raw-silk, silk, gold, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, shirt, dress-shirt, raw-silk, silk, gold, wedding, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Raw Silk Shirt
@@ -30,7 +30,7 @@ Raw Silk Test Shirt-Fit and Style Evaluation Raw silk is a connoisseur's cloth, 
 
 - Men › Shirts
 
-**Related terms:** dress shirt, formal shirt
+**Related terms:** gold silk shirt for men, festive shantung shirt, mustard silk dress shirt, wedding guest shirt, custom raw silk shirt
 
 ## Related
 

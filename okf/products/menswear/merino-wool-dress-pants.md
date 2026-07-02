@@ -3,8 +3,8 @@ type: Product
 title: "Merino Wool Dress Pants"
 description: "These classic merino wool dress pants are effortlessly stylish and easy to care for - perfect for both everyday wear on the job and all sorts of formal and business occasions."
 resource: https://baronboutique.com/merino-wool-dress-pants/
-tags: [men, trousers, pants, dress, merino-wool, grey, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, pants, wool, merino-wool, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Merino Wool Dress Pants
@@ -31,7 +31,7 @@ The chalk stripe trouser is a cornerstone of the masculine wardrobe, an artifact
 
 - Men › Pants
 
-**Related terms:** dress pants, tailored trousers, gown, occasion dress, wool
+**Related terms:** tailored wool slacks, custom suit trousers, office wool pants, year round dress trousers
 
 ## Related
 

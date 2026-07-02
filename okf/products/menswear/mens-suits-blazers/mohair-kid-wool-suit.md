@@ -3,8 +3,8 @@ type: Product
 title: "Mohair Wool Suit"
 description: "The mohair and wool suit is engineered for performance. The unique, spring-like structure of mohair fibers lends the cloth an exceptional crease resistance, ensuring you remain impeccably sharp from a…"
 resource: https://baronboutique.com/mohair-kid-wool-suit/
-tags: [men, suit, blazer, mohair, navy, spring, evening, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, mohair-wool, wool, all-season, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Mohair Wool Suit
@@ -31,7 +31,7 @@ The mohair suit is an artifact of quiet, sophisticated power, with a rich herita
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** kid mohair suit, sheen business suit, crease resistant suit, summer weight suit, tonic style suit
 
 ## Related
 

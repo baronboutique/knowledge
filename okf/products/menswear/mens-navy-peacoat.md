@@ -3,8 +3,8 @@ type: Product
 title: "Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere"
 description: "Most men's navy peacoats are either cheap and shapeless or rigid and overbuilt. Ours is the third option. Slim-fit, double-breasted, in an 18-ounce wool-cashmere blend, made to your measurements."
 resource: https://baronboutique.com/mens-navy-peacoat/
-tags: [men, overcoat, peacoat, cashmere, double-breasted, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, peacoat, navy, wool-cashmere, double-breasted, slim-fit, winter-coat, overcoat, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere
@@ -98,7 +98,7 @@ Who this peacoat is for
 
 - Men › Coats & Overcoats
 
-**Related terms:** topcoat, winter coat, wool
+**Related terms:** navy pea coat, sailor coat, naval coat, short wool coat, winter overcoat
 
 ## Related
 

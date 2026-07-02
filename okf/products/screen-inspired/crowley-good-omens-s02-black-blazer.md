@@ -3,8 +3,8 @@ type: Product
 title: "Good Omens Season 02 Crowley Black Blazer"
 description: "Channel Crowley’s unmistakable style from Good Omens Season 02 with this screen-accurate Crowley black blazer."
 resource: https://baronboutique.com/crowley-good-omens-s02-black-blazer/
-tags: [blazer, sateen-wool, black, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, blazer, jacket, black, good-omens, crowley, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Good Omens Season 02 Crowley Black Blazer
@@ -33,7 +33,7 @@ Channel the Demon’s Style Inspired by the demon Crowley's effortlessly cool, r
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** sport coat, sports jacket
+**Related terms:** David Tennant Crowley jacket, Good Omens season 2 blazer, demon Crowley costume, black slim blazer cosplay
 
 ## Related
 

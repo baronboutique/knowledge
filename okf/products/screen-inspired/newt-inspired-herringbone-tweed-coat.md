@@ -3,8 +3,8 @@ type: Product
 title: "Newt Inspired British Herringbone Tweed Coat"
 description: "The coat that made a generation of fantasy film fans fall in love with British tweed. Every version we make is hand-tailored to your measurements in authentic herringbone tweed, finished with dark lea…"
 resource: https://baronboutique.com/newt-inspired-herringbone-tweed-coat/
-tags: [men, overcoat, tweed, herringbone, canvas-front, grey, fall, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, coat, overcoat, tweed, herringbone, wool, winter-coat, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Newt Inspired British Herringbone Tweed Coat
@@ -86,7 +86,7 @@ Want a different lapel width, no back belt, a peak lapel, different leather colo
 - Men › Coats & Overcoats
 - Screen Inspired › Cinema Classics
 
-**Related terms:** topcoat, winter coat, wool
+**Related terms:** Newt Scamander coat, Fantastic Beasts overcoat, British tweed topcoat, wizarding world costume coat, herringbone winter overcoat
 
 ## Related
 

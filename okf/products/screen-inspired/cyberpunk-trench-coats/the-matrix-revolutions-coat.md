@@ -3,8 +3,8 @@ type: Product
 title: "Keanu Reeves Trench Coat The Matrix Revolutions"
 description: "Keanu Reeves trench coat from the Matrix Revolutions is a timeless fashion icon all men should own. As practical as it is stylish, this Matrix 3 Neo wool trench coat can suit countless outfits and occ…"
 resource: https://baronboutique.com/the-matrix-revolutions-coat/
-tags: [men, overcoat, trench-coat, worsted-wool, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, trench-coat, long-coat, wool, black, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Keanu Reeves Trench Coat The Matrix Revolutions
@@ -34,7 +34,7 @@ Matrix Revolutions Neo Try-On Test Trench Coat Pictures From A Customer This is 
 - Screen Inspired › Cyberpunk Trench Coats
 - Men › Coats & Overcoats
 
-**Related terms:** topcoat, winter coat, long coat, duster coat, wool
+**Related terms:** Neo priest collar coat, cyberpunk duster, sci-fi long black coat, Thomas Anderson coat
 
 ## Related
 

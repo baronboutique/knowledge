@@ -3,8 +3,8 @@ type: Product
 title: "Black Mohair Tuxedo, Made to Measure"
 description: "Most grooms choosing a black tuxedo don't know there's a version that behaves differently under evening light."
 resource: https://baronboutique.com/essential-black-mohair-wool-tuxedo-2-button/
-tags: [men, dinner-jacket, suit, blazer, mohair, canvas-front, notch-lapel, black, wedding, evening, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, tuxedo, dinner-jacket, mohair-wool, wool, black, two-button, wedding, black-tie, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Black Mohair Tuxedo, Made to Measure
@@ -81,7 +81,7 @@ A black tuxedo sets the most formal standard at a wedding, and what the groom we
 - Men › Dinner Jackets
 - Men › Wedding Suits
 
-**Related terms:** tuxedo jacket, smoking jacket, two-piece suit, three-piece suit, formal suit, sport coat
+**Related terms:** groom black tux, mohair dinner suit, evening suit for men, prom tuxedo, slim black tie suit
 
 ## Related
 

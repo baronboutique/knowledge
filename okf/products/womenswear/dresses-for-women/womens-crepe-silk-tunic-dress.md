@@ -3,8 +3,8 @@ type: Product
 title: "Silk Tunic Dress V Neck Long Sleeves In Crepe silk"
 description: "This is how you look instantly polished without even trying. This tunic slips on like a second skin, letting the fluid drape of pure crêpe silk skim your body without clinging."
 resource: https://baronboutique.com/womens-crepe-silk-tunic-dress/
-tags: [women, dress, tunic-dress, tunic, crepe-silk, silk, blue, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, dress, tunic-dress, crepe-silk, silk, v-neck, long-sleeve, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Silk Tunic Dress V Neck Long Sleeves In Crepe silk
@@ -30,7 +30,7 @@ The Art of Effortless Elegance This is the one dress that simplifies luxury. A v
 
 - Women › Dresses
 
-**Related terms:** gown, occasion dress, shift dress, day dress, satin silk
+**Related terms:** silk gown, occasion dress, shift dress, day-to-evening dress, custom silk dress
 
 ## Related
 

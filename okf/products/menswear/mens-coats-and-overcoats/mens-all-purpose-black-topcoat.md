@@ -3,8 +3,8 @@ type: Product
 title: "All Purpose Black Wool Topcoat"
 description: "All purpose black wool topcoat in quality Melton wool with a lovely touch of hand carved horn buttons, silk like acetate lining, and velvet collar makes it the best classic black topcoat ever."
 resource: https://baronboutique.com/mens-all-purpose-black-topcoat/
-tags: [men, overcoat, topcoat, wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, topcoat, overcoat, wool, black, winter-coat, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # All Purpose Black Wool Topcoat
@@ -32,7 +32,7 @@ This is the definitive black wool overcoat—an artifact of pure form and functi
 
 - Men › Coats & Overcoats
 
-**Related terms:** winter coat
+**Related terms:** black overcoat for suits, classic black winter coat, funeral coat, tailored black long coat, all purpose city overcoat
 
 ## Related
 

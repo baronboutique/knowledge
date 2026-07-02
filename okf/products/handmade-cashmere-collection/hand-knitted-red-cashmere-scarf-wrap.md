@@ -3,8 +3,8 @@ type: Product
 title: "Hand Felted Red Cashmere Scarf Wrap"
 description: "Embrace the Red Horizon: Wrap yourself in vibrant red cashmere, as invigorating as dawn over Nepal’s majestic peaks. Hand knitted and Hand Felted. Proudly made in Nepal."
 resource: https://baronboutique.com/hand-knitted-red-cashmere-scarf-wrap/
-tags: [women, scarf, wrap, cashmere, red, hand-knitted, hand-felted, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, wrap, red, hand-knitted, hand-felted, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Hand Felted Red Cashmere Scarf Wrap
@@ -31,7 +31,7 @@ Yarn and Weight 200/2 yarn count 14-16 microns diameter 35-55mm yarn length Feat
 - Scarves
 - Women › Accessories
 
-**Related terms:** stole, muffler
+**Related terms:** chunky red knit shawl, crimson felt stole, warm winter muffler, knitted red pashmina
 
 ## Related
 

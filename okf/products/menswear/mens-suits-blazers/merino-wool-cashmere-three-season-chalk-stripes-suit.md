@@ -3,8 +3,8 @@ type: Product
 title: "Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere"
 description: "Most chalk stripe suits fail on fit. The bold vertical stripe amplifies everything - including a jacket that pulls across the chest or trousers that break at the wrong angle."
 resource: https://baronboutique.com/merino-wool-cashmere-three-season-chalk-stripes-suit/
-tags: [men, suit, blazer, merino-wool, cashmere, canvas-front, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, merino-wool, wool-cashmere, chalk-stripe, three-season, formalwear, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere
@@ -110,7 +110,7 @@ Before we touch your Super 120s wool-cashmere, we make a complete test suit in a
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** banker stripe suit, super 120s wool suit, striped business suit, cashmere blend suit for men, power suit with chalk stripes
 
 ## Related
 

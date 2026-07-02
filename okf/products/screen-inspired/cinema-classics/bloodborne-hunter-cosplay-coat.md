@@ -3,8 +3,8 @@ type: Product
 title: "Hunter Coat Bloodborne Cosplay"
 description: "Bloodborne Hunter coat for cosplayers seeking a daring and inspirational look. With six-show buttons and a uniquely tailored wide lapel collar, the Hunter coat is for avid Bloodborne fans to enhance p…"
 resource: https://baronboutique.com/bloodborne-hunter-cosplay-coat/
-tags: [men, coat, cotton, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, coat, long-coat, bloodborne, hunter-coat, victorian-style, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Hunter Coat Bloodborne Cosplay
@@ -31,6 +31,8 @@ Survive the Night of the Hunt This is not a costume; it is the essential attire 
 ## Categories
 
 - Screen Inspired › Cinema Classics
+
+**Related terms:** Bloodborne hunter garb, Yharnam hunter coat, video game cosplay coat, gothic victorian hunter outfit, gaming convention costume
 
 ## Related
 

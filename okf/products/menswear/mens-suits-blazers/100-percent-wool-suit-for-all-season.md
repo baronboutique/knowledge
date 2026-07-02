@@ -3,8 +3,8 @@ type: Product
 title: "The Dark Grey Three-Piece Suit"
 description: "The most distinctive and elegant suit is a dark grey 3 pieces notch lapel suit. An elegant men's suit is all about muted colors and simple styles."
 resource: https://baronboutique.com/100-percent-wool-suit-for-all-season/
-tags: [men, suit, blazer, three-piece-suit, wool, notch-lapel, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, wool, all-season, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Dark Grey Three-Piece Suit
@@ -31,7 +31,7 @@ The dark grey three-piece suit is the great anchor of the masculine wardrobe, a 
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** year round suit, four season wool suit, everyday business suit, custom worsted suit, travel friendly suit
 
 ## Related
 

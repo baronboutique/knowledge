@@ -3,8 +3,8 @@ type: Product
 title: "4th Doctor Beige Frock Coat Tom Baker Inspired"
 description: "Every mass-market version of the 4th Doctor frock coat gets the color right and skips everything else, no princess seams, dead-center back vent, wrong piping, wrong collar."
 resource: https://baronboutique.com/fourth-doctor-frock-coat/
-tags: [men, frock-coat, wool, princess-seam, beige, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, frock-coat, long-coat, wool, beige, doctor-who, fourth-doctor, time-lord-coat, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # 4th Doctor Beige Frock Coat Tom Baker Inspired
@@ -103,7 +103,7 @@ The Doctor's cosplay community has reviewed every mass-market version of this co
 - Men › Frock Coats
 - Screen Inspired › Doctor Collection
 
-**Related terms:** long coat, tailcoat, morning coat, ceremonial coat
+**Related terms:** Tom Baker coat, 4th Doctor costume, classic Who frock coat, Whovian convention outfit
 
 ## Related
 

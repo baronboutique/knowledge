@@ -3,8 +3,8 @@ type: Product
 title: "Green Velvet Frock Coat"
 description: "Step out in style with our green velvet frock coat. The rich, forest green color is sure to turn heads, while the velvet fabric adds a luxurious touch."
 resource: https://baronboutique.com/green-velvet-frock-coat/
-tags: [men, frock-coat, velvet, green, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, coat, frock-coat, velvet, forest-green, victorian-style, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Green Velvet Frock Coat
@@ -32,7 +32,7 @@ Custom Green Velvet Frock Coat Make a bold statement with this custom-made green
 - Men › Coats & Overcoats
 - Men › Frock Coats
 
-**Related terms:** long coat, tailcoat, morning coat, ceremonial coat
+**Related terms:** emerald velvet long coat, steampunk velvet coat, green wedding frock coat, regency style coat
 
 ## Related
 

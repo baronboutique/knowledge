@@ -3,8 +3,8 @@ type: Product
 title: "Navy Wool Cashmere Topcoat"
 description: "The touch of wool cashmere topcoat designed for the fashion conscious that reflects your personality. A navy wool cashmere topcoat that communicates empowerment and makes you feel completely at ease i…"
 resource: https://baronboutique.com/mens-wool-cashmere-topcoat-in-navy/
-tags: [men, overcoat, topcoat, cashmere, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, coat, topcoat, overcoat, wool-cashmere, navy, winter-coat, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Navy Wool Cashmere Topcoat
@@ -31,7 +31,7 @@ This is the definitive navy overcoat, a cornerstone of the masculine wardrobe. W
 
 - Men › Coats & Overcoats
 
-**Related terms:** winter coat, wool
+**Related terms:** men's navy overcoat, cashmere blend winter coat, tailored topcoat for suits, navy dress coat, custom city coat for men
 
 ## Related
 

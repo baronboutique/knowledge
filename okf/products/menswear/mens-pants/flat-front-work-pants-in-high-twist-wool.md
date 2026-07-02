@@ -3,8 +3,8 @@ type: Product
 title: "High Twist Wool Work Pants"
 description: "Most men's dress pants sold as high-twist wool are not wool, they are synthetic blends that wrinkle by noon and sag by evening."
 resource: https://baronboutique.com/flat-front-work-pants-in-high-twist-wool/
-tags: [men, trousers, pants, wool, black, evening, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, pants, dress-pants, wool, high-twist-wool, flat-front, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # High Twist Wool Work Pants
@@ -102,7 +102,7 @@ A neutral between tan and white - understated in a way that works year-round. Pa
 
 - Men › Pants
 
-**Related terms:** dress pants, tailored trousers
+**Related terms:** hard wearing dress pants, crisp office trousers, wrinkle resistant slacks, durable wool pants, commuter dress trousers
 
 ## Related
 

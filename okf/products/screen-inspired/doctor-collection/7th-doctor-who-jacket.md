@@ -4,7 +4,7 @@ title: "7th Doctor Who Jacket"
 description: "Channel the clever, scheming spirit of the Seventh Doctor with this iconic utility jacket. Custom-tailored to be a screen-accurate replica, it’s crafted from a lightweight worsted wool, perfect for st…"
 resource: https://baronboutique.com/7th-doctor-who-jacket/
 tags: [men, jacket, wool, stone, convention, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # 7th Doctor Who Jacket

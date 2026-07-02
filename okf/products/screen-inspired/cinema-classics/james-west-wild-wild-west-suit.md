@@ -3,8 +3,8 @@ type: Product
 title: "James West Wild Wild West Suit"
 description: "James West Wild Wild West suit is for men who need an edge to accomplish their mission statement of looking cool."
 resource: https://baronboutique.com/james-west-wild-wild-west-suit/
-tags: [men, suit, merino-wool, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, vest, merino-wool, wool, western, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # James West Wild Wild West Suit
@@ -34,7 +34,7 @@ Walk the Line Between Vintage Cool and Modern Edge Channel your inner gunslinger
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, wool
+**Related terms:** Robert Conrad blue suit, western gambler suit, cowboy dress suit, steampunk western outfit
 
 ## Related
 

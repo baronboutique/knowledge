@@ -3,8 +3,8 @@ type: Product
 title: "Shawl Collar Dinner Jacket White"
 description: "A white shawl collar dinner jacket for men works incredibly well on their own or paired with casual bottoms for a daytime tuxedo."
 resource: https://baronboutique.com/iconic-wool-dinner-jacket-with-shawl-collar/
-tags: [men, dinner-jacket, suit, blazer, wool, shawl-collar, white, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, dinner-jacket, tuxedo, wool, shawl-collar, black-tie, wedding, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Shawl Collar Dinner Jacket White
@@ -32,7 +32,7 @@ The shawl collar dinner jacket represents the apex of warm-weather formalwear, a
 - Men › Dinner Jackets
 - Men › Suits & Blazers
 
-**Related terms:** tuxedo jacket, smoking jacket, two-piece suit, three-piece suit, formal suit, sport coat
+**Related terms:** 007 style dinner jacket, groom tuxedo jacket, shawl lapel tux, classic evening jacket, black tie jacket custom
 
 ## Related
 

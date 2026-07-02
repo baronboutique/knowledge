@@ -4,7 +4,7 @@ title: "Screen Inspired"
 description: "Screen Legends, Tailored for Real Life The most memorable characters are remembered by what they wore. Our Screen Inspired collection recreates those wardrobes. The Doctor's frock coats, Neo's trench, spy suits, Victorian detectives, and theatrical villains. Each piece custom-made and hand-tailored to your exact measurements, never a generic costume."
 resource: https://baronboutique.com/screen-inspired/
 tags: [screen-inspired, movie-inspired, tv-inspired, cinematic-fashion, costume-tailoring, replica-tailoring, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Screen Inspired

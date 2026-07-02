@@ -3,8 +3,8 @@ type: Product
 title: "Cotton Linen Blazer Mens Patch Pocket Jacket"
 description: "The essential warm-weather blazer, tailored from a sophisticated blend of breathable linen and crisp cotton."
 resource: https://baronboutique.com/linen-blazer-with-patch-pocket-details/
-tags: [men, suit, blazer, linen, cotton, summer, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, blazer, linen, patch-pockets, summer, casual, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Cotton Linen Blazer Mens Patch Pocket Jacket
@@ -31,7 +31,7 @@ The cotton and linen blazer is an exercise in sartorial engineering, a garment d
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, linen cotton
+**Related terms:** casual linen jacket, summer sport coat, unstructured style blazer, patch pocket sport jacket, resort blazer for men
 
 ## Related
 

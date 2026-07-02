@@ -3,8 +3,8 @@ type: Product
 title: "Men's Silk Suit, Custom Made in 100% Dupioni Silk"
 description: "Men's silk suits off the rack almost never fit, and cheap ones don't even look like silk. We fix both."
 resource: https://baronboutique.com/mens-silk-suit-in-dupioni-silk/
-tags: [men, suit, blazer, dupioni-silk, silk, wedding, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, silk-suit, dupioni-silk, silk, wedding, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Men's Silk Suit, Custom Made in 100% Dupioni Silk
@@ -112,7 +112,7 @@ Three realistic options for someone shopping for a silk suit online. Here is how
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** silk wedding suit for men, raw silk suit, dupioni suit, shantung suit, groom silk suit
 
 ## Related
 

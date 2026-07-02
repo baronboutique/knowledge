@@ -3,8 +3,8 @@ type: Product
 title: "One Button Notch Lapel Tuxedo"
 description: "Put together a custom look for any occasion where you need the best tuxedo. A single-breasted one-button tuxedo with double vents back and notch lapel gives you the most appealing custom-made tuxedo s…"
 resource: https://baronboutique.com/one-button-merino-wool-tuxedo/
-tags: [men, dinner-jacket, suit, blazer, tropical-wool, single-breasted, notch-lapel, black, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, tuxedo, merino-wool, wool, notch-lapel, single-breasted, black-tie, wedding, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # One Button Notch Lapel Tuxedo
@@ -34,7 +34,7 @@ The selection of a notch lapel for an evening suit is a statement of modern mini
 - Men › Dinner Jackets
 - Men › Wedding Suits
 
-**Related terms:** tuxedo jacket, smoking jacket, two-piece suit, three-piece suit, formal suit, sport coat
+**Related terms:** notch lapel tux, single button dinner suit, groom tuxedo custom, classic black tie suit, prom tuxedo
 
 ## Related
 

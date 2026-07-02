@@ -3,8 +3,8 @@ type: Product
 title: "Indigo Blue Handwoven Cashmere Scarf Shawl"
 description: "Indigo blue cashmere scarf shawl handwoven on traditional Himalayan looms. Pure Grade A cashmere sourced from the Tibetan Plateau delivers featherlight softness and warmth without weight."
 resource: https://baronboutique.com/indigo-blue-handwoven-cashmere-scarf-shawl/
-tags: [women, scarf, shawl, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, shawl, wrap, handwoven, indigo-blue, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Indigo Blue Handwoven Cashmere Scarf Shawl
@@ -31,7 +31,7 @@ Handwoven Indigo Blue Cashmere Perfection This indigo shawl brings together anci
 - Scarves
 - Women › Accessories
 
-**Related terms:** wrap, stole, muffler, pashmina
+**Related terms:** navy pashmina, deep blue stole, denim blue shawl, midnight blue wrap
 
 ## Related
 

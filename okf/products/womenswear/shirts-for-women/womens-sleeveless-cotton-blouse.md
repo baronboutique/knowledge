@@ -4,7 +4,7 @@ title: "The Sculpted Sleeveless Blouse"
 description: "This is how you solve the problem of the \"boxy\" sleeveless blouse. Our Sleeveless Blouse with Collar is engineered with figure-flattering princess seams that create a beautifully sculpted and slimming…"
 resource: https://baronboutique.com/womens-sleeveless-cotton-blouse/
 tags: [women, shirt, blouse, cotton, princess-seam, boxy, white, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Sculpted Sleeveless Blouse

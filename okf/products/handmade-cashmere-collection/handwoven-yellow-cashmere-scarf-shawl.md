@@ -3,8 +3,8 @@ type: Product
 title: "Handwoven Yellow Cashmere Scarf Shawl"
 description: "Golden Glow of Tibet: Your New Favorite Cashmere Scarf Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/handwoven-yellow-cashmere-scarf-shawl/
-tags: [women, scarf, shawl, cashmere, yellow, handwoven, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, shawl, wrap, handwoven, yellow, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Handwoven Yellow Cashmere Scarf Shawl
@@ -30,7 +30,7 @@ Yarn and Weight 200/2 yarn count 14-16 microns diameter 35-55mm yarn length Feat
 
 - Scarves
 
-**Related terms:** wrap, stole, muffler, pashmina
+**Related terms:** mustard pashmina, sunshine yellow stole, golden shawl, spring color wrap
 
 ## Related
 

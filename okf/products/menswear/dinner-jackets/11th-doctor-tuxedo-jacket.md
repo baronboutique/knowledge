@@ -3,8 +3,8 @@ type: Product
 title: "11th Doctor Who White Pool Party Tuxedo Jacket"
 description: "11th Doctor Who white tuxedo jacket enhanced with a silk satin shawl lapel. A custom-made 11th Doctor Who white pool party tuxedo jacket is for a memorable cosplay."
 resource: https://baronboutique.com/11th-doctor-tuxedo-jacket/
-tags: [men, dinner-jacket, tuxedo, wool, double-breasted, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, tuxedo, dinner-jacket, wool, double-breasted, shawl-collar, white, doctor-who, eleventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # 11th Doctor Who White Pool Party Tuxedo Jacket
@@ -32,7 +32,7 @@ An artifact of pure sartorial rebellion, this double-breasted jacket captures th
 - Men › Dinner Jackets
 - Screen Inspired › Doctor Collection
 
-**Related terms:** tuxedo jacket, smoking jacket, dinner suit, black-tie suit, evening suit
+**Related terms:** Matt Smith white tuxedo, white dinner jacket, ivory tux jacket, Doctor Who formal costume
 
 ## Related
 

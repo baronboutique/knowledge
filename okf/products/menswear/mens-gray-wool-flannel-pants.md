@@ -3,8 +3,8 @@ type: Product
 title: "Grey Flannel Trousers"
 description: "Baron Boutique's flannel is an amazing fabric, lighter than traditional flannel with a nice soft hand. Grey flannel trousers handcrafted with superb quality and fit perfectly to any shape or size."
 resource: https://baronboutique.com/mens-gray-wool-flannel-pants/
-tags: [men, trousers, flannel, grey, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, pants, flannel, wool, gray, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Grey Flannel Trousers
@@ -31,7 +31,7 @@ The grey flannel trouser is the single most versatile and essential trouser in a
 
 - Men › Pants
 
-**Related terms:** dress pants, tailored trousers, wool
+**Related terms:** gray flannel trousers, men's winter dress pants, charcoal flannel slacks, custom wool trousers, flannel suit pants
 
 ## Related
 

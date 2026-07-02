@@ -3,8 +3,8 @@ type: Product
 title: "Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels"
 description: "Most navy tuxedos photograph almost black. A flat wool or polyester blend absorbs venue lighting and loses the color you chose."
 resource: https://baronboutique.com/mens-navy-herringbone-wool-tuxedo/
-tags: [men, suit, blazer, tuxedo, herringbone, canvas-front, peak-lapel, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, tuxedo, wool, herringbone, navy, black-tie, wedding, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels
@@ -79,7 +79,7 @@ If you are the groom, these are options for your wedding party, your guests, and
 - Men › Suits & Blazers
 - Men › Wedding Suits
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, dinner suit
+**Related terms:** navy herringbone tux, textured tuxedo for groom, navy dinner suit, herringbone black tie suit, custom midnight blue tux
 
 ## Related
 

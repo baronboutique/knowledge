@@ -3,8 +3,8 @@ type: Product
 title: "The Black Dupioni Silk Suit for Men - 3 Button Roll to 2"
 description: "A black dupioni silk suit with a genuine 3-roll-2 configuration is one of the most demanding garments to get right — the lapel rolls because of canvas construction beneath it, and the fit shows every …"
 resource: https://baronboutique.com/black-dupioni-silk-suit-3-roll-2/
-tags: [men, suit, blazer, dupioni-silk, silk, black, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, silk-suit, dupioni-silk, silk, black, single-breasted, wedding, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Black Dupioni Silk Suit for Men - 3 Button Roll to 2
@@ -82,7 +82,7 @@ Fiber: 100% pure dupioni silk, double-filament woven Grain: Vertical — correct
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** black raw silk suit, black shantung suit, groom silk suit black, textured silk two piece suit, black-tie alternative silk suit
 
 ## Related
 

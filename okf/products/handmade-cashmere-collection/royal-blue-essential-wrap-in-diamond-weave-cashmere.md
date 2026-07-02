@@ -3,8 +3,8 @@ type: Product
 title: "Royal Blue Essential Wrap in Diamond Weave Cashmere"
 description: "A rich royal blue scarf crafted in pure diamond-woven cashmere—light enough for spring, warm enough for winter. Wrap yourself in quiet confidence."
 resource: https://baronboutique.com/royal-blue-essential-wrap-in-diamond-weave-cashmere/
-tags: [women, wrap, cashmere, winter, spring, screen-inspired, replica, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, wrap, shawl, royal-blue, diamond-weave, handwoven, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Royal Blue Essential Wrap in Diamond Weave Cashmere
@@ -30,6 +30,8 @@ Skyfall in Royal Blue Woven where highland winds carry ancient songs; this royal
 
 - Scarves
 - Women › Accessories
+
+**Related terms:** cobalt pashmina, blue cashmere stole, sapphire blue wrap, all season blue muffler
 
 ## Related
 

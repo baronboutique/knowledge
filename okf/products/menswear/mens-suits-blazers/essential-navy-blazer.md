@@ -3,8 +3,8 @@ type: Product
 title: "The Essential Navy Blazer"
 description: "Men's essential navy blazer fits on all occasions regardless of the job description. A Navy blue blazer is a great way to make any outfit for men look more formal as long as it is fitted properly to y…"
 resource: https://baronboutique.com/essential-navy-blazer/
-tags: [men, suit, blazer, mohair, navy, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, blazer, wool, navy, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Essential Navy Blazer
@@ -31,7 +31,7 @@ The essential navy blazer is the most indispensable garment in a gentleman’s w
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** navy sport coat, classic navy jacket, wardrobe staple blazer, navy odd jacket, business casual blazer custom
 
 ## Related
 

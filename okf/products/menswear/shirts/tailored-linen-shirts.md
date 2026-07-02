@@ -3,8 +3,8 @@ type: Product
 title: "The Tailored Linen Shirts"
 description: "High-quality tailored linen shirts are an essential addition to your summer collection. Available in both long sleeves and short sleeves, these slim-fit linen shirts pair great with other garments of …"
 resource: https://baronboutique.com/tailored-linen-shirts/
-tags: [men, shirt, linen, summer, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, shirt, dress-shirt, linen, summer, casual, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Tailored Linen Shirts
@@ -30,7 +30,7 @@ The linen shirt is the definitive sartorial statement of warm-weather elegance. 
 
 - Men › Shirts
 
-**Related terms:** dress shirt, formal shirt
+**Related terms:** linen summer shirt, breathable beach shirt, resort wear shirt for men, hot weather shirt, custom fitted linen shirt
 
 ## Related
 

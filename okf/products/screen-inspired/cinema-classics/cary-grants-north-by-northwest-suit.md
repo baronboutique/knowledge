@@ -3,8 +3,8 @@ type: Product
 title: "Cary Grant North By Northwest Suit"
 description: "You've seen the suit. You know exactly which one. GQ called it the best suit in film history -- the grey glen plaid Cary Grant wears through every scene of North by Northwest."
 resource: https://baronboutique.com/cary-grants-north-by-northwest-suit/
-tags: [men, suit, blazer, wool, canvas-front, grey, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, suit, glen-plaid, grey, wool, two-piece-suit, cary-grant, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Cary Grant North By Northwest Suit
@@ -103,7 +103,7 @@ Trousers
 - Screen Inspired › Cinema Classics
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** North by Northwest suit, grey glen check suit, Prince of Wales check suit, best suit in film history
 
 ## Related
 

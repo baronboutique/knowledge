@@ -3,8 +3,8 @@ type: Product
 title: "The Bespoke Wool Flannel Suit Dress"
 description: "This is the strategic answer to a demanding schedule. Our bespoke wool flannel suit dress is engineered as a single, cohesive uniform of power, combining a tailored jacket and a matching sheath dress …"
 resource: https://baronboutique.com/wool-flannel-dress-suit/
-tags: [women, suit, blazer, dress, flannel, wool-flannel, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, dress, suit, sheath-dress, flannel, wool, workwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Bespoke Wool Flannel Suit Dress
@@ -31,7 +31,7 @@ The Modern Woman's Power Uniform This is the strategic solution to the "what to 
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, gown
+**Related terms:** dress and jacket set, two piece dress suit for women, executive dress with matching blazer, wool outfit for winter office, custom dress suit combination
 
 ## Related
 

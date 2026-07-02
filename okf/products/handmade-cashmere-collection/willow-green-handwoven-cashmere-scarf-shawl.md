@@ -3,8 +3,8 @@ type: Product
 title: "Willow Green Handwoven Cashmere Scarf Shawl"
 description: "Vibrant Greens of Mountain Valleys: Your New Favorite Willow green Elegance Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/willow-green-handwoven-cashmere-scarf-shawl/
-tags: [women, scarf, shawl, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, shawl, wrap, handwoven, willow-green, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Willow Green Handwoven Cashmere Scarf Shawl
@@ -31,7 +31,7 @@ Yarn and Weight 200/2 yarn count 14-16 microns diameter 35-55mm yarn length Feat
 - Scarves
 - Women › Accessories
 
-**Related terms:** wrap, stole, muffler, pashmina
+**Related terms:** sage green cashmere stole, green pashmina wrap, Nepal handloom shawl, oversized green cashmere wrap, soft green muffler
 
 ## Related
 

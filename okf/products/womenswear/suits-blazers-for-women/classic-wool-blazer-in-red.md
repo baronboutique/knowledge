@@ -3,8 +3,8 @@ type: Product
 title: "The Statement Red Blazer"
 description: "This is the power of red, intelligently executed. Our Women's Red Blazer Jacket is crafted from breathable, wrinkle-resistant Fresco wool, a superior fabric that ensures your statement piece looks uni…"
 resource: https://baronboutique.com/classic-wool-blazer-in-red/
-tags: [women, suit, blazer, wool, red, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, blazer, wool, red, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Statement Red Blazer
@@ -31,7 +31,7 @@ Confidence, Tailored This is not just a blazer; it's an injection of pure, unapo
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** red blazer for women, scarlet wool jacket, statement blazer, crimson sport coat for her, tailored red jacket custom
 
 ## Related
 

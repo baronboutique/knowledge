@@ -3,8 +3,8 @@ type: Product
 title: "The Matrix 4 Resurrections Keanu Reeves Neo Coat"
 description: "Nothing beats the practicality and style of a great trench coat. The Matrix 4 Resurrections Keanu Reeves Neo coat by Baron Boutique is an ideal piece of transitional outerwear for everyday use."
 resource: https://baronboutique.com/matrix-4-resurrections-neo-coat/
-tags: [men, overcoat, worsted-wool, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T14:15:55Z
+tags: [men, trench-coat, long-coat, wool, black, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # The Matrix 4 Resurrections Keanu Reeves Neo Coat
@@ -34,7 +34,7 @@ The Matrix 4 Resurrections Neo Coat Inspired by Keanu Reeves in The Matrix Resur
 - Screen Inspired › Cyberpunk Trench Coats
 - Men › Coats & Overcoats
 
-**Related terms:** topcoat, winter coat, wool
+**Related terms:** Keanu Reeves Matrix 4 coat, Neo Resurrections trench, black maxi coat men, sci-fi long coat
 
 ## Related
 

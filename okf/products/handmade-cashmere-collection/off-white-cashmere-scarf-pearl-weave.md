@@ -3,8 +3,8 @@ type: Product
 title: "Off-White Cashmere Scarf – Hand-Finished in Pearl Weave"
 description: "Indulge in unparalleled softness with our Natural Off-White Cashmere Scarf. Featuring a unique, subtly textured pearl weave for lightweight warmth and versatile elegance."
 resource: https://baronboutique.com/off-white-cashmere-scarf-pearl-weave/
-tags: [women, scarf, cashmere, handmade, heirloom]
-timestamp: 2026-07-02T14:15:55Z
+tags: [women, cashmere, scarf, wrap, off-white, pearl-weave, handwoven, handmade, heirloom]
+timestamp: 2026-07-02T15:51:17Z
 ---
 
 # Off-White Cashmere Scarf – Hand-Finished in Pearl Weave
@@ -31,7 +31,7 @@ Alpine Silence Like freshly fallen snow on Himalayan ridgelines, this natural of
 - Scarves
 - Women › Accessories
 
-**Related terms:** wrap, stole, muffler
+**Related terms:** cream pashmina, white bridal shawl, ivory muffler, winter white stole
 
 ## Related
 
