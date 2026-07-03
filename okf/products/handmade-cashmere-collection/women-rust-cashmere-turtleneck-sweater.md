@@ -4,7 +4,7 @@ title: "Women's Rust Cashmere Turtleneck Sweater"
 description: "This rust-colored cashmere turtleneck brings Himalayan heritage to your wardrobe. Hand-knitted from Grade A Tibetan Plateau fiber, each piece is made to order in Nepal using traditional techniques and…"
 resource: https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/
 tags: [women, cashmere, sweater, turtleneck, knitwear, pullover, rust, hand-knitted, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Women's Rust Cashmere Turtleneck Sweater
@@ -31,7 +31,7 @@ Amber Embrace of Autumn Like leaves turning in golden light, this rust cashmere 
 - Scarves
 - Women › Sweaters
 
-**Related terms:** burnt orange roll neck jumper, terracotta polo neck sweater, Nepal knit turtleneck, autumn cashmere jumper
+**Related terms:** burnt orange roll neck jumper, terracotta polo neck sweater, Nepal knit turtleneck, autumn cashmere jumper, rust colored turtleneck, womens rust sweater
 
 ## Related
 

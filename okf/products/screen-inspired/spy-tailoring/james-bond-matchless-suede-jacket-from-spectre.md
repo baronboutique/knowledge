@@ -4,7 +4,7 @@ title: "James Bond Morocco Matchless Suede Jacket Spectre"
 description: "The matchless suede jacket worn by Daniel Craig as James Bond in the film Spectre is an instant favorite. Featuring in some Morocco scenes the James Bond Craig jacket is ideal for hot weather."
 resource: https://baronboutique.com/james-bond-matchless-suede-jacket-from-spectre/
 tags: [men, jacket, suede, leather, james-bond, spectre, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # James Bond Morocco Matchless Suede Jacket Spectre

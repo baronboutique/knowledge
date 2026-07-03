@@ -4,7 +4,7 @@ title: "The Tailored Oversized Linen Shirt"
 description: "This is how you master the oversized trend without looking sloppy. Our Women's Oversized Shirt in Linen solves the biggest challenge of this style with a guaranteed custom fit that perfects the propor…"
 resource: https://baronboutique.com/womens-oversized-by-design-linen-shirt/
 tags: [women, shirt, linen, oversized-fit, summer, casual-tailoring, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # The Tailored Oversized Linen Shirt

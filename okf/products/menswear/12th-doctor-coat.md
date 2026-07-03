@@ -4,7 +4,7 @@ title: "12th Doctor Who Series 9 Coat"
 description: "BECOME THE 12TH DOCTOR: Step into the Time Lord's shoes with our meticulously crafted 12th Doctor Series 9 coat—the iconic garment worn by Peter Capaldi during some of the most memorable episodes of D…"
 resource: https://baronboutique.com/12th-doctor-coat/
 tags: [men, coat, melton-wool, doctor-who, twelfth-doctor, capaldi, time-lord-coat, screen-inspired, cosplay, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # 12th Doctor Who Series 9 Coat
@@ -32,7 +32,7 @@ Intro Step into the Time Lord's shoes with our meticulously crafted 12th Doctor 
 - Men › Coats & Overcoats
 - Screen Inspired › Doctor Collection
 
-**Related terms:** Peter Capaldi coat, 12th Doctor crombie coat, Doctor Who series 9 coat, Time Lord overcoat
+**Related terms:** Peter Capaldi coat, 12th Doctor crombie coat, Doctor Who series 9 coat, Time Lord overcoat, twelfth doctor coat, 12th doctor outfit
 
 ## Related
 

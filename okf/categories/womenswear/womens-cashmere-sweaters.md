@@ -4,7 +4,7 @@ title: "Sweaters"
 description: "Hand-Knitted Women's Cashmere Sweaters Indulge in the unparalleled softness of a Baron Boutique sweater, a personal luxury that is made to order just for you. Each piece is hand-knitted in Nepal from 100% pure, sustainably sourced Grade A cashmere for a heavenly touch and exceptional warmth. Dyed with eco-friendly colors and designed for a perfect fit, this is wearable art that's ethically crafted and uniquely yours."
 resource: https://baronboutique.com/womenswear/womens-cashmere-sweaters/
 tags: [women, sweaters, cashmere, turtleneck, cable-knit, knitwear, pullover, hand-knitted, made-to-order, heirloom]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Sweaters

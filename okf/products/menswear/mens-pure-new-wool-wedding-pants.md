@@ -4,7 +4,7 @@ title: "Mens wedding pants"
 description: "Mens wedding pants hand-tailored for the perfect fit and comfort. Wedding dress pants for groom and groomsmen that promise to impress and bring joy and laughter."
 resource: https://baronboutique.com/mens-pure-new-wool-wedding-pants/
 tags: [men, pants, dress-pants, wool, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Mens wedding pants
@@ -31,7 +31,7 @@ A gentleman's ceremonial trousers are the foundation upon which an entire formal
 
 - Men › Pants
 
-**Related terms:** wedding trousers for groom, formal wool pants, groomsmen pants custom, dress pants for wedding day, tailored ceremony trousers
+**Related terms:** wedding trousers for groom, formal wool pants, groomsmen pants custom, dress pants for wedding day, tailored ceremony trousers, wedding pants for men
 
 ## Related
 

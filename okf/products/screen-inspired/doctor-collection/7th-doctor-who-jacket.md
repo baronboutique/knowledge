@@ -4,7 +4,7 @@ title: "7th Doctor Who Jacket"
 description: "Channel the clever, scheming spirit of the Seventh Doctor with this iconic utility jacket. Custom-tailored to be a screen-accurate replica, it’s crafted from a lightweight worsted wool, perfect for st…"
 resource: https://baronboutique.com/7th-doctor-who-jacket/
 tags: [men, jacket, gabardine-wool, wool, cream, safari-style, doctor-who, seventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # 7th Doctor Who Jacket
@@ -33,7 +33,7 @@ Channel the clever, scheming spirit of the Seventh Doctor with this iconic utili
 
 - Screen Inspired › Doctor Collection
 
-**Related terms:** Sylvester McCoy jacket, 7th Doctor cream jacket, Doctor Who safari jacket
+**Related terms:** Sylvester McCoy jacket, 7th Doctor cream jacket, Doctor Who safari jacket, doctor who jacket, 7th doctor outfit
 
 ## Related
 

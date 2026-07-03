@@ -4,7 +4,7 @@ title: "Scarves"
 description: "Handmade Cashmere Scarves, Sweaters & Shawls Discover our collection of handmade cashmere scarves, sweaters, and shawls, all crafted from 100% pure cashmere sustainably sourced from the Tibetan Plateau. They offer the same luxury and attention to detail as our bespoke clothing, perfectly complementing your tailored outfits with a touch of Himalayan heritage."
 resource: https://baronboutique.com/handmade-cashmere-collection/
 tags: [cashmere, scarves, shawls, wraps, sweaters, handwoven, hand-knitted, nepal-cashmere, handmade, heirloom]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Scarves

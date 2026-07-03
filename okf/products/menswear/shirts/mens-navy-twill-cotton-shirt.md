@@ -4,7 +4,7 @@ title: "Navy Twill Shirt"
 description: "Signature men's button down navy twill looks amazing as a custom shirt with a placket fly front design. It is a great addition to both the formal and casual side of your closet."
 resource: https://baronboutique.com/mens-navy-twill-cotton-shirt/
 tags: [men, shirt, dress-shirt, cotton, twill, navy, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Navy Twill Shirt

@@ -4,7 +4,7 @@ title: "Mens Velvet Smoking Jacket Burgundy Frogging Button"
 description: "The quintessential garment for at-home elegance, this burgundy velvet smoking jacket is an artifact of private leisure."
 resource: https://baronboutique.com/mens-velvet-smoking-jacket/
 tags: [men, smoking-jacket, dinner-jacket, velvet, shawl-collar, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Mens Velvet Smoking Jacket Burgundy Frogging Button

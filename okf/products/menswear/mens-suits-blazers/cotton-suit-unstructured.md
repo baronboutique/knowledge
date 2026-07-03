@@ -4,7 +4,7 @@ title: "The Unstructured Cotton Suit Slim Fit Custom Made"
 description: "New Collection New Fabric Collection — Now Available We've expanded our chino cotton selection with an upgraded fabric range."
 resource: https://baronboutique.com/cotton-suit-unstructured/
 tags: [men, suit, cotton, unstructured, summer, casual-tailoring, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # The Unstructured Cotton Suit Slim Fit Custom Made
@@ -30,7 +30,7 @@ The Unstructured Suit, Defined An unstructured suit, also called a deconstructed
 
 - Men › Suits & Blazers
 
-**Related terms:** unlined cotton suit, casual summer suit, soft shoulder suit
+**Related terms:** unlined cotton suit, casual summer suit, soft shoulder suit, unstructured suit, slim fit cotton suit
 
 ## Related
 

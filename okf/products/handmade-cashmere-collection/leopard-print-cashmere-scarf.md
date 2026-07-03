@@ -4,7 +4,7 @@ title: "Hand-Finished Leopard Print Cashmere Scarf"
 description: "Embrace wild elegance with this leopard print cashmere scarf, hand‑finished in featherlight twill for effortless layering."
 resource: https://baronboutique.com/leopard-print-cashmere-scarf/
 tags: [women, cashmere, scarf, wrap, leopard-print, animal-print, handwoven, handmade, heirloom]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Hand-Finished Leopard Print Cashmere Scarf
@@ -31,7 +31,7 @@ Savannah Whisper Inspired by twilight prowls across golden grasslands, this leop
 - Scarves
 - Women › Accessories
 
-**Related terms:** cheetah print shawl, animal print pashmina, leopard stole, statement print muffler
+**Related terms:** cheetah print shawl, animal print pashmina, leopard stole, statement print muffler, cashmere leopard print scarf
 
 ## Related
 

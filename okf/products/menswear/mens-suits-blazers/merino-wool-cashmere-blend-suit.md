@@ -4,7 +4,7 @@ title: "Merino Wool Cashmere Blend Suit"
 description: "A cornerstone of the sophisticated wardrobe, this charcoal grey suit is tailored from a luxurious blend of fine merino wool and soft cashmere."
 resource: https://baronboutique.com/merino-wool-cashmere-blend-suit/
 tags: [men, suit, wool-cashmere, merino-wool, cashmere, charcoal, canvas-front, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Merino Wool Cashmere Blend Suit

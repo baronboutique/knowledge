@@ -4,7 +4,7 @@ title: "Matrix Coat Neo Trench Coat Black"
 description: "Softly tailored Matrix coat with a graceful ankle-length to set yourself apart and express your personality."
 resource: https://baronboutique.com/the-matrix-coat/
 tags: [men, trench-coat, long-coat, cotton, black, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Matrix Coat Neo Trench Coat Black

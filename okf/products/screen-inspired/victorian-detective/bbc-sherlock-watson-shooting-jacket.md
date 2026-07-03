@@ -4,7 +4,7 @@ title: "John Watson Black Shooting Jacket BBC Sherlock Holmes"
 description: "John Watson's black shooting jacket from BBC Sherlock Holmes is a custom-made classic outerwear piece that you can pass down for generations."
 resource: https://baronboutique.com/bbc-sherlock-watson-shooting-jacket/
 tags: [men, jacket, shooting-jacket, cotton, black, john-watson, sherlock, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # John Watson Black Shooting Jacket BBC Sherlock Holmes

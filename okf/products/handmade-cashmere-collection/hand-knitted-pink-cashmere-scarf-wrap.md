@@ -4,7 +4,7 @@ title: "Hand Felted Pink Cashmere Scarf Wrap"
 description: "Blush of the Himalayan Dawn: Embrace the softness of your new favorite pink cashmere. Hand knitted and Hand Felted. Proudly made in Nepal. Crafted from 100% pure, allergen-free Grade A cashmere."
 resource: https://baronboutique.com/hand-knitted-pink-cashmere-scarf-wrap/
 tags: [women, cashmere, scarf, wrap, pink, hand-knitted, hand-felted, handmade, heirloom]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Hand Felted Pink Cashmere Scarf Wrap

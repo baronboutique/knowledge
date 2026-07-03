@@ -4,7 +4,7 @@ title: "Fourth Doctor Horror Of Fang Baker Coat"
 description: "A timeless fourth Doctor Baker Horror Of Fang Baker coat is truly an iconic coat essential for your cosplay collection."
 resource: https://baronboutique.com/fourth-doctor-baker-coat/
 tags: [men, coat, frock-coat, melton-wool, wool, doctor-who, fourth-doctor, tom-baker, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Fourth Doctor Horror Of Fang Baker Coat
@@ -33,7 +33,7 @@ Commissioned in a dense Melton wool, this garment is a direct recreation of the 
 - Men › Frock Coats
 - Screen Inspired › Doctor Collection
 
-**Related terms:** Horror of Fang Rock coat, Tom Baker grey coat, 4th Doctor long coat
+**Related terms:** Horror of Fang Rock coat, Tom Baker grey coat, 4th Doctor long coat, 4th doctor coat
 
 ## Related
 

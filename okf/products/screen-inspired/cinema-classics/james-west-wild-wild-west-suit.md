@@ -4,7 +4,7 @@ title: "James West Wild Wild West Suit"
 description: "James West Wild Wild West suit is for men who need an edge to accomplish their mission statement of looking cool."
 resource: https://baronboutique.com/james-west-wild-wild-west-suit/
 tags: [men, suit, western-style, merino-wool, wool, victorian-style, james-west, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # James West Wild Wild West Suit
@@ -34,7 +34,7 @@ Walk the Line Between Vintage Cool and Modern Edge Channel your inner gunslinger
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Wild Wild West costume, Jim West suit, western gunslinger suit, Will Smith western outfit
+**Related terms:** Wild Wild West costume, Jim West suit, western gunslinger suit, Will Smith western outfit, Wild West suit
 
 ## Related
 

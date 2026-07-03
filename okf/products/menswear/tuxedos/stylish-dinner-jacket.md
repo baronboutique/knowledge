@@ -4,7 +4,7 @@ title: "Custom Dinner Jacket"
 description: "Feel your inner 007 in this custom dinner jacket tailored in Houndstooth textured wool. A custom-made designer dinner jacket with a proper fit to your body type is what defines an individual look."
 resource: https://baronboutique.com/stylish-dinner-jacket/
 tags: [men, dinner-jacket, tuxedo, wool, houndstooth, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Custom Dinner Jacket
@@ -33,7 +33,7 @@ To select a houndstooth dinner jacket is to consciously depart from the uniformi
 - Men › Suits & Blazers
 - Men › Dinner Jackets
 
-**Related terms:** James Bond style jacket, houndstooth evening jacket, black tie alternative jacket, textured dinner suit jacket, cocktail party jacket
+**Related terms:** James Bond style jacket, houndstooth evening jacket, black tie alternative jacket, textured dinner suit jacket, cocktail party jacket, tailored dinner jacket, bespoke dinner jacket, made to measure dinner jacket
 
 ## Related
 

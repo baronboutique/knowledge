@@ -4,7 +4,7 @@ title: "Wedding Suits"
 description: "Bespoke men's wedding suits tailored to your exact measurements. Choose your fabric, style & fit. Free test suit before your final order. Ships worldwide."
 resource: https://baronboutique.com/menswear/wedding-suits/
 tags: [men, wedding-suit, groom-suit, groomsmen, linen-suit, silk-suit, summer-wedding, destination-wedding, cape, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Wedding Suits

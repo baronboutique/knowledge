@@ -4,7 +4,7 @@ title: "The Pinstripe Pencil Skirt"
 description: "A pinstripe is only as powerful as its line. Our Navy Blue Striped Skirt solves the biggest challenge of this pattern with a guaranteed custom fit that ensures every stripe hangs perfectly straight an…"
 resource: https://baronboutique.com/womens-essential-stripe-skirt/
 tags: [women, skirt, pencil-skirt, stripe, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # The Pinstripe Pencil Skirt
@@ -31,7 +31,7 @@ The Authority of the Pinstripe, Masterfully Tailored There are few patterns as p
 
 - Women › Skirts
 
-**Related terms:** striped work skirt, pinstripe pencil skirt, subtle stripe skirt
+**Related terms:** striped work skirt, pinstripe pencil skirt, subtle stripe skirt, striped pencil skirt
 
 ## Related
 

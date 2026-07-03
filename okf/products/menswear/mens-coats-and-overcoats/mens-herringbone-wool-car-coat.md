@@ -4,7 +4,7 @@ title: "Herringbone Car Coat in Tweed Wool"
 description: "A bespoke herringbone car coat in Super 110s' tweed wool, hand-tailored with full canvas construction and natural horn button closures."
 resource: https://baronboutique.com/mens-herringbone-wool-car-coat/
 tags: [men, car-coat, coat, tweed, wool, herringbone, canvas-front, single-breasted, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Herringbone Car Coat in Tweed Wool
@@ -31,7 +31,7 @@ The Free Fitting Canvas: Your Bespoke Advantage Below, you'll see the free fitti
 
 - Men › Coats & Overcoats
 
-**Related terms:** herringbone overcoat, tweed driving coat, three quarter length coat, short wool overcoat for men, custom gentleman's coat
+**Related terms:** herringbone overcoat, tweed driving coat, three quarter length coat, short wool overcoat for men, custom gentleman's coat, wool car coat mens, tweed car coat
 
 ## Related
 

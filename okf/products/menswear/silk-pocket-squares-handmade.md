@@ -4,7 +4,7 @@ title: "Hand Finished Silk Pocket Squares"
 description: "Baron Boutique offers the best hand finished custom silk pocket squares. The squares crafted with the finest 100% satin silk and meticulously stitched by hand."
 resource: https://baronboutique.com/silk-pocket-squares-handmade/
 tags: [men, pocket-square, silk, solid-color, formalwear, wedding, handmade, heirloom]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Hand Finished Silk Pocket Squares

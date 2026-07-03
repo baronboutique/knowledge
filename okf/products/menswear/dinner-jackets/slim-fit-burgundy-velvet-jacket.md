@@ -4,7 +4,7 @@ title: "Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels"
 description: "A classic clean line burgundy velvet dinner jacket cut slim that fits perfectly. Inspired by the traditional velvet smoking suit jacket but tailored for the taste of modern man."
 resource: https://baronboutique.com/slim-fit-burgundy-velvet-jacket/
 tags: [men, blazer, dinner-jacket, velvet, burgundy, slim-fit, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels
@@ -32,7 +32,7 @@ Men’s Peak Lapel Test Jacket–Fit and Style Evaluation To select a burgundy v
 - Men › Dinner Jackets
 - Men › Suits & Blazers
 
-**Related terms:** burgundy smoking jacket, wine velvet dinner jacket, holiday party blazer, maroon tuxedo jacket, festive evening jacket
+**Related terms:** burgundy smoking jacket, wine velvet dinner jacket, holiday party blazer, maroon tuxedo jacket, festive evening jacket, burgundy velvet suit jacket, burgundy velvet jacket mens
 
 ## Related
 

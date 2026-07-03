@@ -4,7 +4,7 @@ title: "The Modern Mother of the Bride Sheath Dress"
 description: "This is your moment to celebrate your own personal style. Our mother of the bride sheath dress is the modern solution, combining a powerful pinstripe fabric with a guaranteed flawless custom fit."
 resource: https://baronboutique.com/womens-dalenia-pinstripe-sheath-dress/
 tags: [women, dress, sheath-dress, pinstripe, wool, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T03:19:44Z
+timestamp: 2026-07-03T04:10:16Z
 ---
 
 # The Modern Mother of the Bride Sheath Dress
