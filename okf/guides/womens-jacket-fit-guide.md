@@ -3,8 +3,8 @@ type: Guide
 title: "Jacket Fit Guide"
 description: "Find your perfect fit—Slim, Standard, or Relaxed. Baron Boutique's womens guide helps you choose the best custom garment for your style."
 resource: https://baronboutique.com/womens-jacket-fit-guide/
-tags: [guide, sizing, fit-guide, bespoke]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, jacket, blazer, fit-guide, sizing, made-to-measure, guide]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Jacket Fit Guide
@@ -12,6 +12,8 @@ timestamp: 2026-07-02T15:51:17Z
 Find your perfect fit—Slim, Standard, or Relaxed. Baron Boutique's womens guide helps you choose the best custom garment for your style.
 
 Full details are published at https://baronboutique.com/womens-jacket-fit-guide/
+
+**Related terms:** women's blazer fit, how should a jacket fit a woman, tailored jacket sizing
 
 ## Related
 

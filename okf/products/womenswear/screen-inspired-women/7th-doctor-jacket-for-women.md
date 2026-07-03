@@ -3,8 +3,8 @@ type: Product
 title: "The 7th Doctor's Utility Jacket"
 description: "This isn't just a jacket; it's the uniform of a grand chessmaster, tailored for you. Our Women's 7th Doctor Who Jacket uses a guaranteed custom fit to honor your silhouette, ensuring the belted back c…"
 resource: https://baronboutique.com/7th-doctor-jacket-for-women/
-tags: [women, jacket, wool, belted, doctor-who, seventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, jacket, gabardine-wool, wool, safari-style, doctor-who, seventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The 7th Doctor's Utility Jacket
@@ -31,7 +31,7 @@ The Utility Jacket Try-On–Fit and Style Evaluation The Uniform of a Grand Ches
 
 - Women › Screen Inspired
 
-**Related terms:** Sylvester McCoy jacket for women, safari style jacket, ladies Doctor Who costume, cream utility jacket
+**Related terms:** 7th Doctor jacket for her, McCoy cream jacket women, Doctor Who utility jacket for women
 
 ## Related
 

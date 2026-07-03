@@ -4,7 +4,7 @@ title: "Camel Topcoat In Melton Wool"
 description: "Sophisticated camel topcoat in English Melton wool is versatile enough to add a sense of refinement to both tailored and casual ensembles."
 resource: https://baronboutique.com/mens-camel-melton-wool-topcoat/
 tags: [men, topcoat, overcoat, melton-wool, wool, camel, velvet-collar, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Camel Topcoat In Melton Wool

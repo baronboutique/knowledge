@@ -3,8 +3,8 @@ type: Product
 title: "Womens Long Dress Coat Oversized"
 description: "Womens long dress coat oversized is beauty in simplicity. Stay warm and look stylish in a dress coat for women with 3/4 length bell sleeves."
 resource: https://baronboutique.com/womens-dropped-shoulders-coat/
-tags: [women, coat, overcoat, topcoat, dropped-shoulder, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, coat, dropped-shoulder, oversized-fit, wool, winter-coat, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Womens Long Dress Coat Oversized
@@ -30,7 +30,7 @@ The Art of Effortless Power This is the silhouette of modern confidence. A coat 
 
 - Women › Coats & Overcoats
 
-**Related terms:** cocoon coat women, oversized wool coat, slouchy winter coat, drop shoulder overcoat, boyfriend style coat
+**Related terms:** cocoon coat, relaxed fit wool coat, modern drop shoulder coat
 
 ## Related
 

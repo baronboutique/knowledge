@@ -3,8 +3,8 @@ type: Product
 title: "The Custom Wide-Leg Linen Pant"
 description: "This is your secret weapon for the 9-to-5 and beyond. Our Women's Wide Leg Linen Pants are designed for the modern professional who demands both style and comfort."
 resource: https://baronboutique.com/womens-classic-linen-pants/
-tags: [women, trousers, linen, natural, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, pants, linen, summer, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Custom Wide-Leg Linen Pant
@@ -31,7 +31,7 @@ The Art of the Effortless Drape This is the antidote to restrictive summer style
 
 - Women › Pants
 
-**Related terms:** dress pants, tailored trousers
+**Related terms:** linen trousers for women, breathable work pants, vacation pants
 
 ## Related
 

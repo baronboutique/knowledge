@@ -3,8 +3,8 @@ type: Product
 title: "Charcoal Grey Pinstripe Suit James Bond Skyfall"
 description: "We at Baron Boutique are committed to providing better quality custom-made suits for our customers. Taking inspiration from Skyfall, the charcoal grey pinstripe suit to cosplay James Bond for modern m…"
 resource: https://baronboutique.com/james-bond-charcoal-stripe-suit-from-skyfall/
-tags: [men, suit, wool, charcoal, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, suit, charcoal, chalk-stripe, wool, james-bond, skyfall, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Charcoal Grey Pinstripe Suit James Bond Skyfall
@@ -33,7 +33,7 @@ Step into the lethal elegance of Skyfall. This is more than a suit; it's Bond's 
 
 - Screen Inspired › Spy Tailoring
 
-**Related terms:** two-piece suit, three-piece suit, formal suit
+**Related terms:** Bond Skyfall charcoal suit, Daniel Craig striped suit, 007 business suit
 
 ## Related
 

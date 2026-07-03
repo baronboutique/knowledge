@@ -3,8 +3,8 @@ type: Product Category
 title: "Dresses"
 description: "Womens dresses, silk dress, evening dress, sheath dress, custom-made dress. Womens dresses, unique designs for every woman. Best dress customization."
 resource: https://baronboutique.com/womenswear/dresses-for-women/
-tags: [dresses, dress, evening-dress, occasion-dress, tailored-dress, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, dresses, sheath-dress, shift-dress, wrap-dress, maxi-dress, work-dress, wool-dress, silk-dress, custom-dress, made-to-measure, bespoke]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Dresses
@@ -29,6 +29,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Unlined Linen Duster Coat](../../products/womenswear/dresses-for-women/linen-dress-jacket-with-notch-collar.md)
 - [V-Neck Women's Sheath Dress](../../products/womenswear/dresses-for-women/wool-flannel-sheath-dress.md)
 - [White Piped Trim Sheath Dress A-Line V-Neck](../../products/womenswear/dresses-for-women/womens-piped-sheath-dress.md)
+
+**Related terms:** custom made dresses, tailored work dresses, made to measure dress, silk dresses online, office dresses
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "Men's Double Breasted Long Peacoat"
 description: "Men's double-breasted long peacoat has stepped up and given winter events a new level of a dandy with its extra protection."
 resource: https://baronboutique.com/mens-double-breasted-peacoat/
-tags: [men, overcoat, peacoat, wool, double-breasted, charcoal, winter, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, peacoat, wool, double-breasted, navy, winter-coat, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Men's Double Breasted Long Peacoat
@@ -31,7 +31,7 @@ Men's Double Breasted Try-On Coat–Fit and Style Evaluation This is the classic
 
 - Men › Coats & Overcoats
 
-**Related terms:** topcoat, winter coat
+**Related terms:** classic pea coat, naval officer coat, sailor wool coat
 
 ## Related
 

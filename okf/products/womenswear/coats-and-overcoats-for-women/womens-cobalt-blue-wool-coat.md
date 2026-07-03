@@ -3,8 +3,8 @@ type: Product
 title: "The Cobalt Blue Statement Coat"
 description: "This is the antidote to a grey winter. The Cobalt Statement Coat features a stunning blue hue and a minimalist architectural collar for a powerfully chic look."
 resource: https://baronboutique.com/womens-cobalt-blue-wool-coat/
-tags: [women, overcoat, wool, cobalt, winter, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, coat, wool, cobalt-blue, statement, winter-coat, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Cobalt Blue Statement Coat
@@ -31,7 +31,7 @@ The Antidote to Winter Grey This is not just a winter coat; it's a declaration o
 
 - Women › Coats & Overcoats
 
-**Related terms:** topcoat, winter coat
+**Related terms:** bright blue coat, colorful wool coat, statement winter coat
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product Category
 title: "Tuxedos"
 description: "Women tuxedos at affordable prices perfect for all events. Custom-made to flatter your shape. Free shipping worldwide. Tuxedo tailored to your height."
 resource: https://baronboutique.com/womenswear/tuxedos-for-women/
-tags: [tuxedos, womens-tuxedo, black-tie, evening-tailoring, le-smoking, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, tuxedo, tuxedo-suit, black-tie, evening-wear, velvet-jacket, custom-tuxedo, made-to-measure, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Tuxedos
@@ -18,6 +18,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [The Velvet Tuxedo Jacket](../../products/womenswear/wedding-suits-for-women/womens-tailored-velvet-tuxedo-jacket.md)
 - [The Women's Bespoke Tuxedo](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
 - [The Women's Tuxedo Suit](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
+
+**Related terms:** women's tuxedo suit, ladies tux, black tie outfit for women, velvet tuxedo jacket women, femme tuxedo
 
 ## Related
 

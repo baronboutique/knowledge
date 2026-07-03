@@ -3,8 +3,8 @@ type: Product Category
 title: "Shirts"
 description: "Buy mens dress shirts, stylish full sleeves silk shirts, and cotton shirts boutique made. Mens dress shirts in elegant designs for every man. Free try on …"
 resource: https://baronboutique.com/menswear/shirts/
-tags: [shirts, dress-shirts, formal-shirts, custom-shirts, mens-shirts, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, shirts, dress-shirt, silk-shirt, cotton-shirt, egyptian-cotton, custom-shirt, made-to-measure, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Shirts
@@ -24,6 +24,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [The Pink Oxford Shirt](../../products/menswear/shirts/mens-pink-oxford-cotton-shirt.md)
 - [The Raw Silk Shirt](../../products/menswear/shirts/mens-gold-raw-silk-shirt.md)
 - [The Tailored Linen Shirts](../../products/menswear/shirts/tailored-linen-shirts.md)
+
+**Related terms:** custom dress shirts, tailored shirts online, men's silk shirts, made to measure shirt, fitted formal shirts
 
 ## Related
 

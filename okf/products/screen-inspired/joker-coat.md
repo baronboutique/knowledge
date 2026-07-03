@@ -3,8 +3,8 @@ type: Product
 title: "Joker Trench Coat, Dark Knight Inspired in Purple Melton Wool"
 description: "Most Joker coats are polyester approximations that read as costume the moment they are photographed. Baron builds this coat in 100% Melton wool, to your measurements, with canvas front construction, t…"
 resource: https://baronboutique.com/joker-coat/
-tags: [men, trench-coat, long-coat, melton-wool, purple, canvas-front, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, coat, trench-coat, melton-wool, purple, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Joker Trench Coat, Dark Knight Inspired in Purple Melton Wool
@@ -97,7 +97,7 @@ Full Specification
 - Screen Inspired › Theatrical Villain
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Heath Ledger Joker coat, Dark Knight purple trench coat, Joker costume overcoat, purple wool villain coat, Joker cosplay coat
+**Related terms:** Heath Ledger Joker coat, purple trench coat, Dark Knight costume coat
 
 ## Related
 

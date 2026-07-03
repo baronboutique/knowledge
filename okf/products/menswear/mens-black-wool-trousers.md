@@ -3,8 +3,8 @@ type: Product
 title: "The Essential Black Wool Trousers"
 description: "The bedrock of the modern wardrobe, The Essential Black Wool Trousers are custom-tailored for a perfect fit."
 resource: https://baronboutique.com/mens-black-wool-trousers/
-tags: [men, trousers, wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, pants, wool, black, workwear, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Essential Black Wool Trousers
@@ -31,7 +31,7 @@ The Bedrock of the Modern Wardrobe The black wool trouser is the bedrock of the 
 
 - Men › Pants
 
-**Related terms:** dress pants, tailored trousers
+**Related terms:** black dress trousers, black suit trousers, staple dress pants
 
 ## Related
 

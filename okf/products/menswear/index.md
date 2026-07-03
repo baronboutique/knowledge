@@ -2,7 +2,7 @@
 type: Index
 title: "Men"
 description: "Bespoke Menswear, Built to Your Measure From custom suits, tuxedos, and frock coats to overcoats, shirts, and cashmere, every piece is made to order and hand‑tailored to your exact measurements — never pulled from a rack. Before we cut the final cloth, a complimentary test garment comes to your home, so the fit is approved first. Collector‑quality construction."
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Men

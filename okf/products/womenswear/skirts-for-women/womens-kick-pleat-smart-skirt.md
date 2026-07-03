@@ -3,8 +3,8 @@ type: Product
 title: "The Kick Pleat Pencil Skirt"
 description: "This is the classic skirt, reimagined for the modern professional. Our Women's Kick Pleat Skirt solves the problem of the boring work staple with a sharp, front-center kick pleat that adds both sartor…"
 resource: https://baronboutique.com/womens-kick-pleat-smart-skirt/
-tags: [women, skirt, wool, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, skirt, pencil-skirt, kick-pleat, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Kick Pleat Pencil Skirt
@@ -31,7 +31,7 @@ A Classic, With a Twist This is the answer for the woman who appreciates timeles
 
 - Women › Skirts
 
-**Related terms:** pencil skirt, a-line skirt
+**Related terms:** kick pleat skirt, walkable pencil skirt, smart office skirt
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "Womens Navy Coat James Bond Spectre"
 description: "Womens navy coat replica from Spectre for sophisticated ladies who wants to explore the spy lifestyle."
 resource: https://baronboutique.com/womens-mid-thigh-coat-spectre/
-tags: [women, coat, flannel, wool, navy, james-bond, spy-tailoring, spectre, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, coat, flannel, wool, mid-thigh, james-bond, spectre, spy-tailoring, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Womens Navy Coat James Bond Spectre
@@ -32,7 +32,7 @@ The Spectre Silhouette: Elegance & Danger This is the uniform of a covert operat
 - Women › Screen Inspired
 - Women › Coats & Overcoats
 
-**Related terms:** Bond girl navy coat, Madeleine Swann coat, 007 womens coat, mid length wool coat
+**Related terms:** Spectre coat for women, Bond girl coat, short navy coat women
 
 ## Related
 

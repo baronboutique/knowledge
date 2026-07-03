@@ -3,8 +3,8 @@ type: Product
 title: "Tom Cruise Collateral Suit"
 description: "Grey suits are easy to find. A grey suit designed to be unremarkable but impossible to forget once you know what you are looking at is something else entirely."
 resource: https://baronboutique.com/tom-cruise-suit-from-collateral/
-tags: [men, suit, wool, gray, canvas-front, theatrical-villain, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, suit, gray, tropical-wool, wool, collateral, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Tom Cruise Collateral Suit
@@ -108,7 +108,7 @@ Bespoke vs. Off the Rack
 - Screen Inspired › Theatrical Villain
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Vincent hitman suit, assassin gray suit, minimalist grey suit, Michael Mann film suit
+**Related terms:** Vincent Collateral suit, Tom Cruise gray suit, hitman movie suit, sharp gray two-piece
 
 ## Related
 

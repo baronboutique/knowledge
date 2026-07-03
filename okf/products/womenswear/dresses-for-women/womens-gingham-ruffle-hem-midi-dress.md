@@ -3,8 +3,8 @@ type: Product
 title: "Gingham Ruffle Hem Midi Dress"
 description: "This is how you win \"best-dressed guest.\" A dress that combines the playful charm of gingham with a custom-tailored fit that ensures a flattering silhouette on every figure."
 resource: https://baronboutique.com/womens-gingham-ruffle-hem-midi-dress/
-tags: [women, dress, cotton, midnight, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, dress, midi-dress, gingham, ruffle-hem, summer, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Gingham Ruffle Hem Midi Dress
@@ -30,7 +30,7 @@ Effortless Summer Charm, Perfected This is the dress of sun-drenched weekends an
 
 - Women › Dresses
 
-**Related terms:** gown, occasion dress
+**Related terms:** checked midi dress, ruffle hem dress, garden party dress
 
 ## Related
 

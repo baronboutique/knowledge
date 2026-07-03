@@ -3,8 +3,8 @@ type: Product
 title: "12th Doctor Black Velvet Frock Coat Peter Capaldi Cosplay"
 description: "Our 12th Doctor black velvet frock coat perfectly fits the Peter Capaldi look. An elegant black velvet cosplay coat for an avid 12th Doctor cosplayer who wants to look and dress in style for conventio…"
 resource: https://baronboutique.com/12th-doctor-black-velvet-frock-coat/
-tags: [men, frock-coat, velvet, black, cosplay, convention, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, frock-coat, velvet, black, doctor-who, twelfth-doctor, capaldi, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # 12th Doctor Black Velvet Frock Coat Peter Capaldi Cosplay
@@ -33,7 +33,7 @@ This is the definitive black velvet frock coat of the Twelfth Doctor—a mantle 
 - Men › Frock Coats
 - Screen Inspired › Doctor Collection
 
-**Related terms:** long coat, tailcoat, morning coat, ceremonial coat
+**Related terms:** Capaldi black velvet frock coat, 12th Doctor gothic coat, black velvet Victorian coat
 
 ## Related
 

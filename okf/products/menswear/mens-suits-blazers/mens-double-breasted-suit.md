@@ -3,8 +3,8 @@ type: Product
 title: "6 Button Double Breasted Suit, Custom Made in Super 120s Wool"
 description: "Most double-breasted suits off the rack are either boxy legacy cuts from a different era or cheap modern versions with fused fronts that collapse after a few wears. Neither looks right."
 resource: https://baronboutique.com/mens-double-breasted-suit/
-tags: [men, suit, wool, double-breasted, formalwear, workwear, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, suit, double-breasted, worsted-wool, wool, formalwear, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # 6 Button Double Breasted Suit, Custom Made in Super 120s Wool
@@ -99,7 +99,7 @@ Full Specification
 
 - Men › Suits & Blazers
 
-**Related terms:** 6x2 suit, DB power suit, gangster style suit, custom double breasted blazer, vintage cut suit
+**Related terms:** DB suit, six button double breasted suit, power suit for men, classic business suit
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "The High-Waisted Pencil Skirt"
 description: "This is the power of a pencil skirt, finally engineered for comfort. Our High Waisted Work Skirt for Ladies is defined by thoughtful details like a grip-enforced waistband and a deep back vent, design…"
 resource: https://baronboutique.com/womens-work-skirt-in-sharkskin/
-tags: [women, skirt, wool, blue, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, skirt, pencil-skirt, sharkskin-wool, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The High-Waisted Pencil Skirt
@@ -31,7 +31,7 @@ The Power Silhouette, Engineered for Comfort The high-waisted pencil skirt is a 
 
 - Women › Skirts
 
-**Related terms:** pencil skirt, a-line skirt
+**Related terms:** sharkskin pencil skirt, office skirt, two-tone work skirt
 
 ## Related
 

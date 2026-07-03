@@ -3,8 +3,8 @@ type: Product
 title: "The Sculpted Wool Blazer"
 description: "Crafted from fine merino wool, The Sculpted Wool Blazer is tailored to flatter the feminine form with precision darting and a contoured silhouette—no more boxy fit."
 resource: https://baronboutique.com/womens-merino-wool-blazer/
-tags: [women, blazer, jacket, merino-wool, wool, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, blazer, merino-wool, wool, single-breasted, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Sculpted Wool Blazer
@@ -31,7 +31,7 @@ The End of the "Boxy" Blazer This is the blazer, re-engineered. It's the answer 
 
 - Women › Suits & Blazers
 
-**Related terms:** ladies wool sport coat, womens tailored jacket, office blazer for women, custom suit jacket women
+**Related terms:** tailored ladies blazer, custom sport jacket for women, office blazer, fine wool jacket
 
 ## Related
 

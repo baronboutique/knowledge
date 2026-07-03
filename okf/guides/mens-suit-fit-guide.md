@@ -3,8 +3,8 @@ type: Guide
 title: "Suit Fit Guide"
 description: "Find your perfect fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for your style."
 resource: https://baronboutique.com/mens-suit-fit-guide/
-tags: [guide, sizing, fit-guide, bespoke]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, suit, fit-guide, sizing, tailored-fit, slim-fit, classic-fit, made-to-measure, guide]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Suit Fit Guide
@@ -12,6 +12,8 @@ timestamp: 2026-07-02T15:51:17Z
 Find your perfect fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for your style.
 
 Full details are published at https://baronboutique.com/mens-suit-fit-guide/
+
+**Related terms:** how should a suit fit, men's suit fit types, suit fit chart, slim vs classic fit suit
 
 ## Related
 

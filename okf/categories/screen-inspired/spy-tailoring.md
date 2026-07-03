@@ -3,8 +3,8 @@ type: Product Category
 title: "Spy Tailoring"
 description: "Spy Tailoring A suit is the foundation of spy dressing. The silhouettes that defined Bond, Bourne, and the golden age of screen espionage were built on precision tailoring. Every suit, coat, and jacket in this collection draws from that tradition—sharper, leaner, and custom-made to your exact measurements. The lines are precise. The fabrics are uncompromising. Our complimentary test garment process ensures the fit is perfected before a single piece of cloth is cut for your final garment."
 resource: https://baronboutique.com/screen-inspired/spy-tailoring/
-tags: [spy-tailoring, spy-suit, secret-agent, tuxedo, espionage-style, tailored-suit, screen-inspired, cinematic-fashion, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [james-bond, spy-tailoring, skyfall, spectre, casino-royale, suits, peacoat, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Spy Tailoring
@@ -79,6 +79,8 @@ Try on the test garment and note anything that needs adjusting — jacket length
 - [James Bond Skyfall Peacoat](../../products/screen-inspired/spy-tailoring/james-bond-navy-peacoat-from-skyfall.md)
 - [Mens Fitted Peacoat Black Quantum Of Solace Ending](../../products/menswear/quantum-of-solace-peacoat.md)
 - [Silk Nehru Jacket James Bond Dr. No](../../products/screen-inspired/spy-tailoring/dr-no-silk-jacket.md)
+
+**Related terms:** James Bond suits, 007 style clothing, Daniel Craig suit replica, Bond coat, spy movie outfits
 
 ## Related
 

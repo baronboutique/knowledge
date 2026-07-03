@@ -3,8 +3,8 @@ type: Product
 title: "Fantastic Beasts Percival Graves Black Coat"
 description: "Every Graves coat online is a costume set, cotton, polyester, a size chart, and a shawl collar that approximates the shape. This is the coat."
 resource: https://baronboutique.com/percival-graves-black-coat/
-tags: [men, coat, long-coat, wool, black, shawl-collar, fantastic-beasts, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, coat, overcoat, tropical-wool, wool, black, percival-graves, fantastic-beasts, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Fantastic Beasts Percival Graves Black Coat
@@ -99,7 +99,7 @@ The Graves Coat vs. Everything Else
 - Men › Coats & Overcoats
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Colin Farrell coat, wizarding world overcoat, Graves cosplay costume, MACUSA auror coat
+**Related terms:** Percival Graves overcoat, Fantastic Beasts villain coat, wizard long coat, Colin Farrell coat
 
 ## Related
 

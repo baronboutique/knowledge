@@ -3,8 +3,8 @@ type: Product
 title: "James Bond Skyfall Peacoat"
 description: "One of the most coveted collectibles for avid James Bond fans, Skyfall peacoat in unlined construction crafted from navy Melton wool."
 resource: https://baronboutique.com/james-bond-navy-peacoat-from-skyfall/
-tags: [men, peacoat, wool, double-breasted, navy, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, peacoat, navy, wool, double-breasted, james-bond, skyfall, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # James Bond Skyfall Peacoat
@@ -31,6 +31,8 @@ James Bond Skyfall Test Peacoat-Fit and Style Evaluation The Skyfall Peacoat: An
 ## Categories
 
 - Screen Inspired › Spy Tailoring
+
+**Related terms:** Bond Skyfall peacoat, Daniel Craig navy coat, 007 peacoat
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Index
 title: "Victorian Detective"
 description: "The Baker Street Collection The great Victorian detective set the standard for how a man of intellect should dress. This collection honours that standard. Wide peak lapels. Rugged corduroy. Cotton twill built for action. Every garment draws from the silhouettes that defined the golden age of the Victorian consulting detective on page and on screen. Each piece is masterfully tailored to your precise measurements. Our complimentary test garment process guarantees a flawless fit before your final garment is made."
 resource: https://baronboutique.com/screen-inspired/victorian-detective/
-tags: [victorian-detective, victorian, detective-coat, period-tailoring, inverness-cape, sherlock-style, screen-inspired, cinematic-fashion, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [sherlock-holmes, victorian-style, detective-coat, frock-coat, tweed, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Victorian Detective

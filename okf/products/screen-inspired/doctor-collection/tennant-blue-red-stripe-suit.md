@@ -3,8 +3,8 @@ type: Product
 title: "Tennant Blue and Red Stripe Suit"
 description: "Tennant blue and red stripe suit is already renowned for its unique and exclusive. Get the iconic look of tenth Doctor in this carefully constructed blue suit from year-round cotton."
 resource: https://baronboutique.com/tennant-blue-red-stripe-suit/
-tags: [men, suit, cotton, blue, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, suit, pinstripe, blue, doctor-who, tenth-doctor, tennant, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Tennant Blue and Red Stripe Suit
@@ -33,7 +33,7 @@ Tennant blue and red stripe suit is already renowned for its unique and exclusiv
 
 - Screen Inspired › Doctor Collection
 
-**Related terms:** two-piece suit, three-piece suit, formal suit
+**Related terms:** David Tennant blue suit, 10th Doctor red stripe suit, Doctor Who pinstripe suit
 
 ## Related
 

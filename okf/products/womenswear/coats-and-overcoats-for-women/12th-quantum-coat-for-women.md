@@ -3,8 +3,8 @@ type: Product
 title: "Womens Peacoat Wool Double Breasted"
 description: "Womens peacoat double-breasted in Melton wool is a worthy wardrobe investment. Womens peacoat in 3/4 length cut is a statement coat to keep your style elevated and practical during walks around the ne…"
 resource: https://baronboutique.com/12th-quantum-coat-for-women/
-tags: [women, peacoat, melton-wool, wool, double-breasted, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, coat, melton-wool, wool, winter-coat, doctor-who, twelfth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Womens Peacoat Wool Double Breasted
@@ -31,7 +31,7 @@ The Naval Icon, Redefined for You This is the cornerstone of any powerful wardro
 
 - Women › Coats & Overcoats
 
-**Related terms:** ladies pea jacket, womens naval style coat, warm short overcoat for women, three quarter length wool coat
+**Related terms:** women's Capaldi wool coat, Doctor Who winter coat for women, tailored screen coat
 
 ## Related
 

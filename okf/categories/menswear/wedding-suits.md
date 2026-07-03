@@ -3,8 +3,8 @@ type: Product Category
 title: "Wedding Suits"
 description: "Bespoke men's wedding suits tailored to your exact measurements. Choose your fabric, style & fit. Free test suit before your final order. Ships worldwide."
 resource: https://baronboutique.com/menswear/wedding-suits/
-tags: [wedding-suits, wedding-suit, grooms-suit, groomswear, wedding-tailoring, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, wedding-suit, groom-suit, groomsmen, linen-suit, silk-suit, summer-wedding, destination-wedding, made-to-measure, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Wedding Suits
@@ -28,6 +28,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [The Linen Ceremonial Suit](../../products/menswear/wedding-suits/wedding-party-linen-suit.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 - [Western Frock Coat in Wool, Made to Measure](../../products/menswear/mens-frock-coat.md)
+
+**Related terms:** groom suits online, custom wedding suit for men, beach wedding attire men, tailored groom outfit, made to measure wedding suit
 
 ## Related
 

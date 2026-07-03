@@ -3,8 +3,8 @@ type: Product
 title: "Thirteenth Doctor Teal Wool Pants"
 description: "Authenticity is in the fit. These Thirteenth Doctor Pants use a guaranteed custom-tailored fit to perfectly replicate Jodie Whittaker's unique silhouette."
 resource: https://baronboutique.com/13th-doctor-pants/
-tags: [women, pants, mohair-wool, wool, cropped, high-waisted, teal, doctor-who, thirteenth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, pants, culottes, mohair-wool, wool, teal, doctor-who, thirteenth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Thirteenth Doctor Teal Wool Pants
@@ -32,7 +32,7 @@ Custom Fit & Length Options The Silhouette of Hopeful Adventure This isn't just 
 - Women › Pants
 - Women › Screen Inspired
 
-**Related terms:** Jodie Whittaker pants, 13th Doctor culottes, teal blue trousers women, Whovian cosplay outfit
+**Related terms:** Jodie Whittaker pants, 13th Doctor culottes, teal cosplay trousers, Doctor Who pants for women
 
 ## Related
 

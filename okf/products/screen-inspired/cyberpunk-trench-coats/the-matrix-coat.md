@@ -3,8 +3,8 @@ type: Product
 title: "Matrix Coat Neo Trench Coat Black"
 description: "Softly tailored Matrix coat with a graceful ankle-length to set yourself apart and express your personality."
 resource: https://baronboutique.com/the-matrix-coat/
-tags: [men, trench-coat, cotton, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, trench-coat, long-coat, cotton, black, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Matrix Coat Neo Trench Coat Black
@@ -33,7 +33,7 @@ Matrix 1 Neo Test Trench Coat-Fit and Style Evaluation The Neo Trench Coat: Defi
 
 - Screen Inspired › Cyberpunk Trench Coats
 
-**Related terms:** long coat, duster coat, overcoat
+**Related terms:** original Matrix coat, Neo first film coat, black duster coat
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "12th Doctor Blue Coat with Red Lining"
 description: "A gorgeous blue 12th Doctor coat with a red lining is perfect for everyday use and ideal for a light winter. The 12th Doctor coat is tailored from Super 120s 100% wool flannel in navy blue cloth."
 resource: https://baronboutique.com/12th-doctor-wool-coat/
-tags: [men, overcoat, flannel, blue, winter, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, coat, flannel, wool, navy, red-lining, doctor-who, twelfth-doctor, capaldi, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # 12th Doctor Blue Coat with Red Lining
@@ -32,7 +32,7 @@ Embrace the sharp, minimalist power of the Twelfth Doctor. Custom-tailored from 
 - Men › Coats & Overcoats
 - Screen Inspired › Doctor Collection
 
-**Related terms:** topcoat, winter coat, wool
+**Related terms:** Capaldi blue coat with red lining, 12th Doctor crombie coat, Doctor Who wool coat
 
 ## Related
 

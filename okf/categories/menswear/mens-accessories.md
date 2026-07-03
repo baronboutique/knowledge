@@ -3,8 +3,8 @@ type: Product Category
 title: "Accessories"
 description: "Buy mens handmade accessories neckties & pocket squares, shawls, & scarves, silks & cashmere online. Mens silk & cashmere accessories for all occasions."
 resource: https://baronboutique.com/menswear/mens-accessories/
-tags: [accessories, cashmere-scarf, silk-tie, pocket-square, pashmina, neckwear, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, accessories, neckties, pocket-squares, scarves, shawls, silk, cashmere, handmade, heirloom]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Accessories
@@ -24,6 +24,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Mens Satin Silk Neckties Solid Color Handmade](../../products/menswear/mens-silk-neckties-solid-color-handmade.md)
 - [Mens Silk Tie & Pocket Square Set Handmade](../../products/menswear/mens-silk-tie-pocket-square-set.md)
 - [Two Face Silk Neckties Handmade](../../products/menswear/two-face-silk-neckties-handmade.md)
+
+**Related terms:** men's silk ties handmade, pocket square sets, men's cashmere scarves, pashmina for men, groomsmen gifts
 
 ## Related
 

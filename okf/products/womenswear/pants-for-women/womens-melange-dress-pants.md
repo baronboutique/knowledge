@@ -3,8 +3,8 @@ type: Product
 title: "The Foundational Dress Trouser"
 description: "This is the end of the frustrating search for the perfect dress pants. Our Women's Dress Pants go beyond a simple purchase, offering you the power to create your ultimate wardrobe foundation from scra…"
 resource: https://baronboutique.com/womens-melange-dress-pants/
-tags: [women, trousers, dress, tropical-wool, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, pants, melange, tropical-wool, wool, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Foundational Dress Trouser
@@ -31,7 +31,7 @@ The End of the Search for the Perfect Pant This is the foundational piece every 
 
 - Women › Pants
 
-**Related terms:** dress pants, tailored trousers, gown, occasion dress, wool
+**Related terms:** heathered trousers, gray melange pants for women, textured dress pants
 
 ## Related
 

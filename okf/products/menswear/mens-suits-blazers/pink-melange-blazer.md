@@ -3,8 +3,8 @@ type: Product
 title: "The Pink Wool Blazer"
 description: "When it comes to dressing for success, the well-tailored blazer remains one of the most essential menswear pieces for office attire today. Mens pink blazer helps create depth and interest."
 resource: https://baronboutique.com/pink-melange-blazer/
-tags: [men, blazer, sport-coat, pink, melange, casual, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, blazer, pink, melange, wool, summer, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Pink Wool Blazer
@@ -31,7 +31,7 @@ To select a pink blazer is an act of pure sartorial confidence. It is a choice f
 
 - Men › Suits & Blazers
 
-**Related terms:** pink sports jacket men, pastel blazer for summer wedding, salmon colored jacket, heathered pink sport coat, rose blazer for men
+**Related terms:** pastel sport coat, pink jacket for men, summer event blazer
 
 ## Related
 

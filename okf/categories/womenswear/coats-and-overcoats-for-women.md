@@ -3,8 +3,8 @@ type: Product Category
 title: "Coats & Overcoats"
 description: "Tailored designs and fashion trend coats and overcoats for women. High quality coats. Free shipping worldwide. Free customization. Free try-on coat."
 resource: https://baronboutique.com/womenswear/coats-and-overcoats-for-women/
-tags: [coats-overcoats, coats, overcoats, womens-outerwear, statement-coats, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, coats, overcoat, topcoat, peacoat, winter-coat, wool-coat, long-coat, custom-coat, made-to-measure, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Coats & Overcoats
@@ -33,6 +33,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Womens Navy Coat James Bond Spectre](../../products/womenswear/screen-inspired-women/womens-mid-thigh-coat-spectre.md)
 - [Womens Peacoat Wool Double Breasted](../../products/womenswear/coats-and-overcoats-for-women/12th-quantum-coat-for-women.md)
 - [Womens Tailored Fitted Coat](../../products/womenswear/coats-and-overcoats-for-women/womens-long-winter-coat.md)
+
+**Related terms:** women's wool coats, tailored winter coat, custom overcoat for women, warm long coats, cashmere blend coats
 
 ## Related
 

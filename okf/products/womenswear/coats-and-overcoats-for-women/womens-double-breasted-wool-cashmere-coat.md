@@ -3,8 +3,8 @@ type: Product
 title: "Double Breasted Wool Coat Womens Mid Length"
 description: "Consider this your ultimate wardrobe investment. Crafted from a soft wool-cashmere blend, this mid-length double-breasted coat is the definition of enduring style—the go-to piece that elevates everyth…"
 resource: https://baronboutique.com/womens-double-breasted-wool-cashmere-coat/
-tags: [women, overcoat, cashmere, double-breasted, black, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, coat, wool-cashmere, double-breasted, winter-coat, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Double Breasted Wool Coat Womens Mid Length
@@ -31,7 +31,7 @@ The Modern Wardrobe Cornerstone This is the coat you'll reach for season after s
 
 - Women › Coats & Overcoats
 
-**Related terms:** topcoat, winter coat, wool
+**Related terms:** cashmere blend coat for women, double breasted overcoat for her, elegant winter coat
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors"
 description: "Most linen jackets are designed for display, not for the body that wears them. Linen makes that difference impossible to hide because its beauty lies entirely in the fit and drape."
 resource: https://baronboutique.com/2button-linen-jacket/
-tags: [men, suit, blazer, linen, turquoise, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, blazer, jacket, linen, two-button, summer, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors
@@ -105,7 +105,7 @@ Full Specifications
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** unstructured linen blazer, summer sport coat, beach wedding jacket
 
 ## Related
 

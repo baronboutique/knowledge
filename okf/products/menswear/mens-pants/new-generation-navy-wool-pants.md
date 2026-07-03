@@ -4,7 +4,7 @@ title: "New Generation Line Navy Wool Pants"
 description: "Handmade navy wool dress pants perfectly tailored to customer's measurements. The new generation aims to stand out from a crowd with their unique clothing choices."
 resource: https://baronboutique.com/new-generation-navy-wool-pants/
 tags: [men, pants, dress-pants, wool, navy, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # New Generation Line Navy Wool Pants

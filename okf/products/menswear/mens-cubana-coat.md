@@ -3,8 +3,8 @@ type: Product
 title: "Men's Cubana Coat"
 description: "Men's Cubana coat is a must-have addition to a cutting-edge wardrobe for its sophistication and versatility."
 resource: https://baronboutique.com/mens-cubana-coat/
-tags: [men, overcoat, flannel, wool, single-breasted, canvas-front, epaulets, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, coat, car-coat, wool, retro-style, winter-coat, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Men's Cubana Coat
@@ -31,7 +31,7 @@ Experience classic style with this hand-tailored men's Cubana coat. Crafted from
 
 - Men › Coats & Overcoats
 
-**Related terms:** military style overcoat, mens field coat, safari style coat, guards coat
+**Related terms:** Cuban style coat, retro overcoat, mid-century coat, tailored winter coat
 
 ## Related
 

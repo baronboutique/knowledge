@@ -3,8 +3,8 @@ type: Guide
 title: "Women’s Body Measuring Guide"
 description: "Step-by-step guide on how to measure women accurately. Learn to measure your bust, waist, hips, & more with clear images & easy instructions."
 resource: https://baronboutique.com/womens-body-measuring-guide/
-tags: [measurements, guide, bespoke, sizing]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, measuring-guide, body-measurements, how-to-measure, dress-measurements, made-to-measure, guide]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Women’s Body Measuring Guide
@@ -14,6 +14,8 @@ Step-by-step guide on how to measure women accurately. Learn to measure your bus
 Full measurement instructions are published at https://baronboutique.com/womens-body-measuring-guide/
 
 Measurements are entered during checkout. A comment box is available for special tailoring instructions.
+
+**Related terms:** how to measure for a dress, women's measurement guide, bust waist hip measurements, measure yourself for tailoring
 
 ## Related
 

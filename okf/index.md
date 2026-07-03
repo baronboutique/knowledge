@@ -4,7 +4,7 @@ title: Baron Boutique Knowledge Bundle
 description: "Open Knowledge Format bundle for Baron Boutique — a bespoke luxury tailoring house founded in Kathmandu, Nepal in 2000, specializing in custom garments, screen-inspired fashion, and handcrafted cashmere products for men and women worldwide."
 resource: https://baronboutique.com/
 tags: [baron-boutique, bespoke-tailoring, luxury-fashion, cashmere, screen-inspired, kathmandu, nepal]
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Baron Boutique Knowledge Bundle
@@ -50,4 +50,4 @@ This bundle is intended for AI agents, answer engines, and retrieval systems. It
 - Shipping fees apply to bespoke tailored garments (effective February 2026). Non-tailored accessories ship free.
 - Custom-made garments cannot be returned once production has begun.
 - The Instagram handle is boutiquebaron (not baronboutique).
-- This bundle was auto-generated from live WooCommerce data by Baron AI Knowledge Manager v1.9.10.
+- This bundle was auto-generated from live WooCommerce data by Baron AI Knowledge Manager v1.9.13.

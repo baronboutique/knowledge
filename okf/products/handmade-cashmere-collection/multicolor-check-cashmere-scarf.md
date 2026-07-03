@@ -4,7 +4,7 @@ title: "Multicolor Check Cashmere Scarf"
 description: "This beautiful multicolor check cashmere scarf features a richly colored checkered pattern with jewel tones like deep teal, navy, maroon, forest green, and hints of gold and plum, woven in a harmoniou…"
 resource: https://baronboutique.com/multicolor-check-cashmere-scarf/
 tags: [women, cashmere, scarf, wrap, check, multicolor, handwoven, handmade, heirloom]
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Multicolor Check Cashmere Scarf

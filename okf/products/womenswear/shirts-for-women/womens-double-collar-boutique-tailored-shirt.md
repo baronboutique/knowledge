@@ -3,8 +3,8 @@ type: Product
 title: "The Double-Collar Tailored Shirt"
 description: "This is the end of the frustrating search for a shirt that truly fits. Our Women's Tailored Shirts solve the most common fit problems with perfectly placed darts and a unique double collar, all confir…"
 resource: https://baronboutique.com/womens-double-collar-boutique-tailored-shirt/
-tags: [women, shirt, cotton, white, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, shirt, oxford-cotton, double-collar, statement, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Double-Collar Tailored Shirt
@@ -30,7 +30,7 @@ The Solution to the Ill-Fitting Shirt This is where impeccable tailoring meets u
 
 - Women › Shirts
 
-**Related terms:** dress shirt, formal shirt
+**Related terms:** layered collar shirt, designer white shirt, architectural blouse
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "Collared Crossover Sheath Dress"
 description: "The answer to \"what should I wear?\" This is the dress you'll reach for again and again. Its clever crossover design is universally flattering, while the sharp collar keeps it polished and professional…"
 resource: https://baronboutique.com/womens-wrap-dress/
-tags: [women, dress, tropical-wool, blue, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, dress, wrap-dress, tropical-wool, wool, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Collared Crossover Sheath Dress
@@ -31,7 +31,7 @@ The Modern Power Dress, Perfected This is where modern architecture meets effort
 
 - Women › Dresses
 
-**Related terms:** gown, occasion dress, wool
+**Related terms:** wool wrap dress, faux wrap work dress, flattering office dress
 
 ## Related
 

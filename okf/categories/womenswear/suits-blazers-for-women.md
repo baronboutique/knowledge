@@ -3,8 +3,8 @@ type: Product Category
 title: "Suits & Blazers"
 description: "Women's Custom Suits & Tailored Blazers Discover the power of a perfect fit with our collection of women's custom suits and tailored blazers. Whether you're seeking a perfectly fitted blazer, the timeless elegance of wool flannel, the brilliant sheen of Dupioni silk, or the classic structure of twill cotton, we have a fabric to match your style. To eliminate any anxiety about ordering online, we first send you a free test garment to confirm the fit and style in the comfort of your home. Once you approve, we craft your final piece for unparalleled confidence."
 resource: https://baronboutique.com/womenswear/suits-blazers-for-women/
-tags: [suits-blazers, womens-suits, blazers, power-suit, bespoke-suits, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, suits, blazers, pant-suit, skirt-suit, power-suit, workwear, business-suit, custom-suit, made-to-measure, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Suits & Blazers
@@ -35,6 +35,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend](../../products/womenswear/suits-blazers-for-women/womens-pinstripe-pant-suit.md)
 - [Womens Skirt Suit](../../products/womenswear/suits-blazers-for-women/womens-skirt-suit-in-stripes.md)
 - [Womens Tailored Fitted Coat](../../products/womenswear/coats-and-overcoats-for-women/womens-long-winter-coat.md)
+
+**Related terms:** women's custom suits, made to measure suit for women, ladies business suits, tailored pant suits, interview suit women
 
 ## Related
 

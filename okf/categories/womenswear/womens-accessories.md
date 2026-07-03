@@ -3,8 +3,8 @@ type: Product Category
 title: "Accessories"
 description: "Buy womens handmade accessories neckties & pocket squares, shawls, wraps, & scarves, silks & cashmere online. Cashmere silk accessories for all occasions."
 resource: https://baronboutique.com/womenswear/womens-accessories/
-tags: [accessories, cashmere-scarf, cashmere-shawl, cashmere-wrap, pashmina, stole, handwoven-cashmere, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, accessories, scarves, shawls, wraps, silk-scarf, cashmere, handwoven, handmade, heirloom]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Accessories
@@ -49,6 +49,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Two Face Silk Neckties Handmade](../../products/menswear/two-face-silk-neckties-handmade.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](../../products/handmade-cashmere-collection/willow-green-handwoven-cashmere-scarf-shawl.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](../../products/womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)
+
+**Related terms:** women's cashmere scarves, silk neck scarves, pashmina wraps, handmade accessories for her, scarf gift for women
 
 ## Related
 

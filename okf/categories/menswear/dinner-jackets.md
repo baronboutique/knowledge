@@ -3,8 +3,8 @@ type: Product Category
 title: "Dinner Jackets"
 description: "Shop mens boutique dinner jackets in wool and velvet. Off white dinner jacket, burgundy velvet dinner jacket, smoking jackets perfect for formal events."
 resource: https://baronboutique.com/menswear/dinner-jackets/
-tags: [dinner-jackets, dinner-jacket, tuxedo-jacket, black-tie, shawl-collar, velvet-jacket, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, dinner-jacket, tuxedo-jacket, smoking-jacket, velvet-jacket, shawl-collar, black-tie, evening-wear, made-to-measure, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Dinner Jackets
@@ -26,6 +26,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Off White Dinner Jacket](../../products/menswear/dinner-jackets/iconic-wool-dinner-jacket.md)
 - [One Button Notch Lapel Tuxedo](../../products/menswear/tuxedos/one-button-merino-wool-tuxedo.md)
 - [Shawl Collar Dinner Jacket White](../../products/menswear/dinner-jackets/iconic-wool-dinner-jacket-with-shawl-collar.md)
+
+**Related terms:** men's dinner jackets, custom smoking jacket, white dinner jacket, velvet evening jacket, black tie jackets
 
 ## Related
 

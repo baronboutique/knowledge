@@ -3,8 +3,8 @@ type: Product
 title: "Silk Nehru Jacket James Bond Dr. No"
 description: "Our silk Nehru jacket is a classic. James Bond Nehru jacket designed for the stylish gentleman. A classic cut with a wonderful nubby silk fabric fits like a glove."
 resource: https://baronboutique.com/dr-no-silk-jacket/
-tags: [men, suit, blazer, silk, mandarin-collar, rust, wedding, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, dinner-jacket, silk, ivory, james-bond, dr-no, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Silk Nehru Jacket James Bond Dr. No
@@ -34,7 +34,7 @@ The Nehru jacket is an artifact of quiet, global sophistication, a garment that 
 - Screen Inspired › Spy Tailoring
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, noil silk
+**Related terms:** Sean Connery Dr No jacket, Bond silk dinner jacket, ivory tuxedo jacket
 
 ## Related
 

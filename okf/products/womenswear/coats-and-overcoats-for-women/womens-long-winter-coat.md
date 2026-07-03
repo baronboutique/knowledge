@@ -3,8 +3,8 @@ type: Product
 title: "Womens Tailored Fitted Coat"
 description: "With our free test garment womens tailored fitted coat has never been this perfect. Available in 10 different colors including blue, burgundy, red, black, charcoal, dark grey, grey, chocolate brown, c…"
 resource: https://baronboutique.com/womens-long-winter-coat/
-tags: [women, overcoat, suit, blazer, flannel, blue, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, coat, long-coat, flannel, wool, winter-coat, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Womens Tailored Fitted Coat
@@ -32,7 +32,7 @@ The Power of a Perfect Fit This is not just a coat; it’s the answer. The defin
 - Women › Coats & Overcoats
 - Women › Suits & Blazers
 
-**Related terms:** topcoat, winter coat, two-piece suit, three-piece suit, formal suit, sport coat
+**Related terms:** full length winter coat, warm wool coat for women, maxi coat
 
 ## Related
 

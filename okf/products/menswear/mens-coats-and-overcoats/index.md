@@ -3,8 +3,8 @@ type: Index
 title: "Coats & Overcoats"
 description: "Wool topcoats, overcoats, peacoats & movie replica coats — every piece made to measure with a free test coat before we cut the final. Ships worldwide."
 resource: https://baronboutique.com/menswear/mens-coats-and-overcoats/
-tags: [coats-overcoats, coats, overcoats, topcoats, mens-outerwear, statement-coats, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, coats, overcoat, topcoat, peacoat, car-coat, trench-coat, winter-coat, wool-coat, custom-coat, made-to-measure, bespoke]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Coats & Overcoats

@@ -3,8 +3,8 @@ type: Product
 title: "The Tailored Mini Dress"
 description: "This is the secret to instant confidence. The Tailored Mini Dress delivers a universally flattering shift cut that looks incredible on every figure."
 resource: https://baronboutique.com/womens-mayalu-cobalt-dress/
-tags: [women, dress, wool, cobalt, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, dress, cobalt-blue, wool, statement, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Tailored Mini Dress
@@ -31,7 +31,7 @@ The Power of a Perfect Mini This is where bold color meets flawless tailoring. A
 
 - Women › Dresses
 
-**Related terms:** gown, occasion dress
+**Related terms:** bright blue dress, bold work dress, cobalt sheath dress
 
 ## Related
 

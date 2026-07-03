@@ -3,8 +3,8 @@ type: Product Category
 title: "Screen Inspired"
 description: "Screen Legends, Tailored for Real Life The most memorable characters are remembered by what they wore. Our Screen Inspired collection recreates those wardrobes. The Doctor's frock coats, Neo's trench, spy suits, Victorian detectives, and theatrical villains. Each piece custom-made and hand-tailored to your exact measurements, never a generic costume."
 resource: https://baronboutique.com/screen-inspired/
-tags: [screen-inspired, movie-inspired, tv-inspired, cinematic-fashion, costume-tailoring, replica-tailoring, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [screen-inspired, cinematic-fashion, movie-replica, cosplay, film-costume, tv-costume, replica-tailoring, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Screen Inspired
@@ -64,6 +64,8 @@ Every piece in this collection is built from scratch to capture an iconic screen
 - [Newt Inspired British Herringbone Tweed Coat](../../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
 - [Sacha Dhawan Master Coat Doctor Series 12](../../products/screen-inspired/sacha-dhawan-master-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](../../products/screen-inspired/smith-shetland-tweed-blazer-jacket.md)
+
+**Related terms:** movie replica clothing, screen accurate costumes, film inspired fashion, custom cosplay tailoring, TV show coats
 
 ## Citations
 

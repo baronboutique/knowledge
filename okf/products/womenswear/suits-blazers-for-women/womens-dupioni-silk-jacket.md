@@ -3,8 +3,8 @@ type: Product
 title: "The Dupioni Silk Blazer"
 description: "This is the most transformative piece you will ever own. Our Women's Silk Jacket is crafted from iridescent, 100% Dupioni silk, a couture-level fabric that shimmers with living color."
 resource: https://baronboutique.com/womens-dupioni-silk-jacket/
-tags: [women, suit, blazer, dupioni-silk, silk, silver, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, blazer, jacket, dupioni-silk, silk, wedding, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Dupioni Silk Blazer
@@ -31,7 +31,7 @@ Real Customer Test Garment: See the Perfect Fit in Action "This customer receive
 
 - Women › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** silk evening jacket, mother of the bride jacket, dupioni blazer for women
 
 ## Related
 

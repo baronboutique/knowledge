@@ -3,8 +3,8 @@ type: Product
 title: "Women's Tenth Doctor's Pinstripe Suit"
 description: "This is for the fan who understands that authenticity is everything. Our Women's Brown Pinstripe Suit perfectly captures the Tenth Doctor's iconic style because we obsessed over the one detail others …"
 resource: https://baronboutique.com/womens-10th-doctor-brown-with-blue-stripes-suit/
-tags: [women, suit, cotton, pinstripe, brown, doctor-who, tenth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, suit, pinstripe, brown, doctor-who, tenth-doctor, tennant, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Women's Tenth Doctor's Pinstripe Suit
@@ -31,7 +31,7 @@ Allons-y! The Adventure Awaits This isn't just a suit; it's a statement of cleve
 
 - Women › Screen Inspired
 
-**Related terms:** David Tennant suit for women, ladies Time Lord costume, female Tenth Doctor outfit, Doctor Who convention suit
+**Related terms:** Tennant suit for women, 10th Doctor brown pinstripe for her, Doctor Who suit women
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "The Essential Black Tailored Shirt"
 description: "End the frustrating search for the perfect black shirt. The Essential Custom-Tailored Black Shirt is your answer."
 resource: https://baronboutique.com/womens-basic-black-twill-cotton-shirt/
-tags: [women, shirt, cotton, black, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, shirt, twill-cotton, black, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Essential Black Tailored Shirt
@@ -30,7 +30,7 @@ The End of the Search for the Perfect Black Shirt This is the wardrobe staple, p
 
 - Women › Shirts
 
-**Related terms:** dress shirt, formal shirt
+**Related terms:** black button up for women, staple work shirt, cotton twill blouse
 
 ## Related
 

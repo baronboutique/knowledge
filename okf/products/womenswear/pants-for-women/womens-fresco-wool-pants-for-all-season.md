@@ -3,8 +3,8 @@ type: Product
 title: "The Modern Tapered-Leg Trouser"
 description: "This is the solution to looking polished on the go. Our Women’s Mid-Rise Tapered Leg Dress Pants are crafted from wrinkle-resistant Fresco wool, making them the ultimate travel-ready trouser."
 resource: https://baronboutique.com/womens-fresco-wool-pants-for-all-season/
-tags: [women, trousers, wool, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, pants, fresco-wool, high-twist-wool, wool, all-season, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Modern Tapered-Leg Trouser
@@ -31,7 +31,7 @@ The Modern Wardrobe, Perfected This is the silhouette that defines modern, effor
 
 - Women › Pants
 
-**Related terms:** dress pants, tailored trousers
+**Related terms:** fresco trousers, crease resistant pants, travel work pants
 
 ## Related
 

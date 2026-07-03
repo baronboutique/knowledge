@@ -4,7 +4,7 @@ title: "Cotton Linen Blazer Mens Patch Pocket Jacket"
 description: "The essential warm-weather blazer, tailored from a sophisticated blend of breathable linen and crisp cotton."
 resource: https://baronboutique.com/linen-blazer-with-patch-pocket-details/
 tags: [men, blazer, linen, patch-pockets, summer, casual, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Cotton Linen Blazer Mens Patch Pocket Jacket

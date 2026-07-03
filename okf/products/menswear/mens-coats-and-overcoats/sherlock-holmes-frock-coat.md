@@ -4,7 +4,7 @@ title: "Sherlock Holmes Coat (2009 film)"
 description: "Sherlock Holmes coat replica from the 2009 film starring Robert Downey Jr. The key to a great Sherlock cosplay is confidence—and the right outfit."
 resource: https://baronboutique.com/sherlock-holmes-frock-coat/
 tags: [men, frock-coat, corduroy, peak-lapel, victorian-style, sherlock-holmes, detective-coat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Sherlock Holmes Coat (2009 film)

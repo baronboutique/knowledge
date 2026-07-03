@@ -3,8 +3,8 @@ type: Product
 title: "Linen Pants For A Beach Wedding"
 description: "Men's linen pants for a beach wedding is a staple for sunny getaways. Breezy and relaxed cut wedding pants keep you cool in lightweight linen."
 resource: https://baronboutique.com/linen-pants/
-tags: [men, trousers, pants, linen, white, wedding, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, pants, linen, summer, flat-front, breathable, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Linen Pants For A Beach Wedding
@@ -31,7 +31,7 @@ A seaside ceremony presents a unique sartorial challenge—a call for formalwear
 
 - Men › Pants
 
-**Related terms:** dress pants, tailored trousers
+**Related terms:** linen trousers, tailored beach pants, lightweight summer trousers
 
 ## Related
 

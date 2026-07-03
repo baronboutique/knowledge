@@ -4,7 +4,7 @@ title: "Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino 
 description: "The off-white pinstripe suit that actually fits. Custom made to your measurements in Super 130s merino wool - double-breasted jacket with canvas front and wide peak lapels, wide-leg trouser with bell …"
 resource: https://baronboutique.com/womens-off-white-pinstripe-double-breasted-suit/
 tags: [women, suit, wool, merino-wool, off-white, pinstripe, double-breasted, peak-lapel, canvas-front, wedding, workwear, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool

@@ -3,8 +3,8 @@ type: Product
 title: "Sleeveless Linen Maxi Dress"
 description: "This is your elegant antidote to the heat. A flowing maxi dress custom-tailored from pure, breathable linen, offering the liberating comfort of a loose fit with the polish of a perfect drape."
 resource: https://baronboutique.com/womens-linen-long-dress/
-tags: [women, dress, linen, black, summer, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, dress, maxi-dress, linen, sleeveless, summer, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Sleeveless Linen Maxi Dress
@@ -30,7 +30,7 @@ The One-Step Solution to Summer Elegance This is your secret to looking effortle
 
 - Women › Dresses
 
-**Related terms:** gown, occasion dress
+**Related terms:** linen maxi dress, long summer dress, resort dress
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "Destination Wedding Suit with Cape, Custom Made in Fresco Wool"
 description: "Most grooms at destination weddings wear the same suit they could have worn at any church ceremony in their hometown. This three-piece ensemble is different in a way that requires no explanation."
 resource: https://baronboutique.com/destination-wedding-suit/
-tags: [men, suit, tunic, cape, wool, mandarin-collar, wedding, summer, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [wedding-suit, cape, mandarin-collar, tunic, fresco-wool, wool, statement, wedding, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Destination Wedding Suit with Cape, Custom Made in Fresco Wool
@@ -73,7 +73,7 @@ Who This Suit Is For
 - Women › Screen Inspired
 - Men › Wedding Suits
 
-**Related terms:** beach wedding groom outfit, groom suit with cape, tropical wedding attire, nehru collar wedding suit, statement groom ensemble
+**Related terms:** cape wedding suit, groom cape outfit, mandarin collar wedding suit, destination wedding attire
 
 ## Related
 

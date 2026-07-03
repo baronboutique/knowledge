@@ -3,8 +3,8 @@ type: Guide
 title: "Shirt Fit Guide"
 description: "Find your perfect shirt fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for you."
 resource: https://baronboutique.com/womens-shirt-fit-guide/
-tags: [guide, sizing, fit-guide, bespoke]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, shirt, blouse, fit-guide, sizing, made-to-measure, guide]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Shirt Fit Guide
@@ -12,6 +12,8 @@ timestamp: 2026-07-02T15:51:17Z
 Find your perfect shirt fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for you.
 
 Full details are published at https://baronboutique.com/womens-shirt-fit-guide/
+
+**Related terms:** women's shirt fit, blouse sizing guide, fitted shirt measurements
 
 ## Related
 

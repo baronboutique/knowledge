@@ -3,8 +3,8 @@ type: Product
 title: "Peter B Parker Green Jacket Spider Man Into The Spider Verse"
 description: "Peter B Parker jacket from Spider-Man: Into the Spider-Verse for cosplayers who want to be Spider-Man with the mask off."
 resource: https://baronboutique.com/peter-b-parker-coat-spider-man-into-the-spider-verse/
-tags: [men, jacket, cotton, green, mandarin-collar, spider-man, spider-verse, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, coat, overcoat, wool, peter-b-parker, spider-verse, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Peter B Parker Green Jacket Spider Man Into The Spider Verse
@@ -32,7 +32,7 @@ Peter B Parker Cosplay Jacket Step into spectacular style with this custom-made 
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Peter B Parker olive coat, Spider-Verse costume jacket, animated Spider-Man outfit, comic con utility jacket
+**Related terms:** Peter B Parker trench coat, Spider-Man Into the Spider-Verse coat, animated movie coat replica, slouchy detective coat
 
 ## Related
 

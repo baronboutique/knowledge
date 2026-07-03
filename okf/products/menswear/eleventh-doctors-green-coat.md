@@ -3,8 +3,8 @@ type: Product
 title: "Eleventh Doctor Inspired Green Frock Coat"
 description: "Capture the iconic style of the Eleventh Doctor with this meticulously tailored green trench coat. Hand-constructed to your measurements and falling just below the knee, this double-breasted coat isn'…"
 resource: https://baronboutique.com/eleventh-doctors-green-coat/
-tags: [men, frock-coat, long-coat, cotton, green, double-breasted, doctor-who, eleventh-doctor, time-lord-coat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, coat, trench-coat, cotton, green, doctor-who, eleventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Eleventh Doctor Inspired Green Frock Coat
@@ -32,7 +32,7 @@ Your First Step to a Flawless Fit: The 11th Doctor Test Coat Capture the effortl
 - Men › Coats & Overcoats
 - Screen Inspired › Doctor Collection
 
-**Related terms:** Matt Smith green coat, series 6 Doctor coat, Whovian trench coat, Eleven's overcoat
+**Related terms:** Matt Smith green coat, 11th Doctor series 6 coat, Doctor Who green trench
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "The Essential Wool Dress Trouser"
 description: "This is your new wardrobe workhorse, redefined with luxury. We've elevated our classic Women's Work Dress Pants with a premium, seasonless wool , giving them a subtle luster and an incredibly soft fee…"
 resource: https://baronboutique.com/womens-seasonless-pure-new-wool-pants/
-tags: [women, trousers, dress, wool, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, pants, pure-new-wool, wool, seasonless, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Essential Wool Dress Trouser
@@ -31,7 +31,7 @@ The Foundation of a Power Wardrobe This is the single most important investment 
 
 - Women › Pants
 
-**Related terms:** dress pants, tailored trousers, gown, occasion dress
+**Related terms:** year round wool trousers, classic work pants, four season trousers
 
 ## Related
 

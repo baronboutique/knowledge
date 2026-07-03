@@ -3,8 +3,8 @@ type: Product
 title: "The Essential Work Skirt"
 description: "This is the wardrobe workhorse you've been searching for. Our Women's Black Skirt for Work is crafted from wrinkle-resistant, breathable Fresco wool, a high-performance fabric perfect for long days."
 resource: https://baronboutique.com/womens-essential-black-skirt/
-tags: [women, skirt, wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, skirt, pencil-skirt, high-twist-wool, black, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Essential Work Skirt
@@ -31,7 +31,7 @@ The Hardest-Working Piece in Your Wardrobe The perfect black skirt isn't a basic
 
 - Women › Skirts
 
-**Related terms:** pencil skirt, a-line skirt
+**Related terms:** essential black skirt, capsule wardrobe skirt, black office skirt
 
 ## Related
 

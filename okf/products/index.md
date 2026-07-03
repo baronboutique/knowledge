@@ -2,7 +2,7 @@
 type: Index
 title: "Products"
 description: "All Baron Boutique product categories and products in Open Knowledge Format."
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Baron Boutique Products

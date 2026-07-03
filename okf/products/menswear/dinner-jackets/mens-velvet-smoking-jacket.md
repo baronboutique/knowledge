@@ -3,8 +3,8 @@ type: Product
 title: "Mens Velvet Smoking Jacket Burgundy Frogging Button"
 description: "The quintessential garment for at-home elegance, this burgundy velvet smoking jacket is an artifact of private leisure."
 resource: https://baronboutique.com/mens-velvet-smoking-jacket/
-tags: [men, dinner-jacket, suit, blazer, velvet, burgundy, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, smoking-jacket, dinner-jacket, velvet, shawl-collar, black-tie, formalwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Mens Velvet Smoking Jacket Burgundy Frogging Button
@@ -32,7 +32,7 @@ The smoking jacket is not merely an article of clothing; it is a ritual. A garme
 - Men › Dinner Jackets
 - Men › Suits & Blazers
 
-**Related terms:** tuxedo jacket, smoking jacket, two-piece suit, three-piece suit, formal suit, sport coat
+**Related terms:** velvet dinner jacket, host smoking jacket, gentleman's lounge jacket, holiday party jacket
 
 ## Related
 

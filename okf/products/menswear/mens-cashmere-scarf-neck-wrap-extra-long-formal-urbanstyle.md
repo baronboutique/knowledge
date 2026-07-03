@@ -4,7 +4,7 @@ title: "Mens Cashmere Scarf Neck Wrap Extra Long Formal & Urban Style 80+ Colors
 description: "Baron Boutique exclusively offers the finest selection of mens cashmere pashmina scarves. These luxurious fashion scarves come in 80+ colors."
 resource: https://baronboutique.com/mens-cashmere-scarf-neck-wrap-extra-long-formal-urbanstyle/
 tags: [men, cashmere, scarf, wrap, extra-long, formalwear, handwoven, handmade, heirloom]
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Mens Cashmere Scarf Neck Wrap Extra Long Formal & Urban Style 80+ Colors

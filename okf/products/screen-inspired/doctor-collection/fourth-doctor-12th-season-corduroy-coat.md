@@ -3,8 +3,8 @@ type: Product
 title: "4th Doctor Jacket Rust/Oxblood Corduroy Tom Baker Cosplay"
 description: "4th Doctor jacket in rust/oxblood corduroy is an immediate eye-catcher and captivates the imagination."
 resource: https://baronboutique.com/fourth-doctor-12th-season-corduroy-coat/
-tags: [men, jacket, corduroy, rust, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, coat, corduroy, cotton, doctor-who, fourth-doctor, tom-baker, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # 4th Doctor Jacket Rust/Oxblood Corduroy Tom Baker Cosplay
@@ -33,7 +33,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 - Screen Inspired › Doctor Collection
 
-**Related terms:** cotton
+**Related terms:** Tom Baker corduroy coat, 4th Doctor season 12 coat, brown cord coat
 
 ## Related
 

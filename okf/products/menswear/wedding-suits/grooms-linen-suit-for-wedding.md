@@ -3,8 +3,8 @@ type: Product
 title: "Linen Wedding Suit for Grooms, Made to Measure"
 description: "The problem with a linen wedding suit off the rack is that linen without a proper fit looks underdressed, not relaxed."
 resource: https://baronboutique.com/grooms-linen-suit-for-wedding/
-tags: [men, suit, blazer, linen, canvas-front, wedding, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, suit, linen, wedding, groom, summer, beach-wedding, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Linen Wedding Suit for Grooms, Made to Measure
@@ -75,7 +75,7 @@ Four Grooms the Generic Linen Suit Doesn't Work For
 - Men › Wedding Suits
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket
+**Related terms:** groom linen suit, destination wedding suit for men, natural summer wedding suit
 
 ## Related
 

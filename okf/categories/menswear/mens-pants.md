@@ -3,8 +3,8 @@ type: Product Category
 title: "Pants"
 description: "Men's Custom & Bespoke Trousers This is the end of the 'off-the-rack' compromise. Our custom trousers are engineered for a perfect fit, tailored to your exact measurements. Whether you require the timeless authority of pinstripe wool, the refined texture of worsted wool, or the unique luster of Dupioni silk, we have the fabric to build your ideal pair. To ensure a flawless fit and complete confidence, we first send you a free test garment to approve at home."
 resource: https://baronboutique.com/menswear/mens-pants/
-tags: [pants, trousers, dress-pants, tailored-trousers, suit-pants, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, pants, trousers, dress-pants, wool-pants, linen-pants, flat-front, slim-fit, custom-pants, made-to-measure, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Pants
@@ -40,6 +40,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [The Essential Black Wool Trousers](../../products/menswear/mens-black-wool-trousers.md)
 - [The Essential Grey Wool Dress Pants](../../products/menswear/mens-pants/mens-pure-new-wool-gray-suit-pants.md)
 - [Wool Mohair Dress Pants](../../products/menswear/mens-pants/slim-fit-mohair-wool-pants.md)
+
+**Related terms:** custom dress pants, tailored trousers online, made to measure pants, men's wool slacks, high rise trousers
 
 ## Related
 

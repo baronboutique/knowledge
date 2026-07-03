@@ -3,8 +3,8 @@ type: Product
 title: "Tom Cruise Leather Jacket Minority Report"
 description: "A hand-made black leather jacket with minimalist style in a classic design fits better. Tom Cruise leather jacket in Minority Report highlights simplicity and elegance with a band collar and a zipper …"
 resource: https://baronboutique.com/minority-report-leather-jacket/
-tags: [men, jacket, leather, black, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, jacket, leather, minority-report, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Tom Cruise Leather Jacket Minority Report
@@ -32,6 +32,8 @@ Step into the razor-sharp future of Minority Report. This isn't just a leather j
 ## Categories
 
 - Screen Inspired › Cinema Classics
+
+**Related terms:** Tom Cruise Minority Report jacket, John Anderton leather jacket, sci-fi leather jacket
 
 ## Related
 

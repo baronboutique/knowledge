@@ -3,8 +3,8 @@ type: Index
 title: "Dresses"
 description: "Womens dresses, silk dress, evening dress, sheath dress, custom-made dress. Womens dresses, unique designs for every woman. Best dress customization."
 resource: https://baronboutique.com/womenswear/dresses-for-women/
-tags: [dresses, dress, evening-dress, occasion-dress, tailored-dress, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, dresses, sheath-dress, shift-dress, wrap-dress, maxi-dress, work-dress, wool-dress, silk-dress, custom-dress, made-to-measure, bespoke]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Dresses

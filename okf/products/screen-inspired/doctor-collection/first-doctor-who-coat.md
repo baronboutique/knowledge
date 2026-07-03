@@ -3,8 +3,8 @@ type: Product
 title: "1st Doctor Black Dress Coat"
 description: "Remarkable time traveler 1st Doctor black dress coat replica for enthusiastic cosplayers. The first incarnation Doctor black coat is custom-made with screen-accurate details."
 resource: https://baronboutique.com/first-doctor-who-coat/
-tags: [men, dress, wool, black, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, coat, frock-coat, gabardine-wool, wool, black, doctor-who, first-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # 1st Doctor Black Dress Coat
@@ -33,7 +33,7 @@ Remarkable time traveler 1st Doctor black dress coat replica for enthusiastic co
 
 - Screen Inspired › Doctor Collection
 
-**Related terms:** gown, occasion dress
+**Related terms:** William Hartnell coat, 1st Doctor black frock coat, classic Who coat
 
 ## Related
 

@@ -3,8 +3,8 @@ type: Product
 title: "The Grey Flannel Suit"
 description: "A grey flannel suit is the outfit of preference and symbol of loyalty. You’ll definitely make a statement in this look."
 resource: https://baronboutique.com/iconic-hollywood-gray-flannel-suit/
-tags: [men, suit, blazer, flannel, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, suit, gray, flannel, wool, vintage-style, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Grey Flannel Suit
@@ -31,7 +31,7 @@ The grey flannel suit is an artifact of quiet, masculine authority. It is the de
 
 - Men › Suits & Blazers
 
-**Related terms:** two-piece suit, three-piece suit, formal suit, sport coat, sports jacket, wool
+**Related terms:** man in the gray flannel suit, 1950s Hollywood suit, classic gray flannel two-piece
 
 ## Related
 

@@ -4,7 +4,7 @@ title: "The Leather-Trimmed Sharkskin Blazer"
 description: "This is the end of the \"boring office blazer.\" Our Women’s Office Work Blazer Jacket is elevated with the unexpected, luxurious touch of a genuine leather collar, set against the subtle texture of sha…"
 resource: https://baronboutique.com/womens-sharkskin-jacket/
 tags: [women, blazer, sharkskin-wool, wool, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Leather-Trimmed Sharkskin Blazer

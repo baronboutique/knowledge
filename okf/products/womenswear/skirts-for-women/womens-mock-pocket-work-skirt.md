@@ -3,8 +3,8 @@ type: Product
 title: "The Pocketed Pencil Skirt"
 description: "This is the skirt that finally answers the question: \"Does it have pockets?\" Our Women's Knee-Length Skirt with Pockets is engineered with perfectly placed slanted pockets that provide utility without…"
 resource: https://baronboutique.com/womens-mock-pocket-work-skirt/
-tags: [women, skirt, wool, black, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, skirt, pencil-skirt, mock-pockets, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The Pocketed Pencil Skirt
@@ -31,7 +31,7 @@ The Most Requested Feature, Perfectly Executed For years, the question has been 
 
 - Women › Skirts
 
-**Related terms:** pencil skirt, a-line skirt
+**Related terms:** clean front pencil skirt, minimalist work skirt, structured skirt
 
 ## Related
 

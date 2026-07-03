@@ -3,8 +3,8 @@ type: Guide
 title: "Outwear Fit Guide"
 description: "Find your perfect outwear fit—Slim, Standard, or Relaxed. Baron Boutique's guide helps you choose the best custom garment for you."
 resource: https://baronboutique.com/womens-outwear-fit-guide/
-tags: [guide, sizing, fit-guide, bespoke]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, outerwear, coat, fit-guide, sizing, made-to-measure, guide]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Outwear Fit Guide
@@ -12,6 +12,8 @@ timestamp: 2026-07-02T15:51:17Z
 Find your perfect outwear fit—Slim, Standard, or Relaxed. Baron Boutique's guide helps you choose the best custom garment for you.
 
 Full details are published at https://baronboutique.com/womens-outwear-fit-guide/
+
+**Related terms:** women's coat fit guide, how should a wool coat fit, coat sizing women
 
 ## Related
 

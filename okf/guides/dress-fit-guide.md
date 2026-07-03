@@ -3,8 +3,8 @@ type: Guide
 title: "Dress Fit Guide"
 description: "Find your perfect dress fit—Slim, Standard, or Relaxed. Baron Boutique's guide helps you choose the best custom dresses for you."
 resource: https://baronboutique.com/dress-fit-guide/
-tags: [guide, sizing, fit-guide, bespoke]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, dress, fit-guide, sizing, sheath-dress-fit, made-to-measure, guide]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Dress Fit Guide
@@ -12,6 +12,8 @@ timestamp: 2026-07-02T15:51:17Z
 Find your perfect dress fit—Slim, Standard, or Relaxed. Baron Boutique's guide helps you choose the best custom dresses for you.
 
 Full details are published at https://baronboutique.com/dress-fit-guide/
+
+**Related terms:** how should a dress fit, dress sizing guide, custom dress measurements
 
 ## Related
 

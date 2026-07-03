@@ -3,8 +3,8 @@ type: Product Category
 title: "Shirts"
 description: "Womens shirts, silk shirts, cotton dress shirts and blouses custom-made. Womens dress shirts in elegant designs for every woman. Best tailored shirts."
 resource: https://baronboutique.com/womenswear/shirts-for-women/
-tags: [shirts, blouses, womens-shirts, tailored-blouse, womenswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, shirts, blouses, dress-shirt, silk-blouse, cotton-shirt, workwear, custom-shirt, made-to-measure, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Shirts
@@ -26,6 +26,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [The Tailored Oversized Linen Shirt](../../products/womenswear/shirts-for-women/womens-oversized-by-design-linen-shirt.md)
 - [The Tailored Ruffle Collar Shirt](../../products/womenswear/shirts-for-women/womens-ruffle-egyptian-cotton-dress-shirt.md)
 - [Womens Fitted Shirt Long Sleeves](../../products/womenswear/shirts-for-women/womens-fitted-twill-cotton-shirt.md)
+
+**Related terms:** women's tailored shirts, custom blouses, fitted dress shirt women, silk work blouse, button down shirts for women
 
 ## Related
 

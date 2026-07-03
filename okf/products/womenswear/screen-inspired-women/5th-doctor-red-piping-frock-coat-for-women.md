@@ -3,8 +3,8 @@ type: Product
 title: "Women's Beige Frock Coat with Red Stripe"
 description: "Women's fifth Doctor inspired red stripe beige frock coat transforms your appearance and personality. Doctor’s 5th incarnation for women cosplayers that conveyed action and eccentricity."
 resource: https://baronboutique.com/5th-doctor-red-piping-frock-coat-for-women/
-tags: [women, frock-coat, long-coat, wool, beige, doctor-who, fifth-doctor, time-lord-coat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, frock-coat, tropical-wool, wool, cream, red-piping, doctor-who, fifth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Women's Beige Frock Coat with Red Stripe
@@ -32,7 +32,7 @@ Women's Fifth Doctor Inspired Test Coat – Fit and Style Evaluation The Uniform
 - Women › Screen Inspired
 - Women › Coats & Overcoats
 
-**Related terms:** Peter Davison coat for women, ladies cricket coat, red trim cream coat, female Fifth Doctor costume
+**Related terms:** Peter Davison coat for women, 5th Doctor cricket coat for her, cream frock coat with red piping
 
 ## Related
 

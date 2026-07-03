@@ -3,8 +3,8 @@ type: Product
 title: "The High-Waisted Power Skirt"
 description: "This isn't just a power silhouette; it's a high-performance one. Our Women's High Waisted Knee Length Pencil Skirt is crafted from breathable, all-season tropical wool, solving the problem of uncomfor…"
 resource: https://baronboutique.com/womens-all-season-tropical-skirt/
-tags: [women, skirt, tropical-wool, bespoke, made-to-order]
-timestamp: 2026-07-02T15:51:17Z
+tags: [women, skirt, tropical-wool, wool, all-season, workwear, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # The High-Waisted Power Skirt
@@ -31,7 +31,7 @@ The Power Skirt, Redefined for Reality The high-waisted pencil skirt is the unif
 
 - Women › Skirts
 
-**Related terms:** pencil skirt, a-line skirt, wool
+**Related terms:** tropical wool skirt, travel skirt, breathable pencil skirt
 
 ## Related
 

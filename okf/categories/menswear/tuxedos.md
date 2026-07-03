@@ -3,8 +3,8 @@ type: Product Category
 title: "Tuxedos"
 description: "Mens tuxedos for weddings, events, proms, & more. Customize your tuxedo with silk satin lapels. Individualized style tuxedo in navy, black, & more. Free ..."
 resource: https://baronboutique.com/menswear/tuxedos/
-tags: [tuxedos, tuxedo, black-tie, formalwear, dinner-suit, evening-wear, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-02T15:51:17Z
+tags: [men, tuxedo, black-tie, dinner-suit, wedding-tuxedo, prom-tuxedo, shawl-lapel, peak-lapel, custom-tuxedo, made-to-measure, bespoke, made-to-order]
+timestamp: 2026-07-03T02:34:56Z
 ---
 
 # Tuxedos
@@ -21,6 +21,8 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Mens Burgundy Flannel Tuxedo](../../products/menswear/tuxedos/light-weight-all-season-wool-flannel-tuxedo-suit.md)
 - [One Button Notch Lapel Tuxedo](../../products/menswear/tuxedos/one-button-merino-wool-tuxedo.md)
 - [The Peak Lapel Tuxedo](../../products/menswear/tuxedos/mens-navy-wool-tuxedo.md)
+
+**Related terms:** custom tuxedos online, made to measure tuxedo, wedding tux, colored tuxedos, slim fit tuxedo
 
 ## Related
 
