@@ -4,7 +4,7 @@ title: "All Season Wool Dress Pants"
 description: "All season wool dress pants in a flat front styling have always been a staple of men’s fashion. Nicely tailored and partially lined 100% wool dress pants feel great against the skin and looks much sha…"
 resource: https://baronboutique.com/flat-front-all-season-wool-pants/
 tags: [men, pants, dress-pants, wool, flat-front, all-season, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # All Season Wool Dress Pants

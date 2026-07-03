@@ -4,7 +4,7 @@ title: "The Essential Black Pant Suit"
 description: "This is your wardrobe's 'master key.' The Essential Black Pant Suit is custom-tailored from a luxurious wool-cashmere blend for a flawless, powerful silhouette."
 resource: https://baronboutique.com/womens-essential-black-pant-suit/
 tags: [women, suit, pant-suit, wool-cashmere, wool, black, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # The Essential Black Pant Suit

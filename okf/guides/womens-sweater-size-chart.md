@@ -4,7 +4,7 @@ title: "Sweater Size Guide"
 description: "Find perfect fit with our women's cashmere sweater size chart. Compare body & garment measurements in cm & inches for a comfortable fit."
 resource: https://baronboutique.com/womens-sweater-size-chart/
 tags: [women, sweater, size-chart, knitwear-sizing, cashmere-sweater, hand-knitted, guide]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Sweater Size Guide

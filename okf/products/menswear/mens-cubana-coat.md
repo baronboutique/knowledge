@@ -4,7 +4,7 @@ title: "Men's Cubana Coat"
 description: "Men's Cubana coat is a must-have addition to a cutting-edge wardrobe for its sophistication and versatility."
 resource: https://baronboutique.com/mens-cubana-coat/
 tags: [men, coat, car-coat, wool, retro-style, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Men's Cubana Coat

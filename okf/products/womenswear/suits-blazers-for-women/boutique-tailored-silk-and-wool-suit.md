@@ -4,7 +4,7 @@ title: "The Wool & Silk Blend Suit"
 description: "This is the suit that proves power and luxury are not mutually exclusive. Our Women's Tailored Suit is crafted from an exquisite wool-silk blend, a fabric that combines the structure of wool with the …"
 resource: https://baronboutique.com/boutique-tailored-silk-and-wool-suit/
 tags: [women, suit, silk-wool, silk, wool, formalwear, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # The Wool & Silk Blend Suit

@@ -4,7 +4,7 @@ title: "Multicolor Tartan Cashmere Scarf – Hand-Finished in Twill Weave"
 description: "Wrap yourself in heritage and quiet comfort. This multicolor tartan cashmere scarf brings a soft hush to cold days—a gentle layer spun from fine yarns and storied patterns."
 resource: https://baronboutique.com/multicolor-tartan-cashmere-scarf-twill-weave/
 tags: [women, cashmere, scarf, wrap, tartan, plaid, multicolor, handwoven, handmade, heirloom]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Multicolor Tartan Cashmere Scarf – Hand-Finished in Twill Weave

@@ -4,7 +4,7 @@ title: "Women's Tenth Doctor's Pinstripe Suit"
 description: "This is for the fan who understands that authenticity is everything. Our Women's Brown Pinstripe Suit perfectly captures the Tenth Doctor's iconic style because we obsessed over the one detail others …"
 resource: https://baronboutique.com/womens-10th-doctor-brown-with-blue-stripes-suit/
 tags: [women, suit, pinstripe, brown, doctor-who, tenth-doctor, tennant, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Women's Tenth Doctor's Pinstripe Suit

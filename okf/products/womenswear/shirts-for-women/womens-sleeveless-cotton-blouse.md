@@ -4,7 +4,7 @@ title: "The Sculpted Sleeveless Blouse"
 description: "This is how you solve the problem of the \"boxy\" sleeveless blouse. Our Sleeveless Blouse with Collar is engineered with figure-flattering princess seams that create a beautifully sculpted and slimming…"
 resource: https://baronboutique.com/womens-sleeveless-cotton-blouse/
 tags: [women, blouse, shirt, cotton, sleeveless, summer, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # The Sculpted Sleeveless Blouse
@@ -30,7 +30,7 @@ The Solution to the Boxy Blouse This is where cool, sleeveless comfort meets a b
 
 - Women › Shirts
 
-**Related terms:** sleeveless shell top, cotton summer blouse, layering blouse
+**Related terms:** sleeveless shell top, cotton summer blouse, layering blouse, sculpted sleeveless blouse
 
 ## Related
 

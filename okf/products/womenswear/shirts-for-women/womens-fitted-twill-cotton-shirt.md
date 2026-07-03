@@ -4,7 +4,7 @@ title: "Womens Fitted Shirt Long Sleeves"
 description: "Women's fitted shirt in twill cotton offers comfortable to wear in classic design. This long sleeves shirt with a business classic collar and free test shirt ensures the perfect fit you need."
 resource: https://baronboutique.com/womens-fitted-twill-cotton-shirt/
 tags: [women, shirt, twill-cotton, fitted, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Womens Fitted Shirt Long Sleeves

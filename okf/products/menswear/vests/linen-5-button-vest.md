@@ -4,7 +4,7 @@ title: "The Linen Waistcoat"
 description: "The definitive choice for a warm-weather ceremony or elegant resort wear. Tailored from pure, breathable linen, this waistcoat provides a layer of formal structure without the weight of a jacket."
 resource: https://baronboutique.com/linen-5-button-vest/
 tags: [men, vest, waistcoat, linen, summer, wedding, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # The Linen Waistcoat

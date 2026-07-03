@@ -4,7 +4,7 @@ title: "Skirts"
 description: "Designed for women on the go, our skirts have a modern, tailored look. Skirts custom-made from lightweight fabric are as comfortable as it is professional."
 resource: https://baronboutique.com/womenswear/skirts-for-women/
 tags: [women, skirts, pencil-skirt, work-skirt, wool-skirt, kick-pleat, custom-skirt, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Skirts

@@ -4,7 +4,7 @@ title: "Screen Inspired"
 description: "Screen Inspired — For Her Cinema's most compelling silhouettes, recut for the modern woman. From sharp Edwardian cuts to floor-length statement coats, every piece in this collection draws from the garments that defined iconic moments on screen. Structured. Precise. Unapologetically bold. Each garment is bespoke, constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made."
 resource: https://baronboutique.com/womenswear/screen-inspired-women/
 tags: [women, screen-inspired, movie-replica, cosplay, doctor-who, matrix, james-bond, film-costume, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Screen Inspired

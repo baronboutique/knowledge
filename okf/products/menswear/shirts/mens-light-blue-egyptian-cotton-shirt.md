@@ -4,7 +4,7 @@ title: "Egyptian Cotton Dress Shirts"
 description: "Off-the-rack Egyptian cotton dress shirts get the fabric right and the fit wrong. This one gets both. Every shirt is 100% Egyptian cotton at 220 thread count, cut to your exact measurements; and befor…"
 resource: https://baronboutique.com/mens-light-blue-egyptian-cotton-shirt/
 tags: [men, shirt, dress-shirt, egyptian-cotton, cotton, light-blue, formalwear, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Egyptian Cotton Dress Shirts
@@ -98,7 +98,7 @@ Bespoke Egyptian Cotton vs. Off the Rack
 
 - Men › Shirts
 
-**Related terms:** Giza cotton shirt, high thread count shirt, light blue office shirt, custom fitted formal shirt, breathable fine cotton shirt
+**Related terms:** Giza cotton shirt, high thread count shirt, light blue office shirt, custom fitted formal shirt, breathable fine cotton shirt, Egyptian cotton dress shirt, Egyptian cotton shirts for men
 
 ## Related
 

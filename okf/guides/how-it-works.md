@@ -4,7 +4,7 @@ title: "How It Works — Ordering Process"
 description: "Step-by-step guide to placing a bespoke order at Baron Boutique, from product selection through test garment fitting to final delivery."
 resource: https://baronboutique.com/how-it-works/
 tags: [how-it-works, ordering-process, test-garment, toile, measurements, bespoke-process, made-to-order, made-to-measure, guide]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # How It Works — Ordering Process

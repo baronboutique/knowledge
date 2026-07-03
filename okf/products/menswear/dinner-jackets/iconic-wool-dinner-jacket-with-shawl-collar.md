@@ -4,7 +4,7 @@ title: "Shawl Collar Dinner Jacket White"
 description: "A white shawl collar dinner jacket for men works incredibly well on their own or paired with casual bottoms for a daytime tuxedo."
 resource: https://baronboutique.com/iconic-wool-dinner-jacket-with-shawl-collar/
 tags: [men, dinner-jacket, tuxedo, wool, shawl-collar, black-tie, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Shawl Collar Dinner Jacket White

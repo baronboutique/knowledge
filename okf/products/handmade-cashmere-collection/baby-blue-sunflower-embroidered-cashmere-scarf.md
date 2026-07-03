@@ -4,7 +4,7 @@ title: "Baby Blue Sunflower Embroidered Cashmere Scarf"
 description: "Delicate sunflower embroidery blooms across a baby blue cashmere scarf, woven in a multilayer weave that echoes sunlit meadows and quiet elegance — a graceful balance of warmth and lightness."
 resource: https://baronboutique.com/baby-blue-sunflower-embroidered-cashmere-scarf/
 tags: [women, cashmere, scarf, wrap, embroidered, floral, baby-blue, handwoven, handmade, heirloom]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Baby Blue Sunflower Embroidered Cashmere Scarf

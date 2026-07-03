@@ -2,8 +2,8 @@
 
 Generated-By: Baron Boutique AI Knowledge Manager
 Version: 1.9.13
-Generated: 2026-07-03 02:33 UTC
-Knowledge-Revision: 12
+Generated: 2026-07-03 03:17 UTC
+Knowledge-Revision: 13
 Last-Updated: 2026-07-03
 
 ## What you can do with this document
@@ -507,7 +507,7 @@ Price: USD 299.00 (as of generation date)
 Crafted for the discerning gentleman, this men's glen plaid cashmere scarf in tan and white delivers boardroom polish and weekend versatility in one refined layer. Hand-selected Grade A cashmere from the Tibetan Plateau ensures supreme softness and durability, while the classic houndstooth pattern complements tailored suiting and casual knitwear alike. At 28″ × 80″, it's the signature accessory that separates casual dressers from truly well-appointed men.
 
 The Gentleman's Essential A men's plaid cashmere scarf isn't merely an accessory—it's a marker of sartorial confidence. This glen plaid scarf in tan and white represents the evolution of classic menswear tradition, where Scottish textile heritage meets modern luxury and purposeful simplicity. Unlike trend-driven pieces, this cashmere wrap carries the kind authority that only authentic craftsmanship can deliver. Whether draped with a tailored blazer or layered over casual knitwear, it communicates a man who understands quality. Grade A Cashmere: The Difference Matters Not all cashmere is created equal. This men's tan and white plaid cashmere wrap is sourced exclusively from Grade A fibers—the finest available on the market. Sourced from ethical herds on the Tibetan Plateau, each fiber is hand-selected for fineness, strength, and resilience. Grade A cashmere means superior warmth without bulk, a buttery-soft hand feel that improves with wear, and longevity that justifies the investment. At 100% pure cashmere with zero blends, this is luxury you can feel and trust. Versatility Built for Real Life A men's cashmere plaid wrap must work harder than most accessories.
-Related terms: prince of wales check scarf, men's plaid muffler, camel check cashmere wrap, business scarf for suits, neutral houndstooth stole
+Related terms: prince of wales check scarf, men's plaid muffler, camel check cashmere wrap, business scarf for suits, neutral houndstooth stole, cashmere plaid
 
 #### Men's Linen Frock Coat Summer Wedding Tailored Dress Coat
 URL: https://baronboutique.com/mens-linen-frock-coat-summer-wedding/
@@ -1005,7 +1005,7 @@ Q: Does the collar interlining affect how a dress shirt holds up over time?
 A: It does, significantly — and almost no buyer thinks to ask about it before purchasing. Most dress shirts use a fused collar interlining: a thermoplastic layer bonded to the collar fabric under heat. It holds a crisp shape when new. After 40 to 60 washes, the bond begins to fail — the interlining separates, the collar edges curl, and no amount of pressing recovers it. The shirt is finished while the body fabric may still have years of wear remaining. A stitched interlining, which is sewn rather than heat-bonded, does not delaminate. Baron Boutique uses stitched collar construction on bespoke shirts because Egyptian cotton at this quality level warrants a collar that lasts as long as the fabric.
 Q: How long does it take to receive a made-to-measure Egyptian cotton shirt from Baron Boutique?
 A: Production takes six to eight weeks total from measurement confirmation, which includes the test shirt step. Delivery via trackable courier adds four to nine business days depending on destination. If you have a specific event, travel date, or deadline in mind, contact us before ordering so we can confirm the timeline honestly.
-Related terms: Giza cotton shirt, high thread count shirt, light blue office shirt, custom fitted formal shirt, breathable fine cotton shirt
+Related terms: Giza cotton shirt, high thread count shirt, light blue office shirt, custom fitted formal shirt, breathable fine cotton shirt, Egyptian cotton dress shirt, Egyptian cotton shirts for men
 
 #### Grey Raw Silk Shirt - Short Sleeves
 URL: https://baronboutique.com/mens-gray-raw-silk-shirt/
@@ -1245,7 +1245,7 @@ Q: How long does the full process take?
 A: Allow 6 to 9 weeks from order to final suit. The test suit takes 2 to 3 weeks to build and ship. Once you confirm fit, the final suit takes 4 to 6 weeks in production. If you have a specific event or deadline, tell us when you order and we will confirm whether the timeline is workable.
 Q: Do you ship internationally?
 A: Yes. Both the test suit and your final suit ship worldwide via trackable courier. Delivery times vary by destination.
-Related terms: DB suit, six button double breasted suit, power suit for men, classic business suit
+Related terms: DB suit, six button double breasted suit, power suit for men, classic business suit, tailored double breasted suit
 
 #### Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere
 URL: https://baronboutique.com/merino-wool-cashmere-three-season-chalk-stripes-suit/
@@ -1410,7 +1410,7 @@ Q: Is dupioni silk good for a wedding?
 A: Yes, it is one of the most common silks used for formal menswear. It has a subtle natural texture and a soft lustre that photographs well indoors and outdoors. Black, ivory, navy and burgundy are the most common wedding choices among our customers.
 Q: Can I add a vest or ticket pocket?
 A: Yes. Add any customizations (ticket pocket, peak lapels, double vent, three-piece with waistcoat at additional charge, suspender buttons, and so on) in the order notes at checkout or email us after the order and we will confirm before production.
-Related terms: silk wedding suit for men, raw silk suit, dupioni suit, shantung suit, groom silk suit
+Related terms: silk wedding suit for men, raw silk suit, dupioni suit, shantung suit, groom silk suit, mens silk suit
 
 #### Merino Wool Cashmere Blend Suit
 URL: https://baronboutique.com/merino-wool-cashmere-blend-suit/
@@ -1503,7 +1503,7 @@ Q: What does the free test suit process involve?
 A: After you place your order with measurements, we build a complete jacket and trouser test suit in cotton to those measurements and ship it to you via trackable courier. You try it on, check the fit across every element, and send us your adjustment notes. We apply those corrections to the final pattern before cutting the mohair. The test suit is yours to keep — no return required. For most clients, the test suit arrives with two to four notes which we correct before cutting the final garment.
 Q: How long does it take to receive a made-to-measure mohair tuxedo?
 A: Production takes approximately four to six weeks from measurement confirmation, depending on current order volume. Delivery via trackable courier typically adds five to ten business days. For a wedding with a fixed date, contact us before ordering so we can confirm the timeline honestly.
-Related terms: classic black tux, mohair tuxedo, prom tuxedo, black tie dinner suit
+Related terms: classic black tux, mohair tuxedo, prom tuxedo, black tie dinner suit, made to measure mohair tuxedo
 
 #### Custom Dinner Jacket
 URL: https://baronboutique.com/stylish-dinner-jacket/
@@ -1869,7 +1869,7 @@ Knitwear Size: 7 options available
 Experience the captivating Ember Glow of our orange cashmere sweater. Its modern boxy fit, chic dropped shoulders, and breathable cashmere fabric kissed by elegant contrast tipping, offer a luxurious embrace for unparalleled comfort. Perfect for the Fall/Winter season. The sweater's waist length and jersey knit are complemented by round neck is available in various sizes. This solid orange sweater is both formal and casual. Model in product photo is 5'6" tall wearing size 8 (our M) for a relaxe…
 
 Twilight's Fiery Kiss As daylight yields to a deeper hue, our Ember Glow orange cashmere captures that fleeting magic. The sweater's generous boxy cut and relaxed dropped shoulders offer a sanctuary of warmth, a breathable haven against the cool air. A whisper of navy tipping traces its edges, like the first stars emerging in a fiery sky. This isn't merely knitwear; it's the vibrant memory of a sunset held close, a personal glow to carry through the evening's quiet moments. Key Features Style: Sweater Fit: Boxy Neckline: Round neck Shoulder Style: Dropped Shoulder Sleeve Style: Long Sleeve Fastening Style: Pullover Length: Waist Pattern: Solid Color Knit Type: Jersey Color: Orange Fabric nature: Breathable Season: Fall/Winter Occasion: Formal/Casual Yarn and Weight 26/2 yarn count, 2 ply 14-16 microns diameter 35-55mm yarn length Sweater weight: 10.2 oz (290 grams) Wash & Care Instructions Add mild detergent to cold or lukewarm water. Submerge the sweater and gently agitate for about 30 seconds. Let it soak for up to 30 minutes. Drain the soapy water and rinse thoroughly with cool, clean water. Drying Gently press out excess water — do not wring.
-Related terms: oversized orange jumper, slouchy cashmere pullover, relaxed fit knit sweater, ember orange knitwear
+Related terms: oversized orange jumper, slouchy cashmere pullover, relaxed fit knit sweater, ember orange knitwear, orange cashmere sweater
 
 #### Orange Rust Ombre Tie-Dye Cashmere Scarf – Hand-Finished in Twill
 URL: https://baronboutique.com/orange-rust-ombre-tie-dye-cashmere-scarf/
@@ -2137,7 +2137,7 @@ Q: How long does production take?
 A: Allow 3-4 weeks from test suit approval to delivery of the final three-piece suit. This covers producing the test suit, shipping it to you, reviewing your feedback, and producing the final suit in wool and silk. Both ship worldwide by trackable courier.
 Q: Do you ship internationally?
 A: Yes. We ship worldwide by trackable courier. Both the test suit and the final suit go to your address regardless of location.
-Related terms: Gary Oldman Dracula suit, Prince Vlad London outfit, Victorian gothic suit
+Related terms: Gary Oldman Dracula suit, Prince Vlad London outfit, Victorian gothic suit, Gary Oldman Dracula costume
 
 #### Shadow Coat Costume from Alec Baldwin's "The Shadow"
 URL: https://baronboutique.com/shadow-coat/
@@ -2263,7 +2263,7 @@ Q: Do you ship internationally?
 A: Yes, both the test coat and the final coat ship worldwide via trackable courier. Delivery times vary by destination. We ship to every country we are aware of buyers ordering from.
 Q: Can I commission a different fabric, heavier wool for winter, for example?
 A: Yes. The winter weight commission shown in the Real Customer section above is exactly this, the same screen-inspired pattern built in a heavier fabric for a customer who wanted to wear it through colder months. If you want a different fabric weight or have a specific brief, contact us before ordering and we will confirm what is possible and any price difference.
-Related terms: Neo trench coat, Matrix priest coat, Keanu Reeves coat, cyberpunk long coat, duster coat
+Related terms: Neo trench coat, Matrix priest coat, Keanu Reeves coat, cyberpunk long coat, duster coat, Matrix jacket
 
 #### The Matrix 4 Resurrections Keanu Reeves Neo Coat
 URL: https://baronboutique.com/matrix-4-resurrections-neo-coat/
@@ -3531,7 +3531,7 @@ Q: Can I wear this suit outside the wedding context?
 A: Yes, and many of our customers do. The tunic and trousers function as a distinctive formal ensemble independent of the cape. The cape works as a statement outerwear piece for black-tie events, theatrical occasions, and collector use. Many customers order this ensemble with the wedding as the primary context and subsequent events in mind. The construction quality, seam allowances, and Fresco wool hold up across years of wear.
 Q: Do you ship internationally?
 A: Yes. Both the test suit and the final suit ship worldwide via trackable courier. For a destination wedding, both shipments can go to different addresses if needed. Delivery times vary by destination.
-Related terms: cape wedding suit, groom cape outfit, mandarin collar wedding suit, destination wedding attire
+Related terms: cape wedding suit, groom cape outfit, mandarin collar wedding suit, destination wedding attire, wedding suit with cape, suit with cape
 
 #### Featherlight Cashmere Scarf
 URL: https://baronboutique.com/womens-featherlight-cashmere-scarf/
@@ -3621,7 +3621,7 @@ Q: How do I style a white pinstripe suit without it looking like a costume?
 A: Keep everything underneath clean and simple - a fitted black or white bodysuit, a fine-knit top, or a silk camisole. The suit is the statement; the accessories and base layer should support rather than compete. Footwear makes the biggest difference: heeled mules or pointed-toe heels elevate the look immediately. Flat sandals or sneakers work for a deliberately casual take. Avoid anything too matching or too literal - no wide belts with contrasting buckles. The suit reads best when the rest of your outfit steps back.
 Q: How long does the whole process take?
 A: Plan on 6 to 8 weeks from order to finished suit in your hands. The test suit takes 3 to 4 weeks to build and ship. Once you confirm the fit, the final suit takes 3 to 4 weeks in production. If you have a fixed date - a wedding, an event, a keynote - tell us when you order and we will confirm honestly whether we can meet it.
-Related terms: cream pinstripe pantsuit, Zendaya Met Gala style suit, ivory power suit women, bridal trouser suit, wide leg pinstripe suit
+Related terms: cream pinstripe pantsuit, Zendaya Met Gala style suit, ivory power suit women, bridal trouser suit, wide leg pinstripe suit, white pinstripe suit, womens double breasted pinstripe suit
 
 ## Product Categories
 

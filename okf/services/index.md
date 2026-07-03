@@ -2,7 +2,7 @@
 type: Index
 title: "Services"
 description: "All tailoring, production, and cashmere services offered by Baron Boutique."
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Services

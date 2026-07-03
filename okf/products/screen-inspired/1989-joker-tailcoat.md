@@ -4,7 +4,7 @@ title: "1989 Batman Joker Tailcoat - Purple Evening Coat"
 description: "Most purple Joker pieces on the market are the long overcoat. This is not that. This is the formal evening tailcoat — double-breasted look, wide peak lapels, theatrical tails, tuxedo-inspired construc…"
 resource: https://baronboutique.com/1989-joker-tailcoat/
 tags: [men, tailcoat, evening-coat, purple, double-breasted, peak-lapel, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # 1989 Batman Joker Tailcoat - Purple Evening Coat

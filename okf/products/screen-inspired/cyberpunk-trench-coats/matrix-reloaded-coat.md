@@ -4,7 +4,7 @@ title: "Matrix Reloaded Neo Coat"
 description: "Most Matrix coat sellers deliver a polyester approximation in a generic size. The sheen is wrong, the length is approximate, and the silhouette collapses the moment you raise an arm."
 resource: https://baronboutique.com/matrix-reloaded-coat/
 tags: [men, trench-coat, long-coat, monks-wool, mandarin-collar, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Matrix Reloaded Neo Coat
@@ -97,7 +97,7 @@ Full Specification
 
 - Screen Inspired › Cyberpunk Trench Coats
 
-**Related terms:** Neo trench coat, Matrix priest coat, Keanu Reeves coat, cyberpunk long coat, duster coat
+**Related terms:** Neo trench coat, Matrix priest coat, Keanu Reeves coat, cyberpunk long coat, duster coat, Matrix jacket
 
 ## Related
 

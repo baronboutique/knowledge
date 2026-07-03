@@ -4,7 +4,7 @@ title: "Second Doctor Coat Black"
 description: "Second Doctor coat replica in black offers a timeless appeal with the classic Whovian style that works as a casual and cosplay outfit."
 resource: https://baronboutique.com/second-doctor-black-coat/
 tags: [men, coat, frock-coat, gabardine-wool, wool, black, doctor-who, second-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T02:34:56Z
+timestamp: 2026-07-03T03:19:44Z
 ---
 
 # Second Doctor Coat Black
