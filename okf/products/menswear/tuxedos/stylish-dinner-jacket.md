@@ -4,7 +4,7 @@ title: "Custom Dinner Jacket"
 description: "Feel your inner 007 in this custom dinner jacket tailored in Houndstooth textured wool. A custom-made designer dinner jacket with a proper fit to your body type is what defines an individual look."
 resource: https://baronboutique.com/stylish-dinner-jacket/
 tags: [men, dinner-jacket, tuxedo, wool, houndstooth, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Custom Dinner Jacket
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Houndstooth Wool Fabric:** VBC-4863939, VBC-6342211, VBC-6342212
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

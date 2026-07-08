@@ -4,7 +4,7 @@ title: "Flannel Dress Pants"
 description: "The slim fit flannel dress pants are exceptionally high quality. Meticulously tailored wool flannel dress pants using traditional and modern sewing techniques."
 resource: https://baronboutique.com/light-weight-all-season-wool-flannel-pants-slim-fit/
 tags: [men, pants, flannel, wool, slim-fit, all-season, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Flannel Dress Pants
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Flannel Wool Fabric:** 10 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

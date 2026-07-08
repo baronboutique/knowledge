@@ -4,7 +4,7 @@ title: "The Custom-Tailored Flare Trouser"
 description: "This is how you wear a trend without looking trendy. Our Women's Navy Blue Boutique Flare Pants elevate the classic flare with a luxurious sharkskin wool and the precision of a custom-tailored fit."
 resource: https://baronboutique.com/womens-work-pants-in-sharkskin/
 tags: [women, pants, sharkskin-wool, wool, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Custom-Tailored Flare Trouser
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Sharkskin Wool Fabric:** 8 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

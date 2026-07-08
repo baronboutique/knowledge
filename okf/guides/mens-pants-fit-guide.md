@@ -4,7 +4,7 @@ title: "Pants Fit Guide"
 description: "Find your perfect pants fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for you."
 resource: https://baronboutique.com/mens-pants-fit-guide/
 tags: [men, pants, trousers, fit-guide, sizing, rise, inseam, made-to-measure, guide]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Pants Fit Guide

@@ -4,7 +4,7 @@ title: "Tristan Thorn Stardust Coat Replica"
 description: "Embrace the magic of Stardust with this exquisite replica of Tristan Thorn's iconic coat. Made from high-quality linen fabric, this Stardust coat features a classic long design, a contrast collar, and…"
 resource: https://baronboutique.com/tristan-thorn-stardust-coat-replica/
 tags: [men, coat, long-coat, linen, contrast-collar, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Tristan Thorn Stardust Coat Replica
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Linen Fabric:** 18 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 - **Collar Trim Fabric:** 17 options available
 
 ## Summary

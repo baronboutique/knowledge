@@ -4,7 +4,7 @@ title: "The Pinstripe Pencil Skirt"
 description: "A pinstripe is only as powerful as its line. Our Navy Blue Striped Skirt solves the biggest challenge of this pattern with a guaranteed custom fit that ensures every stripe hangs perfectly straight an…"
 resource: https://baronboutique.com/womens-essential-stripe-skirt/
 tags: [women, skirt, pencil-skirt, stripe, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Pinstripe Pencil Skirt
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **PTD Stripe Series:** PTD-9102-1-Light Gray With White Stripes, PTD-9102-2-Dark Gray With White Stripes, PTD-9102-3-Navy With White Stripes, PTD-9102-4-Black With White Stripes
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

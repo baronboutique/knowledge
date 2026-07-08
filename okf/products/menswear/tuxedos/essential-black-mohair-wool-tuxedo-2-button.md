@@ -4,7 +4,7 @@ title: "Black Mohair Tuxedo, Made to Measure"
 description: "Most grooms choosing a black tuxedo don't know there's a version that behaves differently under evening light."
 resource: https://baronboutique.com/essential-black-mohair-wool-tuxedo-2-button/
 tags: [men, tuxedo, black, mohair-wool, wool, two-button, black-tie, formalwear, wedding, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Black Mohair Tuxedo, Made to Measure
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Mohair Wool Fabric:** Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
-- **Acetate Lining:** 25 options available
+- **Lining Fabric:** 25 options available
 
 ## Summary
 

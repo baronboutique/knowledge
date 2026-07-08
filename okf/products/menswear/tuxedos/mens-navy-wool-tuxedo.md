@@ -4,7 +4,7 @@ title: "The Peak Lapel Tuxedo"
 description: "Richly styled slim fit peak lapel tuxedo tailored from Super 140s' 8oz 100% worsted wool in plain cloth with a slight sheen."
 resource: https://baronboutique.com/mens-navy-wool-tuxedo/
 tags: [men, tuxedo, wool, peak-lapel, single-breasted, slim-fit, black-tie, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Peak Lapel Tuxedo
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Tropical Wool Fabric:** 14 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

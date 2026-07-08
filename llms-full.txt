@@ -1,10 +1,10 @@
 # Baron Boutique
 
 Generated-By: Baron Boutique AI Knowledge Manager
-Version: 1.9.13
-Generated: 2026-07-03 04:06 UTC
-Knowledge-Revision: 14
-Last-Updated: 2026-07-03
+Version: 1.11.0
+Generated: 2026-07-08 19:04 UTC
+Knowledge-Revision: 16
+Last-Updated: 2026-07-08
 
 ## What you can do with this document
 
@@ -56,7 +56,7 @@ Type: bespoke (made to order)
 SKU: 5003004
 Price: USD 659 (as of generation date)
 Corduroy Fabric: 13 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Sherlock Holmes coat replica from the 2009 film starring Robert Downey Jr. The key to a great Sherlock cosplay is confidence—and the right outfit. That’s where Baron Boutique’s Sherlock coat comes in. Crafted with impeccable tailoring and 100% screen accuracy, it features wide peak lapels and off-center shoulder seams to help you embody the iconic detective.
 
@@ -70,7 +70,7 @@ Type: bespoke (made to order)
 SKU: 1801005
 Price: USD 609.00 (as of generation date)
 Melton Wool Fabric: 15 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 Collar Trim Fabric: 17 options available
 
 Sophisticated camel topcoat in English Melton wool is versatile enough to add a sense of refinement to both tailored and casual ensembles. The distinctive velvet collar and insulating properties of Melton wool are well-balanced with hand-stitched elegance.
@@ -85,7 +85,7 @@ Type: bespoke (made to order)
 SKU: 1801008
 Price: USD 599.00 (as of generation date)
 Herringbone Wool Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 A bespoke herringbone car coat in Super 110s' tweed wool, hand-tailored with full canvas construction and natural horn button closures. This five-button design bridges formal authority and casual versatility. Sharp enough for the office, refined enough for the weekend. Each coat begins with a complimentary fitting toile, ensuring your final piece moves with you, not against you.
 
@@ -99,7 +99,7 @@ Type: bespoke (made to order)
 SKU: 1801003
 Price: USD 639.00 (as of generation date)
 Herringbone Wool Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Wool herringbone topcoat boutique made with higher-end fabrication and detailed elements. The sharp texture of grey wool herringbone signals serious presence and style. It is the topcoat truly worth the investment.
 
@@ -113,7 +113,7 @@ Type: bespoke (made to order)
 SKU: 5000017
 Price: USD 599.00 (as of generation date)
 Iconic Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 11th Doctor Who white tuxedo jacket enhanced with a silk satin shawl lapel. A custom-made 11th Doctor Who white pool party tuxedo jacket is for a memorable cosplay. Embrace your cosplay self and continue the journey in this double-breasted white tuxedo jacket.
 
@@ -127,7 +127,7 @@ Type: bespoke (made to order)
 SKU: 1800006
 Price: USD 599.00 (as of generation date)
 Iconic Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Our off-white dinner jacket is beautifully tailored for an incredibly flattering shape. These men's dinner jacket is all about making a smart statement on occasions that call for something a bit special. Single-button closure with peak lapel and side vents make the dinner jacket drape very nicely for all sizes. The fine combination of tailoring and texture in these men's off-white dinner jacket makes it special with a unique sense of style.
 
@@ -141,7 +141,7 @@ Type: bespoke (made to order)
 SKU: 5000018
 Price: USD 689.00 (as of generation date)
 High Twist Wool Fabric: 13 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 Collar Trim Fabric: 14 options available
 
 Every mass-market version of the 4th Doctor frock coat gets the color right and skips everything else, no princess seams, dead-center back vent, wrong piping, wrong collar. This screen inspired coat is built to the details the Doctor community actually checks: off-center back vent, princess seam back, brown velvet contrast collar, brown cotton piping. Made to your measurements in Super 130s worsted wool, with a free test coat before the final coat is cut.
@@ -217,7 +217,7 @@ Type: bespoke (made to order)
 SKU: 5000005
 Price: USD 799.00 (as of generation date)
 Melton Wool Fabric: 15 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 Collar Trim Fabric: 15 options available
 
 A timeless fourth Doctor Baker Horror Of Fang Baker coat is truly an iconic coat essential for your cosplay collection. The Fang Rock coat will not only look amazing but will also stand the test of time. Made from Melton wool this fourth Doctor coat will get you plenty of wear for many years.
@@ -232,7 +232,7 @@ Type: bespoke (made to order)
 SKU: 1801019
 Price: USD 699 (as of generation date)
 Birdseye Wool Fabric: 12 options available
-Acetate Lining: 35 options available
+Lining Fabric: 35 options available
 
 Make a powerful statement with our "Men's Wool Flared Zip Tailcoat." This coat merges classic tailoring with a modern, edgy design. Crafted from high-quality merino wool blend in Birdseye weave, the tailcoat features a sleek stand-up collar with a dramatic flared silhouette and a striking asymmetrical gold zipper that sets it apart. The tailcoat is expertly tailored to be fitted through the body, flowing into a dramatic, flared back that ensures a memorable exit. A glimpse of the rich purple li…
 
@@ -246,7 +246,7 @@ Type: bespoke (made to order)
 SKU: 5000008
 Price: USD 519.00 (as of generation date)
 Velvet: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Our 12th Doctor black velvet frock coat perfectly fits the Peter Capaldi look. An elegant black velvet cosplay coat for an avid 12th Doctor cosplayer who wants to look and dress in style for conventions. The black velvet frock coat is beautifully made with remarkable attention to detail. The coat fits into any attire.
 
@@ -260,7 +260,7 @@ Type: bespoke (made to order)
 SKU: 5000011
 Price: USD 499.00 (as of generation date)
 Flannel Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 A gorgeous blue 12th Doctor coat with a red lining is perfect for everyday use and ideal for a light winter. The 12th Doctor coat is tailored from Super 120s 100% wool flannel in navy blue cloth. Make a smart investment in an exceptional 12th doctor navy blue coat with this durable outfit that's suited for every situation.
 
@@ -274,7 +274,7 @@ Type: bespoke (made to order)
 SKU: 5000014
 Price: USD 499.00 (as of generation date)
 Velvet: 9 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 The 12th Doctor maroon red velvet coat is one of the most talked about Doctor Who costumes. Crafted from premium velvet fabric that has a very elegant feel to it. The attention-grabbing twelfth Doctor's red velvet coat is extremely comfortable without being restricted. A custom-made 12th Doctor maroon velvet coat is perfect to create a wardrobe that looks amazing for a very long time. Comfortable always wins.
 
@@ -288,7 +288,7 @@ Type: bespoke (made to order)
 SKU: 5000013
 Price: USD 499.00 (as of generation date)
 Velvet: 8 options available
-Acetate Lining: 26 options available
+Lining Fabric: 26 options available
 
 The thrill of being Peter Capaldi in this 12th Doctor navy blue velvet coat is a great way of self-expression for cosplayers. Step outside your everyday life and engage with your imagination. Finely tailored twelfth Doctor navy velvet coat in premium quality poly-cotton blend velvet cloth, hand-tailored to ensure accurate coat details.
 
@@ -302,7 +302,7 @@ Type: bespoke (made to order)
 SKU: 5000016
 Price: USD 519.00 (as of generation date)
 Melton Wool Fabric: 13 options available
-Acetate Lining: 25 options available
+Lining Fabric: 25 options available
 
 BECOME THE 12TH DOCTOR: Step into the Time Lord's shoes with our meticulously crafted 12th Doctor Series 9 coat—the iconic garment worn by Peter Capaldi during some of the most memorable episodes of Doctor Who. This isn't just a coat; it's a piece of Whovian history, recreated with screen-accurate precision for the most discerning fans and cosplayers. Stand out at conventions or add Time Lord style to your everyday wardrobe.
 
@@ -316,7 +316,7 @@ Type: bespoke (made to order)
 SKU: 5000022
 Price: USD 679.00 (as of generation date)
 Slub Linen Fabric: 18 options available
-Acetate Lining: 35 options available
+Lining Fabric: 35 options available
 
 The 12th Doctor's grey linen frock coat is the rarest variant in Capaldi's wardrobe and the one almost nobody makes. Introduced mid-Series 10, it is lighter, more timeworn, and more characterful than any coat before it. Pleated back skirt. Gold dome buttons. Wide notch lapels. Linen that breathes at conventions and softens with every wear. Custom-made to your exact measurements by Baron Boutique's tailors - 25 years of bespoke craftsmanship behind every seam. Every order includes a free cotton …
 
@@ -377,7 +377,7 @@ Type: bespoke (made to order)
 SKU: 5000012
 Price: USD 579 (as of generation date)
 Twill Cotton Chino: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Capture the iconic style of the Eleventh Doctor with this meticulously tailored green trench coat. Hand-constructed to your measurements and falling just below the knee, this double-breasted coat isn't just a costume—it's a superior garment for any occasion. A flawless fit is guaranteed with our complimentary test coat.
 
@@ -391,7 +391,7 @@ Type: bespoke (made to order)
 SKU: 1900020
 Price: USD 239 (as of generation date)
 Chalk Stripe Wool: 9 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 If you're looking for something you can wear constantly, a pair of men's chalk stripe pants are tough to beat. Smart and dressier chalk stripe trousers with a clean belted waistband in an easy-on-the-eyes navy hue is always a great choice. These chalk stripe pants are carefully constructed from year-round lightweight pure wool cloths for a refined yet effortless look for any occasion.
 
@@ -405,7 +405,7 @@ Type: bespoke (made to order)
 SKU: 5003014
 Price: USD 689.00 (as of generation date)
 Tropical Wool Fabric: 12 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Every Graves coat online is a costume set, cotton, polyester, a size chart, and a shawl collar that approximates the shape. This is the coat. Made in Super 140s worsted wool to your exact measurements, with the princess seam back and vented wide sleeve cuffs that make the silhouette recognizable. Before we cut the final coat, we send you a free test coat to confirm the fit including how it layers over a suit jacket, the way Graves wears it.
 
@@ -476,7 +476,7 @@ Type: bespoke (made to order)
 SKU: 1801017
 Price: USD 669.00 (as of generation date)
 Velvet: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Step out in style with our green velvet frock coat. The rich, forest green color is sure to turn heads, while the velvet fabric adds a luxurious touch. The frock coat design is timeless and sophisticated, making it perfect for formal occasions or as a statement piece in your everyday wardrobe. The tailored fit will flatter your figure, and the sleek lapels and button-front closure add a touch of refinement. Whether you're heading to a fancy event or just want to add a touch of glamour to your o…
 
@@ -490,7 +490,7 @@ Type: bespoke (made to order)
 SKU: 1900002
 Price: USD 239 (as of generation date)
 Linen Fabric: 18 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Men's linen pants for a beach wedding is a staple for sunny getaways. Breezy and relaxed cut wedding pants keep you cool in lightweight linen. Flat front groom's linen pants with an after-dinner waistband split look good and feel comfortable when you stand, sit, and walk on a beach.
 
@@ -516,7 +516,7 @@ Type: bespoke (made to order)
 SKU: 1801016
 Price: USD 689.00 (as of generation date)
 Linen Fabric: 18 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 Collar Trim Fabric: 16 options available
 
 Most men's frock coats online are Halloween costumes in polyester. If you want the real garment — 100% linen, full canvas front, hand-carved horn buttons, made to your exact measurements — this is the one that isn't a costume. Before we cut the linen, we send you a free test frock coat to confirm the fit at home.
@@ -584,7 +584,7 @@ Type: bespoke (made to order)
 SKU: 1801004
 Price: USD 579 (as of generation date)
 Wool Cashmere Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Most men's navy peacoats are either cheap and shapeless or rigid and overbuilt. Ours is the third option. Slim-fit, double-breasted, in an 18-ounce wool-cashmere blend, made to your measurements. Before we cut the wool, we ship you a free test coat in cotton. You confirm the fit, then we make your peacoat. Six wool-cashmere colors. 33 lining colors. From $579. Worldwide tracked shipping.
 
@@ -717,7 +717,7 @@ Type: bespoke (made to order)
 SKU: 1900011
 Price: USD 239 (as of generation date)
 Linen Fabric: 18 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Men's tailored linen pants are the perfect choice to wear during hot and humid weather. The linen fabric helps to wick moisture away from the skin. Men's linen dress pants are incredible to wear, and they become better with use. The Best men's linen pants are breathable and soften and become more comfortable with every wearing. Well maintained linen dress pants can easily last a lifetime. Tailored linen pants are available in 18 different colors.
 
@@ -757,7 +757,7 @@ Type: bespoke (made to order)
 SKU: 1801002
 Price: USD 699.00 (as of generation date)
 Wool Cashmere Fabric: 6 options available
-Acetate Lining: 21 options available
+Lining Fabric: 21 options available
 
 The touch of wool cashmere topcoat designed for the fashion conscious that reflects your personality. A navy wool cashmere topcoat that communicates empowerment and makes you feel completely at ease in what you’re wearing.
 
@@ -771,7 +771,7 @@ Type: bespoke (made to order)
 SKU: 1801015
 Price: USD 739 (as of generation date)
 Velvet: 9 options available
-Acetate Lining: 35 options available
+Lining Fabric: 35 options available
 
 Every pirate frock coat sold online is a costume — polyester, S/M/L, warehouse-photographed, built to wear twice. The buyer being ignored is the one who already owns one and wants to replace it with something that actually fits. This pirate frock coat is built to your measurements in premium poly-cotton velvet with a red satin silk stand-up collar, dupioni silk sleeve piping, gold metal buttons, and a canvas front. Before we cut the velvet, we send a free test coat so the fit is confirmed at ho…
 
@@ -834,7 +834,7 @@ Type: bespoke (made to order)
 SKU: 1900025
 Price: USD 299.00 (as of generation date)
 Dupioni Silk Fabric: 22 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Embrace a unique sartorial language with The Bespoke Dupioni Silk Trousers. Crafted from Dupioni silk, a fabric prized for its distinctive texture and elegant luster, these trousers are the epitome of warm-weather luxury. A flawless, comfortable fit is guaranteed—our process includes a free test garment sent to your home for approval.
 
@@ -848,7 +848,7 @@ Type: bespoke (made to order)
 SKU: 1801018
 Price: USD 679 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 35 options available
+Lining Fabric: 35 options available
 
 Channel timeless style with Baron Boutique’s Time Lord Frock Coat in Oxford Blue. Crafted from fine wool and tailored to perfection, it’s iconic, elegant, and uniquely yours. With striking light sea blue trim and a silhouette that commands attention, this coat is more than attire—it’s a statement. Backed by our exclusive free test garment service, you’re guaranteed a flawless bespoke fit that no off-the-rack coat can match.
 
@@ -862,7 +862,7 @@ Type: bespoke (made to order)
 SKU: 1801011
 Price: USD 699 (as of generation date)
 Flannel Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Every western frock coat online is either a polyester costume or a standard suit jacket with "western" in the title. This is the actual garment: a knee-length wool frock coat with the frontier silhouette, made to your measurements in Super 120s lightweight wool flannel cloth with a canvas front, hand pick-stitching, and hand-finished buttonholes. Built for western and ranch wedding groom attire, re-enactment, and any formal occasion where the dress code calls for frontier-formal rather than con…
 
@@ -915,7 +915,7 @@ Type: bespoke (made to order)
 SKU: 1900010
 Price: USD 239 (as of generation date)
 High Twist Wool Fabric: 13 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Men's charcoal gray pants are truly a staple when it comes to dressing up for formal occasions. Great fit men's charcoal dress pants are very versatile and can be very freely matched with different shirts and ties. Comfortable and stylish charcoal gray bottoms are popular as both formal and casual options. The best-fit charcoal gray formal pants present you with the perfect opportunity to wear a white dress shirt for a sophisticated look. Men's charcoal gray pants outfit in flat-front styling i…
 
@@ -929,7 +929,7 @@ Type: bespoke (made to order)
 SKU: 1900005
 Price: USD 239 (as of generation date)
 Mohair Wool Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 A custom-made mohair wool dress pants are noticeable and set you above the rest of the crowd. Regardless of the circumstance, you’re going to want a pair that fits and feels comfortable at the ready. Learning what to look for and how to wear men’s mohair wool dress pants in interesting and stylish ways is a must for any man. With the right cut and style, mohair wool dress pants are the most comfortable bottoms you own. Hand tailoring is an artisanship, the ability to extract style and comfort f…
 
@@ -1089,7 +1089,7 @@ Type: bespoke (made to order)
 SKU: 5003013
 Price: USD 729.00 (as of generation date)
 Tropical Wool Fabric: 12 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Grey suits are easy to find. A grey suit designed to be unremarkable but impossible to forget once you know what you are looking at is something else entirely. This is Vincent's suit from Collateral, built to your measurements in Super 140s worsted wool, canvas front construction, and a free test suit before we cut the final.
 
@@ -1168,7 +1168,7 @@ Type: bespoke (made to order)
 SKU: 1600008
 Price: USD 799 (as of generation date)
 Silk And Wool Blend: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Well-made men's 2 button silk and wool suit in the quality fabric makes the perfect addition to your wardrobe. This is the practical silk and wool suit for office wear, travel, summer party, weekend out with friends, and weddings. Tailored natural and soft shoulder with higher armholes for cleaner look preserves the original sense of classic 2 button suit.
 
@@ -1182,7 +1182,7 @@ Type: bespoke (made to order)
 SKU: 1600026
 Price: USD 729 (as of generation date)
 Worsted Wool Plain Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Most double-breasted suits off the rack are either boxy legacy cuts from a different era or cheap modern versions with fused fronts that collapse after a few wears. Neither looks right. Baron builds the 6x2 double-breasted suit to your measurements in Super 120s worsted wool, with a canvas front, wide peak lapels, and the correct waist suppression that makes this silhouette work. We send a free test suit first so you can confirm the 6x2 stance before we cut the final wool.
 
@@ -1254,7 +1254,7 @@ Type: bespoke (made to order)
 SKU: 1600012
 Price: USD 759 (as of generation date)
 Merino Wool Cashmere Chalk Stripes: 5 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Most chalk stripe suits fail on fit. The bold vertical stripe amplifies everything - including a jacket that pulls across the chest or trousers that break at the wrong angle. Baron builds yours to your exact measurements in Super 120s merino wool-cashmere with a canvas front, handmade buttonholes, and a ticket pocket as standard. Your order includes a free complete test suit shipped to you first, so the fit is confirmed before we cut the final cloth. Five chalk stripe colors. From $759.
 
@@ -1337,7 +1337,7 @@ Type: bespoke (made to order)
 SKU: 1600023
 Price: USD 699.00 (as of generation date)
 Dupioni Silk Fabric: 22 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Men's silk suits off the rack almost never fit, and cheap ones don't even look like silk. We fix both. Every suit on this page is made to your measurements in 100% dupioni silk, and before we cut the real thing, we send you a free test suit to try on at home. You confirm the fit, we adjust if needed, then we make your silk suit. 22 colors. Hand-finished by our skilled tailors. Trackable worldwide shipping. Secure checkout. From $699. Typical production time 4 to 6 weeks.
 
@@ -1419,7 +1419,7 @@ Type: bespoke (made to order)
 SKU: 1600011
 Price: USD 799 (as of generation date)
 PTD Series Plain: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 A cornerstone of the sophisticated wardrobe, this charcoal grey suit is tailored from a luxurious blend of fine merino wool and soft cashmere. The cloth is prized for its supple drape and exceptional feel. Custom-tailored with a full canvas front, this suit is an investment in timeless style and impeccable quality.
 
@@ -1433,7 +1433,7 @@ Type: bespoke (made to order)
 SKU: 1600018
 Price: USD 699 (as of generation date)
 Flannel Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Every man should have wool flannel suits in his wardrobe. Start with a simple solid navy flannel suit with a perfect sleeve-length jacket and notch lapel front. Wool flannel suits are fashionable and comfortable for all seasons. Crafted from 100% flannel cloth and custom-made to order, the navy flannel suit is sure to become a favorite.
 
@@ -1447,7 +1447,7 @@ Type: bespoke (made to order)
 SKU: 1600009
 Price: USD 659.00 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Men's 2 buttons tropical wool suit to fulfill your business needs. If you live and work in climate-controlled environments these tropical wool suits are a year-round option.
 
@@ -1461,7 +1461,7 @@ Type: bespoke (made to order)
 SKU: 1600005
 Price: USD 719.00 (as of generation date)
 Mohair Wool Fabric: 6 options available
-Acetate Lining: 25 options available
+Lining Fabric: 25 options available
 
 Most grooms choosing a black tuxedo don't know there's a version that behaves differently under evening light. Mohair is the difference: the fiber catches candlelight and venue lighting in a way plain wool doesn't, and its natural crease resistance keeps the suit sharp through a twelve-hour wedding day. This black mohair tuxedo is built to your measurements in a Super 140s merino-mohair blend, on a canvas front, with silk satin notch lapels and hand-finished buttonholes. Before we cut the mohai…
 
@@ -1512,7 +1512,7 @@ Type: bespoke (made to order)
 SKU: 1800011
 Price: USD 599.00 (as of generation date)
 Houndstooth Wool Fabric: VBC-4863939, VBC-6342211, VBC-6342212
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Feel your inner 007 in this custom dinner jacket tailored in Houndstooth textured wool. A custom-made designer dinner jacket with a proper fit to your body type is what defines an individual look. A tailored dinner jacket with soft construction and sleek silk satin peak lapels is the rule to develop a strong personal style that carries a cool look with confidence. Custom dinner jackets constructed in a classic structured black & white houndstooth wool. The Baron Boutique dinner jacket is an ele…
 
@@ -1526,7 +1526,7 @@ Type: bespoke (made to order)
 SKU: 1600013
 Price: USD 789.00 (as of generation date)
 Flannel Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Burgundy is having a genuine moment in menswear — runway-validated, worn by men who know the difference between a statement and a mistake. The problem is that almost every burgundy tuxedo available is polyester, and polyester turns burgundy from wine-dark and deliberate into something that reads under event lighting like a costume. Flannel is the fabric that makes the color credible. This mens burgundy flannel tuxedo is made to your measurements in Super 120s wool flannel with a silk satin shaw…
 
@@ -1577,7 +1577,7 @@ Type: bespoke (made to order)
 SKU: 1600004
 Price: USD 719.00 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Put together a custom look for any occasion where you need the best tuxedo. A single-breasted one-button tuxedo with double vents back and notch lapel gives you the most appealing custom-made tuxedo style. While style is more about yourself men's single-breasted tuxedo has its own style. The Silk satin notch lapel gives the tuxedo its richness and makes you feel sharp and trendy. Available in five different colors to choose from.
 
@@ -1591,7 +1591,7 @@ Type: bespoke (made to order)
 SKU: 1600021
 Price: USD 719 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Richly styled slim fit peak lapel tuxedo tailored from Super 140s' 8oz 100% worsted wool in plain cloth with a slight sheen. This single button tuxedo suit for men with satin silk trimmed peak lapels assure a full-fashion impact. The tailored slim-fit tuxedo suit adds a look perfectly in tune with the season’s spirit of effortless elegance.
 
@@ -1605,7 +1605,7 @@ Type: bespoke (made to order)
 SKU: 2000001
 Price: USD 299 (as of generation date)
 Linen Fabric: 18 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 The definitive choice for a warm-weather ceremony or elegant resort wear. Tailored from pure, breathable linen, this waistcoat provides a layer of formal structure without the weight of a jacket. A timeless and sophisticated garment, it is the essential third piece for a summer suit or a perfect pairing with linen trousers.
 
@@ -1619,7 +1619,7 @@ Type: bespoke (made to order)
 SKU: 2000002
 Price: USD 299 (as of generation date)
 vbc: 7 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 The definitive third piece, this waistcoat is tailored from a fine Super 160s' worsted wool by Vitale Barberis Canonico. Its versatile design is engineered to complete a formal suit or to bring a touch of sartorial structure to a more casual ensemble. An essential garment of impeccable quality and timeless style.
 
@@ -1633,7 +1633,7 @@ Type: bespoke (made to order)
 SKU: 1700003
 Price: USD 839.00 (as of generation date)
 Linen Fabric: 18 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 The problem with a linen wedding suit off the rack is that linen without a proper fit looks underdressed, not relaxed. The wrinkles are visible from across the aisle when the suit wasn't cut for your body — and unlike wool, linen has no structure to hide an imprecise fit. This three-piece linen wedding suit is made to your measurements in 100% pure linen across 18 colors, with a canvas front jacket, hand-finished buttonholes, and a full vest so when the jacket comes off at the reception you sti…
 
@@ -1680,7 +1680,7 @@ Type: bespoke (made to order)
 SKU: 1600015
 Price: USD 769 (as of generation date)
 Sharkskin Wool Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Slate blue wedding suit perfectly tailored to your body and styled to your personality. Use our free customizer to choose lapel style, lining, and buttons for a look that is exclusively yours. It is a custom-made slate blue wedding suit with ultimate confidence and timeless style.
 
@@ -1958,7 +1958,7 @@ Type: bespoke (made to order)
 SKU: 5003016
 Price: USD 729.00 (as of generation date)
 Glen Plaid Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 You've seen the suit. You know exactly which one. GQ called it the best suit in film history -- the grey glen plaid Cary Grant wears through every scene of North by Northwest. The problem is that every grey glen plaid suit you find online is just a grey glen plaid suit. Not this cut. Not the 3-roll-2 lapel that rolls over the top button. Not the ventless back. Not the high-waist double pleats at the natural waist. Those decisions are why the suit still looks right 65 years later -- and this is …
 
@@ -2034,7 +2034,7 @@ Price: USD 1299.00 (as of generation date)
 Cape Fabric: 13 options available
 Satin Silk Lining: 20 options available
 Tunic Fabric: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Embody the measured elegance and formidable power of a Sith Lord. This is the definitive, screen-accurate replica of Count Dooku's attire, meticulously custom-tailored to be a masterpiece of cosplay craftsmanship. Every detail is engineered to create a statement of sophisticated menace, making it the ultimate tribute to the iconic character.
 
@@ -2048,7 +2048,7 @@ Type: bespoke (made to order)
 SKU: 5003018
 Price: USD 789 (as of generation date)
 Merino Wool Fabric: 16 options available
-Acetate Lining: 25 options available
+Lining Fabric: 25 options available
 Vest Fabric: 7 options available
 
 James West Wild Wild West suit is for men who need an edge to accomplish their mission statement of looking cool. James West character played by Robert Conrad in the Wild Wild West series, the blue suit shows a man of supreme confidence that everyone growing up as a young man wanted to be.
@@ -2063,7 +2063,7 @@ Type: bespoke (made to order)
 SKU: 5003006
 Price: USD 879.00 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 Dupioni Silk Fabric: 22 options available
 
 Every Gary Oldman Dracula costume online gets the grey right and misses everything else -- no dupioni silk lapels, wrong vest construction, no princess seams. This screen inspired London suit is built to what actually makes the suit specific: 140s worsted wool jacket and trousers, inset dupioni silk lapels, double-breasted dupioni silk vest, canvas front frock coat with princess seam back. Made to your measurements, with a free test suit before the wool and silk are cut.
@@ -2146,7 +2146,7 @@ Type: bespoke (made to order)
 SKU: 5003001
 Price: USD 1379 (as of generation date)
 Gabardine Wool Fabric: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 Satin Silk Fabric: 20 options available
 
 When it comes to cosplay, there is nothing like the shadow costume. A custom-made shadow coat costume features a full-length coat and cape, matching pants, and a pure silk satin red scarf that can easily stand you out from the rest. An example of impeccable tailoring and 100% screen accuracy costume to cosplay  1994 movie The Shadow starring Alec Baldwin.
@@ -2161,7 +2161,7 @@ Type: bespoke (made to order)
 SKU: 5003025
 Price: USD 669.00 (as of generation date)
 Linen Fabric: 18 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 Collar Trim Fabric: 17 options available
 
 Embrace the magic of Stardust with this exquisite replica of Tristan Thorn's iconic coat. Made from high-quality linen fabric, this Stardust coat features a classic long design, a contrast collar, and intricate stitching. Perfect for cosplay, costume events, or simply adding a touch of fantasy to your wardrobe. Tailored to your measurements for a perfect fit and crafted with utmost attention to detail. Available with a free test garment to ensure the ideal fit.
@@ -2176,7 +2176,7 @@ Type: bespoke (made to order)
 SKU: 5002005
 Price: USD 769.00 (as of generation date)
 Worsted Wool Plain Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Keanu Reeves trench coat from the Matrix Revolutions is a timeless fashion icon all men should own. As practical as it is stylish, this Matrix 3 Neo wool trench coat can suit countless outfits and occasions. The Matrix Revolutions trench coat is an ideal piece of transitional outerwear for everyday use. It is one of the best style investments a man can make.
 
@@ -2190,7 +2190,7 @@ Type: bespoke (made to order)
 SKU: 5002004
 Price: USD 669.00 (as of generation date)
 Twill Cotton Chino: 15 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Softly tailored Matrix coat with a graceful ankle-length to set yourself apart and express your personality. Inspired by the movie The Matrix, the black trench coat worn by the character Neo, portrayed by Keanu Reeves. Buy the Matrix 1 lifestyle in this lightly constructed Neo coat that is ideal for everyday use.
 
@@ -2204,7 +2204,7 @@ Type: bespoke (made to order)
 SKU: 5002002
 Price: USD 699.00 (as of generation date)
 Monks Wool Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Most Matrix coat sellers deliver a polyester approximation in a generic size. The sheen is wrong, the length is approximate, and the silhouette collapses the moment you raise an arm. Baron builds the Matrix Reloaded Neo coat to your body measurements, with the screen-inspired construction that makes the below-ankle silhouette work. We send a free test coat first. You approve the fit. Then we cut the final.
 
@@ -2272,7 +2272,7 @@ Type: bespoke (made to order)
 SKU: 5002006
 Price: USD 729.00 (as of generation date)
 Worsted Wool Plain Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Nothing beats the practicality and style of a great trench coat. The Matrix 4 Resurrections Keanu Reeves Neo coat by Baron Boutique is an ideal piece of transitional outerwear for everyday use. The Resurrections Neo coat is one of the best style investments a man can make. Like a classic men's suit, the Matrix 4 trench coat is ageless and timeless, an indispensable wardrobe staple that can perfectly complement your sense of style.
 
@@ -2286,7 +2286,7 @@ Type: bespoke (made to order)
 SKU: 5002003
 Price: USD 979.00 (as of generation date)
 Leather: Black Lambskin, Dark Brown Lambskin, Cow Nappa Black
-Acetate Lining: 25 options available
+Lining Fabric: 25 options available
 
 Neo leather coat from the Matrix Reloaded for avid matrix fans who want to mimic the Neo character. Beautifully made leather trench coat with great design and practical features for daily use. It is the most elevated Neo leather trench coat from Matrix 2 crafted from genuine full-grain leather. The black leather trench coat is fine enough to wear on milder days.
 
@@ -2300,7 +2300,7 @@ Type: bespoke (made to order)
 SKU: 5002001
 Price: USD 699.00 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This white long coat is one of the most talked-about Neo style coats. Crafted from ultra-light worsted wool fabric that has an excellent drape and a very elegant feel to it. Attention-grabbing Matrix Reloaded Neo Style white long coat is extremely comfortable without being restricted. Layer this Neo-style coat over a blazer as a white overcoat or simply over a shirt as a stylish look. Select your desire fit through the measurement page.
 
@@ -2314,7 +2314,7 @@ Type: bespoke (made to order)
 SKU: 5000015
 Price: USD 216 (as of generation date)
 Mohair Wool Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Meticulously tailored 13th Doctor pants for men are a great way to change your look. The male version of the Jodie Whittaker cosplay pants is the stylish and comfortable change for any man. The replica of the pants worn by 13th Doctor Jodie Whittaker, this male version represents a true time lord tradition effortlessly.
 
@@ -2328,7 +2328,7 @@ Type: bespoke (made to order)
 SKU: 5000007
 Price: USD 429.00 (as of generation date)
 Gabardine Wool Fabric: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Remarkable time traveler 1st Doctor black dress coat replica for enthusiastic cosplayers. The first incarnation Doctor black coat is custom-made with screen-accurate details. A well-tailored William Hartnell black dress coat is the hallmark of a Whovian character.
 
@@ -2342,7 +2342,7 @@ Type: bespoke (made to order)
 SKU: 5000004
 Price: USD 419 (as of generation date)
 Velvet: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Custom-made 3rd Doctor green jacket to breathe a new life into your Whovian wardrobe. High-quality third Doctor costume replica for Jon Pertwee fandom. Mimic the time lord legacy in our authentic 3rd Doctor Who green velvet jacket outfit. One of our favorites from classic Who.
 
@@ -2356,7 +2356,7 @@ Type: bespoke (made to order)
 SKU: 5000006
 Price: USD 449 (as of generation date)
 Corduroy Fabric: 13 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 4th Doctor jacket in rust/oxblood corduroy is an immediate eye-catcher and captivates the imagination. The rust corduroy jacket for Tom Baker cosplay favors the attitude of a mysterious time traveler. The Fourth Doctor jacket is crafted from 100% cotton corduroy in thin wale. A hand-tailored Tom Baker cosplay jacket in a bespoke fit.
 
@@ -2370,7 +2370,7 @@ Type: bespoke (made to order)
 SKU: 5000009
 Price: USD 409 (as of generation date)
 Gabardine Wool Fabric: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Channel the clever, scheming spirit of the Seventh Doctor with this iconic utility jacket. Custom-tailored to be a screen-accurate replica, it’s crafted from a lightweight worsted wool, perfect for staying comfortable at conventions. A free test jacket, sent to your home, ensures a perfect, authentic fit.
 
@@ -2384,7 +2384,7 @@ Type: bespoke (made to order)
 SKU: 5000003
 Price: USD 419 (as of generation date)
 Gabardine Wool Fabric: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Second Doctor coat replica in black offers a timeless appeal with the classic Whovian style that works as a casual and cosplay outfit. The second Doctor costume is unique as it has big pockets and a frock coat-style design. 2nd Doctor cosplay coat in a comfortably loose fit lets you move freely. Patrick Troughton's coat is an awesome combination of comfort and style.
 
@@ -2398,7 +2398,7 @@ Type: bespoke (made to order)
 SKU: 5000002
 Price: USD 419 (as of generation date)
 10th Doctor Who Fabrics: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Tennant blue and red stripe suit is already renowned for its unique and exclusive. Get the iconic look of tenth Doctor in this carefully constructed blue suit from year-round cotton. Handcrafted Tennant blue suit with clean lines and a well-cut body for a perfect time tailored look.
 
@@ -2412,7 +2412,7 @@ Type: bespoke (made to order)
 SKU: 5000001
 Price: USD 419 (as of generation date)
 10th Doctor Who Fabrics: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Our uncontested tenth Doctor brown and blue stripe suit is a favorite among cosplayers who strive for the Tennant look. A hand-tailored tenth Doctor brown and blue stripe suit is a crisp, clean, and undisputed option to incorporate cosplay colors in your outfits.
 
@@ -2426,7 +2426,7 @@ Type: bespoke (made to order)
 SKU: 5003024
 Price: USD 699.00 (as of generation date)
 Melton Wool Fabric: 15 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 Collar Trim Fabric: 17 options available
 
 A faithful recreation of Jack Nicholson's legendary purple suit coat from Batman 1989. Handcrafted with screen-accurate tailoring, this Joker replica embodies Gotham's most unforgettable villain—designed for collectors, cosplayers, and those who live the legend. This meticulously crafted Joker overcoat brings cinematic magic into your wardrobe, honoring every detail of the original Batman 1989 costume worn in one of cinema's most celebrated performances.
@@ -2499,7 +2499,7 @@ Type: bespoke (made to order)
 SKU: 5000010
 Price: USD 549 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Our 5th Doctor cosplay beige frock coat is tailored with consistent quality. The top-class 5th Doctor cosplay costume outfit with immense details to its superb tailoring. Crafted from the lightweight beige cloth, the calf-length Peter Davison cosplay coat features red piping details along the coat edges. The 5th Doctor red piping costume will get you noticed everywhere.
 
@@ -2513,7 +2513,7 @@ Type: bespoke (made to order)
 SKU: 5003017
 Price: USD 1249.00 (as of generation date)
 Jacket and Cape Fabric: 10 options available
-Acetate Lining: 25 options available
+Lining Fabric: 25 options available
 Pants Fabric: 10 options available
 Crepe Silk Fabric: 16 options available
 
@@ -2541,7 +2541,7 @@ Type: bespoke (made to order)
 SKU: 5000019
 Price: USD 659.00 (as of generation date)
 Velvet: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Step into the shoes of the Fourth Doctor with this screen inspired Tom Baker's iconic Wine Velvet Frock Coat. Crafted with precision, this coat features luxurious velvet, wide lapels, and deep cuffs, capturing the essence of the timeless Time Lord. Perfect for cosplay, special events, or as a statement piece, this coat is custom fitted to ensure a perfect fit.
 
@@ -2555,7 +2555,7 @@ Type: bespoke (made to order)
 SKU: 5003005
 Price: USD 699.00 (as of generation date)
 Melton Wool Fabric: 15 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Most Joker coats are polyester approximations that read as costume the moment they are photographed. Baron builds this coat in 100% Melton wool, to your measurements, with canvas front construction, triple rear vents, and the five-button flared cuffs that are screen-accurate to The Dark Knight. The orange acetate lining is inside, visible only when you open the coat. We send a free test coat first so you can confirm the cuff position and shoulder line before we cut the final Melton wool.
 
@@ -2622,7 +2622,7 @@ Type: bespoke (made to order)
 SKU: 5000020
 Price: USD 689.00 (as of generation date)
 Flannel Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Inspired by the iconic look worn by Sacha Dhawan in Doctor's Series 12, this masterfully crafted coat is hand tailored from premium wool, offering a luxurious feel and authentic appearance. Ideal for cosplay, special occasions, or making a bold fashion statement, this coat is custom-tailored to provide a flawless fit.
 
@@ -2696,7 +2696,7 @@ Type: bespoke (made to order)
 SKU: 5003023
 Price: USD 839 (as of generation date)
 Melton Wool Fabric: 14 options available
-Acetate Lining: 25 options available
+Lining Fabric: 25 options available
 Vest Fabric: 7 options available
 
 Arthur Fleck’s iconic Joker suit from the unforgettable 2019 staircase scene, tailored in rich burgundy Melton wool with a striking gold waistcoat. Custom-made to your exact measurements, every order includes a free test suit first. You approve the fit. Then we cut the final garment. This is not a costume, but a refined, wearable interpretation of Joaquin Phoenix’s legendary look for everyday style.
@@ -2845,7 +2845,7 @@ Type: bespoke (made to order)
 SKU: 3400004
 Price: USD 829 (as of generation date)
 Wool Cashmere Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Consider this your ultimate wardrobe investment. Crafted from a soft wool-cashmere blend, this mid-length double-breasted coat is the definition of enduring style—the go-to piece that elevates everything you wear, season after season.
 
@@ -2859,7 +2859,7 @@ Type: bespoke (made to order)
 SKU: 3400002
 Price: USD 829 (as of generation date)
 Wool Cashmere Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Meet the hardest-working coat in your wardrobe. Custom-tailored from a luxurious wool-cashmere blend, this timeless single-breasted coat offers unparalleled warmth and effortless elegance. It is the one essential piece that instantly elevates everything you wear.
 
@@ -2885,7 +2885,7 @@ Type: bespoke (made to order)
 SKU: 3400005
 Price: USD 529 (as of generation date)
 Melton Wool Fabric: 15 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Womens peacoat double-breasted in Melton wool is a worthy wardrobe investment. Womens peacoat in 3/4 length cut is a statement coat to keep your style elevated and practical during walks around the neighborhood. It is the perfect double-breasted pea coat women can sport with jeans and boots or a long pencil skirt. This Melton wool pea coat in the longer cut is a pea coat womens need for warmth and comfort.
 
@@ -2899,7 +2899,7 @@ Type: bespoke (made to order)
 SKU: 2800003
 Price: USD 579 (as of generation date)
 Flannel Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 With our free test garment womens tailored fitted coat has never been this perfect. Available in 10 different colors including blue, burgundy, red, black, charcoal, dark grey, grey, chocolate brown, camel, and light grey. The only limit is personal taste. Being original without amplifying, perfectly fitted womens tailored coat is the result of a fine custom-tailoring.
 
@@ -2913,7 +2913,7 @@ Type: bespoke (made to order)
 SKU: 3200012
 Price: USD 399 (as of generation date)
 Sharkskin Wool Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Effortless sophistication, solved. With its chic asymmetrical hem and comfortable shift silhouette, this is the endlessly versatile dress that ensures you look polished and modern at any occasion, from work functions to weddings.
 
@@ -2927,7 +2927,7 @@ Type: bespoke (made to order)
 SKU: 3200009
 Price: USD 309.00 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 The answer to "what should I wear?" This is the dress you'll reach for again and again. Its clever crossover design is universally flattering, while the sharp collar keeps it polished and professional for any event on your calendar.
 
@@ -2967,7 +2967,7 @@ Type: bespoke (made to order)
 SKU: 3200003
 Price: USD 399 (as of generation date)
 Iconic Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the secret to instant confidence. The Tailored Mini Dress delivers a universally flattering shift cut that looks incredible on every figure. Crafted from luxurious wool in a stunning cobalt blue, it’s your one-step solution for turning a simple silhouette into a powerful, chic statement at any event.
 
@@ -2981,7 +2981,7 @@ Type: bespoke (made to order)
 SKU: 2900001
 Price: USD 239 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the end of the frustrating search for the perfect dress pants. Our Women's Dress Pants go beyond a simple purchase, offering you the power to create your ultimate wardrobe foundation from scratch. From perfecting the fit with a free test garment to customizing the leg cut and rise, you are in complete control of building the one pair you will rely on for years.
 
@@ -2995,7 +2995,7 @@ Type: bespoke (made to order)
 SKU: 2900003
 Price: USD 239 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the solution to the 9-to-5 comfort problem. Our Women's Workwear Relaxed-Fit Pants are crafted from lightweight, breathable tropical wool designed for all-day wear. Combined with a flawless custom fit, it’s the secret to achieving a look that is both professionally polished and incredibly comfortable.
 
@@ -3009,7 +3009,7 @@ Type: bespoke (made to order)
 SKU: 2900004
 Price: USD 239 (as of generation date)
 High Twist Wool Fabric: 13 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the solution to looking polished on the go. Our Women’s Mid-Rise Tapered Leg Dress Pants are crafted from wrinkle-resistant Fresco wool, making them the ultimate travel-ready trouser. Combined with a flawless custom fit, it’s the secret to looking sharp and feeling confident, no matter how demanding your schedule is.
 
@@ -3023,7 +3023,7 @@ Type: bespoke (made to order)
 SKU: 2900007
 Price: USD 239 (as of generation date)
 Mohair Wool Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is how you upgrade your entire professional wardrobe in one step. Our Women's Dress Pants move beyond traditional styles by using a performance mohair-wool blend, a lightweight fabric that delivers both breathable comfort and a subtle, sophisticated sheen. It's a frame-enhancing, custom-tailored fit designed to give you a natural boost of confidence.
 
@@ -3037,7 +3037,7 @@ Type: bespoke (made to order)
 SKU: 7000015
 Price: USD 229 (as of generation date)
 Mohair Wool Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Authenticity is in the fit. These Thirteenth Doctor Pants use a guaranteed custom-tailored fit to perfectly replicate Jodie Whittaker's unique silhouette. From the comfortable high-rise waist to the relaxed, cropped leg, every detail is crafted to feel like it was pulled directly from the screen.
 
@@ -3051,7 +3051,7 @@ Type: bespoke (made to order)
 SKU: 7003014
 Price: USD 689.00 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Womens black wizard robe replica from the Fantastic Beasts for Percival Graves cosplay. It wouldn’t take a magical spell to stand out from other things. Impressively shimmering and smooth tailoring makes womens Percival Graves black wizard coat the perfect choice to look fantastic. Something up your sleeves, show your cosplay things with this very graphic black wizard robe that makes you special. Style yourself just like Percival Graves's character.
 
@@ -3065,7 +3065,7 @@ Type: bespoke (made to order)
 SKU: 7000009
 Price: USD 409.00 (as of generation date)
 Gabardine Wool Fabric: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This isn't just a jacket; it's the uniform of a grand chessmaster, tailored for you. Our Women's 7th Doctor Who Jacket uses a guaranteed custom fit to honor your silhouette, ensuring the belted back creates a look that is chic and powerful, not boxy. The bigger pockets are for adventure; the perfect fit is for the quiet confidence you'll feel wearing it—for both screen-accurate cosplay and unique, everyday style.
 
@@ -3079,7 +3079,7 @@ Type: bespoke (made to order)
 SKU: 7000014
 Price: USD 529.00 (as of generation date)
 Velvet: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Screen inspired Women's 12th Doctor Burgundy Velvet Coat custom-made with the higher-end fabrication that adds extra personality. Add a touch of elegance with this attention-grabbing women's burgundy red velvet coat that signals serious presence and style. This red velvet coat is sure to get you noticed at your next convention appearance. A great addition to your 12th Doctor cosplay costume collection.
 
@@ -3093,7 +3093,7 @@ Type: bespoke (made to order)
 SKU: 7000010
 Price: USD 559.00 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Women's fifth Doctor inspired red stripe beige frock coat transforms your appearance and personality. Doctor’s 5th incarnation for women cosplayers that conveyed action and eccentricity. The beige frock coat features a red stripe along the coat edge. If you are a female and love cosplay, then you will love our 5th Doctor frock coat.
 
@@ -3107,7 +3107,7 @@ Type: bespoke (made to order)
 SKU: 7000001
 Price: USD 419.00 (as of generation date)
 10th Doctor Who Fabrics: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is for the fan who understands that authenticity is everything. Our Women's Brown Pinstripe Suit perfectly captures the Tenth Doctor's iconic style because we obsessed over the one detail others miss: the screen-printed pinstripes on 100% woven cotton. This isn't just a suit; it's a wearable piece of television history, custom-tailored to make the Doctor's signature slim silhouette powerfully flattering on your form.
 
@@ -3121,7 +3121,7 @@ Type: bespoke (made to order)
 SKU: 7000008
 Price: USD 539.00 (as of generation date)
 Velvet: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Embody the cosmic rock-star attitude of the Twelfth Doctor. Custom-tailored for a woman's form, this black velvet frock coat is a masterpiece of minimalist style, perfect for screen-accurate cosplay or as a uniquely formidable statement piece for your everyday wardrobe.
 
@@ -3135,7 +3135,7 @@ Type: bespoke (made to order)
 SKU: 7000011
 Price: USD 529.00 (as of generation date)
 Flannel Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Trendsetting womens blue coat replica from 12th Doctor inspired by Peter Capaldi style. Perfect fitting and amazing women's blue coat with a red lining in mid-thigh length. The 12th Doctor blue coat ideal for everyday use and warm enough for a light winter.
 
@@ -3149,7 +3149,7 @@ Type: bespoke (made to order)
 SKU: 7001008
 Price: USD 649.00 (as of generation date)
 Wool Cashmere Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Womens double-breasted short peacoat inspired from Quantum of Solace. The minified James Bond replica winter pea coat offers a timeless appeal with the classic style that works as a casual and essential outfit. James Bond is something to aspire to and part of that aspiration is perpetually sharp dressed. Young women's peacoat that will stand out in the crowd and make you look unique this season.
 
@@ -3163,7 +3163,7 @@ Type: bespoke (made to order)
 SKU: 7002005
 Price: USD 599 (as of generation date)
 Worsted Wool Plain Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Matrix-Inspired Long Black Trench Coat for Women. Command attention in this hand-tailored worsted wool trench coat, inspired by The Matrix Revolutions. Sleek, structured, and winter-ready, it layers effortlessly for refined street style or formal elegance. A must-have for fans of the Matrix and for anyone who dresses with purpose.
 
@@ -3177,7 +3177,7 @@ Type: bespoke (made to order)
 SKU: 7001003
 Price: USD 599.00 (as of generation date)
 Flannel Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Womens navy coat replica from Spectre for sophisticated ladies who wants to explore the spy lifestyle. Give the gift of style and confidence, a navy coat designed for cosplay, parties, and unique events. Bond style 3/4 length coat is an essential of every women's cosplay wardrobe.
 
@@ -3256,7 +3256,7 @@ Type: bespoke (made to order)
 SKU: 3000006
 Price: USD 229 (as of generation date)
 High Twist Wool Fabric: 13 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the wardrobe workhorse you've been searching for. Our Women's Black Skirt for Work is crafted from wrinkle-resistant, breathable Fresco wool, a high-performance fabric perfect for long days. Combined with a flawless custom fit, it’s the single most reliable, versatile, and hard-working piece you can own.
 
@@ -3270,7 +3270,7 @@ Type: bespoke (made to order)
 SKU: 3000001
 Price: USD 229 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This isn't just a power silhouette; it's a high-performance one. Our Women's High Waisted Knee Length Pencil Skirt is crafted from breathable, all-season tropical wool, solving the problem of uncomfortable office attire. Combined with a flawless custom fit, it’s the secret to looking commanding and feeling comfortable, from your first meeting to your last.
 
@@ -3284,7 +3284,7 @@ Type: bespoke (made to order)
 SKU: 3000008
 Price: USD 229 (as of generation date)
 vbc: 7 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the classic skirt, reimagined for the modern professional. Our Women's Kick Pleat Skirt solves the problem of the boring work staple with a sharp, front-center kick pleat that adds both sartorial flair and complete freedom of movement. It's the perfect blend of everyday style and unique personality with the contrast waistband.
 
@@ -3298,7 +3298,7 @@ Type: bespoke (made to order)
 SKU: 3000007
 Price: USD 229 (as of generation date)
 vbc: 7 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the skirt that finally answers the question: "Does it have pockets?" Our Women's Knee-Length Skirt with Pockets is engineered with perfectly placed slanted pockets that provide utility without adding bulk. Combined with a flawless custom fit, it’s the smart, stylish, and functional wardrobe staple you’ve been searching for.
 
@@ -3312,7 +3312,7 @@ Type: bespoke (made to order)
 SKU: 3000009
 Price: USD 229 (as of generation date)
 vbc: 7 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the end of the search for the perfect office skirt. Our Women's Office Pencil Skirt is an investment in your professional image, crafted from luxurious Super 160s' wool from the legendary Vitale Barberis Canonico mill. It's the secret to owning a foundational piece that is as impeccably made as it is perfectly fitted through a free test garment.
 
@@ -3326,7 +3326,7 @@ Type: bespoke (made to order)
 SKU: 2600013
 Price: USD 699.00 (as of generation date)
 vbc: 7 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the end of the frustrating search for a power suit that truly fits. The Bespoke VBC Wool Suit solves the biggest problem of off-the-rack clothing with our free test suit process, guaranteeing a flawless, bespoke fit for both the jacket and trousers. It's an investment in the confidence that only a perfectly made-to-measure suit can provide.
 
@@ -3340,7 +3340,7 @@ Type: bespoke (made to order)
 SKU: 2600005
 Price: USD 699 (as of generation date)
 Flannel Wool Fabric: 10 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the strategic answer to a demanding schedule. Our bespoke wool flannel suit dress is engineered as a single, cohesive uniform of power, combining a tailored jacket and a matching sheath dress in soft, luxurious wool flannel. It's the secret to projecting an image of being instantly, impeccably put-together.
 
@@ -3354,7 +3354,7 @@ Type: bespoke (made to order)
 SKU: 2800005
 Price: USD 569.00 (as of generation date)
 Dupioni Silk Fabric: 22 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the most transformative piece you will ever own. Our Women's Silk Jacket is crafted from iridescent, 100% Dupioni silk, a couture-level fabric that shimmers with living color. Combined with a flawless custom fit, it's the secret to elevating any outfit into an unforgettable statement.
 
@@ -3368,7 +3368,7 @@ Type: bespoke (made to order)
 SKU: 2600006
 Price: USD 699 (as of generation date)
 PTD Series Plain: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is your wardrobe's 'master key.' The Essential Black Pant Suit is custom-tailored from a luxurious wool-cashmere blend for a flawless, powerful silhouette. This perfect fit is guaranteed—our process includes a free test suit sent to your home for approval. It's confidence, tailored.
 
@@ -3382,7 +3382,7 @@ Type: bespoke (made to order)
 SKU: 2600011
 Price: USD 699 (as of generation date)
 High Twist Wool Fabric: 13 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the suit engineered for high-pressure days. Our Fresco Wool Suit is crafted from a legendary performance fabric, a naturally breathable and wrinkle-resistant wool designed to keep you looking sharp and feeling cool. Combined with a flawless custom fit, it’s your secret weapon for maintaining composure and confidence, no matter the situation.
 
@@ -3396,7 +3396,7 @@ Type: bespoke (made to order)
 SKU: 2600012
 Price: USD 699.00 (as of generation date)
 Mohair Wool Fabric: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the power suit engineered for the modern professional. Our Women's Mohair Suit is crafted from a high-performance mohair-wool blend, a fabric prized for its natural wrinkle resistance and subtle luster. It's the secret to looking as sharp and composed at the end of your day as you did at the beginning.
 
@@ -3410,7 +3410,7 @@ Type: bespoke (made to order)
 SKU: 2600002
 Price: USD 729 (as of generation date)
 Tropical Wool Fabric: 13 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is your armor for high-pressure days. The Performance Tropical Wool Suit is crafted from lightweight, breathable tropical wool to keep you looking sharp and feeling cool. The flawless custom fit is guaranteed—our process includes a free test suit sent to your home for approval. It’s the secret to projecting an image of calm, unshakable authority.
 
@@ -3424,7 +3424,7 @@ Type: bespoke (made to order)
 SKU: 2600008
 Price: USD 699.00 (as of generation date)
 Sharkskin Wool Fabric: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the end of the "boring work suit." Our Women's Work Suit in Sharkskin is crafted from a unique sharkskin wool, a fabric whose subtle two-tone luster adds a layer of intelligence and sophistication to your professional look. It's the secret to standing out with quiet confidence.
 
@@ -3438,7 +3438,7 @@ Type: bespoke (made to order)
 SKU: 2600001
 Price: USD 699 (as of generation date)
 PTD Series Plain: 6 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the tuxedo, not a "female version" of it. Our Menswear-Inspired Tuxedo for Women is built with authentic, bespoke details like roped shoulders and dramatic satin wing-peak lapels. It's a masterpiece of classic tailoring, custom-fitted to honor the female form.
 
@@ -3452,7 +3452,7 @@ Type: bespoke (made to order)
 SKU: 2600003
 Price: USD 699 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 For the woman who knows a dress isn’t the only answer. Our Female Tuxedo is not a costume; it's an icon, re-engineered. Its power lies in combining authentic tuxedo details, like satin shawl lapels and roped shoulders, with a bespoke fit that sculpts a uniquely feminine silhouette. This is your statement of unapologetic elegance.
 
@@ -3466,7 +3466,7 @@ Type: bespoke (made to order)
 SKU: 2600007
 Price: USD 699 (as of generation date)
 Tropical Wool Fabric: 14 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 For the bride who walks her own aisle, this is the answer. Our Women's Tan Wedding Suit is for the woman who knows that true bridal style is about feeling like yourself. It combines the power of a tailored suit with the softness of a beautiful tan fabric, all perfected with a flawless custom fit.
 
@@ -3480,7 +3480,7 @@ Type: bespoke (made to order)
 SKU: 2800004
 Price: USD 529 (as of generation date)
 Velvet: 11 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 This is the icon of eveningwear, perfected for you. Our Women's Velvet Tuxedo Blazer combines the timeless glamour of a **satin peak lapel with the rich texture of plush velvet**, all sculpted with a flawless custom fit. It's the secret to owning a legendary piece of style that feels like it was made just for you.
 
@@ -3496,7 +3496,7 @@ Price: USD 1499 (as of generation date)
 Cape Fabric: 13 options available
 Satin Silk Lining: 20 options available
 Tunic &amp; Pants Fabric: 13 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 Most grooms at destination weddings wear the same suit they could have worn at any church ceremony in their hometown. This three-piece ensemble is different in a way that requires no explanation. A mandarin-collar tunic in Super 130s Fresco wool, tailored trousers, and a floor-length cape lined in pure satin silk, built to your measurements in 13 colors. We send a free test suit first. You board the plane knowing the fit is right.
 
@@ -3553,7 +3553,7 @@ Type: bespoke (made to order)
 SKU: 2600014
 Price: USD 699.00 (as of generation date)
 Merino Wool Stripes: 8 options available
-Acetate Lining: 34 options available
+Lining Fabric: 34 options available
 
 The off-white pinstripe suit that actually fits. Custom made to your measurements in Super 130s merino wool - double-breasted jacket with canvas front and wide peak lapels, wide-leg trouser with bell cut. The silhouette Zendaya wore to the Met Gala. The look power dressers and brides have been searching for off-the-rack and not finding. Your order includes a free complete test suit shipped first so every measurement is confirmed before we cut the wool. 8 stripe options. From $699.
 

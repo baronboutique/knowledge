@@ -4,7 +4,7 @@ title: "The Sharkskin Work Suit"
 description: "This is the end of the \"boring work suit.\" Our Women's Work Suit in Sharkskin is crafted from a unique sharkskin wool, a fabric whose subtle two-tone luster adds a layer of intelligence and sophistica…"
 resource: https://baronboutique.com/womens-work-suit-in-sharkskin/
 tags: [women, suit, sharkskin-wool, two-tone, workwear, power-suit, blazer, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Sharkskin Work Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Sharkskin Wool Fabric:** 8 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

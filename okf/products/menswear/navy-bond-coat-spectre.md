@@ -4,7 +4,7 @@ title: "James Bond Navy Blue Coat Spectre"
 description: "Bond's navy blue coat from Spectre is sure to add a touch of sophistication this season. The custom-made Craig's Spectre coat is essential and synonymous with the spy lifestyle."
 resource: https://baronboutique.com/navy-bond-coat-spectre/
 tags: [men, coat, overcoat, navy, wool, james-bond, spectre, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # James Bond Navy Blue Coat Spectre
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Flannel Wool Fabric:** 10 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 - **Collar Trim Fabric:** 15 options available
 
 ## Summary

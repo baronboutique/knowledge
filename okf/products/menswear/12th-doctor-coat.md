@@ -4,7 +4,7 @@ title: "12th Doctor Who Series 9 Coat"
 description: "BECOME THE 12TH DOCTOR: Step into the Time Lord's shoes with our meticulously crafted 12th Doctor Series 9 coat—the iconic garment worn by Peter Capaldi during some of the most memorable episodes of D…"
 resource: https://baronboutique.com/12th-doctor-coat/
 tags: [men, coat, melton-wool, doctor-who, twelfth-doctor, capaldi, time-lord-coat, screen-inspired, cosplay, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # 12th Doctor Who Series 9 Coat
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Melton Wool Fabric:** 13 options available
-- **Acetate Lining:** 25 options available
+- **Lining Fabric:** 25 options available
 
 ## Summary
 

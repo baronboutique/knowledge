@@ -4,7 +4,7 @@ title: "Neo Leather Trench Coat Matrix 2"
 description: "Neo leather coat from the Matrix Reloaded for avid matrix fans who want to mimic the Neo character. Beautifully made leather trench coat with great design and practical features for daily use."
 resource: https://baronboutique.com/matrix-reloaded-coat-in-leather/
 tags: [men, trench-coat, long-coat, leather, lambskin, black, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Neo Leather Trench Coat Matrix 2
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Leather:** Black Lambskin, Dark Brown Lambskin, Cow Nappa Black
-- **Acetate Lining:** 25 options available
+- **Lining Fabric:** 25 options available
 
 ## Summary
 

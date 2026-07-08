@@ -4,7 +4,7 @@ title: "Black Velvet Shawl Collar Tuxedo Jacket"
 description: "Black velvet tuxedo jacket with refined tailoring that has been trimmed to propose a contemporary appeal."
 resource: https://baronboutique.com/slim-fit-black-velvet-jacket/
 tags: [men, blazer, dinner-jacket, velvet, black, slim-fit, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Black Velvet Shawl Collar Tuxedo Jacket
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Velvet:** 11 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

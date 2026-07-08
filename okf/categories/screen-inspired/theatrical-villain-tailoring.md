@@ -4,7 +4,7 @@ title: "Theatrical Villain"
 description: "Theatrical Villain Darker. Bolder. Built for those who understand that the villain always has the better wardrobe. Every coat, suit, and tailcoat in this collection draws from the most iconic villain moments in modern cinema. The silhouettes are dramatic. The fabrics are uncompromising. The tailoring is entirely your own. Each piece is bespoke, cut and constructed exclusively for your measurements. Our complimentary test garment process guarantees a flawless fit before a single thread is committed to your final garment."
 resource: https://baronboutique.com/screen-inspired/theatrical-villain-tailoring/
 tags: [theatrical-villain, joker, dracula, villain-costume, movie-replica, screen-inspired, cosplay, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Theatrical Villain

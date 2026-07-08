@@ -4,7 +4,7 @@ title: "Wool Mohair Dress Pants"
 description: "A custom-made mohair wool dress pants are noticeable and set you above the rest of the crowd. Regardless of the circumstance, you’re going to want a pair that fits and feels comfortable at the ready."
 resource: https://baronboutique.com/slim-fit-mohair-wool-pants/
 tags: [men, pants, dress-pants, mohair-wool, wool, slim-fit, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Wool Mohair Dress Pants
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Mohair Wool Fabric:** Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

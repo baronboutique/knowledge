@@ -4,7 +4,7 @@ title: "Merino Wool Cashmere Blend Suit"
 description: "A cornerstone of the sophisticated wardrobe, this charcoal grey suit is tailored from a luxurious blend of fine merino wool and soft cashmere."
 resource: https://baronboutique.com/merino-wool-cashmere-blend-suit/
 tags: [men, suit, wool-cashmere, merino-wool, cashmere, charcoal, canvas-front, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Merino Wool Cashmere Blend Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **PTD Series Plain:** PTD-9100-1-Gray, PTD-9100-2-Charcoal, PTD-9100-3-Brown, PTD-9100-4-Petrol Blue, PTD-9100-6-Black, PTD-9101-2-Gray Micro Check
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

@@ -4,7 +4,7 @@ title: "James Bond Linen Suit The World Is Not Enough"
 description: "The herringbone linen suit worn by Pierce Brosnan as James Bond in the film The World Is Not Enough is fashionable and comfortable for all seasons."
 resource: https://baronboutique.com/james-bond-linen-suit-from-the-world-is-not-enough/
 tags: [men, suit, linen, tan, summer, james-bond, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # James Bond Linen Suit The World Is Not Enough
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Linen Fabric:** 18 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

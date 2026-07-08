@@ -4,7 +4,7 @@ title: "The Essential Navy Blazer"
 description: "Men's essential navy blazer fits on all occasions regardless of the job description. A Navy blue blazer is a great way to make any outfit for men look more formal as long as it is fitted properly to y…"
 resource: https://baronboutique.com/essential-navy-blazer/
 tags: [men, blazer, wool, navy, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Essential Navy Blazer
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Mohair Wool Fabric:** Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

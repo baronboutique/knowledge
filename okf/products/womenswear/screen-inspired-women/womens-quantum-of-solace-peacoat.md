@@ -4,7 +4,7 @@ title: "Womens Double Breasted Short Peacoat Quantum Of Solace"
 description: "Womens double-breasted short peacoat inspired from Quantum of Solace. The minified James Bond replica winter pea coat offers a timeless appeal with the classic style that works as a casual and essenti…"
 resource: https://baronboutique.com/womens-quantum-of-solace-peacoat/
 tags: [women, peacoat, wool-cashmere, double-breasted, james-bond, quantum-of-solace, spy-tailoring, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Womens Double Breasted Short Peacoat Quantum Of Solace
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Wool Cashmere Fabric:** Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

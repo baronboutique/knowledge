@@ -4,7 +4,7 @@ title: "6 Button Double Breasted Suit, Custom Made in Super 120s Wool"
 description: "Most double-breasted suits off the rack are either boxy legacy cuts from a different era or cheap modern versions with fused fronts that collapse after a few wears. Neither looks right."
 resource: https://baronboutique.com/mens-double-breasted-suit/
 tags: [men, suit, double-breasted, worsted-wool, wool, formalwear, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # 6 Button Double Breasted Suit, Custom Made in Super 120s Wool
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Worsted Wool Plain Fabric:** 8 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

@@ -4,7 +4,7 @@ title: "New Generation Line Navy Wool Pants"
 description: "Handmade navy wool dress pants perfectly tailored to customer's measurements. The new generation aims to stand out from a crowd with their unique clothing choices."
 resource: https://baronboutique.com/new-generation-navy-wool-pants/
 tags: [men, pants, dress-pants, wool, navy, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # New Generation Line Navy Wool Pants
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Sharkskin Wool Fabric:** 8 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

@@ -4,7 +4,7 @@ title: "Men's Black Suit in Super 130s Worsted Wool"
 description: "Black is the hardest color to wear in a suit that does not fit. There are no patterns, no texture, no detail to draw the eye away from a pulling chest or a sleeve that is half an inch too long."
 resource: https://baronboutique.com/mens-essential-black-suit/
 tags: [men, suit, wool, black, formalwear, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Men's Black Suit in Super 130s Worsted Wool
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Super 130s Wool Fabric:** 20 options available
-- **Acetate Lining:** 35 options available
+- **Lining Fabric:** 35 options available
 
 ## Summary
 

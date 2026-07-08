@@ -4,7 +4,7 @@ title: "Blue Linen Suit for Men, Made to Measure"
 description: "Powder blue and light blue linen are the benchmark palette for coastal and destination weddings in 2026."
 resource: https://baronboutique.com/linen-suits-for-men/
 tags: [men, suit, linen, summer, wedding, beach-wedding, breathable, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Blue Linen Suit for Men, Made to Measure
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Linen Fabric:** 18 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

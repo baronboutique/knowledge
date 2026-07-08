@@ -4,7 +4,7 @@ title: "Cary Grant North By Northwest Suit"
 description: "You've seen the suit. You know exactly which one. GQ called it the best suit in film history -- the grey glen plaid Cary Grant wears through every scene of North by Northwest."
 resource: https://baronboutique.com/cary-grants-north-by-northwest-suit/
 tags: [men, suit, glen-plaid, grey, wool, two-piece-suit, cary-grant, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Cary Grant North By Northwest Suit
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Glen Plaid Fabric:** 8310-1 Light Tan, 8310-2 Grey Check, 8310-3 Dark Grey, 8310-6 Navy, CAL-D1-7B Slate Blue, TC756101 Grey
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

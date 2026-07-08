@@ -4,7 +4,7 @@ title: "Joker Trench Coat Black Leather Dark Knight"
 description: "The Dark Knight Joker coat in full-grain leather -- for buyers who want the silhouette permanently, not just for one convention."
 resource: https://baronboutique.com/joker-coat-in-leather/
 tags: [men, coat, trench-coat, leather, purple, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Joker Trench Coat Black Leather Dark Knight
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Leather:** Black Lambskin, Dark Brown Lambskin, Cow Nappa Black
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

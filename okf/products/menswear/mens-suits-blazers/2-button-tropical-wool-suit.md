@@ -4,7 +4,7 @@ title: "Tropical Wool Suit"
 description: "Men's 2 buttons tropical wool suit to fulfill your business needs. If you live and work in climate-controlled environments these tropical wool suits are a year-round option."
 resource: https://baronboutique.com/2-button-tropical-wool-suit/
 tags: [men, suit, tropical-wool, wool, two-button, single-breasted, all-season, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Tropical Wool Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Tropical Wool Fabric:** 14 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

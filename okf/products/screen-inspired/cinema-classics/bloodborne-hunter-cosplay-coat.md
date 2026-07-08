@@ -4,7 +4,7 @@ title: "Hunter Coat Bloodborne Cosplay"
 description: "Bloodborne Hunter coat for cosplayers seeking a daring and inspirational look. With six-show buttons and a uniquely tailored wide lapel collar, the Hunter coat is for avid Bloodborne fans to enhance p…"
 resource: https://baronboutique.com/bloodborne-hunter-cosplay-coat/
 tags: [men, coat, long-coat, bloodborne, hunter-coat, victorian-style, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Hunter Coat Bloodborne Cosplay

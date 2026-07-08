@@ -4,7 +4,7 @@ title: "The High-Performance Mohair Suit"
 description: "This is the power suit engineered for the modern professional. Our Women's Mohair Suit is crafted from a high-performance mohair-wool blend, a fabric prized for its natural wrinkle resistance and subt…"
 resource: https://baronboutique.com/womens-mohair-wool-suit/
 tags: [women, suit, pant-suit, mohair-wool, wool, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The High-Performance Mohair Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Mohair Wool Fabric:** Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

@@ -4,7 +4,7 @@ title: "Asymmetrical Hem Zipper Dress"
 description: "Effortless sophistication, solved. With its chic asymmetrical hem and comfortable shift silhouette, this is the endlessly versatile dress that ensures you look polished and modern at any occasion, fro…"
 resource: https://baronboutique.com/womens-asymmetrical-shift-dress-in-sharksksin/
 tags: [women, dress, shift-dress, sharkskin-wool, asymmetrical, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Asymmetrical Hem Zipper Dress
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Sharkskin Wool Fabric:** 8 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

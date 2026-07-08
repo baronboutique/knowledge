@@ -4,7 +4,7 @@ title: "Grey Melange Dress Pants"
 description: "Gray melange dress pants for men are an icon of your confidence. It's the well-dressed alternative to a suit pant that pairs just as well with sweaters as it does with your best dress shirts."
 resource: https://baronboutique.com/gray-melange-dress-pants/
 tags: [men, pants, dress-pants, wool, gray, melange, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Grey Melange Dress Pants
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Tropical Wool Fabric:** 14 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

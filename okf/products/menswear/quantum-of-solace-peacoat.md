@@ -4,7 +4,7 @@ title: "Mens Fitted Peacoat Black Quantum Of Solace Ending"
 description: "Mens fitted peacoat in black made famous by James Bond. The minified replica coat from Quantum Of Solace ending scene mens black peacoat is known for its warmth and durability."
 resource: https://baronboutique.com/quantum-of-solace-peacoat/
 tags: [men, peacoat, wool, double-breasted, james-bond, quantum-of-solace, spy-tailoring, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Mens Fitted Peacoat Black Quantum Of Solace Ending
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Wool Cashmere Fabric:** Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
-- **Acetate Lining:** 25 options available
+- **Lining Fabric:** 25 options available
 
 ## Summary
 

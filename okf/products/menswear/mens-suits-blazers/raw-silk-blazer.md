@@ -4,7 +4,7 @@ title: "Raw Silk Blazer"
 description: "A trendsetting style preferred by many men is the custom-made raw silk blazer. Wearing our mens raw silk jacket ensures you look presentable on your everyday outing."
 resource: https://baronboutique.com/raw-silk-blazer/
 tags: [men, blazer, raw-silk, silk, summer, wedding, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Raw Silk Blazer
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Raw Silk Fabric:** 14 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

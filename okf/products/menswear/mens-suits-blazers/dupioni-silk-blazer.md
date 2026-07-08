@@ -4,7 +4,7 @@ title: "Mens Silk Blazer Dupioni Silk"
 description: "This easy-wearing mens silk blazer in 100% dupioni silk is one of our most popular among fashionable men. And, judging from your comments, there are a couple of reasons why."
 resource: https://baronboutique.com/dupioni-silk-blazer/
 tags: [men, blazer, dupioni-silk, silk, formalwear, wedding, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Mens Silk Blazer Dupioni Silk
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Dupioni Silk Fabric:** 22 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

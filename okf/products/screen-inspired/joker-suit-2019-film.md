@@ -4,7 +4,7 @@ title: "Joker Suit 2019 Replica | Arthur Fleck Bespoke Three-Piece"
 description: "Arthur Fleck’s iconic Joker suit from the unforgettable 2019 staircase scene, tailored in rich burgundy Melton wool with a striking gold waistcoat."
 resource: https://baronboutique.com/joker-suit-2019-film/
 tags: [men, three-piece-suit, waistcoat, melton-wool, burgundy, joker, arthur-fleck, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Joker Suit 2019 Replica | Arthur Fleck Bespoke Three-Piece
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Melton Wool Fabric:** 14 options available
-- **Acetate Lining:** 25 options available
+- **Lining Fabric:** 25 options available
 - **Vest Fabric:** 7 options available
 
 ## Summary

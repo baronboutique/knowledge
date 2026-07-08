@@ -4,7 +4,7 @@ title: "Never The Sinner Suit"
 description: "Indistinct 1920 style, Never The Sinner suit tailored in belted model with off-centered vent. A well-written play requires a well-made suit."
 resource: https://baronboutique.com/never-the-sinner-suit/
 tags: [men, suit, vintage-style, 1920s-style, wool, theatrical, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Never The Sinner Suit
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Tropical Wool Fabric:** 14 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

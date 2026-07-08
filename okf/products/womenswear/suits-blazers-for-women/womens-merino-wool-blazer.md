@@ -4,7 +4,7 @@ title: "The Sculpted Wool Blazer"
 description: "Crafted from fine merino wool, The Sculpted Wool Blazer is tailored to flatter the feminine form with precision darting and a contoured silhouette—no more boxy fit."
 resource: https://baronboutique.com/womens-merino-wool-blazer/
 tags: [women, blazer, merino-wool, wool, single-breasted, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Sculpted Wool Blazer
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Merino Wool Fabric:** 17 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

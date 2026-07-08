@@ -4,7 +4,7 @@ title: "Charcoal Grey Pinstripe Suit James Bond Skyfall"
 description: "We at Baron Boutique are committed to providing better quality custom-made suits for our customers. Taking inspiration from Skyfall, the charcoal grey pinstripe suit to cosplay James Bond for modern m…"
 resource: https://baronboutique.com/james-bond-charcoal-stripe-suit-from-skyfall/
 tags: [men, suit, charcoal, chalk-stripe, wool, james-bond, skyfall, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Charcoal Grey Pinstripe Suit James Bond Skyfall
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Serge Wool-fabric:** TC7000271-Grey, TC7000272-Navy, TC7000274-Charcoal, TC7000275-Black
-- **Acetate Lining:** 25 options available
+- **Lining Fabric:** 25 options available
 
 ## Summary
 

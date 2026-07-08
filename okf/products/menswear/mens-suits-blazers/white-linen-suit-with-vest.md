@@ -4,7 +4,7 @@ title: "White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors"
 description: "A white linen suit with vest is the most unforgiving three-piece combination you can wear. White hides nothing, linen amplifies every fit error, and three pieces must all fit the same body."
 resource: https://baronboutique.com/white-linen-suit-with-vest/
 tags: [men, suit, three-piece-suit, linen, white, vest, summer, wedding, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Linen Fabric:** 18 options available
-- **Acetate Lining:** 35 options available
+- **Lining Fabric:** 35 options available
 
 ## Summary
 

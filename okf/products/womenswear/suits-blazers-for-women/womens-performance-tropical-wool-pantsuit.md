@@ -4,7 +4,7 @@ title: "The Performance Tropical Wool Suit"
 description: "This is your armor for high-pressure days. The Performance Tropical Wool Suit is crafted from lightweight, breathable tropical wool to keep you looking sharp and feeling cool."
 resource: https://baronboutique.com/womens-performance-tropical-wool-pantsuit/
 tags: [women, suit, pant-suit, tropical-wool, wool, summer, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Performance Tropical Wool Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Tropical Wool Fabric:** 13 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

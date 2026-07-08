@@ -4,7 +4,7 @@ title: "Men's Charcoal Gray Pants"
 description: "Men's charcoal gray pants are truly a staple when it comes to dressing up for formal occasions. Great fit men's charcoal dress pants are very versatile and can be very freely matched with different sh…"
 resource: https://baronboutique.com/flat-front-charcoal-gray-pants/
 tags: [men, pants, dress-pants, wool, high-twist-wool, charcoal, flat-front, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Men's Charcoal Gray Pants
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **High Twist Wool Fabric:** 13 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

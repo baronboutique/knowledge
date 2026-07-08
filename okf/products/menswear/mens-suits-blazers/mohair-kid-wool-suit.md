@@ -4,7 +4,7 @@ title: "Mohair Wool Suit"
 description: "The mohair and wool suit is engineered for performance. The unique, spring-like structure of mohair fibers lends the cloth an exceptional crease resistance, ensuring you remain impeccably sharp from a…"
 resource: https://baronboutique.com/mohair-kid-wool-suit/
 tags: [men, suit, mohair-wool, wool, all-season, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Mohair Wool Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Mohair Wool Fabric:** Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

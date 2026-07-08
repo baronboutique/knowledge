@@ -4,7 +4,7 @@ title: "Women's Twelfth Doctor Black Velvet Frock Coat"
 description: "Embody the cosmic rock-star attitude of the Twelfth Doctor. Custom-tailored for a woman's form, this black velvet frock coat is a masterpiece of minimalist style, perfect for screen-accurate cosplay o…"
 resource: https://baronboutique.com/12th-doctor-black-velvet-frock-coat-for-women/
 tags: [women, frock-coat, velvet, black, doctor-who, twelfth-doctor, capaldi, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Women's Twelfth Doctor Black Velvet Frock Coat
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Velvet:** 10 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

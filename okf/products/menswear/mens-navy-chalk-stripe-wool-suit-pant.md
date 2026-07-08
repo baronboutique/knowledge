@@ -4,7 +4,7 @@ title: "Chalk Stripe Pants"
 description: "If you're looking for something you can wear constantly, a pair of men's chalk stripe pants are tough to beat."
 resource: https://baronboutique.com/mens-navy-chalk-stripe-wool-suit-pant/
 tags: [men, pants, dress-pants, wool, chalk-stripe, navy, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Chalk Stripe Pants
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Chalk Stripe Wool:** 9 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

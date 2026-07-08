@@ -4,7 +4,7 @@ title: "Dryden Vos Costume Solo: A Star Wars Story Cosplay"
 description: "Make your own sleek, sophisticated, and stylish look with our screen-accurate Dryden Vos costume. The custom-made Dryden Vos outfit is perfect for any Star Wars fan."
 resource: https://baronboutique.com/dryden-vos-costumes-solo/
 tags: [men, jacket, cape, dryden-vos, star-wars, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Dryden Vos Costume Solo: A Star Wars Story Cosplay
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Jacket and Cape Fabric:** 10 options available
-- **Acetate Lining:** 25 options available
+- **Lining Fabric:** 25 options available
 - **Pants Fabric:** 10 options available
 - **Crepe Silk Fabric:** 16 options available
 

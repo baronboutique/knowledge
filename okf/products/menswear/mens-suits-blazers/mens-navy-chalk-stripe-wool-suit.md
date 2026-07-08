@@ -4,7 +4,7 @@ title: "Navy Chalk Stripe Suit"
 description: "Not your ordinary navy chalk stripe suit. These mens chalk stripe suits are carefully constructed from year-round lightweight pure wool cloths for a refined yet effortless look for any occasion."
 resource: https://baronboutique.com/mens-navy-chalk-stripe-wool-suit/
 tags: [men, suit, wool, chalk-stripe, navy, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Navy Chalk Stripe Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Chalk Stripe Wool:** 9 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

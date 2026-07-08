@@ -4,7 +4,7 @@ title: "The Essential Straight-Leg Formal Trouser"
 description: "This is the answer to always being perfectly dressed. Our Women's Straight Leg Formal Pants combine the timeless authority of a menswear-inspired fit with the unmatched luxury of our signature merino …"
 resource: https://baronboutique.com/womens-menswear-inspired-pants/
 tags: [women, pants, menswear-inspired, wool, tailored-fit, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Essential Straight-Leg Formal Trouser
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **PTD Series Plain:** PTD-9100-1-Gray, PTD-9100-2-Charcoal, PTD-9100-3-Brown, PTD-9100-4-Petrol Blue, PTD-9100-6-Black, PTD-9101-2-Gray Micro Check
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

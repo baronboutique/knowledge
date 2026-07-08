@@ -4,7 +4,7 @@ title: "James Bond No Time To Die Beige Corduroy Suit"
 description: "Daniel Craig’s Bond unexpected weapon in his action-packaged film “No Time to Die”, Pinwale Corduroy Suit."
 resource: https://baronboutique.com/no-time-to-die-beige-corduroy-suit-james-bond/
 tags: [men, suit, corduroy, beige, james-bond, spy-tailoring, no-time-to-die, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # James Bond No Time To Die Beige Corduroy Suit
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Pinwale Corduroy Fabric:** Beige, Black, Blue, Charcoal, Chocolate Brown, Silver
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

@@ -4,7 +4,7 @@ title: "Sacha Dhawan Master Coat Doctor Series 12"
 description: "Inspired by the iconic look worn by Sacha Dhawan in Doctor's Series 12, this masterfully crafted coat is hand tailored from premium wool, offering a luxurious feel and authentic appearance."
 resource: https://baronboutique.com/sacha-dhawan-master-coat/
 tags: [men, coat, overcoat, wool, flannel, doctor-who, the-master, time-lord-coat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Sacha Dhawan Master Coat Doctor Series 12
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Flannel Wool Fabric:** 10 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

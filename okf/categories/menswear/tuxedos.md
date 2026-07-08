@@ -4,7 +4,7 @@ title: "Tuxedos"
 description: "Mens tuxedos for weddings, events, proms, & more. Customize your tuxedo with silk satin lapels. Individualized style tuxedo in navy, black, & more. Free ..."
 resource: https://baronboutique.com/menswear/tuxedos/
 tags: [men, tuxedo, black-tie, dinner-suit, wedding-tuxedo, prom-tuxedo, shawl-lapel, peak-lapel, custom-tuxedo, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Tuxedos

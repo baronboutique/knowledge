@@ -16,7 +16,7 @@ Screen-inspired garments are recreations based on screen references, not license
 ## AI Knowledge
 
 - [llms-full.txt](https://baronboutique.com/llms-full.txt): complete structured knowledge base — products with specifications and prices, FAQs, services, and policies
-- [OKF Knowledge Bundle](https://baronboutique.com/okf/index.md): full machine-readable knowledge graph in Open Knowledge Format — company, products, categories, services, guides, and policies, with relative links between every file
+- [OKF Knowledge Bundle](https://baronboutique.com/okf/index.md): full machine-readable knowledge graph in Open Knowledge Format — company, products, categories, services, guides, policies, and hand-authored workshop concepts and playbooks, with relative links between every file
 - [Knowledge Repository (GitHub)](https://github.com/baronboutique/knowledge): the complete OKF bundle mirrored and version-controlled on GitHub, synced automatically from this site
 
 ## Collections

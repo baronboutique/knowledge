@@ -4,7 +4,7 @@ title: "Off White Dinner Jacket"
 description: "Our off-white dinner jacket is beautifully tailored for an incredibly flattering shape. These men's dinner jacket is all about making a smart statement on occasions that call for something a bit speci…"
 resource: https://baronboutique.com/iconic-wool-dinner-jacket/
 tags: [men, dinner-jacket, tuxedo-jacket, wool, black-tie, formalwear, wedding, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Off White Dinner Jacket
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Iconic Wool Fabric:** 10 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

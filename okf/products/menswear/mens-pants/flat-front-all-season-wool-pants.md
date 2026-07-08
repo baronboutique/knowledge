@@ -4,7 +4,7 @@ title: "All Season Wool Dress Pants"
 description: "All season wool dress pants in a flat front styling have always been a staple of men’s fashion. Nicely tailored and partially lined 100% wool dress pants feel great against the skin and looks much sha…"
 resource: https://baronboutique.com/flat-front-all-season-wool-pants/
 tags: [men, pants, dress-pants, wool, flat-front, all-season, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # All Season Wool Dress Pants
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **PTD Series Plain:** PTD-9100-1-Gray, PTD-9100-2-Charcoal, PTD-9100-3-Brown, PTD-9100-4-Petrol Blue, PTD-9100-6-Black, PTD-9101-2-Gray Micro Check
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

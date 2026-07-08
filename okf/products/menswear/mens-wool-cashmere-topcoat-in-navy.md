@@ -4,7 +4,7 @@ title: "Navy Wool Cashmere Topcoat"
 description: "The touch of wool cashmere topcoat designed for the fashion conscious that reflects your personality. A navy wool cashmere topcoat that communicates empowerment and makes you feel completely at ease i…"
 resource: https://baronboutique.com/mens-wool-cashmere-topcoat-in-navy/
 tags: [men, topcoat, overcoat, wool-cashmere, navy, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Navy Wool Cashmere Topcoat
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Wool Cashmere Fabric:** Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
-- **Acetate Lining:** 21 options available
+- **Lining Fabric:** 21 options available
 
 ## Summary
 

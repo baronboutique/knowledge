@@ -4,7 +4,7 @@ title: "12th Doctor Navy Blue Velvet Coat Peter Capaldi Cosplay"
 description: "The thrill of being Peter Capaldi in this 12th Doctor navy blue velvet coat is a great way of self-expression for cosplayers. Step outside your everyday life and engage with your imagination."
 resource: https://baronboutique.com/12th-doctors-navy-velvet-coat-for-men/
 tags: [men, coat, velvet, navy, doctor-who, twelfth-doctor, capaldi, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # 12th Doctor Navy Blue Velvet Coat Peter Capaldi Cosplay
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Velvet:** 8 options available
-- **Acetate Lining:** 26 options available
+- **Lining Fabric:** 26 options available
 
 ## Summary
 

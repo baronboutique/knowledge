@@ -4,7 +4,7 @@ title: "The Vitale Barberis Canonico Pencil Skirt"
 description: "This is the end of the search for the perfect office skirt. Our Women's Office Pencil Skirt is an investment in your professional image, crafted from luxurious Super 160s' wool from the legendary Vita…"
 resource: https://baronboutique.com/womens-wool-breeze-skirt/
 tags: [women, skirt, wool, lightweight, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Vitale Barberis Canonico Pencil Skirt
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **vbc:** 7 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

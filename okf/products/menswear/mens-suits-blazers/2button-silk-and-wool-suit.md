@@ -4,7 +4,7 @@ title: "2 Button Silk and Wool Suit"
 description: "Well-made men's 2 button silk and wool suit in the quality fabric makes the perfect addition to your wardrobe."
 resource: https://baronboutique.com/2button-silk-and-wool-suit/
 tags: [men, suit, silk-wool, silk, wool, two-button, single-breasted, summer, wedding, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # 2 Button Silk and Wool Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Silk And Wool Blend:** 8 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

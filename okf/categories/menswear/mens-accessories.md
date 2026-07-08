@@ -4,7 +4,7 @@ title: "Accessories"
 description: "Buy mens handmade accessories neckties & pocket squares, shawls, & scarves, silks & cashmere online. Mens silk & cashmere accessories for all occasions."
 resource: https://baronboutique.com/menswear/mens-accessories/
 tags: [men, accessories, neckties, pocket-squares, scarves, shawls, silk, cashmere, handmade, heirloom]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Accessories

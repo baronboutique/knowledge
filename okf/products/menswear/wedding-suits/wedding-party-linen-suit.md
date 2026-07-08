@@ -4,7 +4,7 @@ title: "The Linen Ceremonial Suit"
 description: "Putting on a beautifully tailored linen wedding party suit elevates your spirit and helps to define you as a man to whom details matter."
 resource: https://baronboutique.com/wedding-party-linen-suit/
 tags: [men, suit, linen, summer, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Linen Ceremonial Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Linen Fabric:** 18 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

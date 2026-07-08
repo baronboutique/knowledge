@@ -4,7 +4,7 @@ title: "James Bond Casino Royale Suit 3 Piece Final Scene"
 description: "James Bond Casino Royale suit 3-piece crafted with the better material and hand-tailored to amplify your style."
 resource: https://baronboutique.com/james-bond-casino-royale-3pcs-pinstripe-suit/
 tags: [men, suit, three-piece-suit, pinstripe, wool, james-bond, casino-royale, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # James Bond Casino Royale Suit 3 Piece Final Scene
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Merino Wool Fabric:** 11 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

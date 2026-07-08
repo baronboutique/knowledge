@@ -4,7 +4,7 @@ title: "Our Services"
 description: "Explore our expert tailoring services of bespoke suits, made-to-order, CMT, prototype development, small-batch production, & alterations."
 resource: https://baronboutique.com/our-services/
 tags: [our-services, bespoke-tailoring, made-to-measure, cmt, prototype-development, small-batch-production, alterations, guide]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Our Services

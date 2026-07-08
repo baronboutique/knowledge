@@ -4,7 +4,7 @@ title: "The Cobalt Blue Statement Coat"
 description: "This is the antidote to a grey winter. The Cobalt Statement Coat features a stunning blue hue and a minimalist architectural collar for a powerfully chic look."
 resource: https://baronboutique.com/womens-cobalt-blue-wool-coat/
 tags: [women, coat, wool, cobalt-blue, statement, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Cobalt Blue Statement Coat
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Melton Wool Fabric:** 15 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

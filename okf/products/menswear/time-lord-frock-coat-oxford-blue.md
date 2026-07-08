@@ -4,7 +4,7 @@ title: "Time Lord Frock Coat (Oxford Blue)"
 description: "Channel timeless style with Baron Boutique’s Time Lord Frock Coat in Oxford Blue. Crafted from fine wool and tailored to perfection, it’s iconic, elegant, and uniquely yours."
 resource: https://baronboutique.com/time-lord-frock-coat-oxford-blue/
 tags: [men, coat, frock-coat, wool, oxford-blue, victorian-style, doctor-who, time-lord-coat, screen-inspired, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Time Lord Frock Coat (Oxford Blue)
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Tropical Wool Fabric:** 14 options available
-- **Acetate Lining:** 35 options available
+- **Lining Fabric:** 35 options available
 
 ## Summary
 

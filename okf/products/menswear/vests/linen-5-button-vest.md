@@ -4,7 +4,7 @@ title: "The Linen Waistcoat"
 description: "The definitive choice for a warm-weather ceremony or elegant resort wear. Tailored from pure, breathable linen, this waistcoat provides a layer of formal structure without the weight of a jacket."
 resource: https://baronboutique.com/linen-5-button-vest/
 tags: [men, vest, waistcoat, linen, summer, wedding, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Linen Waistcoat
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Linen Fabric:** 18 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

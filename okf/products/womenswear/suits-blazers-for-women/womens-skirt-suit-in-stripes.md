@@ -4,7 +4,7 @@ title: "Womens Skirt Suit"
 description: "This is the power suit, redefined for the modern woman. Our Women's Skirt Suit combines the authority of a sharp pinstripe with a flawless, custom-tailored fit, creating a look that is commanding, not…"
 resource: https://baronboutique.com/womens-skirt-suit-in-stripes/
 tags: [women, suit, skirt-suit, skirt, striped, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Womens Skirt Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **FLGV Stripes Fabric:** FLGV-5-3 Grey with medium chalk stripes, FLGV-5-4 Charcoal with medium chalk stripes, FLGV-5-5 Navy with medium chalk stripes, FLGV-5-6 Black with medium chalk stripes, FLGV-9-7 Black with medium dotted stripes
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

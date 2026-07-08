@@ -4,7 +4,7 @@ title: "Men's Navy Topcoat With Velvet Collar"
 description: "Men’s navy topcoat goes well with pretty much anything. It is a perfect velvet collar topcoat for layering over a jacket or sport coat, or just for throwing on over a shirt or sweater."
 resource: https://baronboutique.com/mens-navy-flannel-topcoat/
 tags: [men, topcoat, overcoat, flannel, wool, navy, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Men's Navy Topcoat With Velvet Collar
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Wool Cashmere Fabric:** Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 - **Collar Trim Fabric:** 15 options available
 
 ## Summary

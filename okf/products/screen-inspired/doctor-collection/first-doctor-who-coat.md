@@ -4,7 +4,7 @@ title: "1st Doctor Black Dress Coat"
 description: "Remarkable time traveler 1st Doctor black dress coat replica for enthusiastic cosplayers. The first incarnation Doctor black coat is custom-made with screen-accurate details."
 resource: https://baronboutique.com/first-doctor-who-coat/
 tags: [men, coat, frock-coat, gabardine-wool, wool, black, doctor-who, first-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # 1st Doctor Black Dress Coat
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Gabardine Wool Fabric:** 11 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

@@ -4,7 +4,7 @@ title: "13th Doctor Pants Men Jodie Whittaker Cosplay"
 description: "Meticulously tailored 13th Doctor pants for men are a great way to change your look. The male version of the Jodie Whittaker cosplay pants is the stylish and comfortable change for any man."
 resource: https://baronboutique.com/13th-doctor-pants-for-men/
 tags: [men, pants, mohair-wool, wool, cropped, doctor-who, thirteenth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # 13th Doctor Pants Men Jodie Whittaker Cosplay
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Mohair Wool Fabric:** Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

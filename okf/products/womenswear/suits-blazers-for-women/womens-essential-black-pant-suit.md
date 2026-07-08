@@ -4,7 +4,7 @@ title: "The Essential Black Pant Suit"
 description: "This is your wardrobe's 'master key.' The Essential Black Pant Suit is custom-tailored from a luxurious wool-cashmere blend for a flawless, powerful silhouette."
 resource: https://baronboutique.com/womens-essential-black-pant-suit/
 tags: [women, suit, pant-suit, wool-cashmere, wool, black, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Essential Black Pant Suit
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **PTD Series Plain:** PTD-9100-1-Gray, PTD-9100-2-Charcoal, PTD-9100-3-Brown, PTD-9100-4-Petrol Blue, PTD-9100-6-Black, PTD-9101-2-Gray Micro Check
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

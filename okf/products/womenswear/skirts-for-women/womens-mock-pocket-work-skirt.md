@@ -4,7 +4,7 @@ title: "The Pocketed Pencil Skirt"
 description: "This is the skirt that finally answers the question: \"Does it have pockets?\" Our Women's Knee-Length Skirt with Pockets is engineered with perfectly placed slanted pockets that provide utility without…"
 resource: https://baronboutique.com/womens-mock-pocket-work-skirt/
 tags: [women, skirt, pencil-skirt, mock-pockets, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Pocketed Pencil Skirt
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **vbc:** 7 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

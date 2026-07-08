@@ -4,7 +4,7 @@ title: "Navy Flannel Pants"
 description: "Navy flannel pants are designed for those who prefer an elegantly sober yet creative look. Baron Boutique's pants are characterized by unique and refined details, with high-level quality fabrics."
 resource: https://baronboutique.com/mens-navy-wool-flannel-suit-pant/
 tags: [men, pants, flannel, wool, navy, workwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Navy Flannel Pants
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Flannel Wool Fabric:** 10 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

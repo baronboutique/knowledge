@@ -4,7 +4,7 @@ title: "Tennant Brown and Blue Stripe Suit"
 description: "Our uncontested tenth Doctor brown and blue stripe suit is a favorite among cosplayers who strive for the Tennant look."
 resource: https://baronboutique.com/doctor-brown-with-blue-stripe-suit/
 tags: [men, suit, pinstripe, brown, doctor-who, tenth-doctor, tennant, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # Tennant Brown and Blue Stripe Suit
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **10th Doctor Who Fabrics:** 8 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

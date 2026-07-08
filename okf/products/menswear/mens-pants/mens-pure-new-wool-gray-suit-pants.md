@@ -4,7 +4,7 @@ title: "The Essential Grey Wool Dress Pants"
 description: "A wardrobe cornerstone, The Essential Grey Wool Dress Pants are custom-made for a perfect, comfortable fit."
 resource: https://baronboutique.com/mens-pure-new-wool-gray-suit-pants/
 tags: [men, pants, dress-pants, wool, gray, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # The Essential Grey Wool Dress Pants
@@ -19,7 +19,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **vbc:** 7 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

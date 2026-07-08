@@ -4,7 +4,7 @@ title: "James Bond Skyfall Grey Suit"
 description: "Add life to your look with a splash of styles with this James Bond Skyfall grey suit. This is the timeless James Bond grey suit with utmost confidence."
 resource: https://baronboutique.com/james-bond-gray-sharkskin-suit-skyfall/
 tags: [men, suit, sharkskin-wool, gray, two-tone, james-bond, skyfall, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-03T04:10:16Z
+timestamp: 2026-07-08T19:03:54Z
 ---
 
 # James Bond Skyfall Grey Suit
@@ -21,7 +21,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Sharkskin Wool Fabric:** 8 options available
-- **Acetate Lining:** 34 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 
