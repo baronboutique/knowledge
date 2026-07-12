@@ -4,7 +4,7 @@ title: "Brad Pitt Oceans 11 Suit"
 description: "Custom-made Brad Pitt Oceans 11 suit replica crafted from sharkskin wool. If you are a busy person, Brad Pitt's grey suit is a perfect choice."
 resource: https://baronboutique.com/rustys-suit-from-oceans-11/
 tags: [men, suit, retro-style, wool, rusty-ryan, oceans-eleven, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Brad Pitt Oceans 11 Suit
@@ -33,7 +33,7 @@ Capture the effortless cool of Rusty Ryan from Ocean's 11. This isn't just a sui
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Brad Pitt Oceans 11 suit, Rusty Ryan outfit, Vegas heist suit, retro camp collar suit, Rusty tan suit Oceans 11
+**Related terms:** Brad Pitt Oceans 11 suit, Rusty Ryan outfit, Vegas heist suit, retro camp collar suit
 
 ## Related
 

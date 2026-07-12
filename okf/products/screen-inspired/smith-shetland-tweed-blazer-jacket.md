@@ -4,7 +4,7 @@ title: "Smith Shetland Tweed Blazer, W. Bill 100% Pure New Wool"
 description: "Off-the-rack tweed blazers come in three sizes, none of them yours, and most are not even real Shetland wool. We fix both."
 resource: https://baronboutique.com/smith-shetland-tweed-blazer-jacket/
 tags: [men, blazer, jacket, tweed, wool, doctor-who, eleventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Smith Shetland Tweed Blazer, W. Bill 100% Pure New Wool

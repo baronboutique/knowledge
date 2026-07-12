@@ -4,7 +4,7 @@ title: "Doctor Collection"
 description: "Tailored Across Time The Doctors have always dressed with purpose. Our Doctor inspired collection brings that same intention to your wardrobe, with every piece custom-made and hand-tailored to your exact measurements. From Tennant's timeless pinstripe suit to Capaldi's commanding velvet frock coat, each garment is crafted with the detail and care it deserves. And to make sure it fits you perfectly, we send a complimentary test garment to your home before we begin the final piece."
 resource: https://baronboutique.com/screen-inspired/doctor-collection/
 tags: [doctor-who, time-lord, capaldi, tennant, tom-baker, frock-coat, sci-fi-tailoring, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Doctor Collection
@@ -41,7 +41,7 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Tennant Blue and Red Stripe Suit](../../products/screen-inspired/doctor-collection/tennant-blue-red-stripe-suit.md)
 - [Tennant Brown and Blue Stripe Suit](../../products/screen-inspired/doctor-collection/doctor-brown-with-blue-stripe-suit.md)
 
-**Related terms:** Doctor Who coats, Time Lord costume, Capaldi coat, Tennant suit, 4th Doctor coat, Doctor Who cosplay clothing, doctor who jacket
+**Related terms:** Doctor Who coats, Time Lord costume, Capaldi coat, Tennant suit, 4th Doctor coat, Doctor Who cosplay clothing
 
 ## Related
 

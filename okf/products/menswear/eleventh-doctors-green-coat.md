@@ -4,7 +4,7 @@ title: "Eleventh Doctor Inspired Green Frock Coat"
 description: "Capture the iconic style of the Eleventh Doctor with this meticulously tailored green trench coat. Hand-constructed to your measurements and falling just below the knee, this double-breasted coat isn'…"
 resource: https://baronboutique.com/eleventh-doctors-green-coat/
 tags: [men, coat, trench-coat, cotton, green, doctor-who, eleventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Eleventh Doctor Inspired Green Frock Coat

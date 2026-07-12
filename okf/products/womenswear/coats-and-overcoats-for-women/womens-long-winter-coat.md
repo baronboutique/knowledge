@@ -4,7 +4,7 @@ title: "Womens Tailored Fitted Coat"
 description: "With our free test garment womens tailored fitted coat has never been this perfect. Available in 10 different colors including blue, burgundy, red, black, charcoal, dark grey, grey, chocolate brown, c…"
 resource: https://baronboutique.com/womens-long-winter-coat/
 tags: [women, coat, long-coat, flannel, wool, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Womens Tailored Fitted Coat

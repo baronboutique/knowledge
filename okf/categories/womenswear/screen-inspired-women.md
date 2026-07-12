@@ -4,7 +4,7 @@ title: "Screen Inspired"
 description: "Screen Inspired — For Her Cinema's most compelling silhouettes, recut for the modern woman. From sharp Edwardian cuts to floor-length statement coats, every piece in this collection draws from the garments that defined iconic moments on screen. Structured. Precise. Unapologetically bold. Each garment is bespoke, constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made."
 resource: https://baronboutique.com/womenswear/screen-inspired-women/
 tags: [women, screen-inspired, movie-replica, cosplay, doctor-who, matrix, james-bond, film-costume, replica, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Screen Inspired
@@ -16,7 +16,6 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 ## Products
 
 - [Black Wizard Robe Womens Percival Graves Fantastic Beasts Cosplay](../../products/womenswear/screen-inspired-women/percival-graves-black-coat-for-women.md)
-- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../products/womenswear/destination-wedding-suit.md)
 - [The 7th Doctor's Utility Jacket](../../products/womenswear/screen-inspired-women/7th-doctor-jacket-for-women.md)
 - [Thirteenth Doctor Teal Wool Pants](../../products/womenswear/pants-for-women/13th-doctor-pants.md)
 - [Women's 12th Doctor Burgundy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctor-burgundy-velvet-coat-for-women.md)

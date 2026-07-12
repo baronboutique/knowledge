@@ -4,7 +4,7 @@ title: "Shirt Fit Guide"
 description: "Find your perfect shirt fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for you."
 resource: https://baronboutique.com/mens-shirt-fit-guide/
 tags: [men, shirt, fit-guide, sizing, collar-size, sleeve-length, made-to-measure, guide]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Shirt Fit Guide

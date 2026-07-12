@@ -4,7 +4,7 @@ title: "Spy Tailoring"
 description: "Spy Tailoring A suit is the foundation of spy dressing. The silhouettes that defined Bond, Bourne, and the golden age of screen espionage were built on precision tailoring. Every suit, coat, and jacket in this collection draws from that tradition—sharper, leaner, and custom-made to your exact measurements. The lines are precise. The fabrics are uncompromising. Our complimentary test garment process ensures the fit is perfected before a single piece of cloth is cut for your final garment."
 resource: https://baronboutique.com/screen-inspired/spy-tailoring/
 tags: [james-bond, spy-tailoring, skyfall, spectre, casino-royale, suits, peacoat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Spy Tailoring
@@ -69,12 +69,12 @@ Try on the test garment and note anything that needs adjusting — jacket length
 
 ## Products
 
-- [Charcoal Grey Pinstripe Suit James Bond Skyfall](../../products/screen-inspired/spy-tailoring/james-bond-charcoal-stripe-suit-from-skyfall.md)
+- [Charcoal Grey Pinstripe Suit James Bond Skyfall](../../products/menswear/destination-wedding-suits/james-bond-charcoal-stripe-suit-from-skyfall.md)
 - [James Bond Casino Royale Suit 3 Piece Final Scene](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
-- [James Bond Linen Suit The World Is Not Enough](../../products/screen-inspired/spy-tailoring/james-bond-linen-suit-from-the-world-is-not-enough.md)
+- [James Bond Linen Suit The World Is Not Enough](../../products/menswear/grooms-linen-suits-for-wedding/james-bond-linen-suit-from-the-world-is-not-enough.md)
 - [James Bond Morocco Matchless Suede Jacket Spectre](../../products/screen-inspired/spy-tailoring/james-bond-matchless-suede-jacket-from-spectre.md)
 - [James Bond Navy Blue Coat Spectre](../../products/menswear/navy-bond-coat-spectre.md)
-- [James Bond No Time To Die Beige Corduroy Suit](../../products/screen-inspired/spy-tailoring/no-time-to-die-beige-corduroy-suit-james-bond.md)
+- [James Bond No Time To Die Beige Corduroy Suit](../../products/menswear/destination-wedding-suits/no-time-to-die-beige-corduroy-suit-james-bond.md)
 - [James Bond Skyfall Grey Suit](../../products/screen-inspired/spy-tailoring/james-bond-gray-sharkskin-suit-skyfall.md)
 - [James Bond Skyfall Peacoat](../../products/screen-inspired/spy-tailoring/james-bond-navy-peacoat-from-skyfall.md)
 - [Mens Fitted Peacoat Black Quantum Of Solace Ending](../../products/menswear/quantum-of-solace-peacoat.md)

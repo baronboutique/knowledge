@@ -4,7 +4,7 @@ title: "Glen Plaid Cashmere Scarf – Tan & White Houndstooth Weave"
 description: "Handwoven on Himalayan looms from 100% Grade A cashmere, this glen plaid scarf blends Scottish weaving tradition with artisanal heritage."
 resource: https://baronboutique.com/glen-plaid-cashmere-scarf-tan-white-houndstooth/
 tags: [women, cashmere, scarf, wrap, glen-plaid, houndstooth, tan, handwoven, handmade, heirloom]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Glen Plaid Cashmere Scarf – Tan & White Houndstooth Weave

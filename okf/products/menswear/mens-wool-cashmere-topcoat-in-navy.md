@@ -4,7 +4,7 @@ title: "Navy Wool Cashmere Topcoat"
 description: "The touch of wool cashmere topcoat designed for the fashion conscious that reflects your personality. A navy wool cashmere topcoat that communicates empowerment and makes you feel completely at ease i…"
 resource: https://baronboutique.com/mens-wool-cashmere-topcoat-in-navy/
 tags: [men, topcoat, overcoat, wool-cashmere, navy, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Navy Wool Cashmere Topcoat

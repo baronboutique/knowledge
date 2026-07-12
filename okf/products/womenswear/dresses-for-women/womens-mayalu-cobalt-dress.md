@@ -4,7 +4,7 @@ title: "The Tailored Mini Dress"
 description: "This is the secret to instant confidence. The Tailored Mini Dress delivers a universally flattering shift cut that looks incredible on every figure."
 resource: https://baronboutique.com/womens-mayalu-cobalt-dress/
 tags: [women, dress, cobalt-blue, wool, statement, workwear, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # The Tailored Mini Dress

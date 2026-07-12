@@ -4,7 +4,7 @@ title: "Handwoven Salmon Pink Cashmere Scarf Shawl"
 description: "Whisper of the Himalayas: Your New Favorite Cashmere Scarf Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/handwoven-salmon-pink-cashmere-scarf-shawl/
 tags: [women, cashmere, scarf, shawl, wrap, handwoven, salmon-pink, handmade, heirloom]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Handwoven Salmon Pink Cashmere Scarf Shawl

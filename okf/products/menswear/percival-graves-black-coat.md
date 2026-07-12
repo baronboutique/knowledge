@@ -4,7 +4,7 @@ title: "Fantastic Beasts Percival Graves Black Coat"
 description: "Every Graves coat online is a costume set, cotton, polyester, a size chart, and a shawl collar that approximates the shape. This is the coat."
 resource: https://baronboutique.com/percival-graves-black-coat/
 tags: [men, coat, overcoat, tropical-wool, wool, black, percival-graves, fantastic-beasts, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Fantastic Beasts Percival Graves Black Coat
@@ -96,6 +96,7 @@ The Graves Coat vs. Everything Else
 
 ## Categories
 
+- Men › Wedding Suits › Destination Wedding Suits
 - Men › Coats & Overcoats
 - Screen Inspired › Cinema Classics
 

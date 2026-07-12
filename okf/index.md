@@ -4,7 +4,7 @@ title: Baron Boutique Knowledge Bundle
 description: "Open Knowledge Format bundle for Baron Boutique — a bespoke luxury tailoring house founded in Kathmandu, Nepal in 2000, specializing in custom garments, screen-inspired fashion, and handcrafted cashmere products for men and women worldwide."
 resource: https://baronboutique.com/
 tags: [baron-boutique, bespoke-tailoring, luxury-fashion, cashmere, screen-inspired, kathmandu, nepal]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Baron Boutique Knowledge Bundle
@@ -13,7 +13,7 @@ An [Open Knowledge Format (OKF)](https://github.com/GoogleCloudPlatform/knowledg
 
 This bundle is intended for AI agents, answer engines, and retrieval systems. It is machine-readable and human-readable. All facts are sourced from verified public information on [baronboutique.com](https://baronboutique.com).
 
-**Total files:** 399
+**Total files:** 401
 
 ## Company
 

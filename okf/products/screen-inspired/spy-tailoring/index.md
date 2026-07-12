@@ -4,7 +4,7 @@ title: "Spy Tailoring"
 description: "Spy Tailoring A suit is the foundation of spy dressing. The silhouettes that defined Bond, Bourne, and the golden age of screen espionage were built on precision tailoring. Every suit, coat, and jacket in this collection draws from that tradition—sharper, leaner, and custom-made to your exact measurements. The lines are precise. The fabrics are uncompromising. Our complimentary test garment process ensures the fit is perfected before a single piece of cloth is cut for your final garment."
 resource: https://baronboutique.com/screen-inspired/spy-tailoring/
 tags: [james-bond, spy-tailoring, skyfall, spectre, casino-royale, suits, peacoat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Spy Tailoring
@@ -13,7 +13,7 @@ Spy Tailoring A suit is the foundation of spy dressing. The silhouettes that def
 
 **Licensing note:** These garments are inspired by screen productions and are NOT officially licensed unless explicitly stated on the individual product page.
 
-All 7 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 4 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 James Bond Suits & Spy-Inspired Tailoring — Bespoke, Made to Your Exact Measurements
 The difference between a Bond suit and a Bond costume comes down to one thing: whether it was built for you. This collection covers ten pieces drawn from the most tailoring-forward spy films ever made — James Bond across six films, Daniel Craig across four, Pierce Brosnan, and a Tom Cruise entry for good measure. Casino Royale, Skyfall, Spectre, No Time to Die, The World Is Not Enough, Dr. No. Suits, coats, jackets, and a corduroy that caused genuine debate when it appeared on screen. Every piece is cut to your exact measurements with fabric chosen to match the weight, drape, and character of the original.
@@ -69,10 +69,7 @@ Try on the test garment and note anything that needs adjusting — jacket length
 
 ## Products
 
-- [Charcoal Grey Pinstripe Suit James Bond Skyfall](james-bond-charcoal-stripe-suit-from-skyfall.md)
-- [James Bond Linen Suit The World Is Not Enough](james-bond-linen-suit-from-the-world-is-not-enough.md)
 - [James Bond Morocco Matchless Suede Jacket Spectre](james-bond-matchless-suede-jacket-from-spectre.md)
-- [James Bond No Time To Die Beige Corduroy Suit](no-time-to-die-beige-corduroy-suit-james-bond.md)
 - [James Bond Skyfall Grey Suit](james-bond-gray-sharkskin-suit-skyfall.md)
 - [James Bond Skyfall Peacoat](james-bond-navy-peacoat-from-skyfall.md)
 - [Silk Nehru Jacket James Bond Dr. No](dr-no-silk-jacket.md)

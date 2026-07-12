@@ -4,7 +4,7 @@ title: "Count Dooku Cape and Tunic Star Wars"
 description: "Embody the measured elegance and formidable power of a Sith Lord. This is the definitive, screen-accurate replica of Count Dooku's attire, meticulously custom-tailored to be a masterpiece of cosplay c…"
 resource: https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/
 tags: [men, cape, tunic, count-dooku, star-wars, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Count Dooku Cape and Tunic Star Wars
@@ -35,7 +35,7 @@ Embody the Legend: A Customer's Final Result This isn't a studio shot. This is a
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Count Dooku costume, Star Wars Sith cape, Christopher Lee outfit, Jedi tunic and cape, Count Dooku cosplay, Count Dooku cape, Count Dooku outfit
+**Related terms:** Count Dooku costume, Star Wars Sith cape, Christopher Lee outfit, Jedi tunic and cape
 
 ## Related
 

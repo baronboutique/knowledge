@@ -4,7 +4,7 @@ title: "The Raw Silk Shirt"
 description: "Buying beautiful raw silk shirts that you'll want to wear forever will always make you feel better about the world."
 resource: https://baronboutique.com/mens-gold-raw-silk-shirt/
 tags: [men, shirt, dress-shirt, raw-silk, silk, gold, wedding, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # The Raw Silk Shirt

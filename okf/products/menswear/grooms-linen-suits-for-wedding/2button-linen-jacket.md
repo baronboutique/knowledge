@@ -4,7 +4,7 @@ title: "Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors"
 description: "Most linen jackets are designed for display, not for the body that wears them. Linen makes that difference impossible to hide because its beauty lies entirely in the fit and drape."
 resource: https://baronboutique.com/2button-linen-jacket/
 tags: [men, blazer, jacket, linen, two-button, summer, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors
@@ -103,14 +103,15 @@ Full Specifications
 
 ## Categories
 
+- Men › Wedding Suits › Linen Wedding Suits
 - Men › Suits & Blazers
 
-**Related terms:** unstructured linen blazer, summer sport coat, beach wedding jacket, men's unlined linen jacket
+**Related terms:** unstructured linen blazer, summer sport coat, beach wedding jacket
 
 ## Related
 
-- [Suits & Blazers Category](../../../categories/menswear/mens-suits-blazers.md)
-- [Suits & Blazers Products](index.md)
+- [Linen Wedding Suits Category](../../../categories/menswear/grooms-linen-suits-for-wedding.md)
+- [Linen Wedding Suits Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)

@@ -4,7 +4,7 @@ title: "Men's Silk Suit, Custom Made in 100% Dupioni Silk"
 description: "Men's silk suits off the rack almost never fit, and cheap ones don't even look like silk. We fix both."
 resource: https://baronboutique.com/mens-silk-suit-in-dupioni-silk/
 tags: [men, suit, silk-suit, dupioni-silk, silk, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Men's Silk Suit, Custom Made in 100% Dupioni Silk
@@ -29,7 +29,7 @@ A silk suit that actually fits you
 Off-the-rack silk suits come in a handful of sizes, and none of them are your body. Close-enough in the shoulders usually means wrong everywhere else. Cheaper silk suits are worse, because a silk suit that doesn't drape right looks worse than a wool one that doesn't drape right. Every suit on this page is made to your measurements. Not small, medium, large. Yours. Before we cut a single meter of silk, we send you a free test suit in cotton to try on at home. You confirm the fit. Then we make your silk suit.
 
 The test suit: our answer to "what if it doesn't fit when it arrives"
-This is the part most tailors don't do and most customers don't believe until it arrives. Before we cut into silk, we make you a cotton version of your suit to the measurements you send us, and we ship it to your door. You try it on at home. If anything needs adjusting, you tell us. Once the fit is right, we make your silk suit to the corrected pattern. The test suit is yours to keep.
+This is the part most tailors don't do, and most customers don't believe until it arrives. Before we cut into silk, we make you a cotton version of your suit to the measurements you send us, and we ship it to your door. You try it on at home. If anything needs adjusting, you tell us. Once the fit is right, we make your silk suit to the corrected pattern. The test suit is yours to keep.
 
 100% pure dupioni silk in 22 colors
 The fabric is 100% dupioni silk. It has a soft natural luster rather than a shiny polyester sheen, which is how you can tell a real silk suit from a cheap one across a room. Available in 22 colors including black, ivory, navy, burgundy, bottle green, royal gold and silver. Lining is acetate, available in 30+ colors, so you can go as bold as you like inside.
@@ -112,7 +112,7 @@ Three realistic options for someone shopping for a silk suit online. Here is how
 
 - Men › Suits & Blazers
 
-**Related terms:** silk wedding suit for men, raw silk suit, dupioni suit, shantung suit, groom silk suit, mens silk suit, silk suit mens, silk suits for men
+**Related terms:** silk wedding suit for men, raw silk suit, dupioni suit, shantung suit, groom silk suit
 
 ## Related
 

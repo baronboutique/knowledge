@@ -4,7 +4,7 @@ title: "The Victorian Winter Frock Coat"
 description: "This is the antidote to the sea of boring winter coats. Hand-tailored from luxurious Super 120s burgundy wool flannel and fully lined in rich burgundy red acetate, our Victorian Winter Frock Coat uses…"
 resource: https://baronboutique.com/womens-victorian-winter-frock-coat/
 tags: [women, coat, frock-coat, wool, flannel, burgundy, victorian-style, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # The Victorian Winter Frock Coat

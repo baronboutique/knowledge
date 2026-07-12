@@ -2,7 +2,7 @@
 type: Index
 title: "Products"
 description: "All Baron Boutique product categories and products in Open Knowledge Format."
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Baron Boutique Products
@@ -63,12 +63,14 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Two Face Silk Neckties Handmade](menswear/two-face-silk-neckties-handmade.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 - [Western Frock Coat in Wool, Made to Measure](menswear/mens-frock-coat.md)
-- [Suits & Blazers](menswear/mens-suits-blazers/index.md) — 29 products
+- [Suits & Blazers](menswear/mens-suits-blazers/index.md) — 26 products
 - [Frock Coats](menswear/frock-coats-for-men/index.md) — 3 products
 - [Coats & Overcoats](menswear/mens-coats-and-overcoats/index.md) — 7 products
 - [Tuxedos](menswear/tuxedos/index.md) — 6 products
-- [Wedding Suits](menswear/wedding-suits/index.md) — 4 products
+- [Linen Wedding Suits](menswear/grooms-linen-suits-for-wedding/index.md) — 7 products
+- [Destination Wedding Suits](menswear/destination-wedding-suits/index.md) — 4 products
 - [Shirts](menswear/shirts/index.md) — 9 products
+- [Wedding Suits](menswear/wedding-suits/index.md) — 1 products
 - [Vests](menswear/vests/index.md) — 2 products
 
 ## [Screen Inspired](screen-inspired/index.md)
@@ -87,10 +89,10 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Newt Inspired British Herringbone Tweed Coat](screen-inspired/newt-inspired-herringbone-tweed-coat.md)
 - [Sacha Dhawan Master Coat Doctor Series 12](screen-inspired/sacha-dhawan-master-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](screen-inspired/smith-shetland-tweed-blazer-jacket.md)
-- [Cinema Classics](screen-inspired/cinema-classics/index.md) — 12 products
-- [Spy Tailoring](screen-inspired/spy-tailoring/index.md) — 7 products
+- [Cinema Classics](screen-inspired/cinema-classics/index.md) — 11 products
+- [Spy Tailoring](screen-inspired/spy-tailoring/index.md) — 4 products
 - [Victorian Detective](screen-inspired/victorian-detective/index.md) — 1 products
-- [Cyberpunk Trench Coats](screen-inspired/cyberpunk-trench-coats/index.md) — 6 products
+- [Cyberpunk Trench Coats](screen-inspired/cyberpunk-trench-coats/index.md) — 5 products
 
 ## [Scarves](handmade-cashmere-collection/index.md)
 

@@ -2,7 +2,7 @@
 type: Index
 title: "Screen Inspired"
 description: "Screen Legends, Tailored for Real Life The most memorable characters are remembered by what they wore. Our Screen Inspired collection recreates those wardrobes. The Doctor's frock coats, Neo's trench, spy suits, Victorian detectives, and theatrical villains. Each piece custom-made and hand-tailored to your exact measurements, never a generic costume."
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Screen Inspired
@@ -25,10 +25,10 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Newt Inspired British Herringbone Tweed Coat](newt-inspired-herringbone-tweed-coat.md)
 - [Sacha Dhawan Master Coat Doctor Series 12](sacha-dhawan-master-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](smith-shetland-tweed-blazer-jacket.md)
-- [Cinema Classics](cinema-classics/index.md) — 12 products
-- [Spy Tailoring](spy-tailoring/index.md) — 7 products
+- [Cinema Classics](cinema-classics/index.md) — 11 products
+- [Spy Tailoring](spy-tailoring/index.md) — 4 products
 - [Victorian Detective](victorian-detective/index.md) — 1 products
-- [Cyberpunk Trench Coats](cyberpunk-trench-coats/index.md) — 6 products
+- [Cyberpunk Trench Coats](cyberpunk-trench-coats/index.md) — 5 products
 
 ## Related
 

@@ -4,7 +4,7 @@ title: "The Modern Bride's Wedding Suit"
 description: "For the bride who walks her own aisle, this is the answer. Our Women's Tan Wedding Suit is for the woman who knows that true bridal style is about feeling like yourself."
 resource: https://baronboutique.com/womens-tan-wedding-suit/
 tags: [women, suit, pant-suit, tropical-wool, wool, tan, wedding, bridal-suit, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # The Modern Bride's Wedding Suit

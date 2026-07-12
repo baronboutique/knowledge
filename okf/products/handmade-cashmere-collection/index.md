@@ -2,7 +2,7 @@
 type: Index
 title: "Scarves"
 description: "Handmade Cashmere Scarves, Sweaters & Shawls Discover our collection of handmade cashmere scarves, sweaters, and shawls, all crafted from 100% pure cashmere sustainably sourced from the Tibetan Plateau. They offer the same luxury and attention to detail as our bespoke clothing, perfectly complementing your tailored outfits with a touch of Himalayan heritage."
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Scarves

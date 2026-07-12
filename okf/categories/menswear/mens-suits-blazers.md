@@ -4,7 +4,7 @@ title: "Suits & Blazers"
 description: "Bespoke Suits & Blazers, Cut for You From sharp two-piece business suits to three-piece statement tailoring and unstructured blazers, every jacket is made to order and hand-tailored to your exact measurements — never altered off a rack. Choose your cloth and lining, and we send a complimentary test garment before cutting the final fabric, so the fit is approved first. Collector-quality canvas construction."
 resource: https://baronboutique.com/menswear/mens-suits-blazers/
 tags: [men, suits, blazers, two-piece-suit, three-piece-suit, sport-coat, business-suit, wedding-suit, custom-suit, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Suits & Blazers
@@ -21,22 +21,22 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [A Hard Day’s Night Beatles Jacket Replica](../../products/menswear/beatles-hard-days-night-jacket-replica.md)
 - [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
 - [Black Velvet Shawl Collar Tuxedo Jacket](../../products/menswear/dinner-jackets/slim-fit-black-velvet-jacket.md)
-- [Blue Linen Suit for Men, Made to Measure](../../products/menswear/wedding-suits/linen-suits-for-men.md)
+- [Blue Linen Suit for Men, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
 - [Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels](../../products/menswear/dinner-jackets/slim-fit-burgundy-velvet-jacket.md)
 - [Cary Grant North By Northwest Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
-- [Cotton Linen Blazer Mens Patch Pocket Jacket](../../products/menswear/mens-suits-blazers/linen-blazer-with-patch-pocket-details.md)
+- [Cotton Linen Blazer Mens Patch Pocket Jacket](../../products/menswear/grooms-linen-suits-for-wedding/linen-blazer-with-patch-pocket-details.md)
 - [Custom Dinner Jacket](../../products/menswear/tuxedos/stylish-dinner-jacket.md)
 - [Grey Pinstripe Suit](../../products/menswear/mens-suits-blazers/gray-pinstripe-suit.md)
 - [Grey Tropical Wool Suit](../../products/menswear/mens-suits-blazers/mens-gray-tropical-wool-suit.md)
 - [James Bond Casino Royale Suit 3 Piece Final Scene](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
-- [Linen Wedding Suit for Grooms, Made to Measure](../../products/menswear/wedding-suits/grooms-linen-suit-for-wedding.md)
+- [Linen Wedding Suit for Grooms, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
 - [Men's Black Suit in Super 130s Worsted Wool](../../products/menswear/mens-suits-blazers/mens-essential-black-suit.md)
 - [Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front](../../products/menswear/dinner-jackets/slim-fit-blue-velvet-jacket.md)
 - [Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere](../../products/menswear/mens-suits-blazers/merino-wool-cashmere-three-season-chalk-stripes-suit.md)
 - [Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels](../../products/menswear/tuxedos/mens-navy-herringbone-wool-tuxedo.md)
 - [Men's Pure New Wool Suit, Custom Made in Super 160s VBC Wool](../../products/menswear/mens-suits-blazers/pure-new-wool-suit-in-year-round-hues.md)
 - [Men's Silk Suit, Custom Made in 100% Dupioni Silk](../../products/menswear/mens-suits-blazers/mens-silk-suit-in-dupioni-silk.md)
-- [Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors](../../products/menswear/mens-suits-blazers/2button-linen-jacket.md)
+- [Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors](../../products/menswear/grooms-linen-suits-for-wedding/2button-linen-jacket.md)
 - [Mens Burgundy Flannel Tuxedo](../../products/menswear/tuxedos/light-weight-all-season-wool-flannel-tuxedo-suit.md)
 - [Mens Silk Blazer Dupioni Silk](../../products/menswear/mens-suits-blazers/dupioni-silk-blazer.md)
 - [Mens Velvet Smoking Jacket Burgundy Frogging Button](../../products/menswear/dinner-jackets/mens-velvet-smoking-jacket.md)
@@ -57,7 +57,7 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [The Dark Grey Three-Piece Suit](../../products/menswear/mens-suits-blazers/100-percent-wool-suit-for-all-season.md)
 - [The Essential Navy Blazer](../../products/menswear/mens-suits-blazers/essential-navy-blazer.md)
 - [The Grey Flannel Suit](../../products/menswear/mens-suits-blazers/iconic-hollywood-gray-flannel-suit.md)
-- [The Linen Ceremonial Suit](../../products/menswear/wedding-suits/wedding-party-linen-suit.md)
+- [The Linen Ceremonial Suit](../../products/menswear/grooms-linen-suits-for-wedding/wedding-party-linen-suit.md)
 - [The Navy Pinstripe Three-Piece Suit](../../products/menswear/mens-suits-blazers/3pcs-navy-pinstripe-suit.md)
 - [The Peak Lapel Tuxedo](../../products/menswear/tuxedos/mens-navy-wool-tuxedo.md)
 - [The Pink Wool Blazer](../../products/menswear/mens-suits-blazers/pink-melange-blazer.md)
@@ -66,9 +66,9 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Tropical Wool Suit](../../products/menswear/mens-suits-blazers/2-button-tropical-wool-suit.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 - [Vintage Sharkskin Suit](../../products/menswear/mens-suits-blazers/versatile-all-purpose-suit-in-vintage-sharkskin.md)
-- [White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors](../../products/menswear/mens-suits-blazers/white-linen-suit-with-vest.md)
+- [White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors](../../products/menswear/grooms-linen-suits-for-wedding/white-linen-suit-with-vest.md)
 
-**Related terms:** custom suits for men, made to measure suit online, tailor made blazer, men's suit shop online, bespoke business suits, silk suits for men
+**Related terms:** custom suits for men, made to measure suit online, tailor made blazer, men's suit shop online, bespoke business suits
 
 ## Related
 

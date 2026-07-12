@@ -4,7 +4,7 @@ title: "5th Doctor Cosplay Beige Frock Coat"
 description: "Our 5th Doctor cosplay beige frock coat is tailored with consistent quality. The top-class 5th Doctor cosplay costume outfit with immense details to its superb tailoring."
 resource: https://baronboutique.com/5th-doctor-red-piping-frock-coat/
 tags: [men, frock-coat, tropical-wool, wool, cream, red-piping, doctor-who, fifth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # 5th Doctor Cosplay Beige Frock Coat

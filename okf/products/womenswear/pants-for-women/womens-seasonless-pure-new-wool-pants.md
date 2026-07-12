@@ -4,7 +4,7 @@ title: "The Essential Wool Dress Trouser"
 description: "This is your new wardrobe workhorse, redefined with luxury. We've elevated our classic Women's Work Dress Pants with a premium, seasonless wool , giving them a subtle luster and an incredibly soft fee…"
 resource: https://baronboutique.com/womens-seasonless-pure-new-wool-pants/
 tags: [women, pants, pure-new-wool, wool, seasonless, workwear, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # The Essential Wool Dress Trouser

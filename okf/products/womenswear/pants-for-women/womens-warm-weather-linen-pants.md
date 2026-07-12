@@ -4,7 +4,7 @@ title: "The Custom Straight-Leg Linen Pant"
 description: "This is how you master the art of looking both relaxed and impeccably chic. Our Women's Straight Leg Pants are designed with more room through the hip and thigh for ultimate comfort."
 resource: https://baronboutique.com/womens-warm-weather-linen-pants/
 tags: [women, pants, linen, summer, lightweight, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # The Custom Straight-Leg Linen Pant
@@ -30,7 +30,7 @@ The Solution to Sloppy Summer Style This is how you master the art of looking re
 
 - Women › Pants
 
-**Related terms:** hot weather trousers, linen slacks, resort pants, straight leg linen trousers
+**Related terms:** hot weather trousers, linen slacks, resort pants
 
 ## Related
 

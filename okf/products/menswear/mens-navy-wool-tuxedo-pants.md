@@ -4,7 +4,7 @@ title: "Mens Navy Dress Pants"
 description: "Designed for style and wearability, mens navy dress pants achieve a new level of comfort and professionalism. Crafted from super 140s 8oz 100% worsted wool in plain cloth with a slight sheen."
 resource: https://baronboutique.com/mens-navy-wool-tuxedo-pants/
 tags: [men, pants, tuxedo-pants, wool, navy, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Mens Navy Dress Pants

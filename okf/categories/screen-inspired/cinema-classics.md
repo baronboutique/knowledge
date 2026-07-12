@@ -4,7 +4,7 @@ title: "Cinema Classics"
 description: "The Cinema Classics Collection Cinema has always known how to dress a man. This collection pays tribute to the garments that made history on screen. From Victorian frock coats to sharp Edwardian cuts, every piece draws from the silhouettes and fabrics that defined iconic moments in film. The tailoring is precise. The materials are uncompromising. The fit is entirely your own. Each garment is bespoke, cut and constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made."
 resource: https://baronboutique.com/screen-inspired/cinema-classics/
 tags: [cinema-classics, movie-replica, cary-grant, star-wars, fantastic-beasts, film-costume, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Cinema Classics
@@ -29,7 +29,7 @@ All garments are made to order by [Baron Boutique](../../company.md). Every besp
 - [Good Omens Season 02 Crowley Black Blazer](../../products/screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [Hei Trench Coat from Darker Than Black, Custom Made in Wool](../../products/screen-inspired/cinema-classics/hei-trench-coat-darker-than-black.md)
 - [Hunter Coat Bloodborne Cosplay](../../products/screen-inspired/cinema-classics/bloodborne-hunter-cosplay-coat.md)
-- [James West Wild Wild West Suit](../../products/screen-inspired/cinema-classics/james-west-wild-wild-west-suit.md)
+- [James West Wild Wild West Suit](../../products/menswear/destination-wedding-suits/james-west-wild-wild-west-suit.md)
 - [Joker Suit 2019 Replica | Arthur Fleck Bespoke Three-Piece](../../products/screen-inspired/joker-suit-2019-film.md)
 - [Joker Trench Coat Black Leather Dark Knight](../../products/menswear/joker-coat-in-leather.md)
 - [Joker Trench Coat, Dark Knight Inspired in Purple Melton Wool](../../products/screen-inspired/joker-coat.md)

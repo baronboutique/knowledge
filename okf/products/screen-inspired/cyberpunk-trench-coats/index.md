@@ -4,7 +4,7 @@ title: "Cyberpunk Trench Coats"
 description: "Matrix Trench Coat — Neo's Coat, All Four Films, Made to Your Measurements Most \"Matrix trench coats\" online are polyester costumes in generic sizes. The fabric is wrong, the fit is approximate, and the silhouette never truly works. Our collection takes a different approach. Each coat is custom-made to your measurements in screen-inspired fabrics chosen for their weight and drape. A complimentary test coat is included with every order, ensuring the fit is approved before final production."
 resource: https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/
 tags: [matrix, neo-coat, trench-coat, long-coat, cyberpunk, duster, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Cyberpunk Trench Coats
@@ -13,7 +13,7 @@ Matrix Trench Coat — Neo's Coat, All Four Films, Made to Your Measurements Mos
 
 **Licensing note:** These garments are inspired by screen productions and are NOT officially licensed unless explicitly stated on the individual product page.
 
-All 6 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 5 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 Every Matrix Coat in This Collection Is Made to Your Measurements. None Are Polyester.
 Search for a matrix trench coat and you will find hundreds of results. Most of them are the same thing: a polyester costume cut to a generic size, photographed on a model, and sold at a price that tells you everything you need to know about what is inside. The sheen is wrong. The length is approximate. The silhouette collapses the moment you put your arms out. This collection is different in one specific way: every coat is made to your measurements in the correct fabric for that coat. The Matrix 1 wool coat is built in a structured wool blend that holds the ankle-length silhouette without a body form inside it.
@@ -75,7 +75,6 @@ Your completed coat ships by trackable courier. Production takes approximately f
 
 - [Keanu Reeves Trench Coat The Matrix Revolutions](the-matrix-revolutions-coat.md)
 - [Matrix Coat Neo Trench Coat Black](the-matrix-coat.md)
-- [Matrix Reloaded Neo Coat](matrix-reloaded-coat.md)
 - [Neo Leather Trench Coat Matrix 2](matrix-reloaded-coat-in-leather.md)
 - [The Matrix 4 Resurrections Keanu Reeves Neo Coat](matrix-4-resurrections-neo-coat.md)
 - [White Long Coat Matrix Reloaded Neo Style Coat](matrix-reloaded-coat-in-white.md)

@@ -4,7 +4,7 @@ title: "Cyberpunk Trench Coats"
 description: "Matrix Trench Coat — Neo's Coat, All Four Films, Made to Your Measurements Most \"Matrix trench coats\" online are polyester costumes in generic sizes. The fabric is wrong, the fit is approximate, and the silhouette never truly works. Our collection takes a different approach. Each coat is custom-made to your measurements in screen-inspired fabrics chosen for their weight and drape. A complimentary test coat is included with every order, ensuring the fit is approved before final production."
 resource: https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/
 tags: [matrix, neo-coat, trench-coat, long-coat, cyberpunk, duster, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Cyberpunk Trench Coats
@@ -75,13 +75,13 @@ Your completed coat ships by trackable courier. Production takes approximately f
 
 - [Keanu Reeves Trench Coat The Matrix Revolutions](../../products/screen-inspired/cyberpunk-trench-coats/the-matrix-revolutions-coat.md)
 - [Matrix Coat Neo Trench Coat Black](../../products/screen-inspired/cyberpunk-trench-coats/the-matrix-coat.md)
-- [Matrix Reloaded Neo Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat.md)
+- [Matrix Reloaded Neo Coat](../../products/menswear/destination-wedding-suits/matrix-reloaded-coat.md)
 - [Men's Wool Flared Zip Tailcoat](../../products/menswear/frock-coats-for-men/mens-wool-flared-zip-tailcoat.md)
 - [Neo Leather Trench Coat Matrix 2](../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat-in-leather.md)
 - [The Matrix 4 Resurrections Keanu Reeves Neo Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-4-resurrections-neo-coat.md)
 - [White Long Coat Matrix Reloaded Neo Style Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat-in-white.md)
 
-**Related terms:** Matrix trench coat, Neo coat replica, cyberpunk long coat, black duster coat, sci-fi trench coats, matrix coat, neo trench coat
+**Related terms:** Matrix trench coat, Neo coat replica, cyberpunk long coat, black duster coat, sci-fi trench coats
 
 ## Related
 

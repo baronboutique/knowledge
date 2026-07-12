@@ -4,7 +4,7 @@ title: "The Bespoke Dupioni Silk Trousers"
 description: "Embrace a unique sartorial language with The Bespoke Dupioni Silk Trousers. Crafted from Dupioni silk, a fabric prized for its distinctive texture and elegant luster, these trousers are the epitome of…"
 resource: https://baronboutique.com/mens-dupioni-silk-trousers/
 tags: [men, pants, silk, dupioni-silk, summer, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # The Bespoke Dupioni Silk Trousers
@@ -31,7 +31,7 @@ Customer Showcase: Final Dupioni Silk Trousers To select trousers crafted from D
 
 - Men › Pants
 
-**Related terms:** raw silk slacks, shantung trousers, silk suit pants separate, warm weather dress trousers, mens silk dress pants, dupioni silk pants
+**Related terms:** raw silk slacks, shantung trousers, silk suit pants separate, warm weather dress trousers
 
 ## Related
 

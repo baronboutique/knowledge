@@ -4,7 +4,7 @@ title: "Mens Silk Tie & Pocket Square Set Handmade"
 description: "The Baron Boutique silk tie and pocket square set handmade helps you nail the smart casual trend, ensuring that you'll be an effortlessly stylish presence wherever you go."
 resource: https://baronboutique.com/mens-silk-tie-pocket-square-set/
 tags: [men, necktie, pocket-square, silk, matching-set, formalwear, wedding, handmade, heirloom]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Mens Silk Tie & Pocket Square Set Handmade
@@ -32,7 +32,7 @@ The pairing of a silk tie and a pocket square is the definitive final gesture in
 - Women › Accessories
 - Men › Accessories
 
-**Related terms:** matching tie and hankie, tie pocket square combo, wedding tie set, groomsmen gift set, silver tie and pocket square
+**Related terms:** matching tie and hankie, tie pocket square combo, wedding tie set, groomsmen gift set
 
 ## Related
 

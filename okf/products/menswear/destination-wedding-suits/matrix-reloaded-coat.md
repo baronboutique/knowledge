@@ -4,7 +4,7 @@ title: "Matrix Reloaded Neo Coat"
 description: "Most Matrix coat sellers deliver a polyester approximation in a generic size. The sheen is wrong, the length is approximate, and the silhouette collapses the moment you raise an arm."
 resource: https://baronboutique.com/matrix-reloaded-coat/
 tags: [men, trench-coat, long-coat, monks-wool, mandarin-collar, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Matrix Reloaded Neo Coat
@@ -15,8 +15,6 @@ timestamp: 2026-07-08T19:03:54Z
 **Price:** USD 699.00 (verify current price on product page)  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
-
-**Licensing note:** This garment is inspired by a screen production and is NOT an officially licensed product unless stated otherwise on the product page.
 
 ## Options
 
@@ -95,18 +93,18 @@ Full Specification
 
 ## Categories
 
+- Men › Wedding Suits › Destination Wedding Suits
 - Screen Inspired › Cyberpunk Trench Coats
 
-**Related terms:** Neo trench coat, Matrix priest coat, Keanu Reeves coat, cyberpunk long coat, duster coat, Matrix jacket, matrix coat, neo jacket, neo outfit
+**Related terms:** Neo trench coat, Matrix priest coat, Keanu Reeves coat, cyberpunk long coat, duster coat
 
 ## Related
 
-- [Cyberpunk Trench Coats Category](../../../categories/screen-inspired/cyberpunk-trench-coats.md)
-- [Cyberpunk Trench Coats Products](index.md)
+- [Destination Wedding Suits Category](../../../categories/menswear/destination-wedding-suits.md)
+- [Destination Wedding Suits Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
 
 ## Citations
 

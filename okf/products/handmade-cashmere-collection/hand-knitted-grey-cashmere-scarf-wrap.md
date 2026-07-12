@@ -4,7 +4,7 @@ title: "Hand Felted Grey Cashmere Scarf Wrap"
 description: "Whispers of the Cloud-Capped Peaks: Wrap yourself in the grey cashmere, as soft as the serene clouds over Nepal's mountains. Hand knitted and Hand Felted. Proudly made in Nepal."
 resource: https://baronboutique.com/hand-knitted-grey-cashmere-scarf-wrap/
 tags: [women, cashmere, scarf, wrap, grey, hand-knitted, hand-felted, handmade, heirloom]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Hand Felted Grey Cashmere Scarf Wrap

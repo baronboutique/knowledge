@@ -4,7 +4,7 @@ title: "4th Doctor Beige Frock Coat Tom Baker Inspired"
 description: "Every mass-market version of the 4th Doctor frock coat gets the color right and skips everything else, no princess seams, dead-center back vent, wrong piping, wrong collar."
 resource: https://baronboutique.com/fourth-doctor-frock-coat/
 tags: [men, frock-coat, high-twist-wool, wool, beige, doctor-who, fourth-doctor, tom-baker, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # 4th Doctor Beige Frock Coat Tom Baker Inspired

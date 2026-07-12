@@ -4,7 +4,7 @@ title: "The Wool & Silk Blend Suit"
 description: "This is the suit that proves power and luxury are not mutually exclusive. Our Women's Tailored Suit is crafted from an exquisite wool-silk blend, a fabric that combines the structure of wool with the …"
 resource: https://baronboutique.com/boutique-tailored-silk-and-wool-suit/
 tags: [women, suit, silk-wool, silk, wool, formalwear, workwear, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # The Wool & Silk Blend Suit
@@ -31,7 +31,7 @@ The Power Suit with a Soul This is for the woman who understands that true power
 
 - Women › Suits & Blazers
 
-**Related terms:** silk wool blend suit for women, sheen fabric pantsuit, special occasion suit for her, custom tailored womens suit, summer silk blend suit, wool and silk suits, wool silk blend suits
+**Related terms:** silk wool blend suit for women, sheen fabric pantsuit, special occasion suit for her, custom tailored womens suit, summer silk blend suit
 
 ## Related
 

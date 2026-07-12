@@ -4,7 +4,7 @@ title: "Joker Trench Coat Black Leather Dark Knight"
 description: "The Dark Knight Joker coat in full-grain leather -- for buyers who want the silhouette permanently, not just for one convention."
 resource: https://baronboutique.com/joker-coat-in-leather/
 tags: [men, coat, trench-coat, leather, purple, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-08T19:03:54Z
+timestamp: 2026-07-12T09:38:17Z
 ---
 
 # Joker Trench Coat Black Leather Dark Knight
@@ -97,6 +97,7 @@ Most Joker leather coats available online are pleather or bonded leather -- mate
 
 ## Categories
 
+- Men › Wedding Suits › Destination Wedding Suits
 - Screen Inspired › Theatrical Villain
 - Men › Coats & Overcoats
 - Screen Inspired › Cinema Classics
