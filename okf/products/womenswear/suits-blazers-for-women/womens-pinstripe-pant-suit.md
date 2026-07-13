@@ -4,7 +4,7 @@ title: "Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend"
 description: "New Collection New Fabric Collection — Now Available We've expanded our pinstripe merino wool selection with a new fabric range."
 resource: https://baronboutique.com/womens-pinstripe-pant-suit/
 tags: [women, suit, pant-suit, pants, pinstripe, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend

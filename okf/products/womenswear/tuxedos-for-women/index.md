@@ -4,7 +4,7 @@ title: "Tuxedos"
 description: "Women tuxedos at affordable prices perfect for all events. Custom-made to flatter your shape. Free shipping worldwide. Tuxedo tailored to your height."
 resource: https://baronboutique.com/womenswear/tuxedos-for-women/
 tags: [women, tuxedo, tuxedo-suit, black-tie, evening-wear, velvet-jacket, custom-tuxedo, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Tuxedos

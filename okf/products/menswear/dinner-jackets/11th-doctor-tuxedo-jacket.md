@@ -4,7 +4,7 @@ title: "11th Doctor Who White Pool Party Tuxedo Jacket"
 description: "11th Doctor Who white tuxedo jacket enhanced with a silk satin shawl lapel. A custom-made 11th Doctor Who white pool party tuxedo jacket is for a memorable cosplay."
 resource: https://baronboutique.com/11th-doctor-tuxedo-jacket/
 tags: [men, tuxedo-jacket, dinner-jacket, wool, white, shawl-lapel, doctor-who, eleventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # 11th Doctor Who White Pool Party Tuxedo Jacket

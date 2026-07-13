@@ -4,7 +4,7 @@ title: "Men's Tailored Linen Pants"
 description: "Men's tailored linen pants are the perfect choice to wear during hot and humid weather. The linen fabric helps to wick moisture away from the skin."
 resource: https://baronboutique.com/tailored-fit-dark-blue-linen-pants/
 tags: [men, pants, dress-pants, linen, dark-blue, tailored-fit, summer, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Men's Tailored Linen Pants

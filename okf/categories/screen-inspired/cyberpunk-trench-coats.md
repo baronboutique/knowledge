@@ -4,7 +4,7 @@ title: "Cyberpunk Trench Coats"
 description: "Matrix Trench Coat — Neo's Coat, All Four Films, Made to Your Measurements Most \"Matrix trench coats\" online are polyester costumes in generic sizes. The fabric is wrong, the fit is approximate, and the silhouette never truly works. Our collection takes a different approach. Each coat is custom-made to your measurements in screen-inspired fabrics chosen for their weight and drape. A complimentary test coat is included with every order, ensuring the fit is approved before final production."
 resource: https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/
 tags: [matrix, neo-coat, trench-coat, long-coat, cyberpunk, duster, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Cyberpunk Trench Coats

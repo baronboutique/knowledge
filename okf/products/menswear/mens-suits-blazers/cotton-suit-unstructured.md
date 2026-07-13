@@ -4,7 +4,7 @@ title: "The Unstructured Cotton Suit Slim Fit Custom Made"
 description: "New Collection New Fabric Collection — Now Available We've expanded our chino cotton selection with an upgraded fabric range."
 resource: https://baronboutique.com/cotton-suit-unstructured/
 tags: [men, suit, cotton, unstructured, summer, casual-tailoring, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # The Unstructured Cotton Suit Slim Fit Custom Made

@@ -2,7 +2,7 @@
 type: Index
 title: "Products"
 description: "All Baron Boutique product categories and products in Open Knowledge Format."
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Baron Boutique Products
@@ -63,9 +63,11 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Two Face Silk Neckties Handmade](menswear/two-face-silk-neckties-handmade.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 - [Western Frock Coat in Wool, Made to Measure](menswear/mens-frock-coat.md)
-- [Suits & Blazers](menswear/mens-suits-blazers/index.md) — 26 products
+- [Silk](menswear/mens-silk-suits-shirts-ties-scarves/index.md) — 6 products
+- [Suits & Blazers](menswear/mens-suits-blazers/index.md) — 20 products
+- [Velvet](menswear/velvet/index.md) — 2 products
 - [Frock Coats](menswear/frock-coats-for-men/index.md) — 3 products
-- [Coats & Overcoats](menswear/mens-coats-and-overcoats/index.md) — 7 products
+- [Coats & Overcoats](menswear/mens-coats-and-overcoats/index.md) — 6 products
 - [Tuxedos](menswear/tuxedos/index.md) — 6 products
 - [Linen Wedding Suits](menswear/grooms-linen-suits-for-wedding/index.md) — 7 products
 - [Destination Wedding Suits](menswear/destination-wedding-suits/index.md) — 4 products
@@ -75,7 +77,7 @@ All products are made to order by human tailors after an order is confirmed. No 
 
 ## [Screen Inspired](screen-inspired/index.md)
 
-- [Doctor Collection](screen-inspired/doctor-collection/index.md) — 8 products
+- [Doctor Collection](screen-inspired/doctor-collection/index.md) — 7 products
 - [1989 Batman Joker Replica Coat - Jack Nicholson's Iconic Look](screen-inspired/1989-batman-joker-replica-coat.md)
 - [1989 Batman Joker Tailcoat - Purple Evening Coat](screen-inspired/1989-joker-tailcoat.md)
 - [5th Doctor Cosplay Beige Frock Coat](screen-inspired/5th-doctor-red-piping-frock-coat.md)

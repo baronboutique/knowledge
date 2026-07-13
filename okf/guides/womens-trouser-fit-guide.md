@@ -4,7 +4,7 @@ title: "Trouser Fit Guide"
 description: "Find your perfect trouser fit—Slim, Standard, and Relaxed. Baron Boutique's guide helps you choose the best custom garment for you."
 resource: https://baronboutique.com/womens-trouser-fit-guide/
 tags: [women, pants, trousers, fit-guide, sizing, made-to-measure, guide]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Trouser Fit Guide

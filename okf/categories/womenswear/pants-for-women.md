@@ -4,7 +4,7 @@ title: "Pants"
 description: "Design your womens dress pants. Fully customized. Custom-made wool pants, linen pants, velvet pants, and more. Body flattering womens work pants."
 resource: https://baronboutique.com/womenswear/pants-for-women/
 tags: [women, pants, trousers, dress-pants, work-pants, wool-pants, linen-pants, wide-leg, custom-pants, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Pants

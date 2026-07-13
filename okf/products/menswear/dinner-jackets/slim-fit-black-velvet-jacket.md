@@ -4,7 +4,7 @@ title: "Black Velvet Shawl Collar Tuxedo Jacket"
 description: "Black velvet tuxedo jacket with refined tailoring that has been trimmed to propose a contemporary appeal."
 resource: https://baronboutique.com/slim-fit-black-velvet-jacket/
 tags: [men, blazer, dinner-jacket, velvet, black, slim-fit, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Black Velvet Shawl Collar Tuxedo Jacket
@@ -30,6 +30,7 @@ Shawl Collar Tuxedo Test Jacket–Fit and Style Evaluation The black velvet tuxe
 ## Categories
 
 - Men › Dinner Jackets
+- Men › Velvet
 - Men › Suits & Blazers
 
 **Related terms:** black velvet smoking jacket, velvet tuxedo jacket, evening jacket for gala, custom velvet blazer for men, holiday party jacket

@@ -4,7 +4,7 @@ title: "Mohair Wool Suit"
 description: "The mohair and wool suit is engineered for performance. The unique, spring-like structure of mohair fibers lends the cloth an exceptional crease resistance, ensuring you remain impeccably sharp from a…"
 resource: https://baronboutique.com/mohair-kid-wool-suit/
 tags: [men, suit, mohair-wool, wool, all-season, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Mohair Wool Suit

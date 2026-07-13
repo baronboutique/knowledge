@@ -4,7 +4,7 @@ title: "The Architect's White Cotton Shirt"
 description: "This is the end of the frustrating search for the perfect white shirt. Our Women's White Cotton Dress Shirt with Pockets solves the biggest fit problems with a guaranteed custom fit that eliminates ga…"
 resource: https://baronboutique.com/womens-egyptian-cotton-shirt/
 tags: [women, shirt, egyptian-cotton, classic-fit, workwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # The Architect's White Cotton Shirt

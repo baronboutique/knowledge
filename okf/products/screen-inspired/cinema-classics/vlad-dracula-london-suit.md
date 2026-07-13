@@ -4,7 +4,7 @@ title: "Prince Vlad Dracula London Suit"
 description: "Every Gary Oldman Dracula costume online gets the grey right and misses everything else -- no dupioni silk lapels, wrong vest construction, no princess seams."
 resource: https://baronboutique.com/vlad-dracula-london-suit/
 tags: [men, suit, victorian-style, wool, dracula, gothic, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Prince Vlad Dracula London Suit

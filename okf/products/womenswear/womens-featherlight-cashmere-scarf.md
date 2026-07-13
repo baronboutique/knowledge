@@ -4,7 +4,7 @@ title: "Featherlight Cashmere Scarf"
 description: "Wrap yourself in the whisper-soft luxury of Baron Boutique’s 100% Himalayan cashmere scarf. Weighing a mere 2.5 oz (70 grams), this featherlight essential offers year-round comfort without the bulk."
 resource: https://baronboutique.com/womens-featherlight-cashmere-scarf/
 tags: [women, cashmere, scarf, wrap, lightweight, solid-color, handwoven, handmade, heirloom]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Featherlight Cashmere Scarf

@@ -4,7 +4,7 @@ title: "Raw Silk Blazer"
 description: "A trendsetting style preferred by many men is the custom-made raw silk blazer. Wearing our mens raw silk jacket ensures you look presentable on your everyday outing."
 resource: https://baronboutique.com/raw-silk-blazer/
 tags: [men, blazer, raw-silk, silk, summer, wedding, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Raw Silk Blazer
@@ -29,14 +29,15 @@ The raw silk blazer is an exercise in textural luxury, a garment that bridges th
 
 ## Categories
 
+- Men › Silk
 - Men › Suits & Blazers
 
 **Related terms:** textured silk sport coat, silk odd jacket, wedding guest blazer
 
 ## Related
 
-- [Suits & Blazers Category](../../../categories/menswear/mens-suits-blazers.md)
-- [Suits & Blazers Products](index.md)
+- [Silk Category](../../../categories/menswear/mens-silk-suits-shirts-ties-scarves.md)
+- [Silk Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)

@@ -4,7 +4,7 @@ title: "The Mohair Pencil Skirt"
 description: "This is the classic grey skirt, intelligently upgraded. Our Women's Mohair Pencil Skirt is crafted from a luxurious, wrinkle-resistant mohair-wool blend, a superior fabric that instantly elevates this…"
 resource: https://baronboutique.com/womens-mohair-pencil-skirt/
 tags: [women, skirt, pencil-skirt, mohair-wool, wool, workwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # The Mohair Pencil Skirt

@@ -4,7 +4,7 @@ title: "How It Works — Ordering Process"
 description: "Step-by-step guide to placing a bespoke order at Baron Boutique, from product selection through test garment fitting to final delivery."
 resource: https://baronboutique.com/how-it-works/
 tags: [how-it-works, ordering-process, test-garment, toile, measurements, bespoke-process, made-to-order, made-to-measure, guide]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # How It Works — Ordering Process
@@ -68,7 +68,7 @@ Rush service is available upon request at no additional cost, subject to product
 **A:** If your measurements haven't changed, your saved pattern means subsequent orders can often skip the test garment stage or require only minor adjustments. We keep your pattern on file and update it with any corrections from your previous order.
 
 **Q:** What if the final garment still needs alterations?  
-**A:** All garments are made with extra seam allowances for this reason. If minor local alterations are needed after the final garment arrives, we reimburse reasonable local tailoring costs. Contact us with photos and your receipts. See our Alteration &amp; Refund Policy for full details.
+**A:** All garments are made with extra seam allowances for this reason. If minor local alterations are needed after the final garment arrives, we reimburse reasonable local tailoring costs. Contact us with photos and your receipts. See our Alteration and Refund Policy for full details.
 
 **Related terms:** how does made to measure work, custom tailoring process online, free test garment, how to order a bespoke suit online, online tailor process
 

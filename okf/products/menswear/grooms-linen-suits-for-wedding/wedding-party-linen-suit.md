@@ -4,7 +4,7 @@ title: "The Linen Ceremonial Suit"
 description: "Putting on a beautifully tailored linen wedding party suit elevates your spirit and helps to define you as a man to whom details matter."
 resource: https://baronboutique.com/wedding-party-linen-suit/
 tags: [men, suit, linen, summer, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # The Linen Ceremonial Suit

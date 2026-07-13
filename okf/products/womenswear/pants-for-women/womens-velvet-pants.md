@@ -4,7 +4,7 @@ title: "The Custom Velvet Skinny Pant"
 description: "This is how you conquer the skinny pant. Our Red Velvet Pants are defined by their free test garment process, which guarantees a flawless, body-hugging fit before we even touch the final velvet."
 resource: https://baronboutique.com/womens-velvet-pants/
 tags: [women, pants, velvet, evening-wear, occasion-wear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # The Custom Velvet Skinny Pant

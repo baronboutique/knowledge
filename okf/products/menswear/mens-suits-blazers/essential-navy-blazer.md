@@ -4,7 +4,7 @@ title: "The Essential Navy Blazer"
 description: "Men's essential navy blazer fits on all occasions regardless of the job description. A Navy blue blazer is a great way to make any outfit for men look more formal as long as it is fitted properly to y…"
 resource: https://baronboutique.com/essential-navy-blazer/
 tags: [men, blazer, wool, navy, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # The Essential Navy Blazer

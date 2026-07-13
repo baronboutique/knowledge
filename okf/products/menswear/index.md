@@ -2,7 +2,7 @@
 type: Index
 title: "Men"
 description: "Bespoke Menswear, Built to Your Measure From custom suits, tuxedos, and frock coats to overcoats, shirts, and cashmere, every piece is made to order and hand‑tailored to your exact measurements — never pulled from a rack. Before we cut the final cloth, a complimentary test garment comes to your home, so the fit is approved first. Collector‑quality construction."
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Men
@@ -63,9 +63,11 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Two Face Silk Neckties Handmade](two-face-silk-neckties-handmade.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](velvet-groomsmen-blazer-handmade-weddings.md)
 - [Western Frock Coat in Wool, Made to Measure](mens-frock-coat.md)
-- [Suits & Blazers](mens-suits-blazers/index.md) — 26 products
+- [Silk](mens-silk-suits-shirts-ties-scarves/index.md) — 6 products
+- [Suits & Blazers](mens-suits-blazers/index.md) — 20 products
+- [Velvet](velvet/index.md) — 2 products
 - [Frock Coats](frock-coats-for-men/index.md) — 3 products
-- [Coats & Overcoats](mens-coats-and-overcoats/index.md) — 7 products
+- [Coats & Overcoats](mens-coats-and-overcoats/index.md) — 6 products
 - [Tuxedos](tuxedos/index.md) — 6 products
 - [Linen Wedding Suits](grooms-linen-suits-for-wedding/index.md) — 7 products
 - [Destination Wedding Suits](destination-wedding-suits/index.md) — 4 products

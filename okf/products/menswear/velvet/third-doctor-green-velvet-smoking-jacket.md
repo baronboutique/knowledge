@@ -4,7 +4,7 @@ title: "3rd Doctor Green Jacket Velvet"
 description: "Custom-made 3rd Doctor green jacket to breathe a new life into your Whovian wardrobe. High-quality third Doctor costume replica for Jon Pertwee fandom."
 resource: https://baronboutique.com/third-doctor-green-velvet-smoking-jacket/
 tags: [men, smoking-jacket, velvet, green, doctor-who, third-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # 3rd Doctor Green Jacket Velvet
@@ -15,8 +15,6 @@ timestamp: 2026-07-12T09:38:17Z
 **Price:** USD 419 (verify current price on product page)  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
-
-**Licensing note:** This garment is inspired by a screen production and is NOT an officially licensed product unless stated otherwise on the product page.
 
 ## Options
 
@@ -31,18 +29,18 @@ An Aura of Distinction: The 3rd Doctor Green Jacket This hand-tailored 3rd Docto
 
 ## Categories
 
+- Men › Velvet
 - Screen Inspired › Doctor Collection
 
 **Related terms:** Jon Pertwee jacket, 3rd Doctor velvet jacket, green smoking jacket
 
 ## Related
 
-- [Doctor Collection Category](../../../categories/screen-inspired/doctor-collection.md)
-- [Doctor Collection Products](index.md)
+- [Velvet Category](../../../categories/menswear/velvet.md)
+- [Velvet Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
 
 ## Citations
 

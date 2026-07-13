@@ -4,7 +4,7 @@ title: "The Midi Pencil Skirt"
 description: "The difference between a chic midi skirt and a frumpy one is a matter of inches. Our Women's below the knee pencil skirt solves this with a guaranteed custom-tailored length, perfected with our free t…"
 resource: https://baronboutique.com/womens-seasonless-pure-new-wool-skirt/
 tags: [women, skirt, pencil-skirt, pure-new-wool, wool, seasonless, workwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # The Midi Pencil Skirt

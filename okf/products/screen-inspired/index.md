@@ -2,7 +2,7 @@
 type: Index
 title: "Screen Inspired"
 description: "Screen Legends, Tailored for Real Life The most memorable characters are remembered by what they wore. Our Screen Inspired collection recreates those wardrobes. The Doctor's frock coats, Neo's trench, spy suits, Victorian detectives, and theatrical villains. Each piece custom-made and hand-tailored to your exact measurements, never a generic costume."
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Screen Inspired
@@ -11,7 +11,7 @@ Screen Legends, Tailored for Real Life The most memorable characters are remembe
 
 All products made to order. Every bespoke order includes a complimentary cotton test garment.
 
-- [Doctor Collection](doctor-collection/index.md) — 8 products
+- [Doctor Collection](doctor-collection/index.md) — 7 products
 - [1989 Batman Joker Replica Coat - Jack Nicholson's Iconic Look](1989-batman-joker-replica-coat.md)
 - [1989 Batman Joker Tailcoat - Purple Evening Coat](1989-joker-tailcoat.md)
 - [5th Doctor Cosplay Beige Frock Coat](5th-doctor-red-piping-frock-coat.md)

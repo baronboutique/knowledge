@@ -4,7 +4,7 @@ title: "Ombre Cashmere Scarf Wrap Stole"
 description: "Embrace luxurious comfort with this ultra-soft Ombre Cashmere Scarf Wrap Stole. Featuring a beautiful grey & red two-tone gradient, this versatile, lightweight piece adds effortless elegance to any lo…"
 resource: https://baronboutique.com/ombre-cashmere-scarf-wrap-stole-grey-red-two-tone/
 tags: [women, cashmere, scarf, wrap, stole, ombre, grey, red, handwoven, handmade, heirloom]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Ombre Cashmere Scarf Wrap Stole

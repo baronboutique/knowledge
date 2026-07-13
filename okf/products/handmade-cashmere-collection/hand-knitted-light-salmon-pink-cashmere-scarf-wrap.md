@@ -4,7 +4,7 @@ title: "Hand Felted Light Salmon Pink Cashmere Scarf Wrap"
 description: "Embrace the Warmth of Himalayan Craftsmanship: A Whisper of Luxury in Every Stitch. Hand knitted and Hand Felted. Proudly made in Nepal. Crafted from 100% pure, allergen-free Grade A cashmere."
 resource: https://baronboutique.com/hand-knitted-light-salmon-pink-cashmere-scarf-wrap/
 tags: [women, cashmere, scarf, wrap, salmon-pink, hand-knitted, hand-felted, handmade, heirloom]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Hand Felted Light Salmon Pink Cashmere Scarf Wrap

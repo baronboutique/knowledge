@@ -4,7 +4,7 @@ title: "Grey Tropical Wool Suit"
 description: "A grey tropical wool suit exhibiting confident tailoring for the utmost formal look is also an ideal wool suit in summer."
 resource: https://baronboutique.com/mens-gray-tropical-wool-suit/
 tags: [men, suit, tropical-wool, wool, gray, summer, workwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Grey Tropical Wool Suit

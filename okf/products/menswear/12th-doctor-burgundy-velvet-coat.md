@@ -4,7 +4,7 @@ title: "12th Doctor Maroon Red Velvet Coat"
 description: "The 12th Doctor maroon red velvet coat is one of the most talked about Doctor Who costumes. Crafted from premium velvet fabric that has a very elegant feel to it."
 resource: https://baronboutique.com/12th-doctor-burgundy-velvet-coat/
 tags: [men, coat, velvet, burgundy, doctor-who, twelfth-doctor, capaldi, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # 12th Doctor Maroon Red Velvet Coat
@@ -29,6 +29,7 @@ Maroon Red Velvet Try-On Coat–Fit and Style Evaluation Make a statement with t
 
 ## Categories
 
+- Men › Velvet
 - Men › Coats & Overcoats
 - Screen Inspired › Doctor Collection
 

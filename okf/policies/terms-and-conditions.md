@@ -4,7 +4,7 @@ title: "Terms & Conditions"
 description: "Full terms of service for Baron Boutique."
 resource: https://baronboutique.com/terms-and-conditions/
 tags: [terms, conditions, legal, policy]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Terms & Conditions

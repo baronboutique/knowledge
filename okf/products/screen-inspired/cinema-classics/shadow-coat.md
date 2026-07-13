@@ -4,7 +4,7 @@ title: "Shadow Coat Costume from Alec Baldwin's \"The Shadow\""
 description: "When it comes to cosplay, there is nothing like the shadow costume. A custom-made shadow coat costume features a full-length coat and cape, matching pants, and a pure silk satin red scarf that can eas…"
 resource: https://baronboutique.com/shadow-coat/
 tags: [men, coat, long-coat, gabardine-wool, wool, black, the-shadow, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Shadow Coat Costume from Alec Baldwin's "The Shadow"

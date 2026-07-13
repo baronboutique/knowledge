@@ -4,7 +4,7 @@ title: "Destination Wedding Suits"
 description: "Destination Wedding Suits, Made to Your Measurements A destination wedding is a stage, and these are the pieces for the groom who wants to be remembered on it. Ten cinematic statement pieces, from a breathable Fresco wool cape suit to a Melton wool trench, each made to your measurements in fabrics chosen for summer or winter. From $659, and every order includes a free test garment so the fit is confirmed before you fly. Cape suits, statement coats, and bold three-pieces for a groom whose wedding is anything but ordinary."
 resource: https://baronboutique.com/menswear/wedding-suits/destination-wedding-suits/
 tags: [destination-wedding-suits, destination, wedding, suits, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Destination Wedding Suits

@@ -4,7 +4,7 @@ title: "The Warm-Weather Dress Trouser"
 description: "This is how you upgrade your entire professional wardrobe in one step. Our Women's Dress Pants move beyond traditional styles by using a performance mohair-wool blend, a lightweight fabric that delive…"
 resource: https://baronboutique.com/womens-warm-weather-wool-pants/
 tags: [women, pants, mohair-wool, wool, summer, lightweight, workwear, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # The Warm-Weather Dress Trouser

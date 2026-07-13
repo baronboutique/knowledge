@@ -4,7 +4,7 @@ title: "Linen Wedding Suits"
 description: "Grooms Linen Suits for Weddings, Made to Your Measurements Most linen wedding suits are sold in standard sizes, and linen has no structure to hide a fit that is close but not right. On a groom, in daylight, in every photograph, that shows. Every suit in this collection is made to your measurements in 100% linen, in 18 colors from powder blue and stone to white, natural, and navy, with a free test suit sent to your home to confirm the fit before we cut your cloth. Two-piece suits for heat, three-piece suits with a waistcoat for the ceremony, and a linen frock coat for the groom, the groomsmen, and a beach or destination wedding."
 resource: https://baronboutique.com/menswear/wedding-suits/grooms-linen-suits-for-wedding/
 tags: [linen-wedding-suits, linen, wedding, suits, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Linen Wedding Suits

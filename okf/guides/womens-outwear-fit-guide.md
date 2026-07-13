@@ -4,7 +4,7 @@ title: "Outwear Fit Guide"
 description: "Find your perfect outwear fit—Slim, Standard, or Relaxed. Baron Boutique's guide helps you choose the best custom garment for you."
 resource: https://baronboutique.com/womens-outwear-fit-guide/
 tags: [women, outerwear, coat, fit-guide, sizing, made-to-measure, guide]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Outwear Fit Guide

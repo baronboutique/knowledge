@@ -4,7 +4,7 @@ title: "Men's Debonair Coat"
 description: "Men's debonair coat has plenty to offer to its wearer, from cleanly tailored lines to undeniably sophisticated glamour."
 resource: https://baronboutique.com/mens-debonair-coat/
 tags: [men, coat, overcoat, topcoat, wool, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-12T09:38:17Z
+timestamp: 2026-07-13T15:01:59Z
 ---
 
 # Men's Debonair Coat
