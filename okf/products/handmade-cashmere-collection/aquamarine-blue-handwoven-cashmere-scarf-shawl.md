@@ -4,7 +4,7 @@ title: "Aquamarine Blue Handwoven Cashmere Scarf Shawl"
 description: "Gentle Flow of Mountain Streams: Your New Favorite Cashmere Scarf Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau."
 resource: https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/
 tags: [women, cashmere, scarf, shawl, wrap, handwoven, aquamarine, handmade, heirloom]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Aquamarine Blue Handwoven Cashmere Scarf Shawl

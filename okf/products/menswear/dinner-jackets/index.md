@@ -4,7 +4,7 @@ title: "Dinner Jackets"
 description: "Men's Dinner Jackets, Made to Your Measurements A tuxedo makes every man in the room look the same. A dinner jacket is the other way to dress for black tie: a statement jacket in velvet, white, or a patterned cloth, worn with black formal trousers, that keeps the formality while making you the best-dressed man there. Every one is made to your measurements on a canvas front with satin or self lapels, with a free test jacket before we cut. Burgundy, blue, and black velvet for a winter or festive black tie, white and off-white for summer, and a velvet smoking jacket for the host and the collector."
 resource: https://baronboutique.com/menswear/dinner-jackets/
 tags: [men, dinner-jacket, tuxedo-jacket, smoking-jacket, velvet-jacket, shawl-collar, black-tie, evening-wear, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Dinner Jackets

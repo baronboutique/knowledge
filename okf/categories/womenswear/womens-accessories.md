@@ -1,17 +1,63 @@
 ---
 type: Product Category
 title: "Accessories"
-description: "Buy womens handmade accessories neckties & pocket squares, shawls, wraps, & scarves, silks & cashmere online. Cashmere silk accessories for all occasions."
+description: "Women's Cashmere & Silk Accessories Handwoven Cashmere Scarves, Shawls, and Silk Accessories A great scarf is the fastest way to transform an outfit, and a great cashmere scarf is one you keep for a lifetime. This collection is built around handwoven and hand-felted Grade A cashmere: solid-color scarves and shawls, printed and patterned pieces from leopard and houndstooth to embroidered florals and tartan, and featherlight wraps light enough to fold into a pocket. Alongside them sit pure silk neck scarves, neckties, and pocket squares. Every cashmere piece is handwoven or hand-felted from 100% pure cashmere, and many are made to order in the color you choose. From $65."
 resource: https://baronboutique.com/womenswear/womens-accessories/
 tags: [women, accessories, scarves, shawls, wraps, silk-scarf, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Accessories
 
-Buy womens handmade accessories neckties & pocket squares, shawls, wraps, & scarves, silks & cashmere online. Cashmere silk accessories for all occasions.
+Women's Cashmere & Silk Accessories Handwoven Cashmere Scarves, Shawls, and Silk Accessories A great scarf is the fastest way to transform an outfit, and a great cashmere scarf is one you keep for a lifetime. This collection is built around handwoven and hand-felted Grade A cashmere: solid-color scarves and shawls, printed and patterned pieces from leopard and houndstooth to embroidered florals and tartan, and featherlight wraps light enough to fold into a pocket. Alongside them sit pure silk neck scarves, neckties, and pocket squares. Every cashmere piece is handwoven or hand-felted from 100% pure cashmere, and many are made to order in the color you choose. From $65.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
+
+Handwoven Cashmere Scarves, Shawls, and Silk Accessories
+A scarf is the fastest way to transform an outfit, and a real cashmere scarf is one you keep for a lifetime. This collection is built around handwoven and hand-felted Grade A cashmere: solid-color scarves and shawls in dozens of shades, printed and patterned pieces from leopard and houndstooth to embroidered florals, tartan, and glen plaid, and featherlight wraps light enough to fold into a pocket. Alongside the cashmere sit pure silk neck scarves, neckties, and pocket squares. Every cashmere piece is handwoven or hand-felted from 100% pure cashmere, and many are made to order in the color you choose. From $65.
+
+Find your accessory
+- Handwoven Cashmere Scarves & Shawls: Pure color, handwoven. The [Emerald Green](https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/), [Indigo Blue](https://baronboutique.com/indigo-blue-handwoven-cashmere-scarf-shawl/), [Ivory](https://b…
+- Printed & Patterned Cashmere: Pattern that gets noticed. The [Sunflower Embroidered](https://baronboutique.com/baby-blue-sunflower-embroidered-cashmere-scarf/), [Leopard Print](https://baronboutique.com/leopard-print-cashmere-scarf/), [Red Houndstoot…
+- Hand-Felted Cashmere Wraps: Dense, warm, and luxurious. The hand-felted cashmere scarf-wraps in [red](https://baronboutique.com/hand-knitted-red-cashmere-scarf-wrap/), [grey](https://baronboutique.com/hand-knitted-grey-cashmere-scarf-wrap/), [pink]…
+- Featherlight & Wedding Wraps: Weightless warmth for travel and occasion. The [Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/) and the [Cashmere Wedding Wrap in 80+ colors](https://baronboutique.com/cashmere…
+- Silk Neck Scarves & Ties: Pure silk, hand-finished. The [Silk Neck & Head Scarf](https://baronboutique.com/womens-silk-neck-scarf-head-shoulders-wrap/), plus handmade [silk neckties](https://baronboutique.com/two-face-silk-neckties-handmade/), [p…
+- Any Color, Made to Order: Many pieces are made to order, so you can request your color. If you want a shade or pattern you do not see, tell us and we craft it.
+
+Choose the piece and color
+Pick your scarf, shawl, wrap, or silk accessory and its color and pattern on the product page. For a custom color, note it in the order.
+
+Artisans handweave or hand-felt it
+Your cashmere piece is handwoven or hand-felted from 100% pure Grade A cashmere by artisans in Nepal, or your silk piece is hand-finished, rather than mass-produced.
+
+Hand-finished and checked
+Edges are hand-finished and each piece is checked for the weight, drape, and softness that define real cashmere before it is packed.
+
+It ships worldwide with tracking
+Your accessory ships by FedEx, DHL, or UPS with full tracking, gift-ready. Made-to-order colors take a little longer, and the result is yours alone.
+
+## Questions & Answers
+
+**Q:** How can I tell your cashmere is real Grade A cashmere?  
+**A:** Our scarves are woven from 100% pure Grade A cashmere, the highest grade, made from the longest and finest fibers (about 14 to 15.5 microns thick and 34 to 36 mm long). Real Grade A cashmere feels soft rather than scratchy, is remarkably light for how warm it is, warms quickly to the touch, and springs back when gently stretched rather than staying misshapen. It also resists pilling far better than shorter Grade B or C fibers or cashmere blends. A genuine burn test smells like burnt hair and leaves a soft ash, unlike the plastic bead left by synthetics.
+
+**Q:** Is a cashmere scarf the same as a pashmina?  
+**A:** A true pashmina is cashmere, woven from the fine undercoat of Himalayan Changthangi goats, so the terms overlap. The word pashmina is often misused for silk-blend or viscose wraps, so the key is the fiber: our scarves and shawls are 100% pure cashmere, handwoven in the traditional way, which is what gives them that weightless warmth and soft drape a genuine pashmina is known for.
+
+**Q:** What is the difference between handwoven and hand-felted cashmere?  
+**A:** Handwoven cashmere is woven on a loom, giving a light, fluid scarf or shawl with a soft drape. Hand-felted cashmere is worked into a denser, more substantial fabric, giving a warmer, more structured wrap. Both are 100% cashmere; the choice is about weight and feel, and each product page tells you which method was used.
+
+**Q:** Can I choose the color?  
+**A:** Yes. Many pieces are made to order, and the cashmere wedding wrap is offered in more than 80 colors. If you want a specific shade that is not shown, tell us and we craft it for you, which is ideal for coordinating a bridal party or matching an outfit.
+
+**Q:** Do these make good wedding or gift wraps?  
+**A:** Yes. A pure cashmere wrap is a classic bridal and bridesmaid accessory, elegant for the ceremony and warm for an evening reception, and the 80-plus-color wedding wrap lets you match the palette exactly. Cashmere also makes a lasting gift, and every piece ships gift-ready with full tracking.
+
+**Q:** How do I care for my cashmere scarf?  
+**A:** Hand-wash in cool water with a gentle cashmere or wool wash, or use a delicate cycle in a mesh bag, then reshape and dry it flat rather than hanging it. Store it folded. Cared for this way, Grade A cashmere softens with age and lasts for many years.
+
+**Q:** How long does it take, and do you ship worldwide?  
+**A:** In-stock pieces ship quickly, and made-to-order colors take a little longer to craft. We ship worldwide by FedEx, DHL, or UPS with full tracking. If you need an accessory for a specific date, tell us and we will confirm the timeline before you order.
 
 ## Products
 

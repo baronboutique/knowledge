@@ -2,7 +2,7 @@
 type: Index
 title: "Products"
 description: "All Baron Boutique product categories and products in Open Knowledge Format."
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Baron Boutique Products
@@ -142,10 +142,10 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)
 - [Coats & Overcoats](womenswear/coats-and-overcoats-for-women/index.md) — 8 products
-- [Shirts](womenswear/shirts-for-women/index.md) — 11 products
-- [Suits & Blazers](womenswear/suits-blazers-for-women/index.md) — 14 products
+- [Shirts & Blouses](womenswear/shirts-for-women/index.md) — 11 products
+- [Suits & Blazers](womenswear/suits-blazers-for-women/index.md) — 12 products
 - [Pants](womenswear/pants-for-women/index.md) — 12 products
+- [Wedding Suits](womenswear/wedding-suits-for-women/index.md) — 3 products
 - [Skirts](womenswear/skirts-for-women/index.md) — 10 products
-- [Wedding Suits](womenswear/wedding-suits-for-women/index.md) — 2 products
-- [Tuxedos](womenswear/tuxedos-for-women/index.md) — 2 products
+- [Tuxedos](womenswear/tuxedos-for-women/index.md) — 3 products
 

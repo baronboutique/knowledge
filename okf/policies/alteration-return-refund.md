@@ -4,7 +4,7 @@ title: "Alteration, Return & Refund Policy"
 description: "Custom-made garments are non-returnable once production has begun. Non-tailored accessories may be returned within 30 days. Alteration reimbursement is available for minor local adjustments."
 resource: https://baronboutique.com/alteration-return-refund/
 tags: [returns, refunds, alterations, policy, custom-garments, accessories]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Alteration, Return & Refund Policy

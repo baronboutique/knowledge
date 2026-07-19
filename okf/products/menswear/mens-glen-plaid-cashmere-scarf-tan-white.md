@@ -4,7 +4,7 @@ title: "Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth"
 description: "Crafted for the discerning gentleman, this men's glen plaid cashmere scarf in tan and white delivers boardroom polish and weekend versatility in one refined layer."
 resource: https://baronboutique.com/mens-glen-plaid-cashmere-scarf-tan-white/
 tags: [men, cashmere, scarf, glen-plaid, houndstooth, tan, handwoven, handmade, heirloom]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth

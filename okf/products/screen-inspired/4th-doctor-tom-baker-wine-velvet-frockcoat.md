@@ -4,7 +4,7 @@ title: "Fourth Doctor Tom Baker's Wine Velvet Frock Coat"
 description: "Step into the shoes of the Fourth Doctor with this screen inspired Tom Baker's iconic Wine Velvet Frock Coat."
 resource: https://baronboutique.com/4th-doctor-tom-baker-wine-velvet-frockcoat/
 tags: [men, coat, frock-coat, velvet, wine, burgundy, doctor-who, fourth-doctor, time-lord-coat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Fourth Doctor Tom Baker's Wine Velvet Frock Coat

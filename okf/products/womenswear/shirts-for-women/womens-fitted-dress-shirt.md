@@ -4,7 +4,7 @@ title: "The Cornerstone Professional Shirt"
 description: "This is the end of the frustrating search for the perfect work shirt. Our Women's Dress Shirts for Work are built to be a true wardrobe foundation, combining premium Egyptian cotton for all-day comfor…"
 resource: https://baronboutique.com/womens-fitted-dress-shirt/
 tags: [women, shirt, egyptian-cotton, fitted, workwear, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The Cornerstone Professional Shirt
@@ -28,14 +28,14 @@ The End of the "Nothing to Wear" Dilemma The search for the perfect work shirt i
 
 ## Categories
 
-- Women › Shirts
+- Women › Shirts & Blouses
 
 **Related terms:** tailored white shirt, darted dress shirt, crisp office shirt
 
 ## Related
 
-- [Shirts Category](../../../categories/womenswear/shirts-for-women.md)
-- [Shirts Products](index.md)
+- [Shirts & Blouses Category](../../../categories/womenswear/shirts-for-women.md)
+- [Shirts & Blouses Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)

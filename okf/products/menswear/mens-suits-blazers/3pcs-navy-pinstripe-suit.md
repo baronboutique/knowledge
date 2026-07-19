@@ -4,7 +4,7 @@ title: "The Navy Pinstripe Three-Piece Suit"
 description: "The definitive navy pinstripe three-piece suit, an artifact of timeless sartorial authority. Tailored from a fine, breathable worsted wool, it is engineered for a sharp, commanding silhouette."
 resource: https://baronboutique.com/3pcs-navy-pinstripe-suit/
 tags: [men, suit, three-piece-suit, vest, wool, navy, pinstripe, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The Navy Pinstripe Three-Piece Suit

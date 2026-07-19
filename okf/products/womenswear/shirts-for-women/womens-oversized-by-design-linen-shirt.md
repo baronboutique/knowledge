@@ -4,7 +4,7 @@ title: "The Tailored Oversized Linen Shirt"
 description: "This is how you master the oversized trend without looking sloppy. Our Women's Oversized Shirt in Linen solves the biggest challenge of this style with a guaranteed custom fit that perfects the propor…"
 resource: https://baronboutique.com/womens-oversized-by-design-linen-shirt/
 tags: [women, shirt, linen, oversized-fit, summer, casual-tailoring, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The Tailored Oversized Linen Shirt
@@ -28,14 +28,14 @@ The Art of the Effortless Silhouette There is a fine line between "effortlessly 
 
 ## Categories
 
-- Women › Shirts
+- Women › Shirts & Blouses
 
 **Related terms:** boyfriend linen shirt, relaxed beach shirt, breezy summer top
 
 ## Related
 
-- [Shirts Category](../../../categories/womenswear/shirts-for-women.md)
-- [Shirts Products](index.md)
+- [Shirts & Blouses Category](../../../categories/womenswear/shirts-for-women.md)
+- [Shirts & Blouses Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)

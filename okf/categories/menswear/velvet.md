@@ -4,7 +4,7 @@ title: "Velvet"
 description: "Men's velvet jackets and coats, made to your measurements. Velvet is the fabric of the holiday party, the winter wedding, and black tie with a point of view, but cheap velvet in a boxy off-the-rack size looks like a costume. Every piece here is cut from a premium velvet that holds its pile, built on a canvas front with hand-finished buttonholes and fabric-covered buttons, and made to your exact measurements. Before we cut your velvet, we send a free test garment so the fit is confirmed on your body first. The collection runs from the burgundy velvet dinner jacket and our number-one velvet smoking jacket through dramatic velvet frock coats and screen-inspired Doctor Who velvet coats, from $419."
 resource: https://baronboutique.com/menswear/velvet/
 tags: [velvet, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Velvet

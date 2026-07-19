@@ -4,7 +4,7 @@ title: "Tuxedos"
 description: "Men's Tuxedos, Made to Your Measurements Most men rent a tuxedo, and the photographs show it: a boxy jacket, trousers that pool at the shoe, and fabric already worn by a hundred renters before you. A tuxedo here is made to your measurements in real cloth, starts at $599, and is yours forever, which is about what two or three rentals cost. Black, midnight blue, navy herringbone, and burgundy, each with satin lapels and a free test suit sent to your home before we cut."
 resource: https://baronboutique.com/menswear/tuxedos/
 tags: [men, tuxedo, black-tie, dinner-suit, wedding-tuxedo, prom-tuxedo, shawl-lapel, peak-lapel, custom-tuxedo, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Tuxedos

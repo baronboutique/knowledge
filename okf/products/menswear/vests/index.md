@@ -4,7 +4,7 @@ title: "Vests"
 description: "Men's Custom & Bespoke waistcoats A waistcoat is the most overlooked piece of tailoring and the one that elevates an outfit most: it turns a two-piece suit into a three-piece, and worn on its own over a shirt it is a sharp, deliberate layer. It is also the piece a poor fit ruins fastest, gapping at the buttons or riding up over the waistband. Both waistcoats here are cut to your body in worsted wool for a year-round three-piece or linen for summer and weddings, and before we cut your final cloth we send a free test garment so the fit is confirmed first. Made to your measurements, $299."
 resource: https://baronboutique.com/menswear/vests/
 tags: [men, vest, waistcoat, three-piece, wedding-vest, linen-vest, wool-vest, custom-vest, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Vests

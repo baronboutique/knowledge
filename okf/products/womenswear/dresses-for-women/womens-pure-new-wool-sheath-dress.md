@@ -4,7 +4,7 @@ title: "The Minimalist Sheath Wedding Dress"
 description: "This is the power of a single, perfect dress. We've elevated the timeless sheath with the luxurious feel and subtle sheen of season less wool, creating your one-stop solution for looking polished and …"
 resource: https://baronboutique.com/womens-pure-new-wool-sheath-dress/
 tags: [women, dress, sheath-dress, pure-new-wool, wool, workwear, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The Minimalist Sheath Wedding Dress

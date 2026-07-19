@@ -4,7 +4,7 @@ title: "The Perfect Women's Oxford Shirt"
 description: "This is how you master menswear-inspired style. Our Pink Oxford Shirt for women solves the biggest challenge of this look—the boxy, unflattering fit."
 resource: https://baronboutique.com/womens-pink-oxford-cotton-shirt/
 tags: [women, shirt, oxford-cotton, pink, workwear, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The Perfect Women's Oxford Shirt
@@ -28,14 +28,14 @@ The Icon, Perfectly Reinterpreted for You The Oxford shirt is a legend for a rea
 
 ## Categories
 
-- Women › Shirts
+- Women › Shirts & Blouses
 
 **Related terms:** pink button down, oxford shirt for women, soft color work shirt
 
 ## Related
 
-- [Shirts Category](../../../categories/womenswear/shirts-for-women.md)
-- [Shirts Products](index.md)
+- [Shirts & Blouses Category](../../../categories/womenswear/shirts-for-women.md)
+- [Shirts & Blouses Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)

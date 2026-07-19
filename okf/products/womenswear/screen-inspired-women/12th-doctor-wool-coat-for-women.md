@@ -4,7 +4,7 @@ title: "Womens Blue Coat 12th Doctor Peter Capaldi"
 description: "Trendsetting womens blue coat replica from 12th Doctor inspired by Peter Capaldi style. Perfect fitting and amazing women's blue coat with a red lining in mid-thigh length."
 resource: https://baronboutique.com/12th-doctor-wool-coat-for-women/
 tags: [women, coat, flannel, wool, navy, doctor-who, twelfth-doctor, capaldi, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Womens Blue Coat 12th Doctor Peter Capaldi

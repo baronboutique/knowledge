@@ -4,7 +4,7 @@ title: "Wedding Suits"
 description: "Men's Wedding Suits, Made to Your Measurements Your wedding is the most photographed day of your life, and the worst day to wear a suit that is close but not right. Every wedding suit here is made to your measurements in real cloth, with a free test suit before we cut, and it is yours to keep. Linen suits for a summer or beach ceremony, tuxedos for a formal evening, ceremonial frock coats, and the look Baron is known for above all: the wedding suit with a floor-length cape that no rental can match and no other guest will be wearing."
 resource: https://baronboutique.com/menswear/wedding-suits/
 tags: [men, wedding-suit, groom-suit, groomsmen, linen-suit, silk-suit, summer-wedding, destination-wedding, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Wedding Suits

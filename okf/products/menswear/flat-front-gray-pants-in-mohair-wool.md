@@ -4,7 +4,7 @@ title: "Mens Mohair Pants"
 description: "In a world turned upside down, wear mens mohair pants that are cozy, simple, and well-cut. Mens gray mohair pants in flat front are comfortable work pants that go with every kind of dress code."
 resource: https://baronboutique.com/flat-front-gray-pants-in-mohair-wool/
 tags: [men, pants, dress-pants, mohair-wool, wool, gray, flat-front, workwear, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Mens Mohair Pants

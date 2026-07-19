@@ -4,7 +4,7 @@ title: "The Crepe Silk Blouse"
 description: "This is the upgrade your wardrobe has been waiting for. Our Women's Silk Shirts in Crepe Silk replace standard shirting with the fluid drape and subtle luxury of pure crepe silk."
 resource: https://baronboutique.com/womens-crepe-silk-shirt/
 tags: [women, shirt, blouse, crepe-silk, silk, workwear, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The Crepe Silk Blouse
@@ -28,14 +28,14 @@ Luxury That Moves With You This isn't just a blouse; it's a feeling. The fluid d
 
 ## Categories
 
-- Women › Shirts
+- Women › Shirts & Blouses
 
 **Related terms:** silk button up, fluid silk blouse, luxury work shirt
 
 ## Related
 
-- [Shirts Category](../../../categories/womenswear/shirts-for-women.md)
-- [Shirts Products](index.md)
+- [Shirts & Blouses Category](../../../categories/womenswear/shirts-for-women.md)
+- [Shirts & Blouses Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)

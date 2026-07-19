@@ -4,7 +4,7 @@ title: "Hand Felted Red Cashmere Scarf Wrap"
 description: "Embrace the Red Horizon: Wrap yourself in vibrant red cashmere, as invigorating as dawn over Nepal’s majestic peaks. Hand knitted and Hand Felted. Proudly made in Nepal."
 resource: https://baronboutique.com/hand-knitted-red-cashmere-scarf-wrap/
 tags: [women, cashmere, scarf, wrap, red, hand-knitted, hand-felted, handmade, heirloom]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Hand Felted Red Cashmere Scarf Wrap

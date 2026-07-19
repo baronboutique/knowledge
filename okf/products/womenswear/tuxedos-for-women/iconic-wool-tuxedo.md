@@ -4,7 +4,7 @@ title: "The Women's Tuxedo Suit"
 description: "For the woman who knows a dress isn’t the only answer. Our Female Tuxedo is not a costume; it's an icon, re-engineered."
 resource: https://baronboutique.com/iconic-wool-tuxedo/
 tags: [women, tuxedo, tropical-wool, wool, shawl-collar, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The Women's Tuxedo Suit
@@ -31,6 +31,7 @@ Own the Room This is for the woman who understands that true power is a choice. 
 
 - Women › Tuxedos
 - Women › Suits & Blazers
+- Women › Wedding Suits
 
 **Related terms:** womens tux, le smoking suit, black tie outfit for women, female tuxedo custom, evening suit instead of gown
 

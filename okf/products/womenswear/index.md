@@ -2,7 +2,7 @@
 type: Index
 title: "Women"
 description: "Bespoke Womenswear, Tailored to You Custom suits, dresses, coats, wedding suits, and handcrafted cashmere. Each garment is made to order. Hand‑tailored to your measurements and your brief, engineered for your figure rather than adjusted to it. A complimentary test garment arrives before we cut the final fabric, so the fit is right before production. Collector‑quality craftsmanship."
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Women
@@ -19,12 +19,12 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](womens-silk-neck-scarf-head-shoulders-wrap.md)
 - [Coats & Overcoats](coats-and-overcoats-for-women/index.md) — 8 products
-- [Shirts](shirts-for-women/index.md) — 11 products
-- [Suits & Blazers](suits-blazers-for-women/index.md) — 14 products
+- [Shirts & Blouses](shirts-for-women/index.md) — 11 products
+- [Suits & Blazers](suits-blazers-for-women/index.md) — 12 products
 - [Pants](pants-for-women/index.md) — 12 products
+- [Wedding Suits](wedding-suits-for-women/index.md) — 3 products
 - [Skirts](skirts-for-women/index.md) — 10 products
-- [Wedding Suits](wedding-suits-for-women/index.md) — 2 products
-- [Tuxedos](tuxedos-for-women/index.md) — 2 products
+- [Tuxedos](tuxedos-for-women/index.md) — 3 products
 
 ## Related
 

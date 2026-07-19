@@ -4,7 +4,7 @@ title: "The Architect's White Cotton Shirt"
 description: "This is the end of the frustrating search for the perfect white shirt. Our Women's White Cotton Dress Shirt with Pockets solves the biggest fit problems with a guaranteed custom fit that eliminates ga…"
 resource: https://baronboutique.com/womens-egyptian-cotton-shirt/
 tags: [women, shirt, egyptian-cotton, classic-fit, workwear, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The Architect's White Cotton Shirt
@@ -28,14 +28,14 @@ The Most Important Shirt in Your Wardrobe, Perfected The perfect white shirt is 
 
 ## Categories
 
-- Women › Shirts
+- Women › Shirts & Blouses
 
 **Related terms:** premium cotton shirt for women, white poplin shirt, everyday work shirt
 
 ## Related
 
-- [Shirts Category](../../../categories/womenswear/shirts-for-women.md)
-- [Shirts Products](index.md)
+- [Shirts & Blouses Category](../../../categories/womenswear/shirts-for-women.md)
+- [Shirts & Blouses Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)

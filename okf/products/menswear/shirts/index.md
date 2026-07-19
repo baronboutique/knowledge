@@ -4,7 +4,7 @@ title: "Shirts"
 description: "Men's Shirts, Made to Your Measurements A ready-made shirt is sized on your neck and sleeve only, so it fits your collar or your body but almost never both. Every shirt here is made to your measurements, cut to your neck, chest, and arm at the same time, with the collar, cuff, and fit you choose. And the cloth goes well beyond ordinary cotton: 220-thread Egyptian cotton for everyday luxury, raw silk with its distinctive matte texture, smooth satin silk in 20 colors, and pure linen for warm weather."
 resource: https://baronboutique.com/menswear/shirts/
 tags: [men, shirts, dress-shirt, silk-shirt, cotton-shirt, egyptian-cotton, custom-shirt, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Shirts

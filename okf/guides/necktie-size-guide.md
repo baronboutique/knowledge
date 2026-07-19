@@ -4,7 +4,7 @@ title: "Necktie Size Guide"
 description: "Don't guess your tie size. Our complete guide explains how to choose the perfect tie width and length based on your body type and suit style."
 resource: https://baronboutique.com/necktie-size-guide/
 tags: [men, necktie, size-guide, tie-length, tie-width, handmade, guide]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Necktie Size Guide

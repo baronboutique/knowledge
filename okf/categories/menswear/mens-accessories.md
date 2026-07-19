@@ -4,7 +4,7 @@ title: "Accessories"
 description: "Men's accessories in real silk and cashmere, hand-finished, never polyester. These are the details that finish a tailored look: 100% satin silk neckties, hand-rolled pocket squares, and the aviator silk neck scarf, alongside 100% Grade A handwoven Himalayan cashmere scarves and the pashmina shawl. Ties come in over 20 colors and can be cut to a custom length and width, and many cashmere pieces can be monogrammed or personalized as a gift. They are also the easiest way into Baron craftsmanship. Real materials, handmade, and shipped worldwide."
 resource: https://baronboutique.com/menswear/mens-accessories/
 tags: [men, accessories, neckties, pocket-squares, scarves, shawls, silk, cashmere, handmade, heirloom]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Accessories

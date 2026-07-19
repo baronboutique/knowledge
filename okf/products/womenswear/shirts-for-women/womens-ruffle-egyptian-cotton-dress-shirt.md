@@ -4,7 +4,7 @@ title: "The Tailored Ruffle Collar Shirt"
 description: "This is the secret to wearing ruffles with sophistication. Our Women's White Ruffle Collar Shirt uses precise darting and a flawless custom fit with free test garment to ensure the romantic details lo…"
 resource: https://baronboutique.com/womens-ruffle-egyptian-cotton-dress-shirt/
 tags: [women, shirt, blouse, egyptian-cotton, ruffle, workwear, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The Tailored Ruffle Collar Shirt
@@ -28,14 +28,14 @@ Feminine, Not Fussy This is how you master the art of romantic detailing without
 
 ## Categories
 
-- Women › Shirts
+- Women › Shirts & Blouses
 
 **Related terms:** ruffle front shirt, feminine dress shirt, premium cotton blouse
 
 ## Related
 
-- [Shirts Category](../../../categories/womenswear/shirts-for-women.md)
-- [Shirts Products](index.md)
+- [Shirts & Blouses Category](../../../categories/womenswear/shirts-for-women.md)
+- [Shirts & Blouses Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)

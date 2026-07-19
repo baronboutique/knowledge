@@ -4,7 +4,7 @@ title: "Nature-Printed Blue & White Cashmere Scarf"
 description: "Nature-Printed Blue & White Cashmere Scarf in Diamond Weave — Inspired by Antique Landscapes, Hand-Finished for Elegant Layering Crafted from 100% pure, allergen-free Grade A cashmere for superior war…"
 resource: https://baronboutique.com/nature-printed-blue-white-cashmere-scarf/
 tags: [women, cashmere, scarf, wrap, printed, nature-print, blue, white, handwoven, handmade, heirloom]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Nature-Printed Blue & White Cashmere Scarf

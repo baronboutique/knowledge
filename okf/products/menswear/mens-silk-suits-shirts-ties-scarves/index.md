@@ -4,7 +4,7 @@ title: "Silk"
 description: "Men's silk suits, shirts, trousers, and accessories, made to your measurements in genuine silk. Most \"silk\" sold online is polyester woven to imitate the sheen; everything here is real dupioni, raw, satin, and noil silk, which carries a natural luster, breathes and regulates temperature, and drapes the way a synthetic never can. The collection spans dupioni silk suits in 22 colors, raw and dupioni silk blazers, 100% satin silk shirts, dupioni silk trousers, the Bond-inspired silk Nehru jacket, and hand-finished satin silk ties, pocket squares, and scarves. For the tailored pieces, we send a free test garment before your silk is cut, so the fit is confirmed on your body first. From $65."
 resource: https://baronboutique.com/menswear/mens-silk-suits-shirts-ties-scarves/
 tags: [silk, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Silk

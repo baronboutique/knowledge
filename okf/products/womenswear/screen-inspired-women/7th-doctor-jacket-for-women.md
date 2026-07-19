@@ -4,7 +4,7 @@ title: "The 7th Doctor's Utility Jacket"
 description: "This isn't just a jacket; it's the uniform of a grand chessmaster, tailored for you. Our Women's 7th Doctor Who Jacket uses a guaranteed custom fit to honor your silhouette, ensuring the belted back c…"
 resource: https://baronboutique.com/7th-doctor-jacket-for-women/
 tags: [women, jacket, gabardine-wool, wool, safari-style, doctor-who, seventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # The 7th Doctor's Utility Jacket

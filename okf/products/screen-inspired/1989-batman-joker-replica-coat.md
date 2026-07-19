@@ -4,7 +4,7 @@ title: "1989 Batman Joker Replica Coat - Jack Nicholson's Iconic Look"
 description: "A faithful recreation of Jack Nicholson's legendary purple suit coat from Batman 1989. Handcrafted with screen-accurate tailoring, this Joker replica embodies Gotham's most unforgettable villain—desig…"
 resource: https://baronboutique.com/1989-batman-joker-replica-coat/
 tags: [men, coat, overcoat, melton-wool, wool, purple, joker, theatrical-villain, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # 1989 Batman Joker Replica Coat - Jack Nicholson's Iconic Look

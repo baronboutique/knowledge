@@ -4,7 +4,7 @@ title: "Red Houndstooth Cashmere Scarf – Hand-Finished in Diamond Weave"
 description: "This red houndstooth cashmere scarf is hand-finished in a classic diamond weave for an ultra-soft feel and smooth finish."
 resource: https://baronboutique.com/red-houndstooth-cashmere-scarf/
 tags: [women, cashmere, scarf, wrap, houndstooth, red, diamond-weave, handwoven, handmade, heirloom]
-timestamp: 2026-07-13T15:01:59Z
+timestamp: 2026-07-15T06:19:33Z
 ---
 
 # Red Houndstooth Cashmere Scarf – Hand-Finished in Diamond Weave
