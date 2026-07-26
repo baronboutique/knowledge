@@ -2,7 +2,7 @@
 type: Index
 title: "Products"
 description: "All Baron Boutique product categories and products in Open Knowledge Format."
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Baron Boutique Products
@@ -19,8 +19,8 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [12th Doctor Navy Blue Velvet Coat Peter Capaldi Cosplay](menswear/12th-doctors-navy-velvet-coat-for-men.md)
 - [12th Doctor Who Series 9 Coat](menswear/12th-doctor-coat.md)
 - [12th Grey Linen Coat, Capaldi Series 10](menswear/12th-doctor-grey-linen-coat.md)
+- [1960s Mod Four-Button Suit with Velvet Collar](menswear/1960s-mod-suit-jacket-velvet-collar.md)
 - [3/4 Length Denim-Leather Hybrid Coat](menswear/handmade-denim-leather-hybrid-coat.md)
-- [A Hard Day’s Night Beatles Jacket Replica](menswear/beatles-hard-days-night-jacket-replica.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](menswear/sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
 - [Chalk Stripe Pants](menswear/mens-navy-chalk-stripe-wool-suit-pant.md)
 - [Eleventh Doctor Inspired Green Frock Coat](menswear/eleventh-doctors-green-coat.md)
@@ -30,7 +30,6 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Grey Flannel Trousers](menswear/mens-gray-wool-flannel-pants.md)
 - [Hand Finished Silk Pocket Squares](menswear/silk-pocket-squares-handmade.md)
 - [James Bond Navy Blue Coat Spectre](menswear/navy-bond-coat-spectre.md)
-- [Joker Trench Coat Black Leather Dark Knight](menswear/joker-coat-in-leather.md)
 - [Linen Pants For A Beach Wedding](menswear/linen-pants.md)
 - [Men's Car Coat In Wool](menswear/mens-car-coat.md)
 - [Men's Cubana Coat](menswear/mens-cubana-coat.md)
@@ -38,6 +37,7 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](menswear/mens-glen-plaid-cashmere-scarf-tan-white.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](menswear/mens-gray-pinstripe-pants.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](menswear/mens-linen-frock-coat-summer-wedding.md)
+- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](menswear/mens-long-black-leather-coat.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](menswear/mens-navy-peacoat.md)
 - [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](menswear/mens-pashmina-shawl-handwoven.md)
 - [Men's Tailored Linen Pants](menswear/tailored-fit-dark-blue-linen-pants.md)
@@ -63,9 +63,9 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Two Face Silk Neckties Handmade](menswear/two-face-silk-neckties-handmade.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 - [Western Frock Coat in Wool, Made to Measure](menswear/mens-frock-coat.md)
-- [Silk](menswear/mens-silk-suits-shirts-ties-scarves/index.md) — 6 products
+- [Real Silk Eventwear](menswear/mens-silk-suits-shirts-ties-scarves/index.md) — 6 products
 - [Suits & Blazers](menswear/mens-suits-blazers/index.md) — 20 products
-- [Velvet](menswear/velvet/index.md) — 2 products
+- [House of Velvet](menswear/velvet/index.md) — 2 products
 - [Frock Coats](menswear/frock-coats-for-men/index.md) — 3 products
 - [Coats & Overcoats](menswear/mens-coats-and-overcoats/index.md) — 6 products
 - [Tuxedos](menswear/tuxedos/index.md) — 6 products
@@ -78,16 +78,16 @@ All products are made to order by human tailors after an order is confirmed. No 
 ## [Screen Inspired](screen-inspired/index.md)
 
 - [Doctor Collection](screen-inspired/doctor-collection/index.md) — 7 products
-- [1989 Batman Joker Replica Coat - Jack Nicholson's Iconic Look](screen-inspired/1989-batman-joker-replica-coat.md)
-- [1989 Batman Joker Tailcoat - Purple Evening Coat](screen-inspired/1989-joker-tailcoat.md)
+- [1989 Gotham Villain Double-Breasted Purple Evening Tailcoat](screen-inspired/1989-gotham-villain-purple-tailcoat.md)
+- [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat](screen-inspired/1989-purple-coat-gotham-villain.md)
+- [2008 Gotham Villain Single-Breasted Purple Melton Wool Overcoat](screen-inspired/2008-purple-trench-coat-gotham-villain.md)
+- [2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [5th Doctor Cosplay Beige Frock Coat](screen-inspired/5th-doctor-red-piping-frock-coat.md)
 - [Dryden Vos Costume Solo: A Star Wars Story Cosplay](screen-inspired/dryden-vos-costumes-solo.md)
 - [Eleventh Doctor's "Snowmen" Frock Coat](screen-inspired/eleventh-doctor-snowmen-frock-coat-replica.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
 - [Good Omens Season 02 Crowley Black Blazer](screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [James Bond Casino Royale Suit 3 Piece Final Scene](screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
-- [Joker Suit 2019 Replica | Arthur Fleck Bespoke Three-Piece](screen-inspired/joker-suit-2019-film.md)
-- [Joker Trench Coat, Dark Knight Inspired in Purple Melton Wool](screen-inspired/joker-coat.md)
 - [Newt Inspired British Herringbone Tweed Coat](screen-inspired/newt-inspired-herringbone-tweed-coat.md)
 - [Sacha Dhawan Master Coat Doctor Series 12](screen-inspired/sacha-dhawan-master-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](screen-inspired/smith-shetland-tweed-blazer-jacket.md)

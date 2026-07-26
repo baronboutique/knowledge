@@ -4,7 +4,7 @@ title: "Linen Wedding Suit for Grooms, Made to Measure"
 description: "The problem with a linen wedding suit off the rack is that linen without a proper fit looks underdressed, not relaxed."
 resource: https://baronboutique.com/grooms-linen-suit-for-wedding/
 tags: [men, suit, linen, wedding, groom, summer, beach-wedding, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Linen Wedding Suit for Grooms, Made to Measure

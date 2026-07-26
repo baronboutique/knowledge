@@ -4,7 +4,7 @@ title: "Dresses"
 description: "Women's Dresses Tailored Dresses, Made to Your Measurements A dress that is made to your measurements sits differently: it skims where it should and holds where it should, with no gaping neckline and no compromise between the bust and the waist. This collection spans tailored sheath dresses, silk and statement dresses, linen and summer styles, easy shift and wrap dresses, and sheath dresses for weddings and mothers of the bride, each cut to your body in real cloth. Choose your cloth, color, and length, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $309."
 resource: https://baronboutique.com/womenswear/dresses-for-women/
 tags: [women, dresses, sheath-dress, shift-dress, wrap-dress, maxi-dress, work-dress, wool-dress, silk-dress, custom-dress, made-to-measure, bespoke]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Dresses

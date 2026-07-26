@@ -4,7 +4,7 @@ title: "Men"
 description: "Bespoke Menswear, Built to Your Measure From custom suits, tuxedos, and frock coats to overcoats, shirts, and cashmere, every piece is made to order and hand‑tailored to your exact measurements — never pulled from a rack. Before we cut the final cloth, a complimentary test garment comes to your home, so the fit is approved first. Collector‑quality construction."
 resource: https://baronboutique.com/menswear/
 tags: [men, menswear, custom-suits, tailored-clothing, formalwear, wedding-attire, coats, shirts, pants, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Men
@@ -13,8 +13,8 @@ Bespoke Menswear, Built to Your Measure From custom suits, tuxedos, and frock co
 
 ## Subcategories
 
-- [Silk](mens-silk-suits-shirts-ties-scarves.md)
-- [Velvet](velvet.md)
+- [House of Velvet](velvet.md)
+- [Real Silk Eventwear](mens-silk-suits-shirts-ties-scarves.md)
 - [Suits & Blazers](mens-suits-blazers.md)
 - [Dinner Jackets](dinner-jackets.md)
 - [Wedding Suits](wedding-suits.md)
@@ -97,8 +97,8 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [12th Doctor Navy Blue Velvet Coat Peter Capaldi Cosplay](../../products/menswear/12th-doctors-navy-velvet-coat-for-men.md)
 - [12th Doctor Who Series 9 Coat](../../products/menswear/12th-doctor-coat.md)
 - [12th Grey Linen Coat, Capaldi Series 10](../../products/menswear/12th-doctor-grey-linen-coat.md)
+- [1960s Mod Four-Button Suit with Velvet Collar](../../products/menswear/1960s-mod-suit-jacket-velvet-collar.md)
 - [3/4 Length Denim-Leather Hybrid Coat](../../products/menswear/handmade-denim-leather-hybrid-coat.md)
-- [A Hard Day’s Night Beatles Jacket Replica](../../products/menswear/beatles-hard-days-night-jacket-replica.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](../../products/menswear/sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
 - [Chalk Stripe Pants](../../products/menswear/mens-navy-chalk-stripe-wool-suit-pant.md)
 - [Eleventh Doctor Inspired Green Frock Coat](../../products/menswear/eleventh-doctors-green-coat.md)
@@ -108,7 +108,6 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Grey Flannel Trousers](../../products/menswear/mens-gray-wool-flannel-pants.md)
 - [Hand Finished Silk Pocket Squares](../../products/menswear/silk-pocket-squares-handmade.md)
 - [James Bond Navy Blue Coat Spectre](../../products/menswear/navy-bond-coat-spectre.md)
-- [Joker Trench Coat Black Leather Dark Knight](../../products/menswear/joker-coat-in-leather.md)
 - [Linen Pants For A Beach Wedding](../../products/menswear/linen-pants.md)
 - [Men's Car Coat In Wool](../../products/menswear/mens-car-coat.md)
 - [Men's Cubana Coat](../../products/menswear/mens-cubana-coat.md)
@@ -116,6 +115,7 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](../../products/menswear/mens-glen-plaid-cashmere-scarf-tan-white.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](../../products/menswear/mens-gray-pinstripe-pants.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/mens-linen-frock-coat-summer-wedding.md)
+- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/menswear/mens-long-black-leather-coat.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](../../products/menswear/mens-navy-peacoat.md)
 - [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](../../products/menswear/mens-pashmina-shawl-handwoven.md)
 - [Men's Tailored Linen Pants](../../products/menswear/tailored-fit-dark-blue-linen-pants.md)

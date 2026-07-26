@@ -4,7 +4,7 @@ title: "White Piped Trim Sheath Dress A-Line V-Neck"
 description: "This is your wardrobe's secret weapon. A single, powerful dress designed to conquer any event on your calendar."
 resource: https://baronboutique.com/womens-piped-sheath-dress/
 tags: [women, dress, sheath-dress, piping, workwear, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # White Piped Trim Sheath Dress A-Line V-Neck

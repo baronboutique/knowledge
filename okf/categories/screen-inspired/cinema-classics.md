@@ -4,7 +4,7 @@ title: "Cinema Classics"
 description: "The Cinema Classics Collection Cinema has always known how to dress a man. This collection pays tribute to the garments that made history on screen. From Victorian frock coats to sharp Edwardian cuts, every piece draws from the silhouettes and fabrics that defined iconic moments in film. The tailoring is precise. The materials are uncompromising. The fit is entirely your own. Each garment is bespoke, cut and constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made."
 resource: https://baronboutique.com/screen-inspired/cinema-classics/
 tags: [cinema-classics, movie-replica, cary-grant, star-wars, fantastic-beasts, film-costume, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Cinema Classics
@@ -80,11 +80,12 @@ Every adjustment is applied, then your piece is cut and hand-tailored in the fab
 
 ## Products
 
-- [1989 Batman Joker Replica Coat - Jack Nicholson's Iconic Look](../../products/screen-inspired/1989-batman-joker-replica-coat.md)
-- [1989 Batman Joker Tailcoat - Purple Evening Coat](../../products/screen-inspired/1989-joker-tailcoat.md)
-- [A Hard Day’s Night Beatles Jacket Replica](../../products/menswear/beatles-hard-days-night-jacket-replica.md)
+- [1960s Mod Four-Button Suit with Velvet Collar](../../products/menswear/1960s-mod-suit-jacket-velvet-collar.md)
+- [1989 Gotham Villain Double-Breasted Purple Evening Tailcoat](../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
+- [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat](../../products/screen-inspired/1989-purple-coat-gotham-villain.md)
+- [2008 Gotham Villain Single-Breasted Purple Melton Wool Overcoat](../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
+- [2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](../../products/menswear/sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
-- [Brad Pitt Oceans 11 Suit](../../products/screen-inspired/cinema-classics/rustys-suit-from-oceans-11.md)
 - [Cary Grant North By Northwest Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
 - [Count Dooku Cape and Tunic Star Wars](../../products/screen-inspired/cinema-classics/count-dooku-cape-and-tunic-from-star-wars.md)
 - [Dryden Vos Costume Solo: A Star Wars Story Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
@@ -93,16 +94,15 @@ Every adjustment is applied, then your piece is cut and hand-tailored in the fab
 - [Hei Trench Coat from Darker Than Black, Custom Made in Wool](../../products/screen-inspired/cinema-classics/hei-trench-coat-darker-than-black.md)
 - [Hunter Coat Bloodborne Cosplay](../../products/screen-inspired/cinema-classics/bloodborne-hunter-cosplay-coat.md)
 - [James West Wild Wild West Suit](../../products/menswear/destination-wedding-suits/james-west-wild-wild-west-suit.md)
-- [Joker Suit 2019 Replica | Arthur Fleck Bespoke Three-Piece](../../products/screen-inspired/joker-suit-2019-film.md)
-- [Joker Trench Coat Black Leather Dark Knight](../../products/menswear/joker-coat-in-leather.md)
-- [Joker Trench Coat, Dark Knight Inspired in Purple Melton Wool](../../products/screen-inspired/joker-coat.md)
+- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/menswear/mens-long-black-leather-coat.md)
 - [Never The Sinner Suit](../../products/screen-inspired/cinema-classics/never-the-sinner-suit.md)
 - [Newt Inspired British Herringbone Tweed Coat](../../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
 - [Peter B Parker Green Jacket Spider Man Into The Spider Verse](../../products/screen-inspired/cinema-classics/peter-b-parker-coat-spider-man-into-the-spider-verse.md)
 - [Prince Vlad Dracula London Suit](../../products/screen-inspired/cinema-classics/vlad-dracula-london-suit.md)
 - [Shadow Coat Costume from Alec Baldwin's "The Shadow"](../../products/screen-inspired/cinema-classics/shadow-coat.md)
-- [Tom Cruise Collateral Suit](../../products/menswear/mens-suits-blazers/tom-cruise-suit-from-collateral.md)
-- [Tom Cruise Leather Jacket Minority Report](../../products/screen-inspired/cinema-classics/minority-report-leather-jacket.md)
+- [The Collateral Suit, Single-Button Light Grey Worsted Wool](../../products/menswear/mens-suits-blazers/collateral-suit-grey-worsted-wool.md)
+- [The Heist Suit, Grey Sharkskin Single-Button Peak Lapel](../../products/screen-inspired/cinema-classics/grey-sharkskin-heist-suit.md)
+- [The Minority Jacket, Minimalist Band-Collar Black Leather](../../products/screen-inspired/cinema-classics/minority-band-collar-leather-jacket.md)
 - [Tristan Thorn Stardust Coat Replica](../../products/screen-inspired/cinema-classics/tristan-thorn-stardust-coat-replica.md)
 
 **Related terms:** classic movie costumes, film replica coats, Hollywood suit replicas, iconic movie jackets

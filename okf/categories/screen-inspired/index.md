@@ -4,7 +4,7 @@ title: "Screen Inspired"
 description: "Screen Legends, Tailored for Real Life The most memorable characters are remembered by what they wore. Our Screen Inspired collection recreates those wardrobes. The Doctor's frock coats, Neo's trench, spy suits, Victorian detectives, and theatrical villains. Each piece custom-made and hand-tailored to your exact measurements, never a generic costume."
 resource: https://baronboutique.com/screen-inspired/
 tags: [screen-inspired, cinematic-fashion, movie-replica, cosplay, film-costume, tv-costume, replica-tailoring, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Screen Inspired
@@ -90,16 +90,16 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 
 ## Products
 
-- [1989 Batman Joker Replica Coat - Jack Nicholson's Iconic Look](../../products/screen-inspired/1989-batman-joker-replica-coat.md)
-- [1989 Batman Joker Tailcoat - Purple Evening Coat](../../products/screen-inspired/1989-joker-tailcoat.md)
+- [1989 Gotham Villain Double-Breasted Purple Evening Tailcoat](../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
+- [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat](../../products/screen-inspired/1989-purple-coat-gotham-villain.md)
+- [2008 Gotham Villain Single-Breasted Purple Melton Wool Overcoat](../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
+- [2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [5th Doctor Cosplay Beige Frock Coat](../../products/screen-inspired/5th-doctor-red-piping-frock-coat.md)
 - [Dryden Vos Costume Solo: A Star Wars Story Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
 - [Eleventh Doctor's "Snowmen" Frock Coat](../../products/screen-inspired/eleventh-doctor-snowmen-frock-coat-replica.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](../../products/screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
 - [Good Omens Season 02 Crowley Black Blazer](../../products/screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [James Bond Casino Royale Suit 3 Piece Final Scene](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
-- [Joker Suit 2019 Replica | Arthur Fleck Bespoke Three-Piece](../../products/screen-inspired/joker-suit-2019-film.md)
-- [Joker Trench Coat, Dark Knight Inspired in Purple Melton Wool](../../products/screen-inspired/joker-coat.md)
 - [Newt Inspired British Herringbone Tweed Coat](../../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
 - [Sacha Dhawan Master Coat Doctor Series 12](../../products/screen-inspired/sacha-dhawan-master-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](../../products/screen-inspired/smith-shetland-tweed-blazer-jacket.md)

@@ -4,7 +4,7 @@ title: "Free Swatch Service"
 description: "Request free fabric swatches from Baron Boutique. Explore premium wool, cashmere, and silk blends. International shipping available. Refundable with your first order."
 resource: https://baronboutique.com/swatch-service/
 tags: [swatch-service, fabric-samples, free-swatch, fabric-selection, guide]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Free Swatch Service

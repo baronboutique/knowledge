@@ -4,7 +4,7 @@ title: "Suits & Blazers"
 description: "Bespoke Suits & Blazers, Cut for You From sharp two-piece business suits to three-piece statement tailoring and unstructured blazers, every jacket is made to order and hand-tailored to your exact measurements — never altered off a rack. Choose your cloth and lining, and we send a complimentary test garment before cutting the final fabric, so the fit is approved first. Collector-quality canvas construction."
 resource: https://baronboutique.com/menswear/mens-suits-blazers/
 tags: [men, suits, blazers, two-piece-suit, three-piece-suit, sport-coat, business-suit, wedding-suit, custom-suit, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Suits & Blazers
@@ -81,10 +81,10 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 
 ## Products
 
+- [1960s Mod Four-Button Suit with Velvet Collar](../../products/menswear/1960s-mod-suit-jacket-velvet-collar.md)
 - [2 Button Silk and Wool Suit](../../products/menswear/mens-silk-suits-shirts-ties-scarves/2button-silk-and-wool-suit.md)
 - [2 Button Solid Navy Wool Suit](../../products/menswear/mens-suits-blazers/2-button-solid-navy-wool-suit.md)
 - [6 Button Double Breasted Suit, Custom Made in Super 120s Wool](../../products/menswear/mens-suits-blazers/mens-double-breasted-suit.md)
-- [A Hard Day’s Night Beatles Jacket Replica](../../products/menswear/beatles-hard-days-night-jacket-replica.md)
 - [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
 - [Black Velvet Shawl Collar Tuxedo Jacket](../../products/menswear/dinner-jackets/slim-fit-black-velvet-jacket.md)
 - [Blue Linen Suit for Men, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
@@ -120,6 +120,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [Slate Blue Sharkskin Suit](../../products/menswear/wedding-suits/sharkskin-wedding-suit.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](../../products/screen-inspired/smith-shetland-tweed-blazer-jacket.md)
 - [The Black Dupioni Silk Suit for Men - 3 Button Roll to 2](../../products/menswear/mens-silk-suits-shirts-ties-scarves/black-dupioni-silk-suit-3-roll-2.md)
+- [The Collateral Suit, Single-Button Light Grey Worsted Wool](../../products/menswear/mens-suits-blazers/collateral-suit-grey-worsted-wool.md)
 - [The Dark Grey Three-Piece Suit](../../products/menswear/mens-suits-blazers/100-percent-wool-suit-for-all-season.md)
 - [The Essential Navy Blazer](../../products/menswear/mens-suits-blazers/essential-navy-blazer.md)
 - [The Grey Flannel Suit](../../products/menswear/mens-suits-blazers/iconic-hollywood-gray-flannel-suit.md)
@@ -128,7 +129,6 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [The Peak Lapel Tuxedo](../../products/menswear/tuxedos/mens-navy-wool-tuxedo.md)
 - [The Pink Wool Blazer](../../products/menswear/mens-suits-blazers/pink-melange-blazer.md)
 - [The Unstructured Cotton Suit Slim Fit Custom Made](../../products/menswear/mens-suits-blazers/cotton-suit-unstructured.md)
-- [Tom Cruise Collateral Suit](../../products/menswear/mens-suits-blazers/tom-cruise-suit-from-collateral.md)
 - [Tropical Wool Suit](../../products/menswear/mens-suits-blazers/2-button-tropical-wool-suit.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 - [Vintage Sharkskin Suit](../../products/menswear/mens-suits-blazers/versatile-all-purpose-suit-in-vintage-sharkskin.md)

@@ -4,7 +4,7 @@ title: "Wedding Suits"
 description: "Women's Wedding Suits Bespoke Wedding Suits and Tuxedos for Women, Made to Your Measurements For the bride who wears a suit, the guest who wants something sharper than a dress, and the mother of the bride or groom who wants to feel unmistakably herself, this collection is tailoring for the occasion. It runs from bridal suits in white and off-white to women's tuxedos, silk and silk-blend suits, and statement evening jackets, every piece made to your exact measurements in real cloth. Choose your cloth, color, and details, and we build it to your body and your wedding. Before we cut your final fabric we send a free test garment, so the fit is confirmed on you first, and we recommend ordering early for a dated event. Made to your measurements, from $529."
 resource: https://baronboutique.com/womenswear/wedding-suits-for-women/
 tags: [women, wedding-suit, bridal-suit, bride-pantsuit, destination-wedding, custom-suit, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Wedding Suits

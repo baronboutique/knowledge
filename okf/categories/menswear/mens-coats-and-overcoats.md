@@ -4,7 +4,7 @@ title: "Coats & Overcoats"
 description: "Men's Coats & Overcoats, Made to Your Measurements A coat lives or dies on two things a rack size cannot fix: the set of the shoulders and the length of the hem. Every coat here is made to your measurements, so the shoulders sit where yours are and the hem falls where you want it, in real wool, wool-cashmere, Melton, and tweed, with a free test coat before we cut. Overcoats and topcoats to wear over a suit, peacoats and car coats for every day, dramatic frock coats, and the coats people recognize from the screen, all built as garments to keep, not to replace."
 resource: https://baronboutique.com/menswear/mens-coats-and-overcoats/
 tags: [men, coats, overcoat, topcoat, peacoat, car-coat, trench-coat, winter-coat, wool-coat, custom-coat, made-to-measure, bespoke]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Coats & Overcoats
@@ -99,13 +99,13 @@ Your finished coat ships from Dubai by trackable courier, about four to six week
 - [Green Velvet Frock Coat](../../products/menswear/green-velvet-frock-coat.md)
 - [Herringbone Car Coat in Tweed Wool](../../products/menswear/mens-coats-and-overcoats/mens-herringbone-wool-car-coat.md)
 - [James Bond Navy Blue Coat Spectre](../../products/menswear/navy-bond-coat-spectre.md)
-- [Joker Trench Coat Black Leather Dark Knight](../../products/menswear/joker-coat-in-leather.md)
 - [Keanu Reeves Trench Coat The Matrix Revolutions](../../products/screen-inspired/cyberpunk-trench-coats/the-matrix-revolutions-coat.md)
 - [Men's Car Coat In Wool](../../products/menswear/mens-car-coat.md)
 - [Men's Cubana Coat](../../products/menswear/mens-cubana-coat.md)
 - [Men's Debonair Coat](../../products/menswear/mens-coats-and-overcoats/mens-debonair-coat.md)
 - [Men's Double Breasted Long Peacoat](../../products/menswear/mens-double-breasted-peacoat.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/mens-linen-frock-coat-summer-wedding.md)
+- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/menswear/mens-long-black-leather-coat.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](../../products/menswear/mens-navy-peacoat.md)
 - [Men's Navy Topcoat With Velvet Collar](../../products/menswear/velvet/mens-navy-flannel-topcoat.md)
 - [Men's Wool Flared Zip Tailcoat](../../products/menswear/frock-coats-for-men/mens-wool-flared-zip-tailcoat.md)

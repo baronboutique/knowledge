@@ -4,7 +4,7 @@ title: "Screen Inspired"
 description: "Screen Inspired, For Her Cinematic Tailoring for Women, Cut to Your Measurements Cinema's most compelling silhouettes, recut for the modern woman. From the Doctor's velvet coats and Edwardian frock coats to spy tailoring, the Matrix's long black trench, and gothic statement outerwear, every piece draws from the garments that defined iconic moments on screen. Structured, precise, and unapologetically bold. Each garment is bespoke, made exclusively to your measurements, and our free test garment guarantees a flawless fit before your final piece is cut. Made to your measurements, from $229."
 resource: https://baronboutique.com/womenswear/screen-inspired-women/
 tags: [women, screen-inspired, movie-replica, cosplay, doctor-who, matrix, james-bond, film-costume, replica, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Screen Inspired
@@ -64,12 +64,12 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 ## Products
 
 - [Black Wizard Robe Womens Percival Graves Fantastic Beasts Cosplay](../../products/womenswear/screen-inspired-women/percival-graves-black-coat-for-women.md)
+- [Tenth Doctor's Brown Pinstripe Suit](../../products/womenswear/screen-inspired-women/womens-10th-doctor-brown-with-blue-stripes-suit.md)
 - [The 7th Doctor's Utility Jacket](../../products/womenswear/screen-inspired-women/7th-doctor-jacket-for-women.md)
 - [Thirteenth Doctor Teal Wool Pants](../../products/womenswear/pants-for-women/13th-doctor-pants.md)
 - [Women's 12th Doctor Burgundy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctor-burgundy-velvet-coat-for-women.md)
 - [Women's Beige Frock Coat with Red Stripe](../../products/womenswear/screen-inspired-women/5th-doctor-red-piping-frock-coat-for-women.md)
-- [Women's Dark Knight Joker Coat | Bespoke Leather](../../products/womenswear/screen-inspired-women/womens-joker-coat-in-leather.md)
-- [Women's Tenth Doctor's Pinstripe Suit](../../products/womenswear/screen-inspired-women/womens-10th-doctor-brown-with-blue-stripes-suit.md)
+- [Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa](../../products/womenswear/screen-inspired-women/womens-long-black-leather-coat.md)
 - [Women's Twelfth Doctor Black Velvet Frock Coat](../../products/womenswear/screen-inspired-women/12th-doctor-black-velvet-frock-coat-for-women.md)
 - [Women's Twelfth Doctor Navy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctors-navy-velvet-coat-for-women.md)
 - [Womens Blue Coat 12th Doctor Peter Capaldi](../../products/womenswear/screen-inspired-women/12th-doctor-wool-coat-for-women.md)

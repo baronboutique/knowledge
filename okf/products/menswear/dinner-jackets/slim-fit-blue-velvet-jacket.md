@@ -4,7 +4,7 @@ title: "Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front"
 description: "Most velvet dinner jackets fail because they were made for someone else's body. The pile catches every misfit - a pulling chest, a drooping shoulder, a sleeve that's a half-inch too long."
 resource: https://baronboutique.com/slim-fit-blue-velvet-jacket/
 tags: [men, blazer, dinner-jacket, velvet, blue, slim-fit, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front
@@ -103,7 +103,7 @@ We update your pattern with every adjustment. The test jacket is yours to keep. 
 ## Categories
 
 - Men › Dinner Jackets
-- Men › Velvet
+- Men › House of Velvet
 - Men › Suits & Blazers
 
 **Related terms:** blue velvet dinner jacket, royal blue smoking jacket, prom jacket velvet, festive party blazer, midnight blue evening jacket

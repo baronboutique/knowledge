@@ -4,7 +4,7 @@ title: "Two Face Silk Neckties Handmade"
 description: "Two face silk neckties amazingly cool and unique items handmade in excellent quality and design. Inspired by the two faces of supervillain Harvey Dent."
 resource: https://baronboutique.com/two-face-silk-neckties-handmade/
 tags: [men, necktie, silk, two-tone, contrast, formalwear, handmade, heirloom]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Two Face Silk Neckties Handmade
@@ -30,7 +30,7 @@ The Tie, Reimagined: Twice the Style in One This is not just a necktie; it is a 
 
 ## Categories
 
-- Men › Silk
+- Men › Real Silk Eventwear
 - Women › Accessories
 - Men › Accessories
 

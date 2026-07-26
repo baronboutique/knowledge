@@ -4,7 +4,7 @@ title: "Accessibility Statement"
 description: "Baron Intl' Pvt Ltd is committed to providing a fully accessible website experience on the Baron Boutique website for users of assistive technologies."
 resource: https://baronboutique.com/accessibility-statement/
 tags: [policy, legal]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Accessibility Statement

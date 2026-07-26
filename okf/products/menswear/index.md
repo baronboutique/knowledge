@@ -2,7 +2,7 @@
 type: Index
 title: "Men"
 description: "Bespoke Menswear, Built to Your Measure From custom suits, tuxedos, and frock coats to overcoats, shirts, and cashmere, every piece is made to order and hand‑tailored to your exact measurements — never pulled from a rack. Before we cut the final cloth, a complimentary test garment comes to your home, so the fit is approved first. Collector‑quality construction."
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Men
@@ -19,8 +19,8 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [12th Doctor Navy Blue Velvet Coat Peter Capaldi Cosplay](12th-doctors-navy-velvet-coat-for-men.md)
 - [12th Doctor Who Series 9 Coat](12th-doctor-coat.md)
 - [12th Grey Linen Coat, Capaldi Series 10](12th-doctor-grey-linen-coat.md)
+- [1960s Mod Four-Button Suit with Velvet Collar](1960s-mod-suit-jacket-velvet-collar.md)
 - [3/4 Length Denim-Leather Hybrid Coat](handmade-denim-leather-hybrid-coat.md)
-- [A Hard Day’s Night Beatles Jacket Replica](beatles-hard-days-night-jacket-replica.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
 - [Chalk Stripe Pants](mens-navy-chalk-stripe-wool-suit-pant.md)
 - [Eleventh Doctor Inspired Green Frock Coat](eleventh-doctors-green-coat.md)
@@ -30,7 +30,6 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Grey Flannel Trousers](mens-gray-wool-flannel-pants.md)
 - [Hand Finished Silk Pocket Squares](silk-pocket-squares-handmade.md)
 - [James Bond Navy Blue Coat Spectre](navy-bond-coat-spectre.md)
-- [Joker Trench Coat Black Leather Dark Knight](joker-coat-in-leather.md)
 - [Linen Pants For A Beach Wedding](linen-pants.md)
 - [Men's Car Coat In Wool](mens-car-coat.md)
 - [Men's Cubana Coat](mens-cubana-coat.md)
@@ -38,6 +37,7 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](mens-glen-plaid-cashmere-scarf-tan-white.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](mens-gray-pinstripe-pants.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](mens-linen-frock-coat-summer-wedding.md)
+- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](mens-long-black-leather-coat.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](mens-navy-peacoat.md)
 - [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](mens-pashmina-shawl-handwoven.md)
 - [Men's Tailored Linen Pants](tailored-fit-dark-blue-linen-pants.md)
@@ -63,9 +63,9 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Two Face Silk Neckties Handmade](two-face-silk-neckties-handmade.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](velvet-groomsmen-blazer-handmade-weddings.md)
 - [Western Frock Coat in Wool, Made to Measure](mens-frock-coat.md)
-- [Silk](mens-silk-suits-shirts-ties-scarves/index.md) — 6 products
+- [Real Silk Eventwear](mens-silk-suits-shirts-ties-scarves/index.md) — 6 products
 - [Suits & Blazers](mens-suits-blazers/index.md) — 20 products
-- [Velvet](velvet/index.md) — 2 products
+- [House of Velvet](velvet/index.md) — 2 products
 - [Frock Coats](frock-coats-for-men/index.md) — 3 products
 - [Coats & Overcoats](mens-coats-and-overcoats/index.md) — 6 products
 - [Tuxedos](tuxedos/index.md) — 6 products

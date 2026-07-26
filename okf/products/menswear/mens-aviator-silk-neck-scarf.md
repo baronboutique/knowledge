@@ -4,7 +4,7 @@ title: "Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors"
 description: "This sleek, stylish, all-purpose, all-season aviator silk scarf is a mens fashion favorite. Soft, smooth, and supple, this silk neck scarf amazingly comfortable, versatile, and functional."
 resource: https://baronboutique.com/mens-aviator-silk-neck-scarf/
 tags: [men, silk, scarf, neck-scarf, aviator, solid-color, handmade, heirloom]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors
@@ -28,7 +28,7 @@ The silk neck scarf is an artifact of pure, nonchalant elegance. It is a deliber
 
 ## Categories
 
-- Men › Silk
+- Men › Real Silk Eventwear
 - Men › Accessories
 
 **Related terms:** pilot silk scarf, white silk evening scarf, vintage aviator scarf, tuxedo scarf

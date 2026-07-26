@@ -4,7 +4,7 @@ title: "Tuxedos"
 description: "Women's Tuxedos Bespoke Women's Tuxedos, Drafted for a Woman's Figure A tuxedo cut for a woman is not a man's tuxedo resized, it is drafted from the start for a woman's shoulders, bust, and waist. This collection brings together classic wool tuxedos with satin shawl and peak lapels and a soft velvet tuxedo jacket, each made to your exact measurements in real cloth for black-tie events, weddings, galas, and prom. Choose your cloth, lapel, and details, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $529."
 resource: https://baronboutique.com/womenswear/tuxedos-for-women/
 tags: [women, tuxedo, tuxedo-suit, black-tie, evening-wear, velvet-jacket, custom-tuxedo, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Tuxedos

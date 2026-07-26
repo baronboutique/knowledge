@@ -4,7 +4,7 @@ title: "Coats & Overcoats"
 description: "Women's Coats & Overcoats Women's Frock Coats, Topcoats, and Statement Outerwear, Made to Your Measurements A coat is the one piece everyone sees, so it should be cut for you. This collection runs from Victorian-inspired frock coats and velvet frock coats to tailored wool-cashmere topcoats, double-breasted overcoats, peacoats, and cinematic statement coats, every one made to your exact measurements in real cloth. Choose your length, cloth, and color, and the silhouette is drafted to your body rather than pulled off a rack. Before we cut your final fabric we send a free test garment, so the fit across the shoulders and through the waist is confirmed on you first. Made to your measurements, from $529."
 resource: https://baronboutique.com/womenswear/coats-and-overcoats-for-women/
 tags: [women, coats, overcoat, topcoat, peacoat, winter-coat, wool-coat, long-coat, custom-coat, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Coats & Overcoats
@@ -74,7 +74,7 @@ Every adjustment is applied, then your coat is cut and hand-tailored in your cho
 - [The Victorian Winter Frock Coat](../../products/womenswear/coats-and-overcoats-for-women/womens-victorian-winter-frock-coat.md)
 - [Women's 12th Doctor Burgundy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctor-burgundy-velvet-coat-for-women.md)
 - [Women's Beige Frock Coat with Red Stripe](../../products/womenswear/screen-inspired-women/5th-doctor-red-piping-frock-coat-for-women.md)
-- [Women's Dark Knight Joker Coat | Bespoke Leather](../../products/womenswear/screen-inspired-women/womens-joker-coat-in-leather.md)
+- [Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa](../../products/womenswear/screen-inspired-women/womens-long-black-leather-coat.md)
 - [Women's Twelfth Doctor Black Velvet Frock Coat](../../products/womenswear/screen-inspired-women/12th-doctor-black-velvet-frock-coat-for-women.md)
 - [Women's Twelfth Doctor Navy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctors-navy-velvet-coat-for-women.md)
 - [Womens Blue Coat 12th Doctor Peter Capaldi](../../products/womenswear/screen-inspired-women/12th-doctor-wool-coat-for-women.md)

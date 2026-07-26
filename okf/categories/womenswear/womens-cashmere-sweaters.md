@@ -4,7 +4,7 @@ title: "Sweaters"
 description: "Women's Cashmere Sweaters Hand-Knitted Grade A Cashmere Sweaters, Made to Order A cashmere sweater is a personal luxury, so ours is made just for you. Each piece is hand-knitted in Nepal from 100% pure, sustainably sourced Grade A cashmere, dyed with eco-friendly colors and knitted to your fit for a heavenly softness and real warmth. From a statement orange boxy sweater to a rust turtleneck and a fog cable knit, this is wearable art in the color and style you choose. Because every sweater is made to order, you are not limited to what is in stock. Tell us the color and the fit, and we knit it for you. Made to order, from $299."
 resource: https://baronboutique.com/womenswear/womens-cashmere-sweaters/
 tags: [women, sweaters, cashmere, turtleneck, cable-knit, knitwear, pullover, hand-knitted, made-to-order, heirloom]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Sweaters

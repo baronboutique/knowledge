@@ -4,7 +4,7 @@ title: "Accessories"
 description: "Women's Cashmere & Silk Accessories Handwoven Cashmere Scarves, Shawls, and Silk Accessories A great scarf is the fastest way to transform an outfit, and a great cashmere scarf is one you keep for a lifetime. This collection is built around handwoven and hand-felted Grade A cashmere: solid-color scarves and shawls, printed and patterned pieces from leopard and houndstooth to embroidered florals and tartan, and featherlight wraps light enough to fold into a pocket. Alongside them sit pure silk neck scarves, neckties, and pocket squares. Every cashmere piece is handwoven or hand-felted from 100% pure cashmere, and many are made to order in the color you choose. From $65."
 resource: https://baronboutique.com/womenswear/womens-accessories/
 tags: [women, accessories, scarves, shawls, wraps, silk-scarf, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Accessories

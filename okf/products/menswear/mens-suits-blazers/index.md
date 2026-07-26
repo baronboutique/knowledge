@@ -4,7 +4,7 @@ title: "Suits & Blazers"
 description: "Bespoke Suits & Blazers, Cut for You From sharp two-piece business suits to three-piece statement tailoring and unstructured blazers, every jacket is made to order and hand-tailored to your exact measurements — never altered off a rack. Choose your cloth and lining, and we send a complimentary test garment before cutting the final fabric, so the fit is approved first. Collector-quality canvas construction."
 resource: https://baronboutique.com/menswear/mens-suits-blazers/
 tags: [men, suits, blazers, two-piece-suit, three-piece-suit, sport-coat, business-suit, wedding-suit, custom-suit, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Suits & Blazers
@@ -92,13 +92,13 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [Mohair Wool Suit](mohair-kid-wool-suit.md)
 - [Navy Chalk Stripe Suit](mens-navy-chalk-stripe-wool-suit.md)
 - [Navy Flannel Suit](mens-navy-wool-flannel-suit.md)
+- [The Collateral Suit, Single-Button Light Grey Worsted Wool](collateral-suit-grey-worsted-wool.md)
 - [The Dark Grey Three-Piece Suit](100-percent-wool-suit-for-all-season.md)
 - [The Essential Navy Blazer](essential-navy-blazer.md)
 - [The Grey Flannel Suit](iconic-hollywood-gray-flannel-suit.md)
 - [The Navy Pinstripe Three-Piece Suit](3pcs-navy-pinstripe-suit.md)
 - [The Pink Wool Blazer](pink-melange-blazer.md)
 - [The Unstructured Cotton Suit Slim Fit Custom Made](cotton-suit-unstructured.md)
-- [Tom Cruise Collateral Suit](tom-cruise-suit-from-collateral.md)
 - [Tropical Wool Suit](2-button-tropical-wool-suit.md)
 - [Vintage Sharkskin Suit](versatile-all-purpose-suit-in-vintage-sharkskin.md)
 

@@ -4,7 +4,7 @@ title: "Men's Navy Topcoat With Velvet Collar"
 description: "Men’s navy topcoat goes well with pretty much anything. It is a perfect velvet collar topcoat for layering over a jacket or sport coat, or just for throwing on over a shirt or sweater."
 resource: https://baronboutique.com/mens-navy-flannel-topcoat/
 tags: [men, topcoat, overcoat, flannel, wool, navy, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-15T06:19:33Z
+timestamp: 2026-07-24T15:30:44Z
 ---
 
 # Men's Navy Topcoat With Velvet Collar
@@ -30,15 +30,15 @@ This is the definitive men's navy topcoat, a cornerstone of the sophisticated ma
 
 ## Categories
 
-- Men › Velvet
+- Men › House of Velvet
 - Men › Coats & Overcoats
 
 **Related terms:** navy overcoat, flannel winter coat, dark blue city coat, warm tailored overcoat, custom navy long coat
 
 ## Related
 
-- [Velvet Category](../../../categories/menswear/velvet.md)
-- [Velvet Products](index.md)
+- [House of Velvet Category](../../../categories/menswear/velvet.md)
+- [House of Velvet Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
