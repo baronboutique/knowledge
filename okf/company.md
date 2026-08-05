@@ -5,14 +5,21 @@ description: "Independent bespoke tailoring house founded in Kathmandu, Nepal in
 resource: https://baronboutique.com
 tags: [baron-boutique, bespoke-tailoring, kathmandu, nepal, dubai, luxury-fashion, cashmere, screen-inspired]
 sources:
-  - resource: https://baronboutique.com/about-baron/
+  - id: about-page
+    resource: https://baronboutique.com/about-baron/
     title: "About Baron Boutique"
-  - resource: https://baronboutique.com/our-services/
+    author: team:baron-boutique-tailoring
+  - id: services-page
+    resource: https://baronboutique.com/our-services/
     title: "Our Services"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-05T10:50:30Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-05T16:57:10Z }
 ---
 
 # Baron Boutique
