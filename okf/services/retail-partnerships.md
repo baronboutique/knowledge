@@ -4,7 +4,19 @@ title: "Retail Partnerships"
 description: "Baron Boutique offers comprehensive wholesale partnership opportunities for boutique retailers seeking premium custom-tailored menswear, womenswear, authentic movie replicas, and luxury cashmere items. Benefit from zero inventory risk, custom product curation, direct factory control, and personalized wholesale support. Expand your retail offerings with exceptional quality and competitive margins."
 resource: https://baronboutique.com/retailers-wholesale-program/
 tags: [retail-partnerships, wholesale, boutique-retailers, stockists, b2b, made-to-order-wholesale, service]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/retailers-wholesale-program/
+    title: "Retail Partnerships"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-06-16
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Retail Partnerships
@@ -62,7 +74,3 @@ Baron Boutique offers comprehensive wholesale partnership opportunities for bout
 
 - [Baron Boutique](../company.md)
 - [All Services](index.md)
-
-## Citations
-
-[1] [Retail Partnerships](https://baronboutique.com/retailers-wholesale-program/)

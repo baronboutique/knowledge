@@ -4,7 +4,19 @@ title: "Navy Chalk Stripe Suit"
 description: "Not your ordinary navy chalk stripe suit. These mens chalk stripe suits are carefully constructed from year-round lightweight pure wool cloths for a refined yet effortless look for any occasion."
 resource: https://baronboutique.com/mens-navy-chalk-stripe-wool-suit/
 tags: [men, suit, wool, chalk-stripe, navy, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-navy-chalk-stripe-wool-suit/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Navy Chalk Stripe Suit
@@ -40,7 +52,3 @@ The navy chalk stripe suit is the definitive uniform of the global business elit
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-navy-chalk-stripe-wool-suit/)

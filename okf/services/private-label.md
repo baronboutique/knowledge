@@ -4,7 +4,19 @@ title: "Private Label"
 description: "Baron Boutique offers expert private label and white label production partnership for brands seeking high-quality custom tailored garments (bespoke, MTM suits, shirts, etc.) and luxurious bespoke cashmere items (scarves, shawls, sweaters, robes, throws and more). Leverage our atelier craftsmanship to build your brand. Develop diverse product lines seamlessly with a single, trusted partner."
 resource: https://baronboutique.com/private-label/
 tags: [private-label, white-label, production-partner, small-batch, garment-manufacturing, cmt, b2b, nepal-production, service]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/private-label/
+    title: "Private Label"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-06-16
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Private Label
@@ -62,7 +74,3 @@ Baron Boutique offers expert private label and white label production partnershi
 
 - [Baron Boutique](../company.md)
 - [All Services](index.md)
-
-## Citations
-
-[1] [Private Label](https://baronboutique.com/private-label/)

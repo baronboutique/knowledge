@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Real Silk Eventwear"
-description: "Men's silk suits, shirts, trousers, and accessories, made to your measurements in genuine silk Most \"silk\" sold online is polyester woven to imitate the sheen; everything here is real dupioni, raw, satin, and noil silk, which carries a natural luster, breathes and regulates temperature, and drapes the way a synthetic never can. The collection spans dupioni silk suits in 22 colors, raw and dupioni silk blazers, 100% satin silk shirts, dupioni silk trousers, the Bond-inspired silk Nehru jacket, and hand-finished satin silk ties, pocket squares, and scarves. For the tailored pieces, we send a free test garment before your silk is cut, so the fit is confirmed on your body first. From $65."
+description: "Made-to-order suits, shirts, and trousers in genuine dupioni, raw, satin, and noil silk, with hand-finished silk ties, pocket squares, and scarves."
 resource: https://baronboutique.com/menswear/mens-silk-suits-shirts-ties-scarves/
-tags: [real-silk-eventwear, real, silk, eventwear, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-24T15:30:44Z
+tags: [silk, dupioni-silk, raw-silk, satin-silk, silk-suit, silk-shirt, neckties, eventwear, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/mens-silk-suits-shirts-ties-scarves/
+    title: "Real Silk Eventwear"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.1, at: 2026-08-05T12:33:32Z }
 ---
 
 # Real Silk Eventwear
 
-Men's silk suits, shirts, trousers, and accessories, made to your measurements in genuine silk Most "silk" sold online is polyester woven to imitate the sheen; everything here is real dupioni, raw, satin, and noil silk, which carries a natural luster, breathes and regulates temperature, and drapes the way a synthetic never can. The collection spans dupioni silk suits in 22 colors, raw and dupioni silk blazers, 100% satin silk shirts, dupioni silk trousers, the Bond-inspired silk Nehru jacket, and hand-finished satin silk ties, pocket squares, and scarves. For the tailored pieces, we send a free test garment before your silk is cut, so the fit is confirmed on your body first. From $65.
+Made-to-order suits, shirts, and trousers in genuine dupioni, raw, satin, and noil silk, with hand-finished silk ties, pocket squares, and scarves.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -82,7 +93,7 @@ Your finished silk ships from Dubai by trackable courier, about four to six week
 - [2 Button Silk and Wool Suit](../../products/menswear/mens-silk-suits-shirts-ties-scarves/2button-silk-and-wool-suit.md)
 - [Grey Raw Silk Shirt - Short Sleeves](../../products/menswear/shirts/mens-gray-raw-silk-shirt.md)
 - [Hand Finished Silk Pocket Squares](../../products/menswear/silk-pocket-squares-handmade.md)
-- [Men's Silk Suit, Custom Made in 100% Dupioni Silk](../../products/menswear/mens-silk-suits-shirts-ties-scarves/mens-silk-suit-in-dupioni-silk.md)
+- [Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements](../../products/menswear/mens-silk-suits-shirts-ties-scarves/mens-silk-suit-in-dupioni-silk.md)
 - [Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors](../../products/menswear/mens-aviator-silk-neck-scarf.md)
 - [Mens Satin Silk Neckties Solid Color Handmade](../../products/menswear/mens-silk-neckties-solid-color-handmade.md)
 - [Mens Silk Blazer Dupioni Silk](../../products/menswear/mens-silk-suits-shirts-ties-scarves/dupioni-silk-blazer.md)
@@ -96,11 +107,9 @@ Your finished silk ships from Dubai by trackable courier, about four to six week
 - [The Raw Silk Shirt](../../products/menswear/shirts/mens-gold-raw-silk-shirt.md)
 - [Two Face Silk Neckties Handmade](../../products/menswear/two-face-silk-neckties-handmade.md)
 
+**Related terms:** dupioni silk suit, mens silk shirt, raw silk blazer, satin silk necktie, silk eventwear
+
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Real Silk Eventwear products](../../products/menswear/mens-silk-suits-shirts-ties-scarves/index.md)
-
-## Citations
-
-[1] [Real Silk Eventwear](https://baronboutique.com/menswear/mens-silk-suits-shirts-ties-scarves/)

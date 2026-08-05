@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Vests"
-description: "Men's Custom & Bespoke waistcoats A waistcoat is the most overlooked piece of tailoring and the one that elevates an outfit most: it turns a two-piece suit into a three-piece, and worn on its own over a shirt it is a sharp, deliberate layer. It is also the piece a poor fit ruins fastest, gapping at the buttons or riding up over the waistband. Both waistcoats here are cut to your body in worsted wool for a year-round three-piece or linen for summer and weddings, and before we cut your final cloth we send a free test garment so the fit is confirmed first. Made to your measurements, $299."
+description: "Made-to-order waistcoats in wool, linen, and velvet, cut to the wearer's measurements to complete a three-piece suit or to wear alone."
 resource: https://baronboutique.com/menswear/vests/
-tags: [men, vest, waistcoat, three-piece, wedding-vest, linen-vest, wool-vest, custom-vest, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [men, vest, waistcoat, three-piece, wedding-vest, linen-vest, wool-vest, custom-vest, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/vests/
+    title: "Vests"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Vests
 
-Men's Custom & Bespoke waistcoats A waistcoat is the most overlooked piece of tailoring and the one that elevates an outfit most: it turns a two-piece suit into a three-piece, and worn on its own over a shirt it is a sharp, deliberate layer. It is also the piece a poor fit ruins fastest, gapping at the buttons or riding up over the waistband. Both waistcoats here are cut to your body in worsted wool for a year-round three-piece or linen for summer and weddings, and before we cut your final cloth we send a free test garment so the fit is confirmed first. Made to your measurements, $299.
+Made-to-order waistcoats in wool, linen, and velvet, cut to the wearer's measurements to complete a three-piece suit or to wear alone.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -75,9 +86,5 @@ Your finished waistcoat ships from Dubai by trackable courier, about four to six
 
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Vests products](../../products/menswear/vests/index.md)
-
-## Citations
-
-[1] [Vests](https://baronboutique.com/menswear/vests/)

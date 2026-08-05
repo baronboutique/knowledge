@@ -4,7 +4,19 @@ title: "Newt Inspired British Herringbone Tweed Coat"
 description: "The coat that made a generation of fantasy film fans fall in love with British tweed. Every version we make is hand-tailored to your measurements in authentic herringbone tweed, finished with dark lea…"
 resource: https://baronboutique.com/newt-inspired-herringbone-tweed-coat/
 tags: [men, coat, overcoat, tweed, herringbone, wool, winter-coat, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/newt-inspired-herringbone-tweed-coat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Newt Inspired British Herringbone Tweed Coat
@@ -90,12 +102,8 @@ Want a different lapel width, no back belt, a peak lapel, different leather colo
 
 ## Related
 
-- [Screen Inspired Category](../../categories/screen-inspired/index.md)
+- [Screen Inspired Category](../../categories/screen-inspired.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/newt-inspired-herringbone-tweed-coat/)
+- [Screen-Inspired Collection](../../categories/screen-inspired.md)

@@ -4,7 +4,19 @@ title: "Hand Felted Grey Cashmere Scarf Wrap"
 description: "Whispers of the Cloud-Capped Peaks: Wrap yourself in the grey cashmere, as soft as the serene clouds over Nepal's mountains. Hand knitted and Hand Felted. Proudly made in Nepal."
 resource: https://baronboutique.com/hand-knitted-grey-cashmere-scarf-wrap/
 tags: [women, cashmere, scarf, wrap, grey, hand-knitted, hand-felted, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/hand-knitted-grey-cashmere-scarf-wrap/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Hand Felted Grey Cashmere Scarf Wrap
@@ -28,18 +40,14 @@ Yarn and Weight 200/2 yarn count 14-16 microns diameter 35-55mm yarn length Feat
 
 ## Categories
 
-- Scarves
+- Handcrafted Cashmere
 - Women › Accessories
 
 **Related terms:** chunky grey knit shawl, felted cashmere stole, soft grey winter muffler, thick knitted wrap
 
 ## Related
 
-- [Scarves Category](../../categories/handmade-cashmere-collection/index.md)
+- [Handcrafted Cashmere Category](../../categories/handmade-cashmere-collection.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/hand-knitted-grey-cashmere-scarf-wrap/)

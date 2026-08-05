@@ -1,15 +1,6 @@
----
-type: Index
-title: "Shirts & Blouses"
-description: "Women's Shirts & Blouses Tailored and Fitted Shirts & Blouses, Made to Your Measurements A tailored shirt is where fit shows most, across the shoulders, the bust, and the waist, so every shirt here is made to your exact measurements. The collection spans crisp cotton dress shirts and oxford shirts, Egyptian-cotton and twill essentials, statement ruffle and double-collar designs, oversized linen, and flowing crepe silk blouses. No standard sizing, just a shirt cut to your body and finished the way you choose. Choose your cloth, collar, cuff, and fit, from a sharp professional shirt to a relaxed linen or a silk blouse. Made to your measurements, from $199."
-resource: https://baronboutique.com/womenswear/shirts-for-women/
-tags: [women, shirts, blouses, dress-shirt, silk-blouse, cotton-shirt, workwear, custom-shirt, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Shirts & Blouses
 
-Women's Shirts & Blouses Tailored and Fitted Shirts & Blouses, Made to Your Measurements A tailored shirt is where fit shows most, across the shoulders, the bust, and the waist, so every shirt here is made to your exact measurements. The collection spans crisp cotton dress shirts and oxford shirts, Egyptian-cotton and twill essentials, statement ruffle and double-collar designs, oversized linen, and flowing crepe silk blouses. No standard sizing, just a shirt cut to your body and finished the way you choose. Choose your cloth, collar, cuff, and fit, from a sharp professional shirt to a relaxed linen or a silk blouse. Made to your measurements, from $199.
+Made-to-order shirts and blouses in Egyptian cotton, oxford, twill, and crepe silk, cut across the shoulders, bust, and waist.
 
 All 11 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -77,7 +68,4 @@ Every adjustment is applied, then your shirt is cut and hand-tailored in your ch
 - [Shirts & Blouses Category](../../../categories/womenswear/shirts-for-women.md)
 - [Women Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Shirts & Blouses](https://baronboutique.com/womenswear/shirts-for-women/)
+- [Shirts & Blouses on baronboutique.com](https://baronboutique.com/womenswear/shirts-for-women/)

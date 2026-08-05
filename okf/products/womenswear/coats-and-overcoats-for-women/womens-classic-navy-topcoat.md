@@ -4,7 +4,19 @@ title: "Navy Wool Cashmere Coat Womens Tailored Single Breasted"
 description: "Meet the hardest-working coat in your wardrobe. Custom-tailored from a luxurious wool-cashmere blend, this timeless single-breasted coat offers unparalleled warmth and effortless elegance."
 resource: https://baronboutique.com/womens-classic-navy-topcoat/
 tags: [women, topcoat, overcoat, wool-cashmere, navy, winter-coat, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-classic-navy-topcoat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Navy Wool Cashmere Coat Womens Tailored Single Breasted
@@ -40,7 +52,3 @@ The Cornerstone of Elegance This is the one coat every woman needs in her wardro
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-classic-navy-topcoat/)

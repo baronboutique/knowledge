@@ -4,7 +4,19 @@ title: "Grey Raw Silk Shirt - Short Sleeves"
 description: "The raw silk shirt is an exercise in textural luxury. Rendered in a sophisticated grey, its unique, nubby surface provides a quiet foundation for any ensemble, while a sharp cutaway collar offers a mo…"
 resource: https://baronboutique.com/mens-gray-raw-silk-shirt/
 tags: [men, shirt, raw-silk, silk, gray, short-sleeve, cutaway-collar, summer, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-gray-raw-silk-shirt/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Grey Raw Silk Shirt - Short Sleeves
@@ -40,7 +52,3 @@ Raw silk is a connoisseur's cloth, a textile prized for its unique, nubby textur
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-gray-raw-silk-shirt/)

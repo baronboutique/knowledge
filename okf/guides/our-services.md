@@ -3,8 +3,20 @@ type: Guide
 title: "Our Services"
 description: "Explore our expert tailoring services of bespoke suits, made-to-order, CMT, prototype development, small-batch production, & alterations."
 resource: https://baronboutique.com/our-services/
-tags: [our-services, bespoke-tailoring, made-to-measure, cmt, prototype-development, small-batch-production, alterations, guide]
-timestamp: 2026-07-24T15:30:44Z
+tags: [our-services, bespoke-tailoring, cmt, prototype-development, small-batch-production, alterations, guide]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/our-services/
+    title: "Our Services"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-03
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Our Services
@@ -33,13 +45,10 @@ Full details are published at https://baronboutique.com/our-services/
 **Q:** Can I see examples of previous online custom projects you've completed?  
 **A:** Yes, we have pictures of custom garments we've created for clients worldwide through our online services. Please contact us, and we'd be happy to share relevant examples of our craftsmanship.
 
-**Related terms:** tailoring services list, custom clothing services, what is CMT manufacturing, bespoke vs made to measure
+**Related terms:** tailoring services list, custom clothing services, what is CMT manufacturing, bespoke vs made-to-order
 
 ## Related
 
 - [Guides Overview](index.md)
 - [Baron Boutique](../company.md)
 
-## Citations
-
-[1] [Our Services](https://baronboutique.com/our-services/)

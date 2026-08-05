@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Skirts"
-description: "Women's Skirts Tailored Pencil and Work Skirts, Made to Your Measurements A pencil skirt only works when the waist, hip, and length are yours, which is exactly why these are made to order. This collection is built around the tailored work skirt: sharp black pencil skirts for the office, pinstripe and stripe skirts, midi lengths, and performance wool skirts that hold their line all day. Every one is cut to your exact measurements in real cloth, so it sits at your true waist and falls where you want it. Choose your cloth, color, and length, from classic black to pinstripe, mohair, and tropical wool, and pair any skirt with a matching blazer for a skirt suit. Made to your measurements, from $229."
+description: "Made-to-order pencil, pleated, and stripe skirts cut to the wearer's waist, hip, and length for work and occasion wear."
 resource: https://baronboutique.com/womenswear/skirts-for-women/
-tags: [women, skirts, pencil-skirt, work-skirt, wool-skirt, kick-pleat, custom-skirt, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [women, skirts, pencil-skirt, work-skirt, wool-skirt, kick-pleat, custom-skirt, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/skirts-for-women/
+    title: "Skirts"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Skirts
 
-Women's Skirts Tailored Pencil and Work Skirts, Made to Your Measurements A pencil skirt only works when the waist, hip, and length are yours, which is exactly why these are made to order. This collection is built around the tailored work skirt: sharp black pencil skirts for the office, pinstripe and stripe skirts, midi lengths, and performance wool skirts that hold their line all day. Every one is cut to your exact measurements in real cloth, so it sits at your true waist and falls where you want it. Choose your cloth, color, and length, from classic black to pinstripe, mohair, and tropical wool, and pair any skirt with a matching blazer for a skirt suit. Made to your measurements, from $229.
+Made-to-order pencil, pleated, and stripe skirts cut to the wearer's waist, hip, and length for work and occasion wear.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -71,13 +82,9 @@ Every adjustment is applied, then your skirt is cut and hand-tailored in your ch
 - [The Pocketed Pencil Skirt](../../products/womenswear/skirts-for-women/womens-mock-pocket-work-skirt.md)
 - [The Vitale Barberis Canonico Pencil Skirt](../../products/womenswear/skirts-for-women/womens-wool-breeze-skirt.md)
 
-**Related terms:** tailored pencil skirts, custom skirts online, office skirts, made to measure skirt, wool skirts for work
+**Related terms:** tailored pencil skirts, custom skirts online, office skirts, made-to-order skirt, wool skirts for work
 
 ## Related
 
-- [Women Category Index](index.md)
+- [Women Category Index](../womenswear.md)
 - [Browse all Skirts products](../../products/womenswear/skirts-for-women/index.md)
-
-## Citations
-
-[1] [Skirts](https://baronboutique.com/womenswear/skirts-for-women/)

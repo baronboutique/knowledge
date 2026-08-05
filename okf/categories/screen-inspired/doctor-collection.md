@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Doctor Collection"
-description: "Tailored Across Time The Doctors have always dressed with purpose. Our Doctor inspired collection brings that same intention to your wardrobe, with every piece custom-made and hand-tailored to your exact measurements. From Tennant's timeless pinstripe suit to Capaldi's commanding velvet frock coat, each garment is crafted with the detail and care it deserves. And to make sure it fits you perfectly, we send a complimentary test garment to your home before we begin the final piece."
+description: "Time traveler frock coats, velvet coats, and pinstripe suits recreated from screen references and cut to measurement. Not licensed merchandise."
 resource: https://baronboutique.com/screen-inspired/doctor-collection/
 tags: [doctor-who, time-lord, capaldi, tennant, tom-baker, frock-coat, sci-fi-tailoring, cosplay, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/screen-inspired/doctor-collection/
+    title: "Doctor Collection"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Doctor Collection
 
-Tailored Across Time The Doctors have always dressed with purpose. Our Doctor inspired collection brings that same intention to your wardrobe, with every piece custom-made and hand-tailored to your exact measurements. From Tennant's timeless pinstripe suit to Capaldi's commanding velvet frock coat, each garment is crafted with the detail and care it deserves. And to make sure it fits you perfectly, we send a complimentary test garment to your home before we begin the final piece.
+Time traveler frock coats, velvet coats, and pinstripe suits recreated from screen references and cut to measurement. Not licensed merchandise.
 
 **Licensing note:** This collection is inspired by screen productions. These garments are NOT officially licensed products unless explicitly stated on the individual product page.
 
@@ -110,9 +121,5 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 
 ## Related
 
-- [Screen Inspired Category Index](index.md)
+- [Screen Inspired Category Index](../screen-inspired.md)
 - [Browse all Doctor Collection products](../../products/screen-inspired/doctor-collection/index.md)
-
-## Citations
-
-[1] [Doctor Collection](https://baronboutique.com/screen-inspired/doctor-collection/)

@@ -1,15 +1,6 @@
----
-type: Index
-title: "Cyberpunk Trench Coats"
-description: "Matrix Trench Coat — Neo's Coat, All Four Films, Made to Your Measurements Most \"Matrix trench coats\" online are polyester costumes in generic sizes. The fabric is wrong, the fit is approximate, and the silhouette never truly works. Our collection takes a different approach. Each coat is custom-made to your measurements in screen-inspired fabrics chosen for their weight and drape. A complimentary test coat is included with every order, ensuring the fit is approved before final production."
-resource: https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/
-tags: [matrix, neo-coat, trench-coat, long-coat, cyberpunk, duster, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Cyberpunk Trench Coats
 
-Matrix Trench Coat — Neo's Coat, All Four Films, Made to Your Measurements Most "Matrix trench coats" online are polyester costumes in generic sizes. The fabric is wrong, the fit is approximate, and the silhouette never truly works. Our collection takes a different approach. Each coat is custom-made to your measurements in screen-inspired fabrics chosen for their weight and drape. A complimentary test coat is included with every order, ensuring the fit is approved before final production.
+Floor-length structured cotton and leather trench coats recreated from screen references, cut to the wearer's measurements. Not licensed merchandise.
 
 **Licensing note:** These garments are inspired by screen productions and are NOT officially licensed unless explicitly stated on the individual product page.
 
@@ -84,7 +75,4 @@ Your completed coat ships by trackable courier. Production takes approximately f
 - [Cyberpunk Trench Coats Category](../../../categories/screen-inspired/cyberpunk-trench-coats.md)
 - [Screen Inspired Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Cyberpunk Trench Coats](https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/)
+- [Cyberpunk Trench Coats on baronboutique.com](https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/)

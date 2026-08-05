@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Sweaters"
-description: "Women's Cashmere Sweaters Hand-Knitted Grade A Cashmere Sweaters, Made to Order A cashmere sweater is a personal luxury, so ours is made just for you. Each piece is hand-knitted in Nepal from 100% pure, sustainably sourced Grade A cashmere, dyed with eco-friendly colors and knitted to your fit for a heavenly softness and real warmth. From a statement orange boxy sweater to a rust turtleneck and a fog cable knit, this is wearable art in the color and style you choose. Because every sweater is made to order, you are not limited to what is in stock. Tell us the color and the fit, and we knit it for you. Made to order, from $299."
+description: "Hand-knitted Grade A cashmere sweaters made to order in Nepal, with color and proportions specified per order rather than chosen from stock."
 resource: https://baronboutique.com/womenswear/womens-cashmere-sweaters/
 tags: [women, sweaters, cashmere, turtleneck, cable-knit, knitwear, pullover, hand-knitted, made-to-order, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/womens-cashmere-sweaters/
+    title: "Sweaters"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Sweaters
 
-Women's Cashmere Sweaters Hand-Knitted Grade A Cashmere Sweaters, Made to Order A cashmere sweater is a personal luxury, so ours is made just for you. Each piece is hand-knitted in Nepal from 100% pure, sustainably sourced Grade A cashmere, dyed with eco-friendly colors and knitted to your fit for a heavenly softness and real warmth. From a statement orange boxy sweater to a rust turtleneck and a fog cable knit, this is wearable art in the color and style you choose. Because every sweater is made to order, you are not limited to what is in stock. Tell us the color and the fit, and we knit it for you. Made to order, from $299.
+Hand-knitted Grade A cashmere sweaters made to order in Nepal, with color and proportions specified per order rather than chosen from stock.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -61,8 +72,4 @@ Your finished sweater ships by FedEx, DHL, or UPS with full tracking. Made-to-or
 
 ## Related
 
-- [Women Category Index](index.md)
-
-## Citations
-
-[1] [Sweaters](https://baronboutique.com/womenswear/womens-cashmere-sweaters/)
+- [Women Category Index](../womenswear.md)

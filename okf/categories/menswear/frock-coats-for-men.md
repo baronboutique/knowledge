@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Frock Coats"
-description: "Men's Frock Coats – Bespoke & Iconic Styles Discover the timeless appeal of our men's frock coats, from authentic Iconic replicas to luxurious wool, velvet, and linen designs. Whether you're seeking a statement-making velvet frock coat, a lightweight linen summer coat, or a classic wool winter coat, we have a style and fabric to match your vision. To ensure a flawless fit and confidence in your choice, we provide a free test garment so you can approve the style and sizing before we craft your final bespoke piece."
+description: "Made-to-order frock coats in wool and velvet with a true waist seam and full skirt, for weddings, stage, historical dress, and collectors."
 resource: https://baronboutique.com/menswear/frock-coats-for-men/
-tags: [men, frock-coat, victorian-style, dress-coat, tailcoat, morning-coat, steampunk, wedding, cosplay, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [men, frock-coat, victorian-style, dress-coat, tailcoat, morning-coat, steampunk, wedding, cosplay, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/frock-coats-for-men/
+    title: "Frock Coats"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Frock Coats
 
-Men's Frock Coats – Bespoke & Iconic Styles Discover the timeless appeal of our men's frock coats, from authentic Iconic replicas to luxurious wool, velvet, and linen designs. Whether you're seeking a statement-making velvet frock coat, a lightweight linen summer coat, or a classic wool winter coat, we have a style and fabric to match your vision. To ensure a flawless fit and confidence in your choice, we provide a free test garment so you can approve the style and sizing before we craft your final bespoke piece.
+Made-to-order frock coats in wool and velvet with a true waist seam and full skirt, for weddings, stage, historical dress, and collectors.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -96,9 +107,5 @@ Your finished frock coat ships from Dubai by trackable courier, about four to si
 
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Frock Coats products](../../products/menswear/frock-coats-for-men/index.md)
-
-## Citations
-
-[1] [Frock Coats](https://baronboutique.com/menswear/frock-coats-for-men/)

@@ -1,15 +1,6 @@
----
-type: Index
-title: "House of Velvet"
-description: "Bespoke Men's Velvet Jackets & Coats, Fit Confirmed Before We Cut Men's velvet jackets and coats, made to your measurements. Velvet is the fabric of the holiday party, the winter wedding, and black tie with a point of view, but cheap velvet in a boxy off-the-rack size looks like a costume. Every piece here is cut from a premium velvet that holds its pile, built on a canvas front with hand-finished buttonholes and fabric-covered buttons, and made to your exact measurements. Before we cut your velvet, we send a free test garment so the fit is confirmed on your body first. The collection runs from the burgundy velvet dinner jacket and our number-one velvet smoking jacket through dramatic velvet frock coats and screen-inspired velvet coats, from $419."
-resource: https://baronboutique.com/menswear/velvet/
-tags: [house-of-velvet, house, velvet, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # House of Velvet
 
-Bespoke Men's Velvet Jackets & Coats, Fit Confirmed Before We Cut Men's velvet jackets and coats, made to your measurements. Velvet is the fabric of the holiday party, the winter wedding, and black tie with a point of view, but cheap velvet in a boxy off-the-rack size looks like a costume. Every piece here is cut from a premium velvet that holds its pile, built on a canvas front with hand-finished buttonholes and fabric-covered buttons, and made to your exact measurements. Before we cut your velvet, we send a free test garment so the fit is confirmed on your body first. The collection runs from the burgundy velvet dinner jacket and our number-one velvet smoking jacket through dramatic velvet frock coats and screen-inspired velvet coats, from $419.
+Made-to-order velvet jackets and coats in premium velvet on a canvas front, from dinner jackets and smoking jackets to dramatic frock coats.
 
 All 2 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -87,7 +78,4 @@ Your finished velvet piece ships from Dubai by trackable courier, about four to 
 - [House of Velvet Category](../../../categories/menswear/velvet.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [House of Velvet](https://baronboutique.com/menswear/velvet/)
+- [House of Velvet on baronboutique.com](https://baronboutique.com/menswear/velvet/)

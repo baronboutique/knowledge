@@ -1,15 +1,6 @@
----
-type: Index
-title: "Tuxedos"
-description: "Men's Tuxedos, Made to Your Measurements Most men rent a tuxedo, and the photographs show it: a boxy jacket, trousers that pool at the shoe, and fabric already worn by a hundred renters before you. A tuxedo here is made to your measurements in real cloth, starts at $599, and is yours forever, which is about what two or three rentals cost. Black, midnight blue, navy herringbone, and burgundy, each with satin lapels and a free test suit sent to your home before we cut."
-resource: https://baronboutique.com/menswear/tuxedos/
-tags: [men, tuxedo, black-tie, dinner-suit, wedding-tuxedo, prom-tuxedo, shawl-lapel, peak-lapel, custom-tuxedo, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Tuxedos
 
-Men's Tuxedos, Made to Your Measurements Most men rent a tuxedo, and the photographs show it: a boxy jacket, trousers that pool at the shoe, and fabric already worn by a hundred renters before you. A tuxedo here is made to your measurements in real cloth, starts at $599, and is yours forever, which is about what two or three rentals cost. Black, midnight blue, navy herringbone, and burgundy, each with satin lapels and a free test suit sent to your home before we cut.
+Made-to-order tuxedos in wool with peak, shawl, or notch lapels, cut to the wearer's measurements and owned rather than rented.
 
 All 6 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -91,7 +82,4 @@ Your finished tuxedo ships from Dubai by trackable courier, about four to six we
 - [Tuxedos Category](../../../categories/menswear/tuxedos.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Tuxedos](https://baronboutique.com/menswear/tuxedos/)
+- [Tuxedos on baronboutique.com](https://baronboutique.com/menswear/tuxedos/)

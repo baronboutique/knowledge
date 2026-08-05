@@ -1,15 +1,6 @@
----
-type: Index
-title: "Linen Wedding Suits"
-description: "Grooms Linen Suits for Weddings, Made to Your Measurements Most linen wedding suits are sold in standard sizes, and linen has no structure to hide a fit that is close but not right. On a groom, in daylight, in every photograph, that shows. Every suit in this collection is made to your measurements in 100% linen, in 18 colors from powder blue and stone to white, natural, and navy, with a free test suit sent to your home to confirm the fit before we cut your cloth. Two-piece suits for heat, three-piece suits with a waistcoat for the ceremony, and a linen frock coat for the groom, the groomsmen, and a beach or destination wedding."
-resource: https://baronboutique.com/menswear/wedding-suits/grooms-linen-suits-for-wedding/
-tags: [linen-wedding-suits, linen, wedding, suits, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Linen Wedding Suits
 
-Grooms Linen Suits for Weddings, Made to Your Measurements Most linen wedding suits are sold in standard sizes, and linen has no structure to hide a fit that is close but not right. On a groom, in daylight, in every photograph, that shows. Every suit in this collection is made to your measurements in 100% linen, in 18 colors from powder blue and stone to white, natural, and navy, with a free test suit sent to your home to confirm the fit before we cut your cloth. Two-piece suits for heat, three-piece suits with a waistcoat for the ceremony, and a linen frock coat for the groom, the groomsmen, and a beach or destination wedding.
+Made-to-order linen wedding suits for grooms in 100% linen across 18 colors, as two-piece, three-piece, or frock coat, for beach and summer ceremonies.
 
 All 7 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -97,10 +88,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 
 ## Related
 
-- [Linen Wedding Suits Category](../../../categories/menswear/grooms-linen-suits-for-wedding.md)
+- [Linen Wedding Suits Category](../../../categories/menswear/wedding-suits/grooms-linen-suits-for-wedding.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Linen Wedding Suits](https://baronboutique.com/menswear/wedding-suits/grooms-linen-suits-for-wedding/)
+- [Linen Wedding Suits on baronboutique.com](https://baronboutique.com/menswear/wedding-suits/grooms-linen-suits-for-wedding/)

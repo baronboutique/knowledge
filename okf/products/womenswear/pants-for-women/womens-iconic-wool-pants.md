@@ -4,7 +4,19 @@ title: "The Custom Slim-Fit Bootcut Trouser"
 description: "This is how you unlock the legendary power of the bootcut. Our Women's Flat-Front Slim-Fit Bootcut Pants solve the biggest challenge of this style: getting the silhouette just right."
 resource: https://baronboutique.com/womens-iconic-wool-pants/
 tags: [women, pants, wool, classic-fit, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-iconic-wool-pants/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The Custom Slim-Fit Bootcut Trouser
@@ -18,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Iconic Wool Fabric:** 10 options available
-- **Lining Fabric:** 34 options available
+- **Iconic Wool Fabric:** 13 options available
+- **Lining Fabric:** 35 options available
 
 ## Summary
 
@@ -40,7 +52,3 @@ The Ultimate Figure-Flattering Silhouette This is how you unlock the legendary p
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-iconic-wool-pants/)

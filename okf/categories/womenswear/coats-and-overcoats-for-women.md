@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Coats & Overcoats"
-description: "Women's Coats & Overcoats Women's Frock Coats, Topcoats, and Statement Outerwear, Made to Your Measurements A coat is the one piece everyone sees, so it should be cut for you. This collection runs from Victorian-inspired frock coats and velvet frock coats to tailored wool-cashmere topcoats, double-breasted overcoats, peacoats, and cinematic statement coats, every one made to your exact measurements in real cloth. Choose your length, cloth, and color, and the silhouette is drafted to your body rather than pulled off a rack. Before we cut your final fabric we send a free test garment, so the fit across the shoulders and through the waist is confirmed on you first. Made to your measurements, from $529."
+description: "Made-to-order coats, topcoats, and frock coats in wool and cashmere, cut to the wearer's measurements for shoulder line and length."
 resource: https://baronboutique.com/womenswear/coats-and-overcoats-for-women/
-tags: [women, coats, overcoat, topcoat, peacoat, winter-coat, wool-coat, long-coat, custom-coat, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [women, coats, overcoat, topcoat, peacoat, winter-coat, wool-coat, long-coat, custom-coat, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/coats-and-overcoats-for-women/
+    title: "Coats & Overcoats"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Coats & Overcoats
 
-Women's Coats & Overcoats Women's Frock Coats, Topcoats, and Statement Outerwear, Made to Your Measurements A coat is the one piece everyone sees, so it should be cut for you. This collection runs from Victorian-inspired frock coats and velvet frock coats to tailored wool-cashmere topcoats, double-breasted overcoats, peacoats, and cinematic statement coats, every one made to your exact measurements in real cloth. Choose your length, cloth, and color, and the silhouette is drafted to your body rather than pulled off a rack. Before we cut your final fabric we send a free test garment, so the fit across the shoulders and through the waist is confirmed on you first. Made to your measurements, from $529.
+Made-to-order coats, topcoats, and frock coats in wool and cashmere, cut to the wearer's measurements for shoulder line and length.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -90,9 +101,5 @@ Every adjustment is applied, then your coat is cut and hand-tailored in your cho
 
 ## Related
 
-- [Women Category Index](index.md)
+- [Women Category Index](../womenswear.md)
 - [Browse all Coats & Overcoats products](../../products/womenswear/coats-and-overcoats-for-women/index.md)
-
-## Citations
-
-[1] [Coats & Overcoats](https://baronboutique.com/womenswear/coats-and-overcoats-for-women/)

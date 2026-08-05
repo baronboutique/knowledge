@@ -4,7 +4,19 @@ title: "12th Doctor Who Series 9 Coat"
 description: "BECOME THE 12TH DOCTOR: Step into the Time Lord's shoes with our meticulously crafted 12th Doctor Series 9 coat—the iconic garment worn by Peter Capaldi during some of the most memorable episodes of D…"
 resource: https://baronboutique.com/12th-doctor-coat/
 tags: [men, coat, melton-wool, doctor-who, twelfth-doctor, capaldi, time-lord-coat, screen-inspired, cosplay, replica, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/12th-doctor-coat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # 12th Doctor Who Series 9 Coat
@@ -36,11 +48,7 @@ Intro Step into the Time Lord's shoes with our meticulously crafted 12th Doctor 
 
 ## Related
 
-- [Men Category](../../categories/menswear/index.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/12th-doctor-coat/)

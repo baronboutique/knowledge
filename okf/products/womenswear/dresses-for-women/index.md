@@ -1,17 +1,8 @@
----
-type: Index
-title: "Dresses"
-description: "Women's Dresses Tailored Dresses, Made to Your Measurements A dress that is made to your measurements sits differently: it skims where it should and holds where it should, with no gaping neckline and no compromise between the bust and the waist. This collection spans tailored sheath dresses, silk and statement dresses, linen and summer styles, easy shift and wrap dresses, and sheath dresses for weddings and mothers of the bride, each cut to your body in real cloth. Choose your cloth, color, and length, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $309."
-resource: https://baronboutique.com/womenswear/dresses-for-women/
-tags: [women, dresses, sheath-dress, shift-dress, wrap-dress, maxi-dress, work-dress, wool-dress, silk-dress, custom-dress, made-to-measure, bespoke]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Dresses
 
-Women's Dresses Tailored Dresses, Made to Your Measurements A dress that is made to your measurements sits differently: it skims where it should and holds where it should, with no gaping neckline and no compromise between the bust and the waist. This collection spans tailored sheath dresses, silk and statement dresses, linen and summer styles, easy shift and wrap dresses, and sheath dresses for weddings and mothers of the bride, each cut to your body in real cloth. Choose your cloth, color, and length, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $309.
+Made-to-order dresses in wool flannel, crepe silk, and other cloths, cut to the wearer's measurements for work, evening, and occasion.
 
-All 14 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 13 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 Tailored Dresses, Cut to Your Body
 A made-to-measure dress solves the problems a rack cannot: the gaping neckline, the pull across the bust, the length that is never quite right. Every dress here is cut to your exact measurements in real cloth, so it skims where it should and holds where it should. The collection spans tailored sheath dresses, silk and statement pieces, linen and summer styles, easy shift and wrap dresses, and elegant sheath dresses for weddings and mothers of the bride. Choose your cloth, color, neckline, and length, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $309.
@@ -71,7 +62,6 @@ Every adjustment is applied, then your dress is cut and hand-tailored in your ch
 - [The Minimalist Sheath Wedding Dress](womens-pure-new-wool-sheath-dress.md)
 - [The Modern Mother of the Bride Sheath Dress](womens-dalenia-pinstripe-sheath-dress.md)
 - [The Tailored Mini Dress](womens-mayalu-cobalt-dress.md)
-- [Unlined Linen Duster Coat](linen-dress-jacket-with-notch-collar.md)
 - [V-Neck Women's Sheath Dress](wool-flannel-sheath-dress.md)
 - [White Piped Trim Sheath Dress A-Line V-Neck](womens-piped-sheath-dress.md)
 
@@ -80,7 +70,4 @@ Every adjustment is applied, then your dress is cut and hand-tailored in your ch
 - [Dresses Category](../../../categories/womenswear/dresses-for-women.md)
 - [Women Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Dresses](https://baronboutique.com/womenswear/dresses-for-women/)
+- [Dresses on baronboutique.com](https://baronboutique.com/womenswear/dresses-for-women/)

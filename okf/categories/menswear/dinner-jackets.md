@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Dinner Jackets"
-description: "Men's Dinner Jackets, Made to Your Measurements A tuxedo makes every man in the room look the same. A dinner jacket is the other way to dress for black tie: a statement jacket in velvet, white, or a patterned cloth, worn with black formal trousers, that keeps the formality while making you the best-dressed man there. Every one is made to your measurements on a canvas front with satin or self lapels, with a free test jacket before we cut. Burgundy, blue, and black velvet for a winter or festive black tie, white and off-white for summer, and a velvet smoking jacket for the host and the collector."
+description: "Made-to-order dinner jackets in velvet, silk, and patterned cloth, cut to the wearer's measurements as an alternative to a standard black tuxedo."
 resource: https://baronboutique.com/menswear/dinner-jackets/
-tags: [men, dinner-jacket, tuxedo-jacket, smoking-jacket, velvet-jacket, shawl-collar, black-tie, evening-wear, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [men, dinner-jacket, tuxedo-jacket, smoking-jacket, velvet-jacket, shawl-collar, black-tie, evening-wear, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/dinner-jackets/
+    title: "Dinner Jackets"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Dinner Jackets
 
-Men's Dinner Jackets, Made to Your Measurements A tuxedo makes every man in the room look the same. A dinner jacket is the other way to dress for black tie: a statement jacket in velvet, white, or a patterned cloth, worn with black formal trousers, that keeps the formality while making you the best-dressed man there. Every one is made to your measurements on a canvas front with satin or self lapels, with a free test jacket before we cut. Burgundy, blue, and black velvet for a winter or festive black tie, white and off-white for summer, and a velvet smoking jacket for the host and the collector.
+Made-to-order dinner jackets in velvet, silk, and patterned cloth, cut to the wearer's measurements as an alternative to a standard black tuxedo.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -95,9 +106,5 @@ Your finished jacket ships from Dubai by trackable courier, about four to six we
 
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Dinner Jackets products](../../products/menswear/dinner-jackets/index.md)
-
-## Citations
-
-[1] [Dinner Jackets](https://baronboutique.com/menswear/dinner-jackets/)

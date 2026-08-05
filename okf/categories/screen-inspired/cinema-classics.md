@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Cinema Classics"
-description: "The Cinema Classics Collection Cinema has always known how to dress a man. This collection pays tribute to the garments that made history on screen. From Victorian frock coats to sharp Edwardian cuts, every piece draws from the silhouettes and fabrics that defined iconic moments in film. The tailoring is precise. The materials are uncompromising. The fit is entirely your own. Each garment is bespoke, cut and constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made."
+description: "Golden-age and heist-film tailoring recreated in real cloth, from mid-century grey suits to rusty-tan three-pieces, cut to measurement. Not licensed merchandise."
 resource: https://baronboutique.com/screen-inspired/cinema-classics/
 tags: [cinema-classics, movie-replica, cary-grant, star-wars, fantastic-beasts, film-costume, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/screen-inspired/cinema-classics/
+    title: "Cinema Classics"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Cinema Classics
 
-The Cinema Classics Collection Cinema has always known how to dress a man. This collection pays tribute to the garments that made history on screen. From Victorian frock coats to sharp Edwardian cuts, every piece draws from the silhouettes and fabrics that defined iconic moments in film. The tailoring is precise. The materials are uncompromising. The fit is entirely your own. Each garment is bespoke, cut and constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made.
+Golden-age and heist-film tailoring recreated in real cloth, from mid-century grey suits to rusty-tan three-pieces, cut to measurement. Not licensed merchandise.
 
 **Licensing note:** This collection is inspired by screen productions. These garments are NOT officially licensed products unless explicitly stated on the individual product page.
 
@@ -109,9 +120,5 @@ Every adjustment is applied, then your piece is cut and hand-tailored in the fab
 
 ## Related
 
-- [Screen Inspired Category Index](index.md)
+- [Screen Inspired Category Index](../screen-inspired.md)
 - [Browse all Cinema Classics products](../../products/screen-inspired/cinema-classics/index.md)
-
-## Citations
-
-[1] [Cinema Classics](https://baronboutique.com/screen-inspired/cinema-classics/)

@@ -4,7 +4,19 @@ title: "The Women's Bespoke Tuxedo"
 description: "This is the tuxedo, not a \"female version\" of it. Our Menswear-Inspired Tuxedo for Women is built with authentic, bespoke details like roped shoulders and dramatic satin wing-peak lapels."
 resource: https://baronboutique.com/mens-inspired-tuxedo/
 tags: [women, tuxedo, wool, peak-lapel, menswear-inspired, black-tie, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-inspired-tuxedo/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The Women's Bespoke Tuxedo
@@ -42,7 +54,3 @@ An Icon, Masterfully Reinterpreted This is not a "female version" of a tuxedo. T
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-inspired-tuxedo/)

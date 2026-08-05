@@ -4,7 +4,19 @@ title: "Glen Plaid Cashmere Scarf – Tan & White Houndstooth Weave"
 description: "Handwoven on Himalayan looms from 100% Grade A cashmere, this glen plaid scarf blends Scottish weaving tradition with artisanal heritage."
 resource: https://baronboutique.com/glen-plaid-cashmere-scarf-tan-white-houndstooth/
 tags: [women, cashmere, scarf, wrap, glen-plaid, houndstooth, tan, handwoven, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/glen-plaid-cashmere-scarf-tan-white-houndstooth/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Glen Plaid Cashmere Scarf – Tan & White Houndstooth Weave
@@ -28,18 +40,14 @@ Versatile at 28″ × 80″ Casual Elegance Drape this tan plaid scarf over a si
 
 ## Categories
 
-- Scarves
+- Handcrafted Cashmere
 - Women › Accessories
 
 **Related terms:** prince of wales check shawl, neutral plaid muffler, camel houndstooth stole, check pashmina
 
 ## Related
 
-- [Scarves Category](../../categories/handmade-cashmere-collection/index.md)
+- [Handcrafted Cashmere Category](../../categories/handmade-cashmere-collection.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/glen-plaid-cashmere-scarf-tan-white-houndstooth/)

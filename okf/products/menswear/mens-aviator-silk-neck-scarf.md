@@ -4,7 +4,19 @@ title: "Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors"
 description: "This sleek, stylish, all-purpose, all-season aviator silk scarf is a mens fashion favorite. Soft, smooth, and supple, this silk neck scarf amazingly comfortable, versatile, and functional."
 resource: https://baronboutique.com/mens-aviator-silk-neck-scarf/
 tags: [men, silk, scarf, neck-scarf, aviator, solid-color, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-aviator-silk-neck-scarf/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors
@@ -35,11 +47,7 @@ The silk neck scarf is an artifact of pure, nonchalant elegance. It is a deliber
 
 ## Related
 
-- [Men Category](../../categories/menswear/index.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-aviator-silk-neck-scarf/)

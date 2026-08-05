@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Pants"
-description: "Men's Custom & Bespoke Trousers This is the end of the 'off-the-rack' compromise. Our custom trousers are engineered for a perfect fit, tailored to your exact measurements. Whether you require the timeless authority of pinstripe wool, the refined texture of worsted wool, or the unique luster of Dupioni silk, we have the fabric to build your ideal pair. To ensure a flawless fit and complete confidence, we first send you a free test garment to approve at home."
+description: "Made-to-order trousers in wool, flannel, linen, mohair, and silk, cut from the wearer's rise, seat, and leg rather than a waist size."
 resource: https://baronboutique.com/menswear/mens-pants/
-tags: [men, pants, trousers, dress-pants, wool-pants, linen-pants, flat-front, slim-fit, custom-pants, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [men, pants, trousers, dress-pants, wool-pants, linen-pants, flat-front, slim-fit, custom-pants, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/mens-pants/
+    title: "Pants"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Pants
 
-Men's Custom & Bespoke Trousers This is the end of the 'off-the-rack' compromise. Our custom trousers are engineered for a perfect fit, tailored to your exact measurements. Whether you require the timeless authority of pinstripe wool, the refined texture of worsted wool, or the unique luster of Dupioni silk, we have the fabric to build your ideal pair. To ensure a flawless fit and complete confidence, we first send you a free test garment to approve at home.
+Made-to-order trousers in wool, flannel, linen, mohair, and silk, cut from the wearer's rise, seat, and leg rather than a waist size.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -102,13 +113,9 @@ Your finished trousers ship from Dubai by trackable courier, about four to six w
 - [The Essential Grey Wool Dress Pants](../../products/menswear/mens-pants/mens-pure-new-wool-gray-suit-pants.md)
 - [Wool Mohair Dress Pants](../../products/menswear/mens-pants/slim-fit-mohair-wool-pants.md)
 
-**Related terms:** custom dress pants, tailored trousers online, made to measure pants, men's wool slacks, high rise trousers
+**Related terms:** custom dress pants, tailored trousers online, made-to-order pants, men's wool slacks, high rise trousers
 
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Pants products](../../products/menswear/mens-pants/index.md)
-
-## Citations
-
-[1] [Pants](https://baronboutique.com/menswear/mens-pants/)

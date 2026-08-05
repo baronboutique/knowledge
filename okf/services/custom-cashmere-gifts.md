@@ -4,7 +4,19 @@ title: "Custom Cashmere Gifts"
 description: "Baron Boutique offers a bespoke cashmere gifting service for life's most meaningful occasions, including weddings, corporate milestones, baby showers, and personal celebrations. Each piece is handwoven in Nepal by artisan partners using the world’s finest cashmere. We offer fully personalized options, including Pantone-matched colors, custom monograms, delicate scent infusions, and eco-friendly luxury packaging, with flexible minimums starting at just 6 pieces per style."
 resource: https://baronboutique.com/custom-cashmere-gifts/
 tags: [custom-cashmere-gifts, corporate-gifts, personalized-gifts, cashmere-scarves, monogram, wedding-gifts, gifting-service, handmade, heirloom, service]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/custom-cashmere-gifts/
+    title: "Custom Cashmere Gifts"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-06-16
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Custom Cashmere Gifts
@@ -115,7 +127,3 @@ Baron Boutique offers a bespoke cashmere gifting service for life's most meaning
 
 - [Baron Boutique](../company.md)
 - [All Services](index.md)
-
-## Citations
-
-[1] [Custom Cashmere Gifts](https://baronboutique.com/custom-cashmere-gifts/)

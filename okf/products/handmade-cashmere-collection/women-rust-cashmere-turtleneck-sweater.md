@@ -4,7 +4,19 @@ title: "Women's Rust Cashmere Turtleneck Sweater"
 description: "This rust-colored cashmere turtleneck brings Himalayan heritage to your wardrobe. Hand-knitted from Grade A Tibetan Plateau fiber, each piece is made to order in Nepal using traditional techniques and…"
 resource: https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/
 tags: [women, cashmere, sweater, turtleneck, knitwear, pullover, rust, hand-knitted, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Women's Rust Cashmere Turtleneck Sweater
@@ -28,18 +40,14 @@ Amber Embrace of Autumn Like leaves turning in golden light, this rust cashmere 
 
 ## Categories
 
-- Scarves
+- Handcrafted Cashmere
 - Women › Sweaters
 
 **Related terms:** burnt orange roll neck jumper, terracotta polo neck sweater, Nepal knit turtleneck, autumn cashmere jumper
 
 ## Related
 
-- [Scarves Category](../../categories/handmade-cashmere-collection/index.md)
+- [Handcrafted Cashmere Category](../../categories/handmade-cashmere-collection.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/)

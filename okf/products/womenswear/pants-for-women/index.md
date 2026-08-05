@@ -1,15 +1,6 @@
----
-type: Index
-title: "Pants"
-description: "Women's Pants Tailored Trousers, Made to Your Measurements Off-the-rack trousers force a compromise between the waist and the hip; made-to-measure does not. This collection covers the full range of tailored women's trousers: seasonless and warm-weather wool dress trousers, wide-leg and straight-leg linen, menswear-inspired formal trousers, velvet, and more. Each pair is cut to your exact measurements in real cloth for a clean line, a true waist, and the leg shape you choose. Pick your cloth, color, and cut, from a slim tapered leg to a relaxed wide leg. Before we cut your final fabric we send a free test garment so the fit is confirmed first. Made to your measurements, from $229."
-resource: https://baronboutique.com/womenswear/pants-for-women/
-tags: [women, pants, trousers, dress-pants, work-pants, wool-pants, linen-pants, wide-leg, custom-pants, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Pants
 
-Women's Pants Tailored Trousers, Made to Your Measurements Off-the-rack trousers force a compromise between the waist and the hip; made-to-measure does not. This collection covers the full range of tailored women's trousers: seasonless and warm-weather wool dress trousers, wide-leg and straight-leg linen, menswear-inspired formal trousers, velvet, and more. Each pair is cut to your exact measurements in real cloth for a clean line, a true waist, and the leg shape you choose. Pick your cloth, color, and cut, from a slim tapered leg to a relaxed wide leg. Before we cut your final fabric we send a free test garment so the fit is confirmed first. Made to your measurements, from $229.
+Made-to-order trousers cut to the wearer's waist and hip together, in seasonless wool, linen, and velvet, without the off-the-rack compromise.
 
 All 12 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -79,7 +70,4 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 - [Pants Category](../../../categories/womenswear/pants-for-women.md)
 - [Women Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Pants](https://baronboutique.com/womenswear/pants-for-women/)
+- [Pants on baronboutique.com](https://baronboutique.com/womenswear/pants-for-women/)

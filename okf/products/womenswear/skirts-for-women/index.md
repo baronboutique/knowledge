@@ -1,15 +1,6 @@
----
-type: Index
-title: "Skirts"
-description: "Women's Skirts Tailored Pencil and Work Skirts, Made to Your Measurements A pencil skirt only works when the waist, hip, and length are yours, which is exactly why these are made to order. This collection is built around the tailored work skirt: sharp black pencil skirts for the office, pinstripe and stripe skirts, midi lengths, and performance wool skirts that hold their line all day. Every one is cut to your exact measurements in real cloth, so it sits at your true waist and falls where you want it. Choose your cloth, color, and length, from classic black to pinstripe, mohair, and tropical wool, and pair any skirt with a matching blazer for a skirt suit. Made to your measurements, from $229."
-resource: https://baronboutique.com/womenswear/skirts-for-women/
-tags: [women, skirts, pencil-skirt, work-skirt, wool-skirt, kick-pleat, custom-skirt, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Skirts
 
-Women's Skirts Tailored Pencil and Work Skirts, Made to Your Measurements A pencil skirt only works when the waist, hip, and length are yours, which is exactly why these are made to order. This collection is built around the tailored work skirt: sharp black pencil skirts for the office, pinstripe and stripe skirts, midi lengths, and performance wool skirts that hold their line all day. Every one is cut to your exact measurements in real cloth, so it sits at your true waist and falls where you want it. Choose your cloth, color, and length, from classic black to pinstripe, mohair, and tropical wool, and pair any skirt with a matching blazer for a skirt suit. Made to your measurements, from $229.
+Made-to-order pencil, pleated, and stripe skirts cut to the wearer's waist, hip, and length for work and occasion wear.
 
 All 10 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -76,7 +67,4 @@ Every adjustment is applied, then your skirt is cut and hand-tailored in your ch
 - [Skirts Category](../../../categories/womenswear/skirts-for-women.md)
 - [Women Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Skirts](https://baronboutique.com/womenswear/skirts-for-women/)
+- [Skirts on baronboutique.com](https://baronboutique.com/womenswear/skirts-for-women/)

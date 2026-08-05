@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Tuxedos"
-description: "Women's Tuxedos Bespoke Women's Tuxedos, Drafted for a Woman's Figure A tuxedo cut for a woman is not a man's tuxedo resized, it is drafted from the start for a woman's shoulders, bust, and waist. This collection brings together classic wool tuxedos with satin shawl and peak lapels and a soft velvet tuxedo jacket, each made to your exact measurements in real cloth for black-tie events, weddings, galas, and prom. Choose your cloth, lapel, and details, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $529."
+description: "Made-to-order tuxedos drafted from scratch for a woman's shoulders, bust, and waist rather than resized from a man's pattern."
 resource: https://baronboutique.com/womenswear/tuxedos-for-women/
-tags: [women, tuxedo, tuxedo-suit, black-tie, evening-wear, velvet-jacket, custom-tuxedo, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [women, tuxedo, tuxedo-suit, black-tie, evening-wear, velvet-jacket, custom-tuxedo, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/tuxedos-for-women/
+    title: "Tuxedos"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Tuxedos
 
-Women's Tuxedos Bespoke Women's Tuxedos, Drafted for a Woman's Figure A tuxedo cut for a woman is not a man's tuxedo resized, it is drafted from the start for a woman's shoulders, bust, and waist. This collection brings together classic wool tuxedos with satin shawl and peak lapels and a soft velvet tuxedo jacket, each made to your exact measurements in real cloth for black-tie events, weddings, galas, and prom. Choose your cloth, lapel, and details, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $529.
+Made-to-order tuxedos drafted from scratch for a woman's shoulders, bust, and waist rather than resized from a man's pattern.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -67,9 +78,5 @@ Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cl
 
 ## Related
 
-- [Women Category Index](index.md)
+- [Women Category Index](../womenswear.md)
 - [Browse all Tuxedos products](../../products/womenswear/tuxedos-for-women/index.md)
-
-## Citations
-
-[1] [Tuxedos](https://baronboutique.com/womenswear/tuxedos-for-women/)

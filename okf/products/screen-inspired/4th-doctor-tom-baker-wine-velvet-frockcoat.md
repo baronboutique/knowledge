@@ -4,7 +4,19 @@ title: "Fourth Doctor Tom Baker's Wine Velvet Frock Coat"
 description: "Step into the shoes of the Fourth Doctor with this screen inspired Tom Baker's iconic Wine Velvet Frock Coat."
 resource: https://baronboutique.com/4th-doctor-tom-baker-wine-velvet-frockcoat/
 tags: [men, coat, frock-coat, velvet, wine, burgundy, doctor-who, fourth-doctor, time-lord-coat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/4th-doctor-tom-baker-wine-velvet-frockcoat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Fourth Doctor Tom Baker's Wine Velvet Frock Coat
@@ -40,12 +52,8 @@ Step into time travel Channel the timeless elegance and charm of the 4th Doctor 
 
 ## Related
 
-- [Screen Inspired Category](../../categories/screen-inspired/index.md)
+- [Screen Inspired Category](../../categories/screen-inspired.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/4th-doctor-tom-baker-wine-velvet-frockcoat/)
+- [Screen-Inspired Collection](../../categories/screen-inspired.md)

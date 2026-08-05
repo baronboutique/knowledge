@@ -1,15 +1,6 @@
----
-type: Index
-title: "Vests"
-description: "Men's Custom & Bespoke waistcoats A waistcoat is the most overlooked piece of tailoring and the one that elevates an outfit most: it turns a two-piece suit into a three-piece, and worn on its own over a shirt it is a sharp, deliberate layer. It is also the piece a poor fit ruins fastest, gapping at the buttons or riding up over the waistband. Both waistcoats here are cut to your body in worsted wool for a year-round three-piece or linen for summer and weddings, and before we cut your final cloth we send a free test garment so the fit is confirmed first. Made to your measurements, $299."
-resource: https://baronboutique.com/menswear/vests/
-tags: [men, vest, waistcoat, three-piece, wedding-vest, linen-vest, wool-vest, custom-vest, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Vests
 
-Men's Custom & Bespoke waistcoats A waistcoat is the most overlooked piece of tailoring and the one that elevates an outfit most: it turns a two-piece suit into a three-piece, and worn on its own over a shirt it is a sharp, deliberate layer. It is also the piece a poor fit ruins fastest, gapping at the buttons or riding up over the waistband. Both waistcoats here are cut to your body in worsted wool for a year-round three-piece or linen for summer and weddings, and before we cut your final cloth we send a free test garment so the fit is confirmed first. Made to your measurements, $299.
+Made-to-order waistcoats in wool, linen, and velvet, cut to the wearer's measurements to complete a three-piece suit or to wear alone.
 
 All 2 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -76,7 +67,4 @@ Your finished waistcoat ships from Dubai by trackable courier, about four to six
 - [Vests Category](../../../categories/menswear/vests.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Vests](https://baronboutique.com/menswear/vests/)
+- [Vests on baronboutique.com](https://baronboutique.com/menswear/vests/)

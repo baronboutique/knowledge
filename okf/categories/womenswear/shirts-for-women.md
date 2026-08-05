@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Shirts & Blouses"
-description: "Women's Shirts & Blouses Tailored and Fitted Shirts & Blouses, Made to Your Measurements A tailored shirt is where fit shows most, across the shoulders, the bust, and the waist, so every shirt here is made to your exact measurements. The collection spans crisp cotton dress shirts and oxford shirts, Egyptian-cotton and twill essentials, statement ruffle and double-collar designs, oversized linen, and flowing crepe silk blouses. No standard sizing, just a shirt cut to your body and finished the way you choose. Choose your cloth, collar, cuff, and fit, from a sharp professional shirt to a relaxed linen or a silk blouse. Made to your measurements, from $199."
+description: "Made-to-order shirts and blouses in Egyptian cotton, oxford, twill, and crepe silk, cut across the shoulders, bust, and waist."
 resource: https://baronboutique.com/womenswear/shirts-for-women/
-tags: [women, shirts, blouses, dress-shirt, silk-blouse, cotton-shirt, workwear, custom-shirt, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [women, shirts, blouses, dress-shirt, silk-blouse, cotton-shirt, workwear, custom-shirt, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/shirts-for-women/
+    title: "Shirts & Blouses"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Shirts & Blouses
 
-Women's Shirts & Blouses Tailored and Fitted Shirts & Blouses, Made to Your Measurements A tailored shirt is where fit shows most, across the shoulders, the bust, and the waist, so every shirt here is made to your exact measurements. The collection spans crisp cotton dress shirts and oxford shirts, Egyptian-cotton and twill essentials, statement ruffle and double-collar designs, oversized linen, and flowing crepe silk blouses. No standard sizing, just a shirt cut to your body and finished the way you choose. Choose your cloth, collar, cuff, and fit, from a sharp professional shirt to a relaxed linen or a silk blouse. Made to your measurements, from $199.
+Made-to-order shirts and blouses in Egyptian cotton, oxford, twill, and crepe silk, cut across the shoulders, bust, and waist.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -76,9 +87,5 @@ Every adjustment is applied, then your shirt is cut and hand-tailored in your ch
 
 ## Related
 
-- [Women Category Index](index.md)
+- [Women Category Index](../womenswear.md)
 - [Browse all Shirts & Blouses products](../../products/womenswear/shirts-for-women/index.md)
-
-## Citations
-
-[1] [Shirts & Blouses](https://baronboutique.com/womenswear/shirts-for-women/)

@@ -4,7 +4,19 @@ title: "Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made"
 description: "Most satin silk shirts sold online are polyester satin. This one is 100% natural silk fiber in a satin weave — the actual thing, not the approximation."
 resource: https://baronboutique.com/satin-silk-shirt/
 tags: [men, shirt, silk, satin-silk, solid-color, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/satin-silk-shirt/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made
@@ -100,7 +112,3 @@ Your completed satin silk shirt ships worldwide by trackable courier. The cotton
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/satin-silk-shirt/)

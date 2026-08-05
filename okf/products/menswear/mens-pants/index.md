@@ -1,15 +1,6 @@
----
-type: Index
-title: "Pants"
-description: "Men's Custom & Bespoke Trousers This is the end of the 'off-the-rack' compromise. Our custom trousers are engineered for a perfect fit, tailored to your exact measurements. Whether you require the timeless authority of pinstripe wool, the refined texture of worsted wool, or the unique luster of Dupioni silk, we have the fabric to build your ideal pair. To ensure a flawless fit and complete confidence, we first send you a free test garment to approve at home."
-resource: https://baronboutique.com/menswear/mens-pants/
-tags: [men, pants, trousers, dress-pants, wool-pants, linen-pants, flat-front, slim-fit, custom-pants, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Pants
 
-Men's Custom & Bespoke Trousers This is the end of the 'off-the-rack' compromise. Our custom trousers are engineered for a perfect fit, tailored to your exact measurements. Whether you require the timeless authority of pinstripe wool, the refined texture of worsted wool, or the unique luster of Dupioni silk, we have the fabric to build your ideal pair. To ensure a flawless fit and complete confidence, we first send you a free test garment to approve at home.
+Made-to-order trousers in wool, flannel, linen, mohair, and silk, cut from the wearer's rise, seat, and leg rather than a waist size.
 
 All 9 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -91,7 +82,4 @@ Your finished trousers ship from Dubai by trackable courier, about four to six w
 - [Pants Category](../../../categories/menswear/mens-pants.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Pants](https://baronboutique.com/menswear/mens-pants/)
+- [Pants on baronboutique.com](https://baronboutique.com/menswear/mens-pants/)

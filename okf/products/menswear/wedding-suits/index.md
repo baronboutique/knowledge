@@ -1,15 +1,6 @@
----
-type: Index
-title: "Wedding Suits"
-description: "Men's Wedding Suits, Made to Your Measurements Your wedding is the most photographed day of your life, and the worst day to wear a suit that is close but not right. Every wedding suit here is made to your measurements in real cloth, with a free test suit before we cut, and it is yours to keep. Linen suits for a summer or beach ceremony, tuxedos for a formal evening, ceremonial frock coats, and the look Baron is known for above all: the wedding suit with a floor-length cape that no rental can match and no other guest will be wearing."
-resource: https://baronboutique.com/menswear/wedding-suits/
-tags: [men, wedding-suit, groom-suit, groomsmen, linen-suit, silk-suit, summer-wedding, destination-wedding, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Wedding Suits
 
-Men's Wedding Suits, Made to Your Measurements Your wedding is the most photographed day of your life, and the worst day to wear a suit that is close but not right. Every wedding suit here is made to your measurements in real cloth, with a free test suit before we cut, and it is yours to keep. Linen suits for a summer or beach ceremony, tuxedos for a formal evening, ceremonial frock coats, and the look Baron is known for above all: the wedding suit with a floor-length cape that no rental can match and no other guest will be wearing.
+Made-to-order wedding suits for grooms, cut from an individual pattern, including three-piece, linen, and destination-wedding tailoring.
 
 All 1 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -79,7 +70,4 @@ Before any final cloth is cut, we build a test suit in a low-cost fabric to your
 - [Wedding Suits Category](../../../categories/menswear/wedding-suits.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Wedding Suits](https://baronboutique.com/menswear/wedding-suits/)
+- [Wedding Suits on baronboutique.com](https://baronboutique.com/menswear/wedding-suits/)

@@ -4,7 +4,19 @@ title: "Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & T
 description: "Crafted from 100% pure, allergen-free Grade A cashmere for superior warmth and breathability. Sustainably sourced from the Tibetan Plateau, supporting ethical and eco-conscious production."
 resource: https://baronboutique.com/cashmere-wrap-scarf-womens-80-plus-colors/
 tags: [women, cashmere, scarf, wrap, shawl, solid-color, handwoven, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/cashmere-wrap-scarf-womens-80-plus-colors/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors
@@ -34,11 +46,7 @@ Pure Cashmere, Infinite Possibilities This is the one accessory that does it all
 
 ## Related
 
-- [Women Category](../../categories/womenswear/index.md)
+- [Women Category](../../categories/womenswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/cashmere-wrap-scarf-womens-80-plus-colors/)

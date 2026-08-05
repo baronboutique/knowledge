@@ -4,7 +4,19 @@ title: "James Bond No Time To Die Beige Corduroy Suit"
 description: "Daniel Craig’s Bond unexpected weapon in his action-packaged film “No Time to Die”, Pinwale Corduroy Suit."
 resource: https://baronboutique.com/no-time-to-die-beige-corduroy-suit-james-bond/
 tags: [men, suit, corduroy, beige, james-bond, spy-tailoring, no-time-to-die, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/no-time-to-die-beige-corduroy-suit-james-bond/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.2, at: 2026-08-05T16:25:50Z }
 ---
 
 # James Bond No Time To Die Beige Corduroy Suit
@@ -36,12 +48,8 @@ James Bond No Time To Die Beige Corduroy Suit This No Time to Die beige corduroy
 
 ## Related
 
-- [Destination Wedding Suits Category](../../../categories/menswear/destination-wedding-suits.md)
+- [Destination Wedding Suits Category](../../../categories/menswear/wedding-suits/destination-wedding-suits.md)
 - [Destination Wedding Suits Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/no-time-to-die-beige-corduroy-suit-james-bond/)

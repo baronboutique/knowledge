@@ -1,17 +1,33 @@
 ---
 type: Product Category
 title: "Wedding Suits"
-description: "Men's Wedding Suits, Made to Your Measurements Your wedding is the most photographed day of your life, and the worst day to wear a suit that is close but not right. Every wedding suit here is made to your measurements in real cloth, with a free test suit before we cut, and it is yours to keep. Linen suits for a summer or beach ceremony, tuxedos for a formal evening, ceremonial frock coats, and the look Baron is known for above all: the wedding suit with a floor-length cape that no rental can match and no other guest will be wearing."
+description: "Made-to-order wedding suits for grooms, cut from an individual pattern, including three-piece, linen, and destination-wedding tailoring."
 resource: https://baronboutique.com/menswear/wedding-suits/
-tags: [men, wedding-suit, groom-suit, groomsmen, linen-suit, silk-suit, summer-wedding, destination-wedding, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [men, wedding-suit, groom-suit, groomsmen, linen-suit, silk-suit, summer-wedding, destination-wedding, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/wedding-suits/
+    title: "Wedding Suits"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.2, at: 2026-08-05T16:25:50Z }
 ---
 
 # Wedding Suits
 
-Men's Wedding Suits, Made to Your Measurements Your wedding is the most photographed day of your life, and the worst day to wear a suit that is close but not right. Every wedding suit here is made to your measurements in real cloth, with a free test suit before we cut, and it is yours to keep. Linen suits for a summer or beach ceremony, tuxedos for a formal evening, ceremonial frock coats, and the look Baron is known for above all: the wedding suit with a floor-length cape that no rental can match and no other guest will be wearing.
+Made-to-order wedding suits for grooms, cut from an individual pattern, including three-piece, linen, and destination-wedding tailoring.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
+
+## Subcategories
+
+- [Destination Wedding Suits](wedding-suits/destination-wedding-suits.md)
+- [Linen Wedding Suits](wedding-suits/grooms-linen-suits-for-wedding.md)
 
 Your Wedding Suit Should Be the One Nobody Else Is Wearing. And It Should Be Yours.
 A wedding is the most photographed day of most men’s lives, and it is the one day a rented or off-the-rack suit is least forgivable. The jacket that is close but not right, the trousers that pool at the shoe, the fabric that looks flat in every frame: these do not disappear from the album. Every suit in this collection is made to your measurements, in real cloth, and it is yours to keep long after the day. Before we cut it, we send a free test suit so the fit is confirmed at home first. This collection spans every kind of wedding. A breathable linen suit for a summer or beach ceremony. A tuxedo for a formal evening. A frock coat for a groom who wants something ceremonial.
@@ -86,13 +102,9 @@ Before any final cloth is cut, we build a test suit in a low-cost fabric to your
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 - [Western Frock Coat in Wool, Made to Measure](../../products/menswear/mens-frock-coat.md)
 
-**Related terms:** groom suits online, custom wedding suit for men, beach wedding attire men, tailored groom outfit, made to measure wedding suit
+**Related terms:** groom suits online, custom wedding suit for men, beach wedding attire men, tailored groom outfit, made-to-order wedding suit
 
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Wedding Suits products](../../products/menswear/wedding-suits/index.md)
-
-## Citations
-
-[1] [Wedding Suits](https://baronboutique.com/menswear/wedding-suits/)

@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Wedding Suits"
-description: "Women's Wedding Suits Bespoke Wedding Suits and Tuxedos for Women, Made to Your Measurements For the bride who wears a suit, the guest who wants something sharper than a dress, and the mother of the bride or groom who wants to feel unmistakably herself, this collection is tailoring for the occasion. It runs from bridal suits in white and off-white to women's tuxedos, silk and silk-blend suits, and statement evening jackets, every piece made to your exact measurements in real cloth. Choose your cloth, color, and details, and we build it to your body and your wedding. Before we cut your final fabric we send a free test garment, so the fit is confirmed on you first, and we recommend ordering early for a dated event. Made to your measurements, from $529."
+description: "Made-to-order wedding suits and tuxedos drafted for a woman's figure, for brides, guests, and mothers of the bride and groom."
 resource: https://baronboutique.com/womenswear/wedding-suits-for-women/
-tags: [women, wedding-suit, bridal-suit, bride-pantsuit, destination-wedding, custom-suit, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [women, wedding-suit, bridal-suit, bride-pantsuit, destination-wedding, custom-suit, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/wedding-suits-for-women/
+    title: "Wedding Suits"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Wedding Suits
 
-Women's Wedding Suits Bespoke Wedding Suits and Tuxedos for Women, Made to Your Measurements For the bride who wears a suit, the guest who wants something sharper than a dress, and the mother of the bride or groom who wants to feel unmistakably herself, this collection is tailoring for the occasion. It runs from bridal suits in white and off-white to women's tuxedos, silk and silk-blend suits, and statement evening jackets, every piece made to your exact measurements in real cloth. Choose your cloth, color, and details, and we build it to your body and your wedding. Before we cut your final fabric we send a free test garment, so the fit is confirmed on you first, and we recommend ordering early for a dated event. Made to your measurements, from $529.
+Made-to-order wedding suits and tuxedos drafted for a woman's figure, for brides, guests, and mothers of the bride and groom.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -79,9 +90,5 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 
 ## Related
 
-- [Women Category Index](index.md)
+- [Women Category Index](../womenswear.md)
 - [Browse all Wedding Suits products](../../products/womenswear/wedding-suits-for-women/index.md)
-
-## Citations
-
-[1] [Wedding Suits](https://baronboutique.com/womenswear/wedding-suits-for-women/)

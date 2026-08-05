@@ -4,7 +4,19 @@ title: "Multicolor Check Cashmere Scarf"
 description: "This beautiful multicolor check cashmere scarf features a richly colored checkered pattern with jewel tones like deep teal, navy, maroon, forest green, and hints of gold and plum, woven in a harmoniou…"
 resource: https://baronboutique.com/multicolor-check-cashmere-scarf/
 tags: [women, cashmere, scarf, wrap, check, multicolor, handwoven, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/multicolor-check-cashmere-scarf/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Multicolor Check Cashmere Scarf
@@ -28,18 +40,14 @@ Echoes of Kathmandu Alleys A tapestry of deep teal, garnet, indigo, and golden o
 
 ## Categories
 
-- Scarves
+- Handcrafted Cashmere
 - Women › Accessories
 
 **Related terms:** colorful plaid muffler, checked pashmina, bright check shawl, gift scarf for her
 
 ## Related
 
-- [Scarves Category](../../categories/handmade-cashmere-collection/index.md)
+- [Handcrafted Cashmere Category](../../categories/handmade-cashmere-collection.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/multicolor-check-cashmere-scarf/)

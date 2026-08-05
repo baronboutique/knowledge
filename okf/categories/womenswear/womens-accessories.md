@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Accessories"
-description: "Women's Cashmere & Silk Accessories Handwoven Cashmere Scarves, Shawls, and Silk Accessories A great scarf is the fastest way to transform an outfit, and a great cashmere scarf is one you keep for a lifetime. This collection is built around handwoven and hand-felted Grade A cashmere: solid-color scarves and shawls, printed and patterned pieces from leopard and houndstooth to embroidered florals and tartan, and featherlight wraps light enough to fold into a pocket. Alongside them sit pure silk neck scarves, neckties, and pocket squares. Every cashmere piece is handwoven or hand-felted from 100% pure cashmere, and many are made to order in the color you choose. From $65."
+description: "Handwoven cashmere scarves and shawls and hand-finished silk wraps, made in the workshop with color and dimensions specified per order."
 resource: https://baronboutique.com/womenswear/womens-accessories/
 tags: [women, accessories, scarves, shawls, wraps, silk-scarf, cashmere, handwoven, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/womens-accessories/
+    title: "Accessories"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Accessories
 
-Women's Cashmere & Silk Accessories Handwoven Cashmere Scarves, Shawls, and Silk Accessories A great scarf is the fastest way to transform an outfit, and a great cashmere scarf is one you keep for a lifetime. This collection is built around handwoven and hand-felted Grade A cashmere: solid-color scarves and shawls, printed and patterned pieces from leopard and houndstooth to embroidered florals and tartan, and featherlight wraps light enough to fold into a pocket. Alongside them sit pure silk neck scarves, neckties, and pocket squares. Every cashmere piece is handwoven or hand-felted from 100% pure cashmere, and many are made to order in the color you choose. From $65.
+Handwoven cashmere scarves and shawls and hand-finished silk wraps, made in the workshop with color and dimensions specified per order.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -62,7 +73,6 @@ Your accessory ships by FedEx, DHL, or UPS with full tracking, gift-ready. Made-
 ## Products
 
 - [Aquamarine Blue Handwoven Cashmere Scarf Shawl](../../products/handmade-cashmere-collection/aquamarine-blue-handwoven-cashmere-scarf-shawl.md)
-- [Baby Blue Sunflower Embroidered Cashmere Scarf](../../products/handmade-cashmere-collection/baby-blue-sunflower-embroidered-cashmere-scarf.md)
 - [Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors](../../products/womenswear/cashmere-wrap-scarf-womens-80-plus-colors.md)
 - [Cloud Stripe Spring Cashmere Scarf](../../products/handmade-cashmere-collection/cloud-stripe-spring-cashmere-scarf.md)
 - [Emerald Green Handwoven Cashmere Scarf Shawl](../../products/handmade-cashmere-collection/emerald-green-handwoven-cashmere-scarf-shawl.md)
@@ -92,6 +102,7 @@ Your accessory ships by FedEx, DHL, or UPS with full tracking, gift-ready. Made-
 - [Red Houndstooth Cashmere Scarf – Hand-Finished in Diamond Weave](../../products/handmade-cashmere-collection/red-houndstooth-cashmere-scarf.md)
 - [Royal Blue Essential Wrap in Diamond Weave Cashmere](../../products/handmade-cashmere-collection/royal-blue-essential-wrap-in-diamond-weave-cashmere.md)
 - [Solar and Lunar Print Cashmere Loom Scarf](../../products/handmade-cashmere-collection/solar-lunar-print-cashmere-loom-scarf.md)
+- [The Sunflower-Embroidered Baby Blue Cashmere Wrap](../../products/handmade-cashmere-collection/baby-blue-sunflower-embroidered-cashmere-shawl.md)
 - [Two Face Silk Neckties Handmade](../../products/menswear/two-face-silk-neckties-handmade.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](../../products/handmade-cashmere-collection/willow-green-handwoven-cashmere-scarf-shawl.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](../../products/womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)
@@ -100,8 +111,4 @@ Your accessory ships by FedEx, DHL, or UPS with full tracking, gift-ready. Made-
 
 ## Related
 
-- [Women Category Index](index.md)
-
-## Citations
-
-[1] [Accessories](https://baronboutique.com/womenswear/womens-accessories/)
+- [Women Category Index](../womenswear.md)

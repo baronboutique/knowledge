@@ -4,7 +4,19 @@ title: "Eleventh Doctor's \"Snowmen\" Frock Coat"
 description: "This is not a costume — it's history, perfected. Our replica of the Eleventh Doctor's \"Snowmen\" Frock Coat is a meticulous recreation, capturing every detail of its iconic Victorian design."
 resource: https://baronboutique.com/eleventh-doctor-snowmen-frock-coat-replica/
 tags: [men, coat, frock-coat, cotton, moleskin, plum, victorian-style, doctor-who, eleventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/eleventh-doctor-snowmen-frock-coat-replica/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Eleventh Doctor's "Snowmen" Frock Coat
@@ -34,12 +46,8 @@ A Closer Look: Snowmen Doctor's Coat Details A Piece of Cherished History, Tailo
 
 ## Related
 
-- [Screen Inspired Category](../../categories/screen-inspired/index.md)
+- [Screen Inspired Category](../../categories/screen-inspired.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/eleventh-doctor-snowmen-frock-coat-replica/)
+- [Screen-Inspired Collection](../../categories/screen-inspired.md)

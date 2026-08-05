@@ -4,7 +4,19 @@ title: "The High-Performance Mohair Suit"
 description: "This is the power suit engineered for the modern professional. Our Women's Mohair Suit is crafted from a high-performance mohair-wool blend, a fabric prized for its natural wrinkle resistance and subt…"
 resource: https://baronboutique.com/womens-mohair-wool-suit/
 tags: [women, suit, pant-suit, mohair-wool, wool, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-mohair-wool-suit/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The High-Performance Mohair Suit
@@ -40,7 +52,3 @@ The Suit That Keeps Up With Your Ambition This is the power suit, re-engineered 
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-mohair-wool-suit/)

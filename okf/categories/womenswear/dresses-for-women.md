@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Dresses"
-description: "Women's Dresses Tailored Dresses, Made to Your Measurements A dress that is made to your measurements sits differently: it skims where it should and holds where it should, with no gaping neckline and no compromise between the bust and the waist. This collection spans tailored sheath dresses, silk and statement dresses, linen and summer styles, easy shift and wrap dresses, and sheath dresses for weddings and mothers of the bride, each cut to your body in real cloth. Choose your cloth, color, and length, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $309."
+description: "Made-to-order dresses in wool flannel, crepe silk, and other cloths, cut to the wearer's measurements for work, evening, and occasion."
 resource: https://baronboutique.com/womenswear/dresses-for-women/
-tags: [women, dresses, sheath-dress, shift-dress, wrap-dress, maxi-dress, work-dress, wool-dress, silk-dress, custom-dress, made-to-measure, bespoke]
-timestamp: 2026-07-24T15:30:44Z
+tags: [women, dresses, sheath-dress, shift-dress, wrap-dress, maxi-dress, work-dress, wool-dress, silk-dress, custom-dress, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/dresses-for-women/
+    title: "Dresses"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Dresses
 
-Women's Dresses Tailored Dresses, Made to Your Measurements A dress that is made to your measurements sits differently: it skims where it should and holds where it should, with no gaping neckline and no compromise between the bust and the waist. This collection spans tailored sheath dresses, silk and statement dresses, linen and summer styles, easy shift and wrap dresses, and sheath dresses for weddings and mothers of the bride, each cut to your body in real cloth. Choose your cloth, color, and length, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $309.
+Made-to-order dresses in wool flannel, crepe silk, and other cloths, cut to the wearer's measurements for work, evening, and occasion.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -71,17 +82,13 @@ Every adjustment is applied, then your dress is cut and hand-tailored in your ch
 - [The Minimalist Sheath Wedding Dress](../../products/womenswear/dresses-for-women/womens-pure-new-wool-sheath-dress.md)
 - [The Modern Mother of the Bride Sheath Dress](../../products/womenswear/dresses-for-women/womens-dalenia-pinstripe-sheath-dress.md)
 - [The Tailored Mini Dress](../../products/womenswear/dresses-for-women/womens-mayalu-cobalt-dress.md)
-- [Unlined Linen Duster Coat](../../products/womenswear/dresses-for-women/linen-dress-jacket-with-notch-collar.md)
+- [Unlined Linen Duster Coat](../../products/womenswear/linen-dress-jacket-with-notch-collar.md)
 - [V-Neck Women's Sheath Dress](../../products/womenswear/dresses-for-women/wool-flannel-sheath-dress.md)
 - [White Piped Trim Sheath Dress A-Line V-Neck](../../products/womenswear/dresses-for-women/womens-piped-sheath-dress.md)
 
-**Related terms:** custom made dresses, tailored work dresses, made to measure dress, silk dresses online, office dresses
+**Related terms:** custom made dresses, tailored work dresses, made-to-order dress, silk dresses online, office dresses
 
 ## Related
 
-- [Women Category Index](index.md)
+- [Women Category Index](../womenswear.md)
 - [Browse all Dresses products](../../products/womenswear/dresses-for-women/index.md)
-
-## Citations
-
-[1] [Dresses](https://baronboutique.com/womenswear/dresses-for-women/)

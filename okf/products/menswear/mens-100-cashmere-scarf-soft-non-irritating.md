@@ -4,7 +4,19 @@ title: "Mens 100% Cashmere Scarf 22×72 Inches Long Soft Non-Irritating 80+ Colo
 description: "Mens 100% Cashmere Scarf — Keep it in style with the luxury and softness of cashmere. Make a season statement with these classy and timeless 100% pure cashmere scarves by Baron Boutique, available in …"
 resource: https://baronboutique.com/mens-100-cashmere-scarf-soft-non-irritating/
 tags: [men, cashmere, scarf, wrap, solid-color, formalwear, handwoven, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-100-cashmere-scarf-soft-non-irritating/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Mens 100% Cashmere Scarf 22×72 Inches Long Soft Non-Irritating 80+ Colors
@@ -28,18 +40,14 @@ The final, essential element of a considered wardrobe, the pure cashmere scarf i
 
 ## Categories
 
-- Scarves
+- Handcrafted Cashmere
 - Men › Accessories
 
 **Related terms:** soft scarf for sensitive skin, non itchy winter scarf, men's dress scarf, gift scarf for him
 
 ## Related
 
-- [Men Category](../../categories/menswear/index.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-100-cashmere-scarf-soft-non-irritating/)

@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Screen Inspired"
-description: "Screen Inspired, For Her Cinematic Tailoring for Women, Cut to Your Measurements Cinema's most compelling silhouettes, recut for the modern woman. From the Doctor's velvet coats and Edwardian frock coats to spy tailoring, the Matrix's long black trench, and gothic statement outerwear, every piece draws from the garments that defined iconic moments on screen. Structured, precise, and unapologetically bold. Each garment is bespoke, made exclusively to your measurements, and our free test garment guarantees a flawless fit before your final piece is cut. Made to your measurements, from $229."
+description: "Garments recreated from film and television references and drafted for a woman's figure. Independent recreations, not licensed merchandise."
 resource: https://baronboutique.com/womenswear/screen-inspired-women/
 tags: [women, screen-inspired, movie-replica, cosplay, doctor-who, matrix, james-bond, film-costume, replica, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/screen-inspired-women/
+    title: "Screen Inspired"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Screen Inspired
 
-Screen Inspired, For Her Cinematic Tailoring for Women, Cut to Your Measurements Cinema's most compelling silhouettes, recut for the modern woman. From the Doctor's velvet coats and Edwardian frock coats to spy tailoring, the Matrix's long black trench, and gothic statement outerwear, every piece draws from the garments that defined iconic moments on screen. Structured, precise, and unapologetically bold. Each garment is bespoke, made exclusively to your measurements, and our free test garment guarantees a flawless fit before your final piece is cut. Made to your measurements, from $229.
+Garments recreated from film and television references and drafted for a woman's figure. Independent recreations, not licensed merchandise.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -81,9 +92,5 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 
 ## Related
 
-- [Women Category Index](index.md)
+- [Women Category Index](../womenswear.md)
 - [Browse all Screen Inspired products](../../products/womenswear/screen-inspired-women/index.md)
-
-## Citations
-
-[1] [Screen Inspired](https://baronboutique.com/womenswear/screen-inspired-women/)

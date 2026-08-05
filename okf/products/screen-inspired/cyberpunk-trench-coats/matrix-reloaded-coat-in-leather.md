@@ -4,7 +4,19 @@ title: "Neo Leather Trench Coat Matrix 2"
 description: "Neo leather coat from the Matrix Reloaded for avid matrix fans who want to mimic the Neo character. Beautifully made leather trench coat with great design and practical features for daily use."
 resource: https://baronboutique.com/matrix-reloaded-coat-in-leather/
 tags: [men, trench-coat, long-coat, leather, lambskin, black, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/matrix-reloaded-coat-in-leather/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-05-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Neo Leather Trench Coat Matrix 2
@@ -42,8 +54,4 @@ Free Test Trench Coat – Customer Feedback for the Final Bespoke Neo Leather Co
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/matrix-reloaded-coat-in-leather/)
+- [Screen-Inspired Collection](../../../categories/screen-inspired.md)

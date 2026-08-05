@@ -4,7 +4,19 @@ title: "White Piped Trim Sheath Dress A-Line V-Neck"
 description: "This is your wardrobe's secret weapon. A single, powerful dress designed to conquer any event on your calendar."
 resource: https://baronboutique.com/womens-piped-sheath-dress/
 tags: [women, dress, sheath-dress, piping, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-piped-sheath-dress/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # White Piped Trim Sheath Dress A-Line V-Neck
@@ -40,7 +52,3 @@ The Architecture of Power This is not just a dress; it is a uniform for success.
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-piped-sheath-dress/)

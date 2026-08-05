@@ -4,7 +4,19 @@ title: "The Velvet Tuxedo Jacket"
 description: "This is the icon of eveningwear, perfected for you. Our Women's Velvet Tuxedo Blazer combines the timeless glamour of a **satin peak lapel with the rich texture of plush velvet**, all sculpted with a …"
 resource: https://baronboutique.com/womens-tailored-velvet-tuxedo-jacket/
 tags: [women, tuxedo-jacket, blazer, velvet, black-tie, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-tailored-velvet-tuxedo-jacket/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The Velvet Tuxedo Jacket
@@ -42,7 +54,3 @@ The Icon of Evening Power This is more than a blazer; it's a legend. It's the em
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-tailored-velvet-tuxedo-jacket/)

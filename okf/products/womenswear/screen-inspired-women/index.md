@@ -1,15 +1,6 @@
----
-type: Index
-title: "Screen Inspired"
-description: "Screen Inspired, For Her Cinematic Tailoring for Women, Cut to Your Measurements Cinema's most compelling silhouettes, recut for the modern woman. From the Doctor's velvet coats and Edwardian frock coats to spy tailoring, the Matrix's long black trench, and gothic statement outerwear, every piece draws from the garments that defined iconic moments on screen. Structured, precise, and unapologetically bold. Each garment is bespoke, made exclusively to your measurements, and our free test garment guarantees a flawless fit before your final piece is cut. Made to your measurements, from $229."
-resource: https://baronboutique.com/womenswear/screen-inspired-women/
-tags: [women, screen-inspired, movie-replica, cosplay, doctor-who, matrix, james-bond, film-costume, replica, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Screen Inspired
 
-Screen Inspired, For Her Cinematic Tailoring for Women, Cut to Your Measurements Cinema's most compelling silhouettes, recut for the modern woman. From the Doctor's velvet coats and Edwardian frock coats to spy tailoring, the Matrix's long black trench, and gothic statement outerwear, every piece draws from the garments that defined iconic moments on screen. Structured, precise, and unapologetically bold. Each garment is bespoke, made exclusively to your measurements, and our free test garment guarantees a flawless fit before your final piece is cut. Made to your measurements, from $229.
+Garments recreated from film and television references and drafted for a woman's figure. Independent recreations, not licensed merchandise.
 
 All 12 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -81,7 +72,4 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 - [Screen Inspired Category](../../../categories/womenswear/screen-inspired-women.md)
 - [Women Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Screen Inspired](https://baronboutique.com/womenswear/screen-inspired-women/)
+- [Screen Inspired on baronboutique.com](https://baronboutique.com/womenswear/screen-inspired-women/)

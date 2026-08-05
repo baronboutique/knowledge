@@ -1,15 +1,6 @@
----
-type: Index
-title: "Cinema Classics"
-description: "The Cinema Classics Collection Cinema has always known how to dress a man. This collection pays tribute to the garments that made history on screen. From Victorian frock coats to sharp Edwardian cuts, every piece draws from the silhouettes and fabrics that defined iconic moments in film. The tailoring is precise. The materials are uncompromising. The fit is entirely your own. Each garment is bespoke, cut and constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made."
-resource: https://baronboutique.com/screen-inspired/cinema-classics/
-tags: [cinema-classics, movie-replica, cary-grant, star-wars, fantastic-beasts, film-costume, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Cinema Classics
 
-The Cinema Classics Collection Cinema has always known how to dress a man. This collection pays tribute to the garments that made history on screen. From Victorian frock coats to sharp Edwardian cuts, every piece draws from the silhouettes and fabrics that defined iconic moments in film. The tailoring is precise. The materials are uncompromising. The fit is entirely your own. Each garment is bespoke, cut and constructed exclusively to your measurements. Our complimentary test garment process guarantees a flawless fit before your final piece is made.
+Golden-age and heist-film tailoring recreated in real cloth, from mid-century grey suits to rusty-tan three-pieces, cut to measurement. Not licensed merchandise.
 
 **Licensing note:** These garments are inspired by screen productions and are NOT officially licensed unless explicitly stated on the individual product page.
 
@@ -97,7 +88,4 @@ Every adjustment is applied, then your piece is cut and hand-tailored in the fab
 - [Cinema Classics Category](../../../categories/screen-inspired/cinema-classics.md)
 - [Screen Inspired Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Cinema Classics](https://baronboutique.com/screen-inspired/cinema-classics/)
+- [Cinema Classics on baronboutique.com](https://baronboutique.com/screen-inspired/cinema-classics/)

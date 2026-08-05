@@ -4,7 +4,19 @@ title: "Silver Dupioni Silk Suit - Bespoke Single-Breasted Tailored Menswear"
 description: "A bespoke silver dupioni silk suit tailored to your exact measurements, with a free test suit sent before any silk is cut."
 resource: https://baronboutique.com/silver-dupioni-silk-suit/
 tags: [men, suit, silk-suit, dupioni-silk, silk, silver, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/silver-dupioni-silk-suit/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-31
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Silver Dupioni Silk Suit - Bespoke Single-Breasted Tailored Menswear
@@ -86,7 +98,3 @@ The same construction - 5-roll-2 portrait lapel, canvas front, made to your meas
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/silver-dupioni-silk-suit/)

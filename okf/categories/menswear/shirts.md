@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Shirts"
-description: "Men's Shirts, Made to Your Measurements A ready-made shirt is sized on your neck and sleeve only, so it fits your collar or your body but almost never both. Every shirt here is made to your measurements, cut to your neck, chest, and arm at the same time, with the collar, cuff, and fit you choose. And the cloth goes well beyond ordinary cotton: 220-thread Egyptian cotton for everyday luxury, raw silk with its distinctive matte texture, smooth satin silk in 20 colors, and pure linen for warm weather."
+description: "Made-to-order dress shirts in Egyptian cotton, raw silk, and satin silk, cut to the wearer's neck and body rather than to a collar size."
 resource: https://baronboutique.com/menswear/shirts/
-tags: [men, shirts, dress-shirt, silk-shirt, cotton-shirt, egyptian-cotton, custom-shirt, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [men, shirts, dress-shirt, silk-shirt, cotton-shirt, egyptian-cotton, custom-shirt, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/shirts/
+    title: "Shirts"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Shirts
 
-Men's Shirts, Made to Your Measurements A ready-made shirt is sized on your neck and sleeve only, so it fits your collar or your body but almost never both. Every shirt here is made to your measurements, cut to your neck, chest, and arm at the same time, with the collar, cuff, and fit you choose. And the cloth goes well beyond ordinary cotton: 220-thread Egyptian cotton for everyday luxury, raw silk with its distinctive matte texture, smooth satin silk in 20 colors, and pure linen for warm weather.
+Made-to-order dress shirts in Egyptian cotton, raw silk, and satin silk, cut to the wearer's neck and body rather than to a collar size.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -89,13 +100,9 @@ Your finished shirt ships from Dubai by trackable courier. If anything about the
 - [The Raw Silk Shirt](../../products/menswear/shirts/mens-gold-raw-silk-shirt.md)
 - [The Tailored Linen Shirts](../../products/menswear/shirts/tailored-linen-shirts.md)
 
-**Related terms:** custom dress shirts, tailored shirts online, men's silk shirts, made to measure shirt, fitted formal shirts
+**Related terms:** custom dress shirts, tailored shirts online, men's silk shirts, made-to-order shirt, fitted formal shirts
 
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Shirts products](../../products/menswear/shirts/index.md)
-
-## Citations
-
-[1] [Shirts](https://baronboutique.com/menswear/shirts/)

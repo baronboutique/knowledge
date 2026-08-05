@@ -4,7 +4,19 @@ title: "The Wool & Silk Blend Suit"
 description: "This is the suit that proves power and luxury are not mutually exclusive. Our Women's Tailored Suit is crafted from an exquisite wool-silk blend, a fabric that combines the structure of wool with the …"
 resource: https://baronboutique.com/boutique-tailored-silk-and-wool-suit/
 tags: [women, suit, silk-wool, silk, wool, formalwear, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/boutique-tailored-silk-and-wool-suit/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The Wool & Silk Blend Suit
@@ -41,7 +53,3 @@ The Power Suit with a Soul This is for the woman who understands that true power
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/boutique-tailored-silk-and-wool-suit/)

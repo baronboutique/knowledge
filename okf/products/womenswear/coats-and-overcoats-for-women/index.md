@@ -1,15 +1,6 @@
----
-type: Index
-title: "Coats & Overcoats"
-description: "Women's Coats & Overcoats Women's Frock Coats, Topcoats, and Statement Outerwear, Made to Your Measurements A coat is the one piece everyone sees, so it should be cut for you. This collection runs from Victorian-inspired frock coats and velvet frock coats to tailored wool-cashmere topcoats, double-breasted overcoats, peacoats, and cinematic statement coats, every one made to your exact measurements in real cloth. Choose your length, cloth, and color, and the silhouette is drafted to your body rather than pulled off a rack. Before we cut your final fabric we send a free test garment, so the fit across the shoulders and through the waist is confirmed on you first. Made to your measurements, from $529."
-resource: https://baronboutique.com/womenswear/coats-and-overcoats-for-women/
-tags: [women, coats, overcoat, topcoat, peacoat, winter-coat, wool-coat, long-coat, custom-coat, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Coats & Overcoats
 
-Women's Coats & Overcoats Women's Frock Coats, Topcoats, and Statement Outerwear, Made to Your Measurements A coat is the one piece everyone sees, so it should be cut for you. This collection runs from Victorian-inspired frock coats and velvet frock coats to tailored wool-cashmere topcoats, double-breasted overcoats, peacoats, and cinematic statement coats, every one made to your exact measurements in real cloth. Choose your length, cloth, and color, and the silhouette is drafted to your body rather than pulled off a rack. Before we cut your final fabric we send a free test garment, so the fit across the shoulders and through the waist is confirmed on you first. Made to your measurements, from $529.
+Made-to-order coats, topcoats, and frock coats in wool and cashmere, cut to the wearer's measurements for shoulder line and length.
 
 All 8 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -81,7 +72,4 @@ Every adjustment is applied, then your coat is cut and hand-tailored in your cho
 - [Coats & Overcoats Category](../../../categories/womenswear/coats-and-overcoats-for-women.md)
 - [Women Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Coats & Overcoats](https://baronboutique.com/womenswear/coats-and-overcoats-for-women/)
+- [Coats & Overcoats on baronboutique.com](https://baronboutique.com/womenswear/coats-and-overcoats-for-women/)

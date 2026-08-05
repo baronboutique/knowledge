@@ -4,7 +4,19 @@ title: "Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa"
 description: "A dramatic men's long black leather coat with the sweep of a theatrical villain's coat, cut in full-grain cow Nappa for people who want the silhouette permanently, not for one event."
 resource: https://baronboutique.com/mens-long-black-leather-coat/
 tags: [men, coat, trench-coat, leather, purple, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-long-black-leather-coat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-24
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa
@@ -106,11 +118,7 @@ Most long leather coats available online are pleather or bonded leather, materia
 
 ## Related
 
-- [Men Category](../../categories/menswear/index.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-long-black-leather-coat/)

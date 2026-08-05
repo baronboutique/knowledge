@@ -4,7 +4,19 @@ title: "Women's Beige Frock Coat with Red Stripe"
 description: "Women's fifth Doctor inspired red stripe beige frock coat transforms your appearance and personality. Doctor’s 5th incarnation for women cosplayers that conveyed action and eccentricity."
 resource: https://baronboutique.com/5th-doctor-red-piping-frock-coat-for-women/
 tags: [women, frock-coat, tropical-wool, wool, cream, red-piping, doctor-who, fifth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/5th-doctor-red-piping-frock-coat-for-women/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Women's Beige Frock Coat with Red Stripe
@@ -41,7 +53,3 @@ Women's Fifth Doctor Inspired Test Coat – Fit and Style Evaluation The Uniform
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/5th-doctor-red-piping-frock-coat-for-women/)

@@ -4,7 +4,19 @@ title: "Matrix Reloaded Neo Coat"
 description: "Most Matrix coat sellers deliver a polyester approximation in a generic size. The sheen is wrong, the length is approximate, and the silhouette collapses the moment you raise an arm."
 resource: https://baronboutique.com/matrix-reloaded-coat/
 tags: [men, trench-coat, long-coat, monks-wool, mandarin-collar, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/matrix-reloaded-coat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.2, at: 2026-08-05T16:25:50Z }
 ---
 
 # Matrix Reloaded Neo Coat
@@ -100,12 +112,8 @@ Full Specification
 
 ## Related
 
-- [Destination Wedding Suits Category](../../../categories/menswear/destination-wedding-suits.md)
+- [Destination Wedding Suits Category](../../../categories/menswear/wedding-suits/destination-wedding-suits.md)
 - [Destination Wedding Suits Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/matrix-reloaded-coat/)

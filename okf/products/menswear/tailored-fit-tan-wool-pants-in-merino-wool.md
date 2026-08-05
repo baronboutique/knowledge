@@ -4,7 +4,19 @@ title: "Tan Wool Dress Pants"
 description: "The necessity and usefulness of tailored tan wool dress pants or trousers go without saying anything. Unmatched men's tan dress pants go well with blazers and shirts or shirts alone while still lookin…"
 resource: https://baronboutique.com/tailored-fit-tan-wool-pants-in-merino-wool/
 tags: [men, pants, dress-pants, merino-wool, wool, tan, tailored-fit, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/tailored-fit-tan-wool-pants-in-merino-wool/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Tan Wool Dress Pants
@@ -35,11 +47,7 @@ The tan wool trouser is a mark of relaxed, confident style—a foundational piec
 
 ## Related
 
-- [Men Category](../../categories/menswear/index.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/tailored-fit-tan-wool-pants-in-merino-wool/)

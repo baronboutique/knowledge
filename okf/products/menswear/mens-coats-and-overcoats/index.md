@@ -1,15 +1,6 @@
----
-type: Index
-title: "Coats & Overcoats"
-description: "Men's Coats & Overcoats, Made to Your Measurements A coat lives or dies on two things a rack size cannot fix: the set of the shoulders and the length of the hem. Every coat here is made to your measurements, so the shoulders sit where yours are and the hem falls where you want it, in real wool, wool-cashmere, Melton, and tweed, with a free test coat before we cut. Overcoats and topcoats to wear over a suit, peacoats and car coats for every day, dramatic frock coats, and the coats people recognize from the screen, all built as garments to keep, not to replace."
-resource: https://baronboutique.com/menswear/mens-coats-and-overcoats/
-tags: [men, coats, overcoat, topcoat, peacoat, car-coat, trench-coat, winter-coat, wool-coat, custom-coat, made-to-measure, bespoke]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Coats & Overcoats
 
-Men's Coats & Overcoats, Made to Your Measurements A coat lives or dies on two things a rack size cannot fix: the set of the shoulders and the length of the hem. Every coat here is made to your measurements, so the shoulders sit where yours are and the hem falls where you want it, in real wool, wool-cashmere, Melton, and tweed, with a free test coat before we cut. Overcoats and topcoats to wear over a suit, peacoats and car coats for every day, dramatic frock coats, and the coats people recognize from the screen, all built as garments to keep, not to replace.
+Made-to-order overcoats, topcoats, peacoats, and car coats in wool and cashmere, cut to the wearer's shoulders and chosen length.
 
 All 6 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -94,7 +85,4 @@ Your finished coat ships from Dubai by trackable courier, about four to six week
 - [Coats & Overcoats Category](../../../categories/menswear/mens-coats-and-overcoats.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Coats & Overcoats](https://baronboutique.com/menswear/mens-coats-and-overcoats/)
+- [Coats & Overcoats on baronboutique.com](https://baronboutique.com/menswear/mens-coats-and-overcoats/)

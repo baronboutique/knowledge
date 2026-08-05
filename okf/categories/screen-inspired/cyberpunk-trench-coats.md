@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Cyberpunk Trench Coats"
-description: "Matrix Trench Coat — Neo's Coat, All Four Films, Made to Your Measurements Most \"Matrix trench coats\" online are polyester costumes in generic sizes. The fabric is wrong, the fit is approximate, and the silhouette never truly works. Our collection takes a different approach. Each coat is custom-made to your measurements in screen-inspired fabrics chosen for their weight and drape. A complimentary test coat is included with every order, ensuring the fit is approved before final production."
+description: "Floor-length structured cotton and leather trench coats recreated from screen references, cut to the wearer's measurements. Not licensed merchandise."
 resource: https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/
 tags: [matrix, neo-coat, trench-coat, long-coat, cyberpunk, duster, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/
+    title: "Cyberpunk Trench Coats"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Cyberpunk Trench Coats
 
-Matrix Trench Coat — Neo's Coat, All Four Films, Made to Your Measurements Most "Matrix trench coats" online are polyester costumes in generic sizes. The fabric is wrong, the fit is approximate, and the silhouette never truly works. Our collection takes a different approach. Each coat is custom-made to your measurements in screen-inspired fabrics chosen for their weight and drape. A complimentary test coat is included with every order, ensuring the fit is approved before final production.
+Floor-length structured cotton and leather trench coats recreated from screen references, cut to the wearer's measurements. Not licensed merchandise.
 
 **Licensing note:** This collection is inspired by screen productions. These garments are NOT officially licensed products unless explicitly stated on the individual product page.
 
@@ -85,9 +96,5 @@ Your completed coat ships by trackable courier. Production takes approximately f
 
 ## Related
 
-- [Screen Inspired Category Index](index.md)
+- [Screen Inspired Category Index](../screen-inspired.md)
 - [Browse all Cyberpunk Trench Coats products](../../products/screen-inspired/cyberpunk-trench-coats/index.md)
-
-## Citations
-
-[1] [Cyberpunk Trench Coats](https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/)

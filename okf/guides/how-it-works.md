@@ -3,8 +3,20 @@ type: Guide
 title: "How It Works — Ordering Process"
 description: "Step-by-step guide to placing a bespoke order at Baron Boutique, from product selection through test garment fitting to final delivery."
 resource: https://baronboutique.com/how-it-works/
-tags: [how-it-works, ordering-process, test-garment, toile, measurements, bespoke-process, made-to-order, made-to-measure, guide]
-timestamp: 2026-07-24T15:30:44Z
+tags: [how-it-works, ordering-process, test-garment, toile, measurements, bespoke-process, made-to-order, guide]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/how-it-works/
+    title: "How It Works"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-13
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # How It Works — Ordering Process
@@ -70,7 +82,7 @@ Rush service is available upon request at no additional cost, subject to product
 **Q:** What if the final garment still needs alterations?  
 **A:** All garments are made with extra seam allowances for this reason. If minor local alterations are needed after the final garment arrives, we reimburse reasonable local tailoring costs. Contact us with photos and your receipts. See our Alteration and Refund Policy for full details.
 
-**Related terms:** how does made to measure work, custom tailoring process online, free test garment, how to order a bespoke suit online, online tailor process
+**Related terms:** how does made-to-order work, custom tailoring process online, free test garment, how to order a bespoke suit online, online tailor process
 
 ## Related
 
@@ -80,6 +92,3 @@ Rush service is available upon request at no additional cost, subject to product
 - [Returns & Alterations Policy](../policies/alteration-return-refund.md)
 - [Payment Policy](../policies/payment-policy.md)
 
-## Citations
-
-[1] [How It Works](https://baronboutique.com/how-it-works/)

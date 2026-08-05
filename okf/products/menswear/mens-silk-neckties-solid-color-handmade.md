@@ -4,7 +4,19 @@ title: "Mens Satin Silk Neckties Solid Color Handmade"
 description: "At Baron Boutique every satin silk men's solid color neckties are handmade by skilled craftsmen to the highest standard to assure that every silk necktie meets our quality requirements."
 resource: https://baronboutique.com/mens-silk-neckties-solid-color-handmade/
 tags: [men, necktie, silk, solid-color, formalwear, wedding, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-silk-neckties-solid-color-handmade/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Mens Satin Silk Neckties Solid Color Handmade
@@ -37,11 +49,7 @@ A line of men's silk neckties handmade from solid color satin silk with a distin
 
 ## Related
 
-- [Men Category](../../categories/menswear/index.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-silk-neckties-solid-color-handmade/)

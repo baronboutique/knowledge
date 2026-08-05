@@ -4,7 +4,19 @@ title: "Tristan Thorn Stardust Coat Replica"
 description: "Embrace the magic of Stardust with this exquisite replica of Tristan Thorn's iconic coat. Made from high-quality linen fabric, this Stardust coat features a classic long design, a contrast collar, and…"
 resource: https://baronboutique.com/tristan-thorn-stardust-coat-replica/
 tags: [men, coat, long-coat, linen, contrast-collar, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/tristan-thorn-stardust-coat-replica/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Tristan Thorn Stardust Coat Replica
@@ -43,8 +55,4 @@ Charlie Cox, the talented English actor, brought the character of Tristan Thorn 
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/tristan-thorn-stardust-coat-replica/)
+- [Screen-Inspired Collection](../../../categories/screen-inspired.md)

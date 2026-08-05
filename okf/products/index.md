@@ -1,10 +1,3 @@
----
-type: Index
-title: "Products"
-description: "All Baron Boutique product categories and products in Open Knowledge Format."
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Baron Boutique Products
 
 All products are made to order by human tailors after an order is confirmed. No pre-made stock.
@@ -96,10 +89,9 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Victorian Detective](screen-inspired/victorian-detective/index.md) — 1 products
 - [Cyberpunk Trench Coats](screen-inspired/cyberpunk-trench-coats/index.md) — 5 products
 
-## [Scarves](handmade-cashmere-collection/index.md)
+## [Handcrafted Cashmere](handmade-cashmere-collection/index.md)
 
 - [Aquamarine Blue Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/aquamarine-blue-handwoven-cashmere-scarf-shawl.md)
-- [Baby Blue Sunflower Embroidered Cashmere Scarf](handmade-cashmere-collection/baby-blue-sunflower-embroidered-cashmere-scarf.md)
 - [Bright Pink Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/bright-pink-handwoven-cashmere-scarf-shawl.md)
 - [Cloud Stripe Spring Cashmere Scarf](handmade-cashmere-collection/cloud-stripe-spring-cashmere-scarf.md)
 - [Emerald Green Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/emerald-green-handwoven-cashmere-scarf-shawl.md)
@@ -129,16 +121,18 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Red Houndstooth Cashmere Scarf – Hand-Finished in Diamond Weave](handmade-cashmere-collection/red-houndstooth-cashmere-scarf.md)
 - [Royal Blue Essential Wrap in Diamond Weave Cashmere](handmade-cashmere-collection/royal-blue-essential-wrap-in-diamond-weave-cashmere.md)
 - [Solar and Lunar Print Cashmere Loom Scarf](handmade-cashmere-collection/solar-lunar-print-cashmere-loom-scarf.md)
+- [The Sunflower-Embroidered Baby Blue Cashmere Wrap](handmade-cashmere-collection/baby-blue-sunflower-embroidered-cashmere-shawl.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/willow-green-handwoven-cashmere-scarf-shawl.md)
 - [Women's Rust Cashmere Turtleneck Sweater](handmade-cashmere-collection/women-rust-cashmere-turtleneck-sweater.md)
 
 ## [Women](womenswear/index.md)
 
-- [Dresses](womenswear/dresses-for-women/index.md) — 14 products
+- [Dresses](womenswear/dresses-for-women/index.md) — 13 products
 - [Screen Inspired](womenswear/screen-inspired-women/index.md) — 12 products
 - [Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors](womenswear/cashmere-wrap-scarf-womens-80-plus-colors.md)
 - [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](womenswear/destination-wedding-suit.md)
 - [Featherlight Cashmere Scarf](womenswear/womens-featherlight-cashmere-scarf.md)
+- [Unlined Linen Duster Coat](womenswear/linen-dress-jacket-with-notch-collar.md)
 - [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)
 - [Coats & Overcoats](womenswear/coats-and-overcoats-for-women/index.md) — 8 products

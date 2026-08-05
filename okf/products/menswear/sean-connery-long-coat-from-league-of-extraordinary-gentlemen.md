@@ -4,7 +4,19 @@ title: "Allan Quatermain Long Coat League of Extraordinary Gentlemen"
 description: "Allan Quatermain character played by Sean Connery in the movie League of Extraordinary Gentlemen. The Allan Quatermain long coat is not only for collection but can be worn in everyday life."
 resource: https://baronboutique.com/sean-connery-long-coat-from-league-of-extraordinary-gentlemen/
 tags: [men, coat, long-coat, wool, allan-quatermain, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/sean-connery-long-coat-from-league-of-extraordinary-gentlemen/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-03-14
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Allan Quatermain Long Coat League of Extraordinary Gentlemen
@@ -37,11 +49,7 @@ This is not merely a coat; it is the essential field garment of the gentleman ad
 
 ## Related
 
-- [Men Category](../../categories/menswear/index.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/sean-connery-long-coat-from-league-of-extraordinary-gentlemen/)

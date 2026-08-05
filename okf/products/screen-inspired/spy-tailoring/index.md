@@ -1,15 +1,6 @@
----
-type: Index
-title: "Spy Tailoring"
-description: "Spy Tailoring A suit is the foundation of spy dressing. The silhouettes that defined Bond, Bourne, and the golden age of screen espionage were built on precision tailoring. Every suit, coat, and jacket in this collection draws from that tradition—sharper, leaner, and custom-made to your exact measurements. The lines are precise. The fabrics are uncompromising. Our complimentary test garment process ensures the fit is perfected before a single piece of cloth is cut for your final garment."
-resource: https://baronboutique.com/screen-inspired/spy-tailoring/
-tags: [james-bond, spy-tailoring, skyfall, spectre, casino-royale, suits, peacoat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Spy Tailoring
 
-Spy Tailoring A suit is the foundation of spy dressing. The silhouettes that defined Bond, Bourne, and the golden age of screen espionage were built on precision tailoring. Every suit, coat, and jacket in this collection draws from that tradition—sharper, leaner, and custom-made to your exact measurements. The lines are precise. The fabrics are uncompromising. Our complimentary test garment process ensures the fit is perfected before a single piece of cloth is cut for your final garment.
+Secret-agent tailoring recreated as real clothing: pinstripe three-piece suits, naval peacoats, silk dinner jackets, and suede blousons. Not licensed merchandise.
 
 **Licensing note:** These garments are inspired by screen productions and are NOT officially licensed unless explicitly stated on the individual product page.
 
@@ -79,7 +70,4 @@ Try on the test garment and note anything that needs adjusting — jacket length
 - [Spy Tailoring Category](../../../categories/screen-inspired/spy-tailoring.md)
 - [Screen Inspired Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Spy Tailoring](https://baronboutique.com/screen-inspired/spy-tailoring/)
+- [Spy Tailoring on baronboutique.com](https://baronboutique.com/screen-inspired/spy-tailoring/)

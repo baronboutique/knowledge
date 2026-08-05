@@ -4,7 +4,19 @@ title: "Grey Melange Dress Pants"
 description: "Gray melange dress pants for men are an icon of your confidence. It's the well-dressed alternative to a suit pant that pairs just as well with sweaters as it does with your best dress shirts."
 resource: https://baronboutique.com/gray-melange-dress-pants/
 tags: [men, pants, dress-pants, wool, gray, melange, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/gray-melange-dress-pants/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-18
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Grey Melange Dress Pants
@@ -40,7 +52,3 @@ Mélange is not a pattern, but a process. It is the art of dyeing wool fibers be
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/gray-melange-dress-pants/)

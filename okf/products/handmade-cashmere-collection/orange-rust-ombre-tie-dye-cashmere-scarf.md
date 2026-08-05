@@ -4,7 +4,19 @@ title: "Orange Rust Ombre Tie-Dye Cashmere Scarf – Hand-Finished in Twill"
 description: "A radiant fusion of orange and rust hues in an ombre tie-dye, this lightweight cashmere scarf is a warm embrace for every season. Woven in twill and hand-finished in Nepal."
 resource: https://baronboutique.com/orange-rust-ombre-tie-dye-cashmere-scarf/
 tags: [women, cashmere, scarf, wrap, ombre, tie-dye, orange, rust, handwoven, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/orange-rust-ombre-tie-dye-cashmere-scarf/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Orange Rust Ombre Tie-Dye Cashmere Scarf – Hand-Finished in Twill
@@ -28,18 +40,14 @@ Embers of Dusk Like fire meeting earth at sundown, this orange rust ombre scarf 
 
 ## Categories
 
-- Scarves
+- Handcrafted Cashmere
 - Women › Accessories
 
 **Related terms:** gradient orange shawl, dip dye pashmina, sunset color stole, boho cashmere muffler
 
 ## Related
 
-- [Scarves Category](../../categories/handmade-cashmere-collection/index.md)
+- [Handcrafted Cashmere Category](../../categories/handmade-cashmere-collection.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/orange-rust-ombre-tie-dye-cashmere-scarf/)

@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Spy Tailoring"
-description: "Spy Tailoring A suit is the foundation of spy dressing. The silhouettes that defined Bond, Bourne, and the golden age of screen espionage were built on precision tailoring. Every suit, coat, and jacket in this collection draws from that tradition—sharper, leaner, and custom-made to your exact measurements. The lines are precise. The fabrics are uncompromising. Our complimentary test garment process ensures the fit is perfected before a single piece of cloth is cut for your final garment."
+description: "Secret-agent tailoring recreated as real clothing: pinstripe three-piece suits, naval peacoats, silk dinner jackets, and suede blousons. Not licensed merchandise."
 resource: https://baronboutique.com/screen-inspired/spy-tailoring/
 tags: [james-bond, spy-tailoring, skyfall, spectre, casino-royale, suits, peacoat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/screen-inspired/spy-tailoring/
+    title: "Spy Tailoring"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Spy Tailoring
 
-Spy Tailoring A suit is the foundation of spy dressing. The silhouettes that defined Bond, Bourne, and the golden age of screen espionage were built on precision tailoring. Every suit, coat, and jacket in this collection draws from that tradition—sharper, leaner, and custom-made to your exact measurements. The lines are precise. The fabrics are uncompromising. Our complimentary test garment process ensures the fit is perfected before a single piece of cloth is cut for your final garment.
+Secret-agent tailoring recreated as real clothing: pinstripe three-piece suits, naval peacoats, silk dinner jackets, and suede blousons. Not licensed merchandise.
 
 **Licensing note:** This collection is inspired by screen productions. These garments are NOT officially licensed products unless explicitly stated on the individual product page.
 
@@ -84,9 +95,5 @@ Try on the test garment and note anything that needs adjusting — jacket length
 
 ## Related
 
-- [Screen Inspired Category Index](index.md)
+- [Screen Inspired Category Index](../screen-inspired.md)
 - [Browse all Spy Tailoring products](../../products/screen-inspired/spy-tailoring/index.md)
-
-## Citations
-
-[1] [Spy Tailoring](https://baronboutique.com/screen-inspired/spy-tailoring/)

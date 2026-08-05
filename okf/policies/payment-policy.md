@@ -4,7 +4,19 @@ title: "Payment Policy"
 description: "Payment is processed via PayPal. Customers may pay by debit or credit card without a PayPal account. Full payment is required in advance."
 resource: https://baronboutique.com/payment-policy/
 tags: [payment, paypal, credit-card, policy, advance-payment]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/payment-policy/
+    title: "Payment Policy"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-06-16
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Payment Policy
@@ -24,6 +36,3 @@ Full payment is required in advance before production begins.
 - [Shipping Policy](shipping-and-delivery.md)
 - [Returns & Alterations Policy](alteration-return-refund.md)
 
-## Citations
-
-[1] [Payment Policy](https://baronboutique.com/payment-policy/)

@@ -4,7 +4,19 @@ title: "Tennant Brown and Blue Stripe Suit"
 description: "Our uncontested tenth Doctor brown and blue stripe suit is a favorite among cosplayers who strive for the Tennant look."
 resource: https://baronboutique.com/doctor-brown-with-blue-stripe-suit/
 tags: [men, suit, pinstripe, brown, doctor-who, tenth-doctor, tennant, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/doctor-brown-with-blue-stripe-suit/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Tennant Brown and Blue Stripe Suit
@@ -20,7 +32,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **10th Suit Fabrics:** 8 options available
+- **10th Suit Fabrics:** Blue with Red Stripes, Brown with blue stripes
 - **Lining Fabric:** 34 options available
 
 ## Summary
@@ -42,8 +54,4 @@ Tennant Test Suit-Fit and Style Evaluation A Cosplayer's Dream Every year thousa
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/doctor-brown-with-blue-stripe-suit/)
+- [Screen-Inspired Collection](../../../categories/screen-inspired.md)

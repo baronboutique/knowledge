@@ -1,13 +1,6 @@
----
-type: Index
-title: "Men"
-description: "Bespoke Menswear, Built to Your Measure From custom suits, tuxedos, and frock coats to overcoats, shirts, and cashmere, every piece is made to order and hand‑tailored to your exact measurements — never pulled from a rack. Before we cut the final cloth, a complimentary test garment comes to your home, so the fit is approved first. Collector‑quality construction."
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Men
 
-Bespoke Menswear, Built to Your Measure From custom suits, tuxedos, and frock coats to overcoats, shirts, and cashmere, every piece is made to order and hand‑tailored to your exact measurements — never pulled from a rack. Before we cut the final cloth, a complimentary test garment comes to your home, so the fit is approved first. Collector‑quality construction.
+Bespoke menswear cut from an individual pattern after each order, covering suits, formalwear, outerwear, shirts, and accessories.
 
 All products made to order. Every bespoke order includes a complimentary cotton test garment.
 
@@ -79,7 +72,4 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 
 - [All Products](../index.md)
 - [Baron Boutique](../../company.md)
-
-## Citations
-
-[1] [Men](https://baronboutique.com/menswear/)
+- [Men on baronboutique.com](https://baronboutique.com/menswear/)

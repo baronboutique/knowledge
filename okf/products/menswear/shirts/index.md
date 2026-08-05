@@ -1,15 +1,6 @@
----
-type: Index
-title: "Shirts"
-description: "Men's Shirts, Made to Your Measurements A ready-made shirt is sized on your neck and sleeve only, so it fits your collar or your body but almost never both. Every shirt here is made to your measurements, cut to your neck, chest, and arm at the same time, with the collar, cuff, and fit you choose. And the cloth goes well beyond ordinary cotton: 220-thread Egyptian cotton for everyday luxury, raw silk with its distinctive matte texture, smooth satin silk in 20 colors, and pure linen for warm weather."
-resource: https://baronboutique.com/menswear/shirts/
-tags: [men, shirts, dress-shirt, silk-shirt, cotton-shirt, egyptian-cotton, custom-shirt, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Shirts
 
-Men's Shirts, Made to Your Measurements A ready-made shirt is sized on your neck and sleeve only, so it fits your collar or your body but almost never both. Every shirt here is made to your measurements, cut to your neck, chest, and arm at the same time, with the collar, cuff, and fit you choose. And the cloth goes well beyond ordinary cotton: 220-thread Egyptian cotton for everyday luxury, raw silk with its distinctive matte texture, smooth satin silk in 20 colors, and pure linen for warm weather.
+Made-to-order dress shirts in Egyptian cotton, raw silk, and satin silk, cut to the wearer's neck and body rather than to a collar size.
 
 All 9 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -94,7 +85,4 @@ Your finished shirt ships from Dubai by trackable courier. If anything about the
 - [Shirts Category](../../../categories/menswear/shirts.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Shirts](https://baronboutique.com/menswear/shirts/)
+- [Shirts on baronboutique.com](https://baronboutique.com/menswear/shirts/)

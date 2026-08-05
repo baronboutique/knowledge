@@ -1,9 +1,17 @@
 ---
-type: concept
+type: Concept
 title: The Bespoke Commission Process
 description: How a Baron Boutique bespoke commission works from first inquiry to delivered garment, and the thinking behind each stage of the journey.
 tags: [bespoke-tailoring, commission, custom-pattern, test-garment, process]
-timestamp: 2026-07-11T00:00:00Z
+sources:
+  - id: workshop-practice
+    resource: all bespoke commissions completed by the Baron Boutique workshop, Kathmandu, since 2000
+    title: "Baron Boutique workshop practice"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 ---
 
 # The Bespoke Commission Process

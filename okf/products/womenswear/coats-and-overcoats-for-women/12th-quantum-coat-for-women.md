@@ -4,7 +4,19 @@ title: "Womens Peacoat Wool Double Breasted"
 description: "Womens peacoat double-breasted in Melton wool is a worthy wardrobe investment. Womens peacoat in 3/4 length cut is a statement coat to keep your style elevated and practical during walks around the ne…"
 resource: https://baronboutique.com/12th-quantum-coat-for-women/
 tags: [women, coat, melton-wool, wool, winter-coat, doctor-who, twelfth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/12th-quantum-coat-for-women/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Womens Peacoat Wool Double Breasted
@@ -40,7 +52,3 @@ The Naval Icon, Redefined for You This is the cornerstone of any powerful wardro
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/12th-quantum-coat-for-women/)

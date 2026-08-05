@@ -4,7 +4,19 @@ title: "White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors"
 description: "A white linen suit with vest is the most unforgiving three-piece combination you can wear. White hides nothing, linen amplifies every fit error, and three pieces must all fit the same body."
 resource: https://baronboutique.com/white-linen-suit-with-vest/
 tags: [men, suit, three-piece-suit, linen, white, vest, summer, wedding, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/white-linen-suit-with-vest/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.2, at: 2026-08-05T16:25:50Z }
 ---
 
 # White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors
@@ -90,12 +102,8 @@ Your completed three-piece linen suit ships worldwide by trackable courier. The 
 
 ## Related
 
-- [Linen Wedding Suits Category](../../../categories/menswear/grooms-linen-suits-for-wedding.md)
+- [Linen Wedding Suits Category](../../../categories/menswear/wedding-suits/grooms-linen-suits-for-wedding.md)
 - [Linen Wedding Suits Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/white-linen-suit-with-vest/)

@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "House of Velvet"
-description: "Bespoke Men's Velvet Jackets & Coats, Fit Confirmed Before We Cut Men's velvet jackets and coats, made to your measurements. Velvet is the fabric of the holiday party, the winter wedding, and black tie with a point of view, but cheap velvet in a boxy off-the-rack size looks like a costume. Every piece here is cut from a premium velvet that holds its pile, built on a canvas front with hand-finished buttonholes and fabric-covered buttons, and made to your exact measurements. Before we cut your velvet, we send a free test garment so the fit is confirmed on your body first. The collection runs from the burgundy velvet dinner jacket and our number-one velvet smoking jacket through dramatic velvet frock coats and screen-inspired velvet coats, from $419."
+description: "Made-to-order velvet jackets and coats in premium velvet on a canvas front, from dinner jackets and smoking jackets to dramatic frock coats."
 resource: https://baronboutique.com/menswear/velvet/
-tags: [house-of-velvet, house, velvet, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-24T15:30:44Z
+tags: [velvet, mens-velvet, dinner-jacket, smoking-jacket, frock-coat, evening-wear, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/velvet/
+    title: "House of Velvet"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.1, at: 2026-08-05T12:33:32Z }
 ---
 
 # House of Velvet
 
-Bespoke Men's Velvet Jackets & Coats, Fit Confirmed Before We Cut Men's velvet jackets and coats, made to your measurements. Velvet is the fabric of the holiday party, the winter wedding, and black tie with a point of view, but cheap velvet in a boxy off-the-rack size looks like a costume. Every piece here is cut from a premium velvet that holds its pile, built on a canvas front with hand-finished buttonholes and fabric-covered buttons, and made to your exact measurements. Before we cut your velvet, we send a free test garment so the fit is confirmed on your body first. The collection runs from the burgundy velvet dinner jacket and our number-one velvet smoking jacket through dramatic velvet frock coats and screen-inspired velvet coats, from $419.
+Made-to-order velvet jackets and coats in premium velvet on a canvas front, from dinner jackets and smoking jackets to dramatic frock coats.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -93,11 +104,9 @@ Your finished velvet piece ships from Dubai by trackable courier, about four to 
 - [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/pirate-frock-coat.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 
+**Related terms:** mens velvet jacket, velvet smoking jacket, velvet dinner jacket, custom velvet coat, velvet frock coat
+
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all House of Velvet products](../../products/menswear/velvet/index.md)
-
-## Citations
-
-[1] [House of Velvet](https://baronboutique.com/menswear/velvet/)

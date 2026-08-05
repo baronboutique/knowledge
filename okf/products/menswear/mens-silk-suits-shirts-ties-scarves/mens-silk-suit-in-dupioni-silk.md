@@ -1,13 +1,25 @@
 ---
 type: Product
-title: "Men's Silk Suit, Custom Made in 100% Dupioni Silk"
+title: "Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements"
 description: "Men's silk suits off the rack almost never fit, and cheap ones don't even look like silk. We fix both."
 resource: https://baronboutique.com/mens-silk-suit-in-dupioni-silk/
 tags: [men, suit, silk-suit, dupioni-silk, silk, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-silk-suit-in-dupioni-silk/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-08-03
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
-# Men's Silk Suit, Custom Made in 100% Dupioni Silk
+# Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements
 
 **SKU:** 1600023  
 **URL:** https://baronboutique.com/mens-silk-suit-in-dupioni-silk/  
@@ -122,7 +134,3 @@ Three realistic options for someone shopping for a silk suit online. Here is how
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-silk-suit-in-dupioni-silk/)

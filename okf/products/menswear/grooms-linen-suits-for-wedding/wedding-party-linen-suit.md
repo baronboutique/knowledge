@@ -4,7 +4,19 @@ title: "The Linen Ceremonial Suit"
 description: "Putting on a beautifully tailored linen wedding party suit elevates your spirit and helps to define you as a man to whom details matter."
 resource: https://baronboutique.com/wedding-party-linen-suit/
 tags: [men, suit, linen, summer, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/wedding-party-linen-suit/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.2, at: 2026-08-05T16:25:50Z }
 ---
 
 # The Linen Ceremonial Suit
@@ -36,12 +48,8 @@ A wedding is a collective celebration, and the attire of the wedding party shoul
 
 ## Related
 
-- [Linen Wedding Suits Category](../../../categories/menswear/grooms-linen-suits-for-wedding.md)
+- [Linen Wedding Suits Category](../../../categories/menswear/wedding-suits/grooms-linen-suits-for-wedding.md)
 - [Linen Wedding Suits Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/wedding-party-linen-suit/)

@@ -4,7 +4,19 @@ title: "The Crepe Silk Blouse"
 description: "This is the upgrade your wardrobe has been waiting for. Our Women's Silk Shirts in Crepe Silk replace standard shirting with the fluid drape and subtle luxury of pure crepe silk."
 resource: https://baronboutique.com/womens-crepe-silk-shirt/
 tags: [women, shirt, blouse, crepe-silk, silk, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-crepe-silk-shirt/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The Crepe Silk Blouse
@@ -39,7 +51,3 @@ Luxury That Moves With You This isn't just a blouse; it's a feeling. The fluid d
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-crepe-silk-shirt/)

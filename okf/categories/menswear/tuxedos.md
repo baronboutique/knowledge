@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Tuxedos"
-description: "Men's Tuxedos, Made to Your Measurements Most men rent a tuxedo, and the photographs show it: a boxy jacket, trousers that pool at the shoe, and fabric already worn by a hundred renters before you. A tuxedo here is made to your measurements in real cloth, starts at $599, and is yours forever, which is about what two or three rentals cost. Black, midnight blue, navy herringbone, and burgundy, each with satin lapels and a free test suit sent to your home before we cut."
+description: "Made-to-order tuxedos in wool with peak, shawl, or notch lapels, cut to the wearer's measurements and owned rather than rented."
 resource: https://baronboutique.com/menswear/tuxedos/
-tags: [men, tuxedo, black-tie, dinner-suit, wedding-tuxedo, prom-tuxedo, shawl-lapel, peak-lapel, custom-tuxedo, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [men, tuxedo, black-tie, dinner-suit, wedding-tuxedo, prom-tuxedo, shawl-lapel, peak-lapel, custom-tuxedo, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/tuxedos/
+    title: "Tuxedos"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Tuxedos
 
-Men's Tuxedos, Made to Your Measurements Most men rent a tuxedo, and the photographs show it: a boxy jacket, trousers that pool at the shoe, and fabric already worn by a hundred renters before you. A tuxedo here is made to your measurements in real cloth, starts at $599, and is yours forever, which is about what two or three rentals cost. Black, midnight blue, navy herringbone, and burgundy, each with satin lapels and a free test suit sent to your home before we cut.
+Made-to-order tuxedos in wool with peak, shawl, or notch lapels, cut to the wearer's measurements and owned rather than rented.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -86,13 +97,9 @@ Your finished tuxedo ships from Dubai by trackable courier, about four to six we
 - [One Button Notch Lapel Tuxedo](../../products/menswear/tuxedos/one-button-merino-wool-tuxedo.md)
 - [The Peak Lapel Tuxedo](../../products/menswear/tuxedos/mens-navy-wool-tuxedo.md)
 
-**Related terms:** custom tuxedos online, made to measure tuxedo, wedding tux, colored tuxedos, slim fit tuxedo
+**Related terms:** custom tuxedos online, made-to-order tuxedo, wedding tux, colored tuxedos, slim fit tuxedo
 
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Tuxedos products](../../products/menswear/tuxedos/index.md)
-
-## Citations
-
-[1] [Tuxedos](https://baronboutique.com/menswear/tuxedos/)

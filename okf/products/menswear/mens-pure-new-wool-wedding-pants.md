@@ -4,7 +4,19 @@ title: "Mens wedding pants"
 description: "Mens wedding pants hand-tailored for the perfect fit and comfort. Wedding dress pants for groom and groomsmen that promise to impress and bring joy and laughter."
 resource: https://baronboutique.com/mens-pure-new-wool-wedding-pants/
 tags: [men, pants, dress-pants, wool, wedding, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-pure-new-wool-wedding-pants/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Mens wedding pants
@@ -35,11 +47,7 @@ A gentleman's ceremonial trousers are the foundation upon which an entire formal
 
 ## Related
 
-- [Men Category](../../categories/menswear/index.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-pure-new-wool-wedding-pants/)

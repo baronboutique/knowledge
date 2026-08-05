@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Accessories"
-description: "Men's accessories in real silk and cashmere, hand-finished, never polyester. These are the details that finish a tailored look: 100% satin silk neckties, hand-rolled pocket squares, and the aviator silk neck scarf, alongside 100% Grade A handwoven Himalayan cashmere scarves and the pashmina shawl. Ties come in over 20 colors and can be cut to a custom length and width, and many cashmere pieces can be monogrammed or personalized as a gift. They are also the easiest way into Baron craftsmanship. Real materials, handmade, and shipped worldwide."
+description: "Hand-finished silk neckties, pocket squares, aviator scarves, and cashmere scarves, made in the workshop rather than sourced from stock."
 resource: https://baronboutique.com/menswear/mens-accessories/
 tags: [men, accessories, neckties, pocket-squares, scarves, shawls, silk, cashmere, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/mens-accessories/
+    title: "Accessories"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Accessories
 
-Men's accessories in real silk and cashmere, hand-finished, never polyester. These are the details that finish a tailored look: 100% satin silk neckties, hand-rolled pocket squares, and the aviator silk neck scarf, alongside 100% Grade A handwoven Himalayan cashmere scarves and the pashmina shawl. Ties come in over 20 colors and can be cut to a custom length and width, and many cashmere pieces can be monogrammed or personalized as a gift. They are also the easiest way into Baron craftsmanship. Real materials, handmade, and shipped worldwide.
+Hand-finished silk neckties, pocket squares, aviator scarves, and cashmere scarves, made in the workshop rather than sourced from stock.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -78,8 +89,4 @@ Your accessories ship from Dubai by trackable courier. Ready-made pieces dispatc
 
 ## Related
 
-- [Men Category Index](index.md)
-
-## Citations
-
-[1] [Accessories](https://baronboutique.com/menswear/mens-accessories/)
+- [Men Category Index](../menswear.md)

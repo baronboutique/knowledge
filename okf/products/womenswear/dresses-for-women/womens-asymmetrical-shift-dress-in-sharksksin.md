@@ -4,7 +4,19 @@ title: "Asymmetrical Hem Zipper Dress"
 description: "Effortless sophistication, solved. With its chic asymmetrical hem and comfortable shift silhouette, this is the endlessly versatile dress that ensures you look polished and modern at any occasion, fro…"
 resource: https://baronboutique.com/womens-asymmetrical-shift-dress-in-sharksksin/
 tags: [women, dress, shift-dress, sharkskin-wool, asymmetrical, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-asymmetrical-shift-dress-in-sharksksin/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Asymmetrical Hem Zipper Dress
@@ -40,7 +52,3 @@ The Art of the Angle This is where modern architecture meets timeless style. Mor
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-asymmetrical-shift-dress-in-sharksksin/)

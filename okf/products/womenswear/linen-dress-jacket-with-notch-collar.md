@@ -4,7 +4,19 @@ title: "Unlined Linen Duster Coat"
 description: "Every linen duster coat you have ordered online was too big through the shoulders, too long in the sleeve, or so shapeless it read as a robe. That is a fit problem, not a linen problem."
 resource: https://baronboutique.com/linen-dress-jacket-with-notch-collar/
 tags: [women, jacket, blazer, linen, notch-lapel, summer, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/linen-dress-jacket-with-notch-collar/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Unlined Linen Duster Coat
@@ -89,18 +101,14 @@ Construction Details
 
 ## Categories
 
+- Women › Suits & Blazers
 - Women › Dresses
 
 **Related terms:** linen summer jacket, lightweight blazer, garden party jacket
 
 ## Related
 
-- [Dresses Category](../../../categories/womenswear/dresses-for-women.md)
-- [Dresses Products](index.md)
-- [Products Index](../../index.md)
-- [Company](../../../company.md)
-- [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/linen-dress-jacket-with-notch-collar/)
+- [Women Category](../../categories/womenswear.md)
+- [Products Index](../index.md)
+- [Company](../../company.md)
+- [How Bespoke Orders Work](../../guides/how-it-works.md)

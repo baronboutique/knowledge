@@ -4,7 +4,19 @@ title: "Womens Tailored Fitted Coat"
 description: "With our free test garment womens tailored fitted coat has never been this perfect. Available in 10 different colors including blue, burgundy, red, black, charcoal, dark grey, grey, chocolate brown, c…"
 resource: https://baronboutique.com/womens-long-winter-coat/
 tags: [women, coat, long-coat, flannel, wool, winter-coat, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-long-winter-coat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Womens Tailored Fitted Coat
@@ -41,7 +53,3 @@ The Power of a Perfect Fit This is not just a coat; it’s the answer. The defin
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-long-winter-coat/)

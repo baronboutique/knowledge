@@ -4,7 +4,19 @@ title: "The Sculpted Wool Blazer"
 description: "Crafted from fine merino wool, The Sculpted Wool Blazer is tailored to flatter the feminine form with precision darting and a contoured silhouette—no more boxy fit."
 resource: https://baronboutique.com/womens-merino-wool-blazer/
 tags: [women, blazer, merino-wool, wool, single-breasted, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-merino-wool-blazer/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The Sculpted Wool Blazer
@@ -40,7 +52,3 @@ The End of the "Boxy" Blazer This is the blazer, re-engineered. It's the answer 
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-merino-wool-blazer/)

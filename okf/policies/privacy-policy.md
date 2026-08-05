@@ -4,7 +4,19 @@ title: "Privacy Policy"
 description: "Customer's privacy is very important to us. To better protect your privacy, we provide this privacy policy explaining our online information practices."
 resource: https://baronboutique.com/privacy-policy/
 tags: [policy, legal]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/privacy-policy/
+    title: "Privacy Policy"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-06-16
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Privacy Policy
@@ -18,6 +30,3 @@ Full details are published at https://baronboutique.com/privacy-policy/
 - [Policies Overview](index.md)
 - [Baron Boutique](../company.md)
 
-## Citations
-
-[1] [Privacy Policy](https://baronboutique.com/privacy-policy/)

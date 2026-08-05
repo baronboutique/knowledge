@@ -1,15 +1,6 @@
----
-type: Index
-title: "Victorian Detective"
-description: "The Baker Street Collection The great Victorian detective set the standard for how a man of intellect should dress. This collection honors that standard. Wide peak lapels. Rugged corduroy. Cotton twill built for action. Every garment draws from the silhouettes that defined the golden age of the Victorian consulting detective on page and on screen. Each piece is masterfully tailored to your precise measurements. Our complimentary test garment process guarantees a flawless fit before your final garment is made."
-resource: https://baronboutique.com/screen-inspired/victorian-detective/
-tags: [sherlock-holmes, victorian-style, detective-coat, frock-coat, tweed, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Victorian Detective
 
-The Baker Street Collection The great Victorian detective set the standard for how a man of intellect should dress. This collection honors that standard. Wide peak lapels. Rugged corduroy. Cotton twill built for action. Every garment draws from the silhouettes that defined the golden age of the Victorian consulting detective on page and on screen. Each piece is masterfully tailored to your precise measurements. Our complimentary test garment process guarantees a flawless fit before your final garment is made.
+Nineteenth-century detective outerwear recreated as wearable tailoring: frock coats and Ulster coats with true waist seams and full skirts. Not licensed merchandise.
 
 **Licensing note:** These garments are inspired by screen productions and are NOT officially licensed unless explicitly stated on the individual product page.
 
@@ -73,7 +64,4 @@ Your finished piece ships by FedEx, DHL, or UPS with full tracking, about four t
 - [Victorian Detective Category](../../../categories/screen-inspired/victorian-detective.md)
 - [Screen Inspired Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Victorian Detective](https://baronboutique.com/screen-inspired/victorian-detective/)
+- [Victorian Detective on baronboutique.com](https://baronboutique.com/screen-inspired/victorian-detective/)

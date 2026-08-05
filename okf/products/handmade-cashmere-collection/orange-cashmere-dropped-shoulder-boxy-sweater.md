@@ -4,7 +4,19 @@ title: "Orange Cashmere Dropped Shoulder Sweater"
 description: "Experience the captivating Ember Glow of our orange cashmere sweater. Its modern boxy fit, chic dropped shoulders, and breathable cashmere fabric kissed by elegant contrast tipping, offer a luxurious …"
 resource: https://baronboutique.com/orange-cashmere-dropped-shoulder-boxy-sweater/
 tags: [women, cashmere, sweater, knitwear, pullover, orange, boxy-fit, dropped-shoulder, hand-knitted, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/orange-cashmere-dropped-shoulder-boxy-sweater/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-08-03
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Orange Cashmere Dropped Shoulder Sweater
@@ -28,18 +40,14 @@ Twilight's Fiery Kiss As daylight yields to a deeper hue, our Ember Glow orange 
 
 ## Categories
 
-- Scarves
+- Handcrafted Cashmere
 - Women › Sweaters
 
 **Related terms:** oversized orange jumper, slouchy cashmere pullover, relaxed fit knit sweater, ember orange knitwear
 
 ## Related
 
-- [Scarves Category](../../categories/handmade-cashmere-collection/index.md)
+- [Handcrafted Cashmere Category](../../categories/handmade-cashmere-collection.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/orange-cashmere-dropped-shoulder-boxy-sweater/)

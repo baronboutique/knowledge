@@ -4,7 +4,19 @@ title: "Black Dress With Leather Trim Sleeveless Zipper Back"
 description: "Black Dress with Leather Trim – Sleek & Stylish. This sleeveless black dress with a leather-trimmed zipper back is your go-to for parties and evening events."
 resource: https://baronboutique.com/womens-black-dress/
 tags: [women, dress, black, sheath-dress, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-black-dress/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Black Dress With Leather Trim Sleeveless Zipper Back
@@ -40,7 +52,3 @@ The Sheath Dress, Weaponized This isn't just a little black dress; it's a statem
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-black-dress/)

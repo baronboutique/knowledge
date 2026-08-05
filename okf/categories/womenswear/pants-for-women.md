@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Pants"
-description: "Women's Pants Tailored Trousers, Made to Your Measurements Off-the-rack trousers force a compromise between the waist and the hip; made-to-measure does not. This collection covers the full range of tailored women's trousers: seasonless and warm-weather wool dress trousers, wide-leg and straight-leg linen, menswear-inspired formal trousers, velvet, and more. Each pair is cut to your exact measurements in real cloth for a clean line, a true waist, and the leg shape you choose. Pick your cloth, color, and cut, from a slim tapered leg to a relaxed wide leg. Before we cut your final fabric we send a free test garment so the fit is confirmed first. Made to your measurements, from $229."
+description: "Made-to-order trousers cut to the wearer's waist and hip together, in seasonless wool, linen, and velvet, without the off-the-rack compromise."
 resource: https://baronboutique.com/womenswear/pants-for-women/
-tags: [women, pants, trousers, dress-pants, work-pants, wool-pants, linen-pants, wide-leg, custom-pants, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [women, pants, trousers, dress-pants, work-pants, wool-pants, linen-pants, wide-leg, custom-pants, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/pants-for-women/
+    title: "Pants"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Pants
 
-Women's Pants Tailored Trousers, Made to Your Measurements Off-the-rack trousers force a compromise between the waist and the hip; made-to-measure does not. This collection covers the full range of tailored women's trousers: seasonless and warm-weather wool dress trousers, wide-leg and straight-leg linen, menswear-inspired formal trousers, velvet, and more. Each pair is cut to your exact measurements in real cloth for a clean line, a true waist, and the leg shape you choose. Pick your cloth, color, and cut, from a slim tapered leg to a relaxed wide leg. Before we cut your final fabric we send a free test garment so the fit is confirmed first. Made to your measurements, from $229.
+Made-to-order trousers cut to the wearer's waist and hip together, in seasonless wool, linen, and velvet, without the off-the-rack compromise.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -74,13 +85,9 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 - [The Warm-Weather Dress Trouser](../../products/womenswear/pants-for-women/womens-warm-weather-wool-pants.md)
 - [Thirteenth Doctor Teal Wool Pants](../../products/womenswear/pants-for-women/13th-doctor-pants.md)
 
-**Related terms:** women's tailored trousers, custom dress pants for women, office pants, made to measure trousers women, high waisted work pants
+**Related terms:** women's tailored trousers, custom dress pants for women, office pants, made-to-order trousers women, high waisted work pants
 
 ## Related
 
-- [Women Category Index](index.md)
+- [Women Category Index](../womenswear.md)
 - [Browse all Pants products](../../products/womenswear/pants-for-women/index.md)
-
-## Citations
-
-[1] [Pants](https://baronboutique.com/womenswear/pants-for-women/)

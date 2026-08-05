@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Suits & Blazers"
-description: "Women's Suits & Blazers Bespoke Women's Suits and Tailored Blazers, Made to Your Measurements A woman's suit should fit like it was drafted on her. Every piece in this collection is custom made to your exact measurements in real cloth, from sharp pinstripe pant suits and double-breasted power suits to sculpted single blazers, tuxedos, and skirt suits. No standard sizing, and no compromise between the shoulders and the waist, just a suit cut to your body and your brief. Choose your cloth, color, and details, from merino and high-twist tropical wool to mohair, sharkskin, dupioni silk, and velvet. Before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $499."
+description: "Made-to-order suits and blazers drafted for a woman's figure, in wool, silk, and linen, from pinstripe pant suits to sculpted single blazers."
 resource: https://baronboutique.com/womenswear/suits-blazers-for-women/
-tags: [women, suits, blazers, pant-suit, skirt-suit, power-suit, workwear, business-suit, custom-suit, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [women, suits, blazers, pant-suit, skirt-suit, power-suit, workwear, business-suit, custom-suit, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womenswear/suits-blazers-for-women/
+    title: "Suits & Blazers"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Suits & Blazers
 
-Women's Suits & Blazers Bespoke Women's Suits and Tailored Blazers, Made to Your Measurements A woman's suit should fit like it was drafted on her. Every piece in this collection is custom made to your exact measurements in real cloth, from sharp pinstripe pant suits and double-breasted power suits to sculpted single blazers, tuxedos, and skirt suits. No standard sizing, and no compromise between the shoulders and the waist, just a suit cut to your body and your brief. Choose your cloth, color, and details, from merino and high-twist tropical wool to mohair, sharkskin, dupioni silk, and velvet. Before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $499.
+Made-to-order suits and blazers drafted for a woman's figure, in wool, silk, and linen, from pinstripe pant suits to sculpted single blazers.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -83,18 +94,15 @@ Every adjustment is applied, then your suit is cut and hand-tailored in your cho
 - [The Women's Bespoke Tuxedo](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
 - [The Women's Tuxedo Suit](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
 - [The Wool & Silk Blend Suit](../../products/womenswear/wedding-suits-for-women/boutique-tailored-silk-and-wool-suit.md)
+- [Unlined Linen Duster Coat](../../products/womenswear/linen-dress-jacket-with-notch-collar.md)
 - [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](../../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 - [Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend](../../products/womenswear/suits-blazers-for-women/womens-pinstripe-pant-suit.md)
 - [Womens Skirt Suit](../../products/womenswear/suits-blazers-for-women/womens-skirt-suit-in-stripes.md)
 - [Womens Tailored Fitted Coat](../../products/womenswear/coats-and-overcoats-for-women/womens-long-winter-coat.md)
 
-**Related terms:** women's custom suits, made to measure suit for women, ladies business suits, tailored pant suits, interview suit women
+**Related terms:** women's custom suits, made-to-order suit for women, ladies business suits, tailored pant suits, interview suit women
 
 ## Related
 
-- [Women Category Index](index.md)
+- [Women Category Index](../womenswear.md)
 - [Browse all Suits & Blazers products](../../products/womenswear/suits-blazers-for-women/index.md)
-
-## Citations
-
-[1] [Suits & Blazers](https://baronboutique.com/womenswear/suits-blazers-for-women/)

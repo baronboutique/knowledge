@@ -1,15 +1,6 @@
----
-type: Index
-title: "Suits & Blazers"
-description: "Bespoke Suits & Blazers, Cut for You From sharp two-piece business suits to three-piece statement tailoring and unstructured blazers, every jacket is made to order and hand-tailored to your exact measurements — never altered off a rack. Choose your cloth and lining, and we send a complimentary test garment before cutting the final fabric, so the fit is approved first. Collector-quality canvas construction."
-resource: https://baronboutique.com/menswear/mens-suits-blazers/
-tags: [men, suits, blazers, two-piece-suit, three-piece-suit, sport-coat, business-suit, wedding-suit, custom-suit, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Suits & Blazers
 
-Bespoke Suits & Blazers, Cut for You From sharp two-piece business suits to three-piece statement tailoring and unstructured blazers, every jacket is made to order and hand-tailored to your exact measurements — never altered off a rack. Choose your cloth and lining, and we send a complimentary test garment before cutting the final fabric, so the fit is approved first. Collector-quality canvas construction.
+Made-to-order suits and blazers cut from an individual pattern in wool, silk, mohair, and linen, from two-piece business suits to unstructured blazers.
 
 All 20 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -107,7 +98,4 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [Suits & Blazers Category](../../../categories/menswear/mens-suits-blazers.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Suits & Blazers](https://baronboutique.com/menswear/mens-suits-blazers/)
+- [Suits & Blazers on baronboutique.com](https://baronboutique.com/menswear/mens-suits-blazers/)

@@ -4,7 +4,19 @@ title: "Count Dooku Cape and Tunic Star Wars"
 description: "Embody the measured elegance and formidable power of a Sith Lord. This is the definitive, screen-accurate replica of Count Dooku's attire, meticulously custom-tailored to be a masterpiece of cosplay c…"
 resource: https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/
 tags: [men, cape, tunic, count-dooku, star-wars, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-05-24
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Count Dooku Cape and Tunic Star Wars
@@ -44,8 +56,4 @@ Embody the Legend: A Customer's Final Result This isn't a studio shot. This is a
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/)
+- [Screen-Inspired Collection](../../../categories/screen-inspired.md)

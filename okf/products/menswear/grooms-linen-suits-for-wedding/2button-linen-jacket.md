@@ -4,7 +4,19 @@ title: "Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors"
 description: "Most linen jackets are designed for display, not for the body that wears them. Linen makes that difference impossible to hide because its beauty lies entirely in the fit and drape."
 resource: https://baronboutique.com/2button-linen-jacket/
 tags: [men, blazer, jacket, linen, two-button, summer, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/2button-linen-jacket/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.2, at: 2026-08-05T16:25:50Z }
 ---
 
 # Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors
@@ -110,12 +122,8 @@ Full Specifications
 
 ## Related
 
-- [Linen Wedding Suits Category](../../../categories/menswear/grooms-linen-suits-for-wedding.md)
+- [Linen Wedding Suits Category](../../../categories/menswear/wedding-suits/grooms-linen-suits-for-wedding.md)
 - [Linen Wedding Suits Products](index.md)
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/2button-linen-jacket/)

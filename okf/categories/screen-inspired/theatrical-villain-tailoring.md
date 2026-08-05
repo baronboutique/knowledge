@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Theatrical Villain"
-description: "Theatrical Villain Tailoring For Iconic Look Darker. Bolder. Built for those who understand that the villain always has the better wardrobe. Every coat, suit, and tailcoat in this collection draws from the most iconic villain moments in modern cinema. The silhouettes are dramatic. The fabrics are uncompromising. The tailoring is entirely your own. Each piece is bespoke, cut and constructed exclusively for your measurements. Our complimentary test garment process guarantees a flawless fit before a single thread is committed to your final garment."
+description: "Villain outerwear and evening tailoring recreated in genuine cloth, from purple double-breasted coats to burgundy three-piece suits. Not licensed merchandise."
 resource: https://baronboutique.com/screen-inspired/theatrical-villain-tailoring/
 tags: [theatrical-villain, joker, dracula, villain-costume, movie-replica, screen-inspired, cosplay, replica, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/screen-inspired/theatrical-villain-tailoring/
+    title: "Theatrical Villain"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Theatrical Villain
 
-Theatrical Villain Tailoring For Iconic Look Darker. Bolder. Built for those who understand that the villain always has the better wardrobe. Every coat, suit, and tailcoat in this collection draws from the most iconic villain moments in modern cinema. The silhouettes are dramatic. The fabrics are uncompromising. The tailoring is entirely your own. Each piece is bespoke, cut and constructed exclusively for your measurements. Our complimentary test garment process guarantees a flawless fit before a single thread is committed to your final garment.
+Villain outerwear and evening tailoring recreated in genuine cloth, from purple double-breasted coats to burgundy three-piece suits. Not licensed merchandise.
 
 **Licensing note:** This collection is inspired by screen productions. These garments are NOT officially licensed products unless explicitly stated on the individual product page.
 
@@ -84,8 +95,4 @@ Both the test garment and the final piece ship by FedEx, DHL, or UPS with full t
 
 ## Related
 
-- [Screen Inspired Category Index](index.md)
-
-## Citations
-
-[1] [Theatrical Villain](https://baronboutique.com/screen-inspired/theatrical-villain-tailoring/)
+- [Screen Inspired Category Index](../screen-inspired.md)

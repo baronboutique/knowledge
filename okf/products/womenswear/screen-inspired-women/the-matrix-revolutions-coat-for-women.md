@@ -4,7 +4,19 @@ title: "Womens Long Coat Black Trench Matrix Style"
 description: "Matrix-Inspired Long Black Trench Coat for Women. Command attention in this hand-tailored worsted wool trench coat, inspired by The Matrix Revolutions."
 resource: https://baronboutique.com/the-matrix-revolutions-coat-for-women/
 tags: [women, trench-coat, long-coat, wool, black, matrix, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/the-matrix-revolutions-coat-for-women/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Womens Long Coat Black Trench Matrix Style
@@ -41,7 +53,3 @@ Custom-Made Women's Long Black Trench Coat – Inspired by The Matrix Revolution
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/the-matrix-revolutions-coat-for-women/)

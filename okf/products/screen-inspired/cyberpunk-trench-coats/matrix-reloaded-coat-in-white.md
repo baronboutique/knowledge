@@ -4,7 +4,19 @@ title: "White Long Coat Matrix Reloaded Neo Style Coat"
 description: "This white long coat is one of the most talked-about Neo style coats. Crafted from ultra-light worsted wool fabric that has an excellent drape and a very elegant feel to it."
 resource: https://baronboutique.com/matrix-reloaded-coat-in-white/
 tags: [men, trench-coat, long-coat, tropical-wool, wool, white, matrix, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/matrix-reloaded-coat-in-white/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-05-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # White Long Coat Matrix Reloaded Neo Style Coat
@@ -42,8 +54,4 @@ Neo Style White Long Test Coat-Fit and Style Evaluation The Oracle White Coat: A
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/matrix-reloaded-coat-in-white/)
+- [Screen-Inspired Collection](../../../categories/screen-inspired.md)

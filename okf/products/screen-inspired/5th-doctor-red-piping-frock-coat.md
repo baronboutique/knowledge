@@ -4,7 +4,19 @@ title: "5th Doctor Cosplay Beige Frock Coat"
 description: "Our 5th Doctor cosplay beige frock coat is tailored with consistent quality. The top-class 5th Doctor cosplay costume outfit with immense details to its superb tailoring."
 resource: https://baronboutique.com/5th-doctor-red-piping-frock-coat/
 tags: [men, frock-coat, tropical-wool, wool, cream, red-piping, doctor-who, fifth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/5th-doctor-red-piping-frock-coat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-03-14
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # 5th Doctor Cosplay Beige Frock Coat
@@ -37,12 +49,8 @@ Our 5th Doctor cosplay beige frock coat is tailored with consistent quality. The
 
 ## Related
 
-- [Screen Inspired Category](../../categories/screen-inspired/index.md)
+- [Screen Inspired Category](../../categories/screen-inspired.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/5th-doctor-red-piping-frock-coat/)
+- [Screen-Inspired Collection](../../categories/screen-inspired.md)

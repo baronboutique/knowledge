@@ -4,7 +4,20 @@ title: "1989 Gotham Villain Double-Breasted Purple Evening Tailcoat"
 description: "Most purple Joker pieces on the market are the long overcoat. This is not that. This is the formal evening tailcoat — double-breasted look, wide peak lapels, theatrical tails, tuxedo-inspired construc…"
 resource: https://baronboutique.com/1989-gotham-villain-purple-tailcoat/
 tags: [men, tailcoat, evening-coat, purple, double-breasted, peak-lapel, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/1989-gotham-villain-purple-tailcoat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-08-05
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: human:baron-boutique, at: 2026-08-05T11:31:28Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.1, at: 2026-08-05T11:37:04Z }
 ---
 
 # 1989 Gotham Villain Double-Breasted Purple Evening Tailcoat
@@ -20,7 +33,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-Most purple Joker pieces on the market are the long overcoat. This is not that. This is the formal evening tailcoat — double-breasted look, wide peak lapels, theatrical tails, tuxedo-inspired construction — the Nicholson look at its most dramatic. Hand-tailored in purple wool blend to your exact measurements, with a free cotton test tailcoat before we cut the real fabric. Canvas front, purple acetate lining, fabric-covered sleeve buttons. Tracked worldwide shipping.
+Most purple Joker pieces on the market are the long overcoat. This is not that. This is the formal evening tailcoat — double-breasted look, wide peak lapels, theatrical tails, tuxedo-inspired construction — the Gotham look at its most dramatic. Hand-tailored in purple wool blend to your exact measurements, with a free cotton test tailcoat before we cut the real fabric. Canvas front, purple acetate lining, fabric-covered sleeve buttons. Tracked worldwide shipping.
 
 The tailcoat, not the overcoat
 Most people searching for a 1989 purple tailcoat end up with a version of the long purple coat. [That coat exists on this site too](https://baronboutique.com/1989-purple-coat-gotham-villain/). This page is for something different. The formal evening tailcoat worn by the legendary 1989 cinematic villain stands as a masterpiece of theatrical design—featuring a double-breasted profile, wide-lapel theatrical cut, dramatic cutaway tails, and tuxedo-inspired construction. It represents the iconic character aesthetic at its most ceremonial and unhinged.
@@ -99,12 +112,8 @@ There are three realistic options for this specific garment. Here is how they ac
 
 ## Related
 
-- [Screen Inspired Category](../../categories/screen-inspired/index.md)
+- [Screen Inspired Category](../../categories/screen-inspired.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/1989-gotham-villain-purple-tailcoat/)
+- [Screen-Inspired Collection](../../categories/screen-inspired.md)

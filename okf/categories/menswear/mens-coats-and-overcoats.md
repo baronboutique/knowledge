@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Coats & Overcoats"
-description: "Men's Coats & Overcoats, Made to Your Measurements A coat lives or dies on two things a rack size cannot fix: the set of the shoulders and the length of the hem. Every coat here is made to your measurements, so the shoulders sit where yours are and the hem falls where you want it, in real wool, wool-cashmere, Melton, and tweed, with a free test coat before we cut. Overcoats and topcoats to wear over a suit, peacoats and car coats for every day, dramatic frock coats, and the coats people recognize from the screen, all built as garments to keep, not to replace."
+description: "Made-to-order overcoats, topcoats, peacoats, and car coats in wool and cashmere, cut to the wearer's shoulders and chosen length."
 resource: https://baronboutique.com/menswear/mens-coats-and-overcoats/
-tags: [men, coats, overcoat, topcoat, peacoat, car-coat, trench-coat, winter-coat, wool-coat, custom-coat, made-to-measure, bespoke]
-timestamp: 2026-07-24T15:30:44Z
+tags: [men, coats, overcoat, topcoat, peacoat, car-coat, trench-coat, winter-coat, wool-coat, custom-coat, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/mens-coats-and-overcoats/
+    title: "Coats & Overcoats"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Coats & Overcoats
 
-Men's Coats & Overcoats, Made to Your Measurements A coat lives or dies on two things a rack size cannot fix: the set of the shoulders and the length of the hem. Every coat here is made to your measurements, so the shoulders sit where yours are and the hem falls where you want it, in real wool, wool-cashmere, Melton, and tweed, with a free test coat before we cut. Overcoats and topcoats to wear over a suit, peacoats and car coats for every day, dramatic frock coats, and the coats people recognize from the screen, all built as garments to keep, not to replace.
+Made-to-order overcoats, topcoats, peacoats, and car coats in wool and cashmere, cut to the wearer's shoulders and chosen length.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -124,9 +135,5 @@ Your finished coat ships from Dubai by trackable courier, about four to six week
 
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Coats & Overcoats products](../../products/menswear/mens-coats-and-overcoats/index.md)
-
-## Citations
-
-[1] [Coats & Overcoats](https://baronboutique.com/menswear/mens-coats-and-overcoats/)

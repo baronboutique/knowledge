@@ -4,7 +4,19 @@ title: "Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors"
 description: "Most shawls sold as pashmina are blends. This one is 100% Grade A pashmina fiber from the Himalayan highlands — handwoven on a traditional loom over five days, 70 grams, 36 x 80 inches."
 resource: https://baronboutique.com/mens-pashmina-shawl-handwoven/
 tags: [men, pashmina, shawl, wrap, cashmere, handwoven, himalayan, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mens-pashmina-shawl-handwoven/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-12
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors
@@ -86,18 +98,14 @@ Fold and place in a breathable cotton garment bag. Store in a cool, dry place aw
 
 ## Categories
 
-- Scarves
+- Handcrafted Cashmere
 - Men › Accessories
 
 **Related terms:** men's pashmina, ring shawl, traditional loom shawl, Grade A pashmina stole, Himalayan cashmere wrap
 
 ## Related
 
-- [Men Category](../../categories/menswear/index.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mens-pashmina-shawl-handwoven/)

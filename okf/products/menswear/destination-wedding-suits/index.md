@@ -1,15 +1,6 @@
----
-type: Index
-title: "Destination Wedding Suits"
-description: "Destination Wedding Suits, Made to Your Measurements A destination wedding is a stage, and these are the pieces for the groom who wants to be remembered on it. Ten cinematic statement pieces, from a breathable Fresco wool cape suit to a Melton wool trench, each made to your measurements in fabrics chosen for summer or winter. From $659, and every order includes a free test garment so the fit is confirmed before you fly. Cape suits, statement coats, and bold three-pieces for a groom whose wedding is anything but ordinary."
-resource: https://baronboutique.com/menswear/wedding-suits/destination-wedding-suits/
-tags: [destination-wedding-suits, destination, wedding, suits, menswear, bespoke, made-to-order, baron-boutique]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Destination Wedding Suits
 
-Destination Wedding Suits, Made to Your Measurements A destination wedding is a stage, and these are the pieces for the groom who wants to be remembered on it. Ten cinematic statement pieces, from a breathable Fresco wool cape suit to a Melton wool trench, each made to your measurements in fabrics chosen for summer or winter. From $659, and every order includes a free test garment so the fit is confirmed before you fly. Cape suits, statement coats, and bold three-pieces for a groom whose wedding is anything but ordinary.
+Made-to-order wedding suits for grooms marrying abroad, cut for heat and travel in fresco wool and linen, including cape suits and statement coats.
 
 All 4 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -81,10 +72,7 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 
 ## Related
 
-- [Destination Wedding Suits Category](../../../categories/menswear/destination-wedding-suits.md)
+- [Destination Wedding Suits Category](../../../categories/menswear/wedding-suits/destination-wedding-suits.md)
 - [Men Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Destination Wedding Suits](https://baronboutique.com/menswear/wedding-suits/destination-wedding-suits/)
+- [Destination Wedding Suits on baronboutique.com](https://baronboutique.com/menswear/wedding-suits/destination-wedding-suits/)

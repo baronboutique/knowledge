@@ -1,15 +1,26 @@
 ---
 type: Product Category
 title: "Suits & Blazers"
-description: "Bespoke Suits & Blazers, Cut for You From sharp two-piece business suits to three-piece statement tailoring and unstructured blazers, every jacket is made to order and hand-tailored to your exact measurements — never altered off a rack. Choose your cloth and lining, and we send a complimentary test garment before cutting the final fabric, so the fit is approved first. Collector-quality canvas construction."
+description: "Made-to-order suits and blazers cut from an individual pattern in wool, silk, mohair, and linen, from two-piece business suits to unstructured blazers."
 resource: https://baronboutique.com/menswear/mens-suits-blazers/
-tags: [men, suits, blazers, two-piece-suit, three-piece-suit, sport-coat, business-suit, wedding-suit, custom-suit, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+tags: [men, suits, blazers, two-piece-suit, three-piece-suit, sport-coat, business-suit, wedding-suit, custom-suit, bespoke, made-to-order]
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/menswear/mens-suits-blazers/
+    title: "Suits & Blazers"
+    author: team:baron-boutique-tailoring
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
 ---
 
 # Suits & Blazers
 
-Bespoke Suits & Blazers, Cut for You From sharp two-piece business suits to three-piece statement tailoring and unstructured blazers, every jacket is made to order and hand-tailored to your exact measurements — never altered off a rack. Choose your cloth and lining, and we send a complimentary test garment before cutting the final fabric, so the fit is approved first. Collector-quality canvas construction.
+Made-to-order suits and blazers cut from an individual pattern in wool, silk, mohair, and linen, from two-piece business suits to unstructured blazers.
 
 All garments are made to order by [Baron Boutique](../../company.md). Every bespoke order includes a complimentary cotton test garment shipped before the final fabric is cut.
 
@@ -96,12 +107,12 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [Grey Tropical Wool Suit](../../products/menswear/mens-suits-blazers/mens-gray-tropical-wool-suit.md)
 - [James Bond Casino Royale Suit 3 Piece Final Scene](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
 - [Linen Wedding Suit for Grooms, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
+- [Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements](../../products/menswear/mens-silk-suits-shirts-ties-scarves/mens-silk-suit-in-dupioni-silk.md)
 - [Men's Black Suit in Super 130s Worsted Wool](../../products/menswear/mens-suits-blazers/mens-essential-black-suit.md)
 - [Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front](../../products/menswear/dinner-jackets/slim-fit-blue-velvet-jacket.md)
 - [Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere](../../products/menswear/mens-suits-blazers/merino-wool-cashmere-three-season-chalk-stripes-suit.md)
 - [Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels](../../products/menswear/tuxedos/mens-navy-herringbone-wool-tuxedo.md)
 - [Men's Pure New Wool Suit, Custom Made in Super 160s VBC Wool](../../products/menswear/mens-suits-blazers/pure-new-wool-suit-in-year-round-hues.md)
-- [Men's Silk Suit, Custom Made in 100% Dupioni Silk](../../products/menswear/mens-silk-suits-shirts-ties-scarves/mens-silk-suit-in-dupioni-silk.md)
 - [Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors](../../products/menswear/grooms-linen-suits-for-wedding/2button-linen-jacket.md)
 - [Mens Burgundy Flannel Tuxedo](../../products/menswear/tuxedos/light-weight-all-season-wool-flannel-tuxedo-suit.md)
 - [Mens Silk Blazer Dupioni Silk](../../products/menswear/mens-silk-suits-shirts-ties-scarves/dupioni-silk-blazer.md)
@@ -134,13 +145,9 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [Vintage Sharkskin Suit](../../products/menswear/mens-suits-blazers/versatile-all-purpose-suit-in-vintage-sharkskin.md)
 - [White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors](../../products/menswear/grooms-linen-suits-for-wedding/white-linen-suit-with-vest.md)
 
-**Related terms:** custom suits for men, made to measure suit online, tailor made blazer, men's suit shop online, bespoke business suits
+**Related terms:** custom suits for men, made-to-order suit online, tailor made blazer, men's suit shop online, bespoke business suits
 
 ## Related
 
-- [Men Category Index](index.md)
+- [Men Category Index](../menswear.md)
 - [Browse all Suits & Blazers products](../../products/menswear/mens-suits-blazers/index.md)
-
-## Citations
-
-[1] [Suits & Blazers](https://baronboutique.com/menswear/mens-suits-blazers/)

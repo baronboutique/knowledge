@@ -4,7 +4,19 @@ title: "Womens Dress Coats Winter"
 description: "Womens dress coats winter tops the list when talking about timeless and classic wool coats. Our womens dress coats for winter is elegantly tailored and polished to go with any outfit."
 resource: https://baronboutique.com/womens-wool-dress-coat/
 tags: [women, coat, overcoat, wool, winter-coat, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-wool-dress-coat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Womens Dress Coats Winter
@@ -40,7 +52,3 @@ The Winter Coat, Perfected & Personalized This is the last winter dress coat you
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-wool-dress-coat/)

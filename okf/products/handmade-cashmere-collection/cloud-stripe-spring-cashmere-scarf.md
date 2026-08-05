@@ -4,7 +4,19 @@ title: "Cloud Stripe Spring Cashmere Scarf"
 description: "A breath of highland air woven in cashmere—this lightweight striped spring scarf moves with grace, echoing the hush of grey skies and snow-melt winds."
 resource: https://baronboutique.com/cloud-stripe-spring-cashmere-scarf/
 tags: [women, cashmere, scarf, wrap, striped, grey, lightweight, handwoven, handmade, heirloom]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/cloud-stripe-spring-cashmere-scarf/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Cloud Stripe Spring Cashmere Scarf
@@ -28,18 +40,14 @@ Whispers of Thawing Valleys A sky-bound rhythm flows through the Cloud Stripe Sp
 
 ## Categories
 
-- Scarves
+- Handcrafted Cashmere
 - Women › Accessories
 
 **Related terms:** spring pashmina, airy cashmere muffler, soft grey stole, light summer scarf
 
 ## Related
 
-- [Scarves Category](../../categories/handmade-cashmere-collection/index.md)
+- [Handcrafted Cashmere Category](../../categories/handmade-cashmere-collection.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/cloud-stripe-spring-cashmere-scarf/)

@@ -4,7 +4,19 @@ title: "Mohair Wool Suit"
 description: "The mohair and wool suit is engineered for performance. The unique, spring-like structure of mohair fibers lends the cloth an exceptional crease resistance, ensuring you remain impeccably sharp from a…"
 resource: https://baronboutique.com/mohair-kid-wool-suit/
 tags: [men, suit, mohair-wool, wool, all-season, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/mohair-kid-wool-suit/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Mohair Wool Suit
@@ -40,7 +52,3 @@ The mohair suit is an artifact of quiet, sophisticated power, with a rich herita
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/mohair-kid-wool-suit/)

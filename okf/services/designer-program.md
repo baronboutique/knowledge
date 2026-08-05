@@ -4,7 +4,19 @@ title: "Designer Program"
 description: "Baron Boutique's Designer Program provides emerging and established fashion designers with affordable, flexible production support. Start with prototypes, scale at your own pace, and access master craftsmanship without minimum orders or large upfront investments. Perfect for designers transitioning into the industry, recent graduates, or entrepreneurs with niche concepts."
 resource: https://baronboutique.com/designer-program/
 tags: [designer-program, fashion-designers, prototype-development, sampling, small-batch-production, cmt, service]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/designer-program/
+    title: "Designer Program"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-06-16
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Designer Program
@@ -65,7 +77,3 @@ Baron Boutique's Designer Program provides emerging and established fashion desi
 
 - [Baron Boutique](../company.md)
 - [All Services](index.md)
-
-## Citations
-
-[1] [Designer Program](https://baronboutique.com/designer-program/)

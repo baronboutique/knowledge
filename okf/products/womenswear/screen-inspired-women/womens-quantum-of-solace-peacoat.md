@@ -4,7 +4,19 @@ title: "Womens Double Breasted Short Peacoat Quantum Of Solace"
 description: "Womens double-breasted short peacoat inspired from Quantum of Solace. The minified James Bond replica winter pea coat offers a timeless appeal with the classic style that works as a casual and essenti…"
 resource: https://baronboutique.com/womens-quantum-of-solace-peacoat/
 tags: [women, peacoat, wool-cashmere, double-breasted, james-bond, quantum-of-solace, spy-tailoring, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-quantum-of-solace-peacoat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Womens Double Breasted Short Peacoat Quantum Of Solace
@@ -41,7 +53,3 @@ The Agent's Silhouette: The Quantum Peacoat This is more than a coat; it is armo
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-quantum-of-solace-peacoat/)

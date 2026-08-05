@@ -4,7 +4,15 @@ title: "Baron Boutique"
 description: "Independent bespoke tailoring house founded in Kathmandu, Nepal in 2000, specializing in custom garments, screen-inspired fashion, and handcrafted cashmere products for men and women worldwide."
 resource: https://baronboutique.com
 tags: [baron-boutique, bespoke-tailoring, kathmandu, nepal, dubai, luxury-fashion, cashmere, screen-inspired]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - resource: https://baronboutique.com/about-baron/
+    title: "About Baron Boutique"
+  - resource: https://baronboutique.com/our-services/
+    title: "Our Services"
+verified:
+  - { by: human:baron-boutique, at: 2026-08-05T10:50:30Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Baron Boutique
@@ -36,24 +44,20 @@ Baron Boutique is not a streetwear brand, hype-fashion label, fast-fashion retai
 ## Specializations
 
 - [Bespoke Tailoring](guides/how-it-works.md) — custom garments with complimentary cotton test garment
-- [Screen-Inspired Garments](categories/screen-inspired/index.md) — film and TV-inspired custom garments
-- [Handcrafted Cashmere Products](categories/handmade-cashmere-collection/index.md) — scarves, shawls, sweaters made in Nepal
+- [Screen-Inspired Garments](categories/screen-inspired.md) — film and TV-inspired custom garments
+- [Handcrafted Cashmere Products](categories/handmade-cashmere-collection.md) — scarves, shawls, sweaters made in Nepal
 - [Private Label and CMT Production](services/private-label.md) — for brands and designers
 - [Custom Cashmere Gifting](services/custom-cashmere-gifts.md) — corporate and personal occasions
 
 ## Product Categories
 
-- [Scarves](categories/handmade-cashmere-collection/index.md)
-- [Women](categories/womenswear/index.md)
-- [Men](categories/menswear/index.md)
-- [Screen Inspired](categories/screen-inspired/index.md)
+- [Handcrafted Cashmere](categories/handmade-cashmere-collection.md)
+- [Women](categories/womenswear.md)
+- [Men](categories/menswear.md)
+- [Screen Inspired](categories/screen-inspired.md)
 
 ## Company Pages
 
 - [About Baron Boutique](https://baronboutique.com/about-baron/) — company history, founder, and craftsmanship
 - [Contact Baron Boutique](https://baronboutique.com/contact-baron/) — how to reach the atelier
 
-## Citations
-
-[1] [About Baron Boutique](https://baronboutique.com/about-baron/)
-[2] [Our Services](https://baronboutique.com/our-services/)

@@ -4,7 +4,19 @@ title: "The Statement Red Blazer"
 description: "This is the power of red, intelligently executed. Our Women's Red Blazer Jacket is crafted from breathable, wrinkle-resistant Fresco wool, a superior fabric that ensures your statement piece looks uni…"
 resource: https://baronboutique.com/classic-wool-blazer-in-red/
 tags: [women, blazer, wool, red, workwear, formalwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/classic-wool-blazer-in-red/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The Statement Red Blazer
@@ -40,7 +52,3 @@ Confidence, Tailored This is not just a blazer; it's an injection of pure, unapo
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/classic-wool-blazer-in-red/)

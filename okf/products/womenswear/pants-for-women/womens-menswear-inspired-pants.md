@@ -4,7 +4,19 @@ title: "The Essential Straight-Leg Formal Trouser"
 description: "This is the answer to always being perfectly dressed. Our Women's Straight Leg Formal Pants combine the timeless authority of a menswear-inspired fit with the unmatched luxury of our signature merino …"
 resource: https://baronboutique.com/womens-menswear-inspired-pants/
 tags: [women, pants, menswear-inspired, wool, tailored-fit, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/womens-menswear-inspired-pants/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-28
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The Essential Straight-Leg Formal Trouser
@@ -40,7 +52,3 @@ The Cornerstone of Formal Attire This is the single most important trouser in a 
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/womens-menswear-inspired-pants/)

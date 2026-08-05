@@ -4,7 +4,19 @@ title: "Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere"
 description: "Most chalk stripe suits fail on fit. The bold vertical stripe amplifies everything - including a jacket that pulls across the chest or trousers that break at the wrong angle."
 resource: https://baronboutique.com/merino-wool-cashmere-three-season-chalk-stripes-suit/
 tags: [men, suit, chalk-stripe, merino-wool, wool-cashmere, three-season, workwear, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/merino-wool-cashmere-three-season-chalk-stripes-suit/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere
@@ -119,7 +131,3 @@ Before we touch your Super 120s wool-cashmere, we make a complete test suit in a
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/merino-wool-cashmere-three-season-chalk-stripes-suit/)

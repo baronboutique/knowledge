@@ -4,7 +4,19 @@ title: "The Heist Suit, Grey Sharkskin Single-Button Peak Lapel"
 description: "Custom-made grey sharkskin suit with the effortless, casino-floor cool of a modern heist film. Cut from Super 120s sharkskin wool that catches the light and resists wrinkles, it drapes beautifully and…"
 resource: https://baronboutique.com/grey-sharkskin-heist-suit/
 tags: [men, suit, retro-style, wool, rusty-ryan, oceans-eleven, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/grey-sharkskin-heist-suit/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-16
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # The Heist Suit, Grey Sharkskin Single-Button Peak Lapel
@@ -42,8 +54,4 @@ Grey Sharkskin, Effortless Cool Capture the effortless confidence of a modern ca
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/grey-sharkskin-heist-suit/)
+- [Screen-Inspired Collection](../../../categories/screen-inspired.md)

@@ -1,18 +1,10 @@
----
-type: Index
-title: "Scarves"
-description: "Handmade Cashmere Scarves, Sweaters & Shawls Discover our collection of handmade cashmere scarves, sweaters, and shawls, all crafted from 100% pure cashmere sustainably sourced from the Tibetan Plateau. They offer the same luxury and attention to detail as our bespoke clothing, perfectly complementing your tailored outfits with a touch of Himalayan heritage."
-timestamp: 2026-07-24T15:30:44Z
----
+# Handcrafted Cashmere
 
-# Scarves
-
-Handmade Cashmere Scarves, Sweaters & Shawls Discover our collection of handmade cashmere scarves, sweaters, and shawls, all crafted from 100% pure cashmere sustainably sourced from the Tibetan Plateau. They offer the same luxury and attention to detail as our bespoke clothing, perfectly complementing your tailored outfits with a touch of Himalayan heritage.
+Handwoven cashmere scarves, shawls, and sweaters made by hand in Nepal from fiber sourced on the Tibetan Plateau.
 
 All products made to order. Every bespoke order includes a complimentary cotton test garment.
 
 - [Aquamarine Blue Handwoven Cashmere Scarf Shawl](aquamarine-blue-handwoven-cashmere-scarf-shawl.md)
-- [Baby Blue Sunflower Embroidered Cashmere Scarf](baby-blue-sunflower-embroidered-cashmere-scarf.md)
 - [Bright Pink Handwoven Cashmere Scarf Shawl](bright-pink-handwoven-cashmere-scarf-shawl.md)
 - [Cloud Stripe Spring Cashmere Scarf](cloud-stripe-spring-cashmere-scarf.md)
 - [Emerald Green Handwoven Cashmere Scarf Shawl](emerald-green-handwoven-cashmere-scarf-shawl.md)
@@ -42,6 +34,7 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Red Houndstooth Cashmere Scarf – Hand-Finished in Diamond Weave](red-houndstooth-cashmere-scarf.md)
 - [Royal Blue Essential Wrap in Diamond Weave Cashmere](royal-blue-essential-wrap-in-diamond-weave-cashmere.md)
 - [Solar and Lunar Print Cashmere Loom Scarf](solar-lunar-print-cashmere-loom-scarf.md)
+- [The Sunflower-Embroidered Baby Blue Cashmere Wrap](baby-blue-sunflower-embroidered-cashmere-shawl.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](willow-green-handwoven-cashmere-scarf-shawl.md)
 - [Women's Rust Cashmere Turtleneck Sweater](women-rust-cashmere-turtleneck-sweater.md)
 
@@ -49,7 +42,4 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 
 - [All Products](../index.md)
 - [Baron Boutique](../../company.md)
-
-## Citations
-
-[1] [Scarves](https://baronboutique.com/handmade-cashmere-collection/)
+- [Handcrafted Cashmere on baronboutique.com](https://baronboutique.com/handmade-cashmere-collection/)

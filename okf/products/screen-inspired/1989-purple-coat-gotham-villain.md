@@ -4,7 +4,19 @@ title: "1989 Gotham Villain Double-Breasted Purple Melton Wool Coat"
 description: "Inspired by the iconic purple overcoat worn by the legendary 1989 cinematic villain, this premium overcoat is far more than a simple Halloween costume."
 resource: https://baronboutique.com/1989-purple-coat-gotham-villain/
 tags: [men, coat, overcoat, melton-wool, wool, purple, joker, theatrical-villain, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/1989-purple-coat-gotham-villain/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-24
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # 1989 Gotham Villain Double-Breasted Purple Melton Wool Coat
@@ -92,12 +104,8 @@ Full Specification
 
 ## Related
 
-- [Screen Inspired Category](../../categories/screen-inspired/index.md)
+- [Screen Inspired Category](../../categories/screen-inspired.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/1989-purple-coat-gotham-villain/)
+- [Screen-Inspired Collection](../../categories/screen-inspired.md)

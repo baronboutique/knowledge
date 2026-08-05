@@ -4,7 +4,19 @@ title: "Sherlock Holmes Coat (2009 film)"
 description: "Sherlock Holmes coat replica from the 2009 film starring Robert Downey Jr. The key to a great Sherlock cosplay is confidence—and the right outfit."
 resource: https://baronboutique.com/sherlock-holmes-frock-coat/
 tags: [men, frock-coat, corduroy, peak-lapel, victorian-style, sherlock-holmes, detective-coat, screen-inspired, replica, cosplay, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/sherlock-holmes-frock-coat/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-07-02
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # Sherlock Holmes Coat (2009 film)
@@ -42,7 +54,3 @@ This is the frock coat of the modern consulting detective—a study in texture a
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/sherlock-holmes-frock-coat/)

@@ -1,19 +1,14 @@
 ---
-okf_version: "0.1"
-title: Baron Boutique Knowledge Bundle
-description: "Open Knowledge Format bundle for Baron Boutique — a bespoke luxury tailoring house founded in Kathmandu, Nepal in 2000, specializing in custom garments, screen-inspired fashion, and handcrafted cashmere products for men and women worldwide."
-resource: https://baronboutique.com/
-tags: [baron-boutique, bespoke-tailoring, luxury-fashion, cashmere, screen-inspired, kathmandu, nepal]
-timestamp: 2026-07-24T15:30:44Z
+okf_version: "0.2"
 ---
 
 # Baron Boutique Knowledge Bundle
 
-An [Open Knowledge Format (OKF)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) v0.1 bundle representing the full knowledge graph of Baron Boutique — an independent bespoke tailoring house founded in Kathmandu, Nepal in 2000.
+An [Open Knowledge Format (OKF)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) v0.2 bundle representing the full knowledge graph of Baron Boutique — an independent bespoke tailoring house founded in Kathmandu, Nepal in 2000, specializing in custom garments, screen-inspired fashion, and handcrafted cashmere products for men and women worldwide.
 
 This bundle is intended for AI agents, answer engines, and retrieval systems. It is machine-readable and human-readable. All facts are sourced from verified public information on [baronboutique.com](https://baronboutique.com).
 
-**Total files:** 411
+**Total files:** 421
 
 ## Company
 
@@ -25,10 +20,10 @@ This bundle is intended for AI agents, answer engines, and retrieval systems. It
 
 ## Product Categories
 
-* [Scarves](categories/handmade-cashmere-collection/index.md)
-* [Women](categories/womenswear/index.md)
-* [Men](categories/menswear/index.md)
-* [Screen Inspired](categories/screen-inspired/index.md)
+* [Handcrafted Cashmere](categories/handmade-cashmere-collection.md)
+* [Women](categories/womenswear.md)
+* [Men](categories/menswear.md)
+* [Screen Inspired](categories/screen-inspired.md)
 
 ## Products
 
@@ -74,4 +69,4 @@ Intent-triggered processes an agent can act on.
 - Custom-made garments cannot be returned once production has begun.
 - The Instagram handle is boutiquebaron (not baronboutique).
 - Files under concepts/ and playbooks/ are hand-authored by the Baron Boutique workshop (not auto-generated) and describe the actual production process.
-- This bundle was auto-generated from live WooCommerce data by Baron AI Knowledge Manager v1.11.0.
+- This bundle was auto-generated from live WooCommerce data by Baron AI Knowledge Manager v1.15.2.

@@ -1,15 +1,6 @@
----
-type: Index
-title: "Suits & Blazers"
-description: "Women's Suits & Blazers Bespoke Women's Suits and Tailored Blazers, Made to Your Measurements A woman's suit should fit like it was drafted on her. Every piece in this collection is custom made to your exact measurements in real cloth, from sharp pinstripe pant suits and double-breasted power suits to sculpted single blazers, tuxedos, and skirt suits. No standard sizing, and no compromise between the shoulders and the waist, just a suit cut to your body and your brief. Choose your cloth, color, and details, from merino and high-twist tropical wool to mohair, sharkskin, dupioni silk, and velvet. Before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $499."
-resource: https://baronboutique.com/womenswear/suits-blazers-for-women/
-tags: [women, suits, blazers, pant-suit, skirt-suit, power-suit, workwear, business-suit, custom-suit, made-to-measure, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
----
-
 # Suits & Blazers
 
-Women's Suits & Blazers Bespoke Women's Suits and Tailored Blazers, Made to Your Measurements A woman's suit should fit like it was drafted on her. Every piece in this collection is custom made to your exact measurements in real cloth, from sharp pinstripe pant suits and double-breasted power suits to sculpted single blazers, tuxedos, and skirt suits. No standard sizing, and no compromise between the shoulders and the waist, just a suit cut to your body and your brief. Choose your cloth, color, and details, from merino and high-twist tropical wool to mohair, sharkskin, dupioni silk, and velvet. Before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $499.
+Made-to-order suits and blazers drafted for a woman's figure, in wool, silk, and linen, from pinstripe pant suits to sculpted single blazers.
 
 All 12 products made to order. Bespoke orders include a complimentary cotton test garment.
 
@@ -85,7 +76,4 @@ Every adjustment is applied, then your suit is cut and hand-tailored in your cho
 - [Suits & Blazers Category](../../../categories/womenswear/suits-blazers-for-women.md)
 - [Women Index](../index.md)
 - [All Products](../../index.md)
-
-## Citations
-
-[1] [Suits & Blazers](https://baronboutique.com/womenswear/suits-blazers-for-women/)
+- [Suits & Blazers on baronboutique.com](https://baronboutique.com/womenswear/suits-blazers-for-women/)

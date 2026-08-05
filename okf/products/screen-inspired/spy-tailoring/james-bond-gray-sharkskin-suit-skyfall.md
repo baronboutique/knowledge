@@ -4,7 +4,19 @@ title: "James Bond Skyfall Grey Suit"
 description: "Add life to your look with a splash of styles with this James Bond Skyfall grey suit. This is the timeless James Bond grey suit with utmost confidence."
 resource: https://baronboutique.com/james-bond-gray-sharkskin-suit-skyfall/
 tags: [men, suit, sharkskin-wool, gray, two-tone, james-bond, skyfall, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
-timestamp: 2026-07-24T15:30:44Z
+sources:
+  - id: canonical-page
+    resource: https://baronboutique.com/james-bond-gray-sharkskin-suit-skyfall/
+    title: "Product page"
+    author: team:baron-boutique-tailoring
+    last_modified: 2026-03-14
+  - id: baron-catalog
+    resource: all products, categories, and pages in the baronboutique.com store
+    title: "Baron Boutique live catalog"
+    author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
 ---
 
 # James Bond Skyfall Grey Suit
@@ -42,8 +54,4 @@ The Skyfall Grey Suit: An Instrument of Refined Power Command attention with a h
 - [Products Index](../../index.md)
 - [Company](../../../company.md)
 - [How Bespoke Orders Work](../../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../../categories/screen-inspired/index.md)
-
-## Citations
-
-[1] [Product page](https://baronboutique.com/james-bond-gray-sharkskin-suit-skyfall/)
+- [Screen-Inspired Collection](../../../categories/screen-inspired.md)
