@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "1989 Gotham Villain Double-Breasted Purple Melton Wool Coat"
-description: "Inspired by the iconic purple overcoat worn by the legendary 1989 cinematic villain, this premium overcoat is far more than a simple Halloween costume."
+description: "Purple double-breasted overcoat in heavyweight Melton wool with a velvet collar, recreated from the 1989 cinematic villain's long coat."
 resource: https://baronboutique.com/1989-purple-coat-gotham-villain/
 tags: [men, coat, overcoat, melton-wool, wool, purple, joker, theatrical-villain, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/1989-purple-coat-gotham-villain/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-24
+    last_modified: 2026-08-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: human:baron-boutique, at: 2026-08-07T02:52:33Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
 ---
 
 # 1989 Gotham Villain Double-Breasted Purple Melton Wool Coat
@@ -38,7 +38,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-Inspired by the iconic purple overcoat worn by the legendary 1989 cinematic villain, this premium overcoat is far more than a simple Halloween costume. This is a masterfully tailored tribute to Gotham’s most unforgettable villain—designed for collectors, cosplayers, and those who live the legend. Meticulously cut from heavyweight Melton wool, this 1989 Jester of Chaos Double-Breasted Coat serves as a striking, functional daily statement piece or a definitive archival centerpiece for the discerning collector.
+Purple double-breasted overcoat in heavyweight Melton wool with a velvet collar, recreated from the 1989 cinematic villain's long coat. Hand-tailored to the customer's measurements; a free cotton test coat confirms fit before the final cloth is cut. A wearable statement piece, not a costume. From $699, shipped worldwide.
 
 1989 Gotham Villain Double-Breasted Purple Melton Wool Coat
 Baron Boutique builds this overcoat entirely to your measurements. Featuring double-breasted closure with hand stitched canvas, hand-finished buttonholes, hand-stitched armholes, and an ultra-smooth interior lining. Traditional tailoring methods grant this luxury piece an everyday durability that extends far beyond a single wearing. Before we cut your final cloth, we ship a free test garment to confirm the silhouette. This is cinema history you can wear, display, and treasure.

@@ -10,7 +10,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
 generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 ---
 

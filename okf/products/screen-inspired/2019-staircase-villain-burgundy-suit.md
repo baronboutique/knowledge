@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit"
-description: "The signature formal ensemble from the unforgettable 2019 cinematic staircase scene is reimagined here in rich burgundy Melton wool paired with a striking gold waistcoat."
+description: "Burgundy three-piece suit in Melton wool with a contrasting gold waistcoat, recreated from the 2019 cinematic villain's staircase scene."
 resource: https://baronboutique.com/2019-staircase-villain-burgundy-suit/
 tags: [men, three-piece-suit, waistcoat, melton-wool, burgundy, joker, arthur-fleck, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/2019-staircase-villain-burgundy-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-24
+    last_modified: 2026-08-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: human:baron-boutique, at: 2026-08-07T02:59:12Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
 ---
 
 # 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit
@@ -38,7 +38,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-The signature formal ensemble from the unforgettable 2019 cinematic staircase scene is reimagined here in rich burgundy Melton wool paired with a striking gold waistcoat. Custom-made entirely to your exact measurements, this premium three-piece suit is engineered as a refined, wearable interpretation of a legendary look for everyday high-fashion statements or archival collections rather than a disposable, single-use costume. To guarantee an absolute, flawless fit on your frame, every order includes a complimentary cotton test suit built to your numbers so you can review and approve the drape before our master tailors cut your final luxury cloth.
+Burgundy three-piece suit in Melton wool with a contrasting gold waistcoat, recreated from the 2019 cinematic villain's staircase scene. Made to order to the customer's measurements as a wearable suit, not a costume; a free cotton test suit confirms fit before the final cloth is cut. From $839, shipped worldwide.
 
 2019 Staircase Villain Suit: Bespoke Three-Piece, Built to Your Measurements
 There is one specific cinematic moment in the 2019 film that every single frame builds toward. The main character descends those urban stone stairs in a striking burgundy Melton wool three-piece suit, his gold waistcoat cleanly catching the light, and the world finally sees what he already knows about himself. The clothing does not just fit his frame. It completely transforms his presence. That definitive transformation is exactly what this garment is engineered for. This is far from a disposable, mass-produced costume or a flimsy polyester approximation that you wear for a single night and throw away.

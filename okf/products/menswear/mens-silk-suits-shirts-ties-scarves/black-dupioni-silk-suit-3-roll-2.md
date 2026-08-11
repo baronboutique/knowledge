@@ -9,14 +9,12 @@ sources:
     resource: https://baronboutique.com/black-dupioni-silk-suit-3-roll-2/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-08-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
 ---
 
 # The Black Dupioni Silk Suit for Men - 3 Button Roll to 2
@@ -41,12 +39,12 @@ Black Silk Is the Most Unforgiving Fabric You Can Wear — So We Guarantee the F
 Black dupioni silk hides nothing. A slight pull across the chest, a shoulder seam sitting a quarter-inch too far back, a lapel that lies flat instead of rolling — all of it shows in black silk with a clarity that wool, linen, or any patterned fabric would conceal. That is not a flaw in the fabric. It is what makes a correctly fitted black silk suit so commanding: every line is intentional, every angle deliberate. But it is also why ordering one off the rack or from a brand that guesses at your measurements is a gamble with no upside. There is a second problem that most buyers discover only after wearing the suit for an hour.
 Fabric: 100% pure dupioni silk, vertical grain Lapel: 3-roll-2, canvas front Colors: 22 dupioni silks, 34 acetate linings Price: $699
 
-Your Free Test Suit Arrives Before We Touch the Silk
+Your Free Test Suit for Fit Approval Arrives Before We Cut the Silk
 Silk with zero stretch and zero give is exactly why fit must be confirmed before it becomes the material. A wool suit can be taken in or let out with reasonable success. A black dupioni silk suit that fits incorrectly looks worse than a poorly fitted wool suit — the sheen catches every misalignment, and black has no pattern or texture complexity to draw the eye away. The test suit process removes this risk entirely.
 
 What the Test Suit Process Looks Like
 You enter your measurements on the product page. We cut a full test suit in cotton to those exact measurements — jacket, trousers, same 3-roll-2 construction — and ship it to you within 3 to 4 weeks. You try it on. You check the shoulder width, the chest break point where the lapel rolls, the trouser seat and break at the shoe. You send us photos and notes. We make every correction you ask for. Then we cut the black dupioni silk to those confirmed measurements. The final suit ships 3 to 4 weeks after you approve the fit. Total timeline from order to final delivery: 6 to 8 weeks. Allow the full 8 weeks if you have a fixed event date. The test suit costs you nothing extra.
-Test suit material: Cotton, same construction as the final garment Timeline: 3 to 4 weeks to your door Cost: Included — no extra charge After delivery: The test suit is yours to keep
+Test suit material: Cotton Timeline: 3 to 4 weeks to your door Cost: Complimentary, no extra charge After delivery: The test suit is yours to keep
 
 What the Free Test Suit Looks Like in Practice
 These are photographs submitted by a client during the fitting stage of their black dupioni silk suit commission. The cotton test suit shown here was cut to his measurements before any silk was touched. The front, back, side, and lapel-break views gave us everything we needed to confirm the 3-roll-2 construction was sitting correctly at his chest stance before the final garment was made.

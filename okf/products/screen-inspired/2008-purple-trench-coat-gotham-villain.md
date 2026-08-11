@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "2008 Gotham Villain Single-Breasted Purple Melton Wool Overcoat"
-description: "Most options on the market for a 2008 purple trench coat are flimsy, mass-produced synthetic approximations that read as a cheap party costume the moment they are photographed."
+title: "2008 Purple Melton Overcoat, The Anarchist's Long Coat"
+description: "Purple single-breasted overcoat in 100% Melton wool with triple rear vents, five-button flared cuffs, and a hidden orange acetate lining, recreated from the 2008 cinematic villain's coat."
 resource: https://baronboutique.com/2008-purple-trench-coat-gotham-villain/
 tags: [men, coat, trench-coat, melton-wool, purple, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/2008-purple-trench-coat-gotham-villain/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-24
+    last_modified: 2026-08-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: human:baron-boutique, at: 2026-08-07T02:56:35Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
 ---
 
-# 2008 Gotham Villain Single-Breasted Purple Melton Wool Overcoat
+# 2008 Purple Melton Overcoat, The Anarchist's Long Coat
 
 **SKU:** 5003005  
 **URL:** https://baronboutique.com/2008-purple-trench-coat-gotham-villain/  
@@ -37,7 +37,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-Most options on the market for a 2008 purple trench coat are flimsy, mass-produced synthetic approximations that read as a cheap party costume the moment they are photographed. Baron Boutique builds this investment-grade winter overcoat from premium 100% Melton wool directly to your measurements, using authentic canvas front construction, traditional triple rear vents, and the five-button flared cuffs that match the screen silhouette of that legendary cinematic masterpiece. The striking orange acetate lining is hidden inside, flashing dramatically only when the coat is in motion. To guarantee a flawless fit, your purchase includes tracked worldwide shipping and a complimentary cotton test coat sent ahead to confirm your proportions before we cut your final luxury wool.
+Purple single-breasted overcoat in 100% Melton wool with triple rear vents, five-button flared cuffs, and a hidden orange acetate lining, recreated from the 2008 cinematic villain's coat. Made to order to the customer's measurements over a canvas front; a free cotton test coat confirms fit before the final wool is cut. From $699, shipped worldwide.
 
 The 2008 Purple Trench Coat: Every Other Version Is a Costume. This Is the Coat.
 Cinema history changed forever in 2008. The legendary theatrical performance that defined the definitive agent of chaos remains unforgettable, and the character's tailored wardrobe is a central element of that cinematic legacy. The garment itself—a deep purple Melton wool frock-style trench coat featuring wide peak lapels, specialized bell-shaped flared cuffs, and a bold flash of vibrant orange lining—has never gone out of demand. It stands as the most heavily studied villain costume design in modern filmmaking and remains the most searched archival coat configuration in the worldwide collector and cosplay community year after year.

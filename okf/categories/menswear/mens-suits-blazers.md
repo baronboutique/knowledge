@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:00:00Z }
 ---
 
 # Suits & Blazers
@@ -105,7 +103,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [Custom Dinner Jacket](../../products/menswear/tuxedos/stylish-dinner-jacket.md)
 - [Grey Pinstripe Suit](../../products/menswear/mens-suits-blazers/gray-pinstripe-suit.md)
 - [Grey Tropical Wool Suit](../../products/menswear/mens-suits-blazers/mens-gray-tropical-wool-suit.md)
-- [James Bond Casino Royale Suit 3 Piece Final Scene](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
+- [James Bond Casino Royale Final Scene Inspired 3 Piece Suit](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
 - [Linen Wedding Suit for Grooms, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
 - [Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements](../../products/menswear/mens-silk-suits-shirts-ties-scarves/mens-silk-suit-in-dupioni-silk.md)
 - [Men's Black Suit in Super 130s Worsted Wool](../../products/menswear/mens-suits-blazers/mens-essential-black-suit.md)

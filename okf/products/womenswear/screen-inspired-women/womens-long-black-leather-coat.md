@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
 ---
 
 # Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa

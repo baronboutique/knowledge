@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "The Collateral Suit, Single-Button Light Grey Worsted Wool"
-description: "Grey suits are easy to find. A grey suit designed to look unremarkable yet stay unforgettable once you know what you are looking at is something else."
+description: "Men's single-button light grey Collateral suit in Super 140s worsted wool, with narrow notch lapels, flapless piped pockets, and beltless side-tab trousers, recreated from the screen reference."
 resource: https://baronboutique.com/collateral-suit-grey-worsted-wool/
 tags: [men, suit, gray, tropical-wool, wool, collateral, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
 sources:
@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/collateral-suit-grey-worsted-wool/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-16
+    last_modified: 2026-08-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: human:baron-boutique, at: 2026-08-07T02:21:29Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
 ---
 
 # The Collateral Suit, Single-Button Light Grey Worsted Wool
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-Grey suits are easy to find. A grey suit designed to look unremarkable yet stay unforgettable once you know what you are looking at is something else. The Collateral suit is inspired by the understated grey tailoring of modern crime cinema, built to your measurements in Super 140s worsted wool with canvas front construction, and a free test suit before we cut the final cloth.
+Men's single-button light grey Collateral suit in Super 140s worsted wool, with narrow notch lapels, flapless piped pockets, and beltless side-tab trousers, recreated from the screen reference. Made to order to the customer's measurements with a canvas front and hand-finished buttonholes; a free cotton test suit confirms fit before the final cloth is cut. From $729, made in 4 to 6 weeks, shipped worldwide.
 
 The Collateral Suit: Built to Look Like Any Grey Suit. Constructed So It Isn't.
 The most memorable grey suit in modern crime cinema had a single brief: look good and go unnoticed. The idea was simple. Could a man in this suit walk into a room and not be remembered? The answer is the same reason most grey suits fail. The ones that try to look expensive advertise it, and the ones that do not bother look exactly like that. This suit sits in neither category. Single-button closure. Narrow notch lapels at 2.75 to 3.25 inches. Three piped pockets, no flap. Double vents. Flat-front trousers with side-tab adjusters. No belt. Light grey Super 140s worsted wool at 8 ounces, structured enough to hold a silhouette, light enough to move without restriction.

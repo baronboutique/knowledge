@@ -1,6 +1,6 @@
 ---
 type: Product
-title: "James Bond Casino Royale Suit 3 Piece Final Scene"
+title: "James Bond Casino Royale Final Scene Inspired 3 Piece Suit"
 description: "James Bond Casino Royale suit 3-piece crafted with the better material and hand-tailored to amplify your style."
 resource: https://baronboutique.com/james-bond-casino-royale-3pcs-pinstripe-suit/
 tags: [men, suit, three-piece-suit, pinstripe, wool, james-bond, casino-royale, spy-tailoring, screen-inspired, replica, bespoke, made-to-order]
@@ -9,17 +9,15 @@ sources:
     resource: https://baronboutique.com/james-bond-casino-royale-3pcs-pinstripe-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-10
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
 ---
 
-# James Bond Casino Royale Suit 3 Piece Final Scene
+# James Bond Casino Royale Final Scene Inspired 3 Piece Suit
 
 **SKU:** 5001007  
 **URL:** https://baronboutique.com/james-bond-casino-royale-3pcs-pinstripe-suit/  
@@ -37,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-James Bond Casino Royale suit 3-piece crafted with the better material and hand-tailored to amplify your style. The idea of change and transformation inspires the Casino Royale 3-piece pinstripe suit. Reworked wardrobe classic, the Casino Royale final scene suit sharply fitted to elevate your spirit.
+James Bond Casino Royale suit 3-piece crafted with the better material and hand-tailored to amplify your style. The idea of change and transformation inspires the Casino Royale 3-piece pinstripe suit. Reworked wardrobe classic, the Casino Royale final scene inspired suit sharply fitted to elevate your spirit.
 
 This is more than a suit; it's a statement. The suit of Bond's rebirth from the final, iconic scene of Casino Royale. Hand-tailored from Super 130s' merino wool, this formidable 3-piece navy pinstripe is the definition of lethal elegance. A Suit of Lethal Precision A hand-basted full canvas front and structured, padded shoulders create a powerful silhouette. The jacket features a classic 3-button front and 4-button working cuffs, while the 6-button waistcoat and cuffed, flat-front trousers complete the authentic look. Available in 13 colors, it layers perfectly under a [sharp peacoat](https://baronboutique.com/quantum-of-solace-peacoat). A Fit as Precise as the Man Himself A suit this iconic demands a flawless fit. Your order includes a complimentary test suit to finalize all measurements and details before we craft your final garment, eliminating all sizing risk. The test suit is yours to keep. We also provide complimentary allergy-friendly lining options. Dry-clean.
 

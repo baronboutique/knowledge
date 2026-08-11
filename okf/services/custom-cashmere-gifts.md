@@ -9,14 +9,15 @@ sources:
     resource: https://baronboutique.com/custom-cashmere-gifts/
     title: "Custom Cashmere Gifts"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-06-16
+    last_modified: 2026-08-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: human:baron-boutique, at: 2026-08-07T20:07:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-08T03:00:03Z }
 ---
 
 # Custom Cashmere Gifts

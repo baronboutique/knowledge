@@ -1,6 +1,6 @@
 ---
 type: Product
-title: "1989 Gotham Villain Double-Breasted Purple Evening Tailcoat"
+title: "1989 Purple Evening Tailcoat, The Showman's Tails"
 description: "Most purple Joker pieces on the market are the long overcoat. This is not that. This is the formal evening tailcoat — double-breasted look, wide peak lapels, theatrical tails, tuxedo-inspired construc…"
 resource: https://baronboutique.com/1989-gotham-villain-purple-tailcoat/
 tags: [men, tailcoat, evening-coat, purple, double-breasted, peak-lapel, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
@@ -9,18 +9,18 @@ sources:
     resource: https://baronboutique.com/1989-gotham-villain-purple-tailcoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-05
+    last_modified: 2026-08-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-05T11:31:28Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.14.1, at: 2026-08-05T11:37:04Z }
+  - { by: human:baron-boutique, at: 2026-08-07T03:05:19Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-07T03:00:03Z }
 ---
 
-# 1989 Gotham Villain Double-Breasted Purple Evening Tailcoat
+# 1989 Purple Evening Tailcoat, The Showman's Tails
 
 **SKU:** 5003027  
 **URL:** https://baronboutique.com/1989-gotham-villain-purple-tailcoat/  

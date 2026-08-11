@@ -8,7 +8,7 @@ An [Open Knowledge Format (OKF)](https://github.com/GoogleCloudPlatform/knowledg
 
 This bundle is intended for AI agents, answer engines, and retrieval systems. It is machine-readable and human-readable. All facts are sourced from verified public information on [baronboutique.com](https://baronboutique.com).
 
-**Total files:** 421
+**Total files:** 422
 
 ## Company
 

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-07T03:00:03Z }
 ---
 
 # Theatrical Villain
@@ -83,9 +83,9 @@ Both the test garment and the final piece ship by FedEx, DHL, or UPS with full t
 
 ## Products
 
-- [1989 Gotham Villain Double-Breasted Purple Evening Tailcoat](../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
 - [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat](../../products/screen-inspired/1989-purple-coat-gotham-villain.md)
-- [2008 Gotham Villain Single-Breasted Purple Melton Wool Overcoat](../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
+- [1989 Purple Evening Tailcoat, The Showman's Tails](../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
+- [2008 Purple Melton Overcoat, The Anarchist's Long Coat](../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
 - [2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [Dryden Vos Costume Solo: A Star Wars Story Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
 - [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/menswear/mens-long-black-leather-coat.md)

@@ -5,6 +5,7 @@
 - [Retail Partnerships](retail-partnerships.md): Baron Boutique offers comprehensive wholesale partnership opportunities for boutique retailers seeking premium custom-tailored menswear, womenswear, authentic movie replicas, and luxury cashmere items…
 - [Designer Program](designer-program.md): Baron Boutique's Designer Program provides emerging and established fashion designers with affordable, flexible production support.
 - [Natural Hemp Fabric & Clothing](natural-hemp-fabric-clothing.md): Baron Boutique offers premium 100% natural hemp fabric and clothing production from high-altitude Nepal (1500m-3000m elevation).
+- [Custom Corporate Gifts](custom-corporate-gifts.md)
 
 ## Related
 

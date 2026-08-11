@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-05T16:28:42Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:00:00Z }
 ---
 
 # Spy Tailoring
@@ -81,7 +79,7 @@ Try on the test garment and note anything that needs adjusting — jacket length
 ## Products
 
 - [Charcoal Grey Pinstripe Suit James Bond Skyfall](../../products/menswear/destination-wedding-suits/james-bond-charcoal-stripe-suit-from-skyfall.md)
-- [James Bond Casino Royale Suit 3 Piece Final Scene](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
+- [James Bond Casino Royale Final Scene Inspired 3 Piece Suit](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
 - [James Bond Linen Suit The World Is Not Enough](../../products/menswear/grooms-linen-suits-for-wedding/james-bond-linen-suit-from-the-world-is-not-enough.md)
 - [James Bond Morocco Matchless Suede Jacket Spectre](../../products/screen-inspired/spy-tailoring/james-bond-matchless-suede-jacket-from-spectre.md)
 - [James Bond Navy Blue Coat Spectre](../../products/menswear/navy-bond-coat-spectre.md)
