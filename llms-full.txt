@@ -1,9 +1,9 @@
 # Baron Boutique
 
 Generated-By: Baron Boutique AI Knowledge Manager
-Version: 1.17.3
-Generated: 2026-08-14 12:30 UTC
-Knowledge-Revision: 35
+Version: 1.18.0
+Generated: 2026-08-14 13:00 UTC
+Knowledge-Revision: 37
 Last-Updated: 2026-08-14
 
 ## What you can do with this document
