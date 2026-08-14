@@ -76,9 +76,9 @@ Your finished coat ships from Dubai by trackable courier, about four to six week
 - [All Purpose Black Wool Topcoat](mens-all-purpose-black-topcoat.md)
 - [Camel Topcoat In Melton Wool](mens-camel-melton-wool-topcoat.md)
 - [Herringbone Car Coat in Tweed Wool](mens-herringbone-wool-car-coat.md)
+- [Long Grey Wool Herringbone Overcoat, Made to Your Length](mens-light-gray-wool-herringbone-topcoat.md)
 - [Men's Debonair Coat](mens-debonair-coat.md)
 - [Sherlock Holmes Coat (2009 film)](sherlock-holmes-frock-coat.md)
-- [Wool Herringbone Topcoat](mens-light-gray-wool-herringbone-topcoat.md)
 
 ## Related
 

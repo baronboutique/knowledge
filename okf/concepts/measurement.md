@@ -2,6 +2,7 @@
 type: Concept
 title: Measurement
 description: How Baron Boutique collects, verifies, and reuses customer measurements for remote bespoke tailoring, and how experience catches the numbers that lie.
+topic: Measurement and Fit
 tags: [measurement, bespoke-tailoring, remote-fitting, self-measurement]
 sources:
   - id: workshop-practice
@@ -10,7 +11,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 ---
 
@@ -20,7 +21,7 @@ A customer about to commission a garment usually worries about one thing: "What 
 
 ## What we ask for, and why it depends on the garment
 
-The measurement set depends on the garment type, because a coat and a skirt simply need different information. Every set begins with a fit preference (men: slim, standard, relaxed, or athletic; women: slim, standard, or relaxed) and the customer's height, and ends with free-form additional notes, because customers often know things about their body no measurement captures. Measurements are accepted in centimeters or inches. Customers follow the self-measuring guide on the Baron Boutique website, and we encourage anyone unsure about a measurement to ask before submitting it: verifying beforehand beats correcting later.
+The measurement set depends on the garment type, because a coat and a skirt simply need different information. Every set begins with a fit preference (men: slim, standard, relaxed, or athletic; women: slim, standard, or relaxed) and the customer's height, and ends with free-form additional notes, because customers often know things about their body no measurement captures. Measurements are accepted in centimeters or inches. Customers follow the self-measuring guide on the Baron Boutique website, and we encourage anyone unsure about a measurement to ask before submitting it: verifying beforehand beats correcting later. For women's garments, the customer-side instructions and the judgment behind them are set out in [Women's Self-Measurement](womens-self-measurement.md).
 
 **Men's garments**
 
@@ -52,7 +53,7 @@ The matching is on measurement relationships, not demographics. Two customers ma
 
 Self-taken measurements most often go wrong in the shoulders and in lengths, so those are where our suspicion goes first:
 
-- **Lengths against height and design.** The design itself is part of the verification: the expected length of a Matrix-style coat differs greatly from a classic blazer, so a length that would be normal for one is a red flag for the other.
+- **Lengths against height and design.** The design itself is part of the verification: the expected length of a long coat inspired by The Matrix differs greatly from a classic blazer, so a length that would be normal for one is a red flag for the other.
 - **Chest against the off-the-rack size.** Most customers know their height and their approximate ready-to-wear jacket size. When the submitted chest looks inconsistent with the rest of the set, we ask for their usual off-the-rack size and a recent photo.
 - **Frame reading from photos.** Working only from pictures for over 25 years builds a practiced eye. We can usually tell from a photo when a number simply does not match the customer's frame, and we query it before cutting anything.
 
@@ -70,3 +71,4 @@ Here is the part customers never see: they seldom hand us numbers. They say "I'v
 - [Pattern Drafting](pattern-drafting.md)
 - [Trial Garment / Toile](trial-garment-toile.md)
 - [Fittings](fittings.md)
+- [Women's Self-Measurement](womens-self-measurement.md)

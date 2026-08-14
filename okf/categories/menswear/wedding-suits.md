@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.15.2, at: 2026-08-05T16:25:50Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-12T03:00:03Z }
 ---
 
 # Wedding Suits
@@ -90,7 +90,7 @@ Before any final cloth is cut, we build a test suit in a low-cost fabric to your
 
 - [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
 - [Blue Linen Suit for Men, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
-- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../products/womenswear/destination-wedding-suit.md)
+- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../products/menswear/destination-wedding-suit.md)
 - [Linen Wedding Suit for Grooms, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/mens-linen-frock-coat-summer-wedding.md)
 - [Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels](../../products/menswear/tuxedos/mens-navy-herringbone-wool-tuxedo.md)

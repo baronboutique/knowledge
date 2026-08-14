@@ -2,6 +2,7 @@
 type: Concept
 title: Trial Garment (Toile)
 description: Why Baron Boutique ships a test garment before cutting the final fabric, what it is made from, and how the workshop decides when one is enough.
+topic: Construction and Craft
 tags: [toile, trial-garment, test-garment, fit, bespoke-tailoring]
 sources:
   - id: workshop-practice
@@ -10,7 +11,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 ---
 

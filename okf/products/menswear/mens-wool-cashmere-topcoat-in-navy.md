@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Navy Wool Cashmere Topcoat"
-description: "The touch of wool cashmere topcoat designed for the fashion conscious that reflects your personality. A navy wool cashmere topcoat that communicates empowerment and makes you feel completely at ease i…"
+title: "Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit"
+description: "A dress overcoat cut to be worn over a suit. The fly front keeps the closure concealed for a clean line over tailoring, the center back vent lets the coat sit over a jacket without pulling, and at 14 …"
 resource: https://baronboutique.com/mens-wool-cashmere-topcoat-in-navy/
 tags: [men, topcoat, overcoat, wool-cashmere, navy, winter-coat, bespoke, made-to-order]
 sources:
@@ -9,15 +9,18 @@ sources:
     resource: https://baronboutique.com/mens-wool-cashmere-topcoat-in-navy/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-13
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
+verified:
+  - { by: human:baron-boutique, at: 2026-08-13T13:18:48Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
 ---
 
-# Navy Wool Cashmere Topcoat
+# Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit
 
 **SKU:** 1801002  
 **URL:** https://baronboutique.com/mens-wool-cashmere-topcoat-in-navy/  
@@ -33,9 +36,9 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-The touch of wool cashmere topcoat designed for the fashion conscious that reflects your personality. A navy wool cashmere topcoat that communicates empowerment and makes you feel completely at ease in what you’re wearing.
+A dress overcoat cut to be worn over a suit. The fly front keeps the closure concealed for a clean line over tailoring, the center back vent lets the coat sit over a jacket without pulling, and at 14 ounces the wool cashmere cloth drapes over tailored shoulders instead of stacking bulk on them. Full length, so it covers the hem of your jacket rather than stopping short of it. Cut to your measurements over your own jacket, in the length you choose. Six colors. Your commission begins with a fitting toile, so the balance is settled before we cut the final cloth.
 
-This is the definitive navy overcoat, a cornerstone of the masculine wardrobe. We commission it in a sublime blend of fine wool and a touch of cashmere, creating a 14-ounce cloth with a soft hand and an impeccable drape. It is the final, essential layer of a considered ensemble. The Unseen Architecture Its true character resides in the unseen architecture: a full, hand-basted canvas front that provides structure without weight. The shoulders and armholes are set by hand, a testament to true tailoring. The fly front closure ensures an uninterrupted line, while the buttons, carved from natural horn, provide a point of quiet distinction. Every detail is considered; every stitch has a purpose. The Bespoke Promise: Your Fitting Canvas A garment of this caliber is perfected through a meticulous fitting process. Your commission, therefore, begins with a preliminary fitting coat—a toile—crafted to your initial specifications. This essential step allows for the refinement of the coat's silhouette and balance, ensuring the final piece is achieved with absolute precision. The fitting canvas is, naturally, yours to retain.
+This is the definitive navy overcoat, a cornerstone of the masculine wardrobe. We commission it in a sublime blend of fine wool and a touch of cashmere, creating a 14-ounce cloth with a soft hand and an impeccable drape. It is the final, essential layer of a considered ensemble. The Unseen Architecture Its true character resides in the unseen architecture: a full, hand-basted canvas front that provides structure without weight. The shoulders and armholes are set by hand, a testament to true tailoring. The fly front closure ensures an uninterrupted line, while the buttons, carved from natural horn, provide a point of quiet distinction. Every detail is considered; every stitch has a purpose. Cut to Go Over a Suit, Not Just Over You A ready-made overcoat is sized for a body. It is not sized for a body wearing a suit jacket, which is why so many of them strain across the back over tailoring and hang loose without it. This coat is cut over your jacket measurements, and every detail follows from that. The fly front conceals the buttons so the front reads clean over a lapel. The center back vent lets the coat sit over a jacket without pulling across the seat.
 
 ## Categories
 

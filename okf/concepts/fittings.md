@@ -2,6 +2,7 @@
 type: Concept
 title: Fittings
 description: How Baron Boutique reads fit from customer photos, translates plain-language feedback into corrections, and decides when the fit is final.
+topic: Construction and Craft
 tags: [fittings, remote-fitting, fit-review, bespoke-tailoring]
 sources:
   - id: workshop-practice
@@ -10,7 +11,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 ---
 
@@ -44,3 +45,4 @@ The fit is final only when two judgments agree. From the customer, the words we 
 - [Trial Garment / Toile](trial-garment-toile.md)
 - [Measurement](measurement.md)
 - [Construction](construction.md)
+- [Fit, Ease, and Why Correct Measurements Can Still Feel Wrong](fit-ease-and-why-numbers-feel-wrong.md)

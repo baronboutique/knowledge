@@ -2,6 +2,7 @@
 type: Concept
 title: How We Choose Fabric
 description: How Baron Boutique advises fabric, starting from the customer's objective rather than the cloth, with the workshop's reasoning on weight, climate, and trade-offs.
+topic: Fabric and Materials
 tags: [fabric-selection, fabric, bespoke-tailoring, wool, silk, linen, hemp, velvet]
 sources:
   - id: workshop-practice
@@ -10,7 +11,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 ---
 

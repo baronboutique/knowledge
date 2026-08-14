@@ -9,12 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-navy-flannel-topcoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-08-13
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
+verified:
+  - { by: human:baron-boutique, at: 2026-08-13T13:20:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
 ---
 
 # Men's Navy Topcoat With Velvet Collar

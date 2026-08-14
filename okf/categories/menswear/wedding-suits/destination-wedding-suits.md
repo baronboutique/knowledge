@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-07T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-12T03:00:03Z }
 ---
 
 # Destination Wedding Suits
@@ -89,7 +89,7 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 - [2008 Purple Melton Overcoat, The Anarchist's Long Coat](../../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
 - [2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [Charcoal Grey Pinstripe Suit James Bond Skyfall](../../../products/menswear/destination-wedding-suits/james-bond-charcoal-stripe-suit-from-skyfall.md)
-- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../../products/womenswear/destination-wedding-suit.md)
+- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../../products/menswear/destination-wedding-suit.md)
 - [Fantastic Beasts Percival Graves Black Coat](../../../products/menswear/percival-graves-black-coat.md)
 - [James Bond No Time To Die Beige Corduroy Suit](../../../products/menswear/destination-wedding-suits/no-time-to-die-beige-corduroy-suit-james-bond.md)
 - [James West Wild Wild West Suit](../../../products/menswear/destination-wedding-suits/james-west-wild-wild-west-suit.md)

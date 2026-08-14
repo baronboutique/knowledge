@@ -9,12 +9,14 @@ sources:
     resource: https://baronboutique.com/destination-wedding-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-08-11
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
 ---
 
 # Destination Wedding Suit with Cape, Custom Made in Fresco Wool
@@ -80,15 +82,13 @@ Who This Suit Is For
 
 ## Categories
 
-- Women
 - Men › Wedding Suits › Destination Wedding Suits
-- Screen Inspired
 
 **Related terms:** cape wedding suit, groom cape outfit, mandarin collar wedding suit, destination wedding attire
 
 ## Related
 
-- [Women Category](../../categories/womenswear.md)
+- [Men Category](../../categories/menswear.md)
 - [Products Index](../index.md)
 - [Company](../../company.md)
 - [How Bespoke Orders Work](../../guides/how-it-works.md)

@@ -9,12 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-navy-peacoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-13
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
+verified:
+  - { by: human:baron-boutique, at: 2026-08-13T12:47:16Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
 ---
 
 # Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere
@@ -22,7 +25,7 @@ generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
 **SKU:** 1801004  
 **URL:** https://baronboutique.com/mens-navy-peacoat/  
 **Type:** bespoke (made to order)  
-**Price:** USD 579 (verify current price on product page)  
+**Price:** USD 599 (verify current price on product page)  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,7 +36,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-Most men's navy peacoats are either cheap and shapeless or rigid and overbuilt. Ours is the third option. Slim-fit, double-breasted, in an 18-ounce wool-cashmere blend, made to your measurements. Before we cut the wool, we ship you a free test coat in cotton. You confirm the fit, then we make your peacoat. Six wool-cashmere colors. 33 lining colors. From $579. Worldwide tracked shipping.
+Most men's navy peacoats are either cheap and shapeless or rigid and overbuilt. Ours is the third option. Slim-fit, double-breasted, in an 18-ounce wool-cashmere blend, made to your measurements. Before we cut the wool, we ship you a free test coat in cotton. You confirm the fit, then we make your peacoat. Six wool-cashmere colors. 33 lining colors. From $599. Worldwide tracked shipping.
 
 A navy peacoat that actually fits you
 Most navy peacoats fall into two categories. The cheap ones are shapeless rectangles in thin wool blends that lose their shape after one winter. The expensive ones are rigid, broad-shouldered, built for a 1940s frame, with sleeves that swallow your hands. This is the third option. Slim-fit, sharp through the chest, clean at the waist, sleeves that end where they should. Made to your measurements in a dense 18-ounce wool-cashmere blend that holds its shape and softens with wear. And before we cut a single inch of wool, we send you a free test coat in cotton to try on at home. You confirm the fit. Then we make your peacoat.
@@ -67,7 +70,7 @@ Navy is the classic. Most of our customers choose it. But the same coat is avail
 - Wool-Cashmere Coffee Brown: Deeper than brown, lighter than black. The most underrated color in menswear.
 
 A free test coat ships before we cut the wool
-Buying a $579 wool-cashmere peacoat online without trying it on is a fair thing to be nervous about. We solved that the only honest way: before we cut into wool, we make you a complete cotton version of your coat, ship it to your door, and you try it on at home. If anything needs adjusting, you tell us. We update the pattern. Then we make your peacoat to the corrected pattern. The cotton test coat is yours to keep.
+Buying a $599 wool-cashmere peacoat online without trying it on is a fair thing to be nervous about. We solved that the only honest way: before we cut into wool, we make you a complete cotton version of your coat, ship it to your door, and you try it on at home. If anything needs adjusting, you tell us. We update the pattern. Then we make your peacoat to the corrected pattern. The cotton test coat is yours to keep.
 
 Who this peacoat is for
 - Men with athletic builds: Who find department-store peacoats either too tight in the chest or too loose at the waist. Slim-fit through the chest, sharp at the waist, sleeves to your length.
@@ -78,7 +81,10 @@ Who this peacoat is for
 ## Questions & Answers
 
 **Q:** How much does a custom navy peacoat cost?  
-**A:** Our wool-cashmere peacoat starts at $579. The free cotton test coat is included in the price, there is no separate fitting fee. The price does not change based on color or lining choice.
+**A:** Our wool-cashmere peacoat starts at $599. The free cotton test coat is included in the price, there is no separate fitting fee. The price does not change based on color or lining choice.
+
+**Q:** Can I have it longer or shorter than a standard peacoat?  
+**A:** Yes. Peacoat length is a choice, not a fixed rule. The traditional naval cut ends at the hip and reads sharp and military. A few inches longer covers the seat and reads closer to a short overcoat. You specify the length you want on the measurement form, and you will see it on the cotton test coat before we cut any wool, so you can change your mind at no cost.
 
 **Q:** What is the wool-cashmere blend?  
 **A:** It is a dense 18-ounce blend of wool and cashmere. The wool gives it shape, weight and durability. The cashmere gives it a softer hand and a quiet sheen. The fabric blocks wind and holds its silhouette through years of wear, unlike thinner department-store peacoats.

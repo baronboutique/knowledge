@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-13T13:21:22Z }
 ---
 
 # Men
@@ -112,6 +112,7 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [3/4 Length Denim-Leather Hybrid Coat](../products/menswear/handmade-denim-leather-hybrid-coat.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](../products/menswear/sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
 - [Chalk Stripe Pants](../products/menswear/mens-navy-chalk-stripe-wool-suit-pant.md)
+- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../products/menswear/destination-wedding-suit.md)
 - [Eleventh Doctor Inspired Green Frock Coat](../products/menswear/eleventh-doctors-green-coat.md)
 - [Fantastic Beasts Percival Graves Black Coat](../products/menswear/percival-graves-black-coat.md)
 - [Flannel Dress Pants](../products/menswear/light-weight-all-season-wool-flannel-pants-slim-fit.md)
@@ -120,9 +121,9 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Hand Finished Silk Pocket Squares](../products/menswear/silk-pocket-squares-handmade.md)
 - [James Bond Navy Blue Coat Spectre](../products/menswear/navy-bond-coat-spectre.md)
 - [Linen Pants For A Beach Wedding](../products/menswear/linen-pants.md)
+- [Long Melton Wool Greatcoat, Belted and Made to Your Length](../products/menswear/mens-double-breasted-peacoat.md)
 - [Men's Car Coat In Wool](../products/menswear/mens-car-coat.md)
 - [Men's Cubana Coat](../products/menswear/mens-cubana-coat.md)
-- [Men's Double Breasted Long Peacoat](../products/menswear/mens-double-breasted-peacoat.md)
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](../products/menswear/mens-glen-plaid-cashmere-scarf-tan-white.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](../products/menswear/mens-gray-pinstripe-pants.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../products/menswear/mens-linen-frock-coat-summer-wedding.md)
@@ -143,7 +144,7 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Merino Wool Dress Pants](../products/menswear/merino-wool-dress-pants.md)
 - [Navy Blue Tuxedo Pants](../products/menswear/mens-navy-herringbone-wool-tuxedo-pants.md)
 - [Navy Flannel Pants](../products/menswear/mens-navy-wool-flannel-suit-pant.md)
-- [Navy Wool Cashmere Topcoat](../products/menswear/mens-wool-cashmere-topcoat-in-navy.md)
+- [Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit](../products/menswear/mens-wool-cashmere-topcoat-in-navy.md)
 - [Pirate Frock Coat in Velvet, Made to Measure](../products/menswear/pirate-frock-coat.md)
 - [Tan Wool Dress Pants](../products/menswear/tailored-fit-tan-wool-pants-in-merino-wool.md)
 - [The Bespoke Dupioni Silk Trousers](../products/menswear/mens-dupioni-silk-trousers.md)

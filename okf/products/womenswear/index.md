@@ -7,7 +7,6 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Dresses](dresses-for-women/index.md) — 13 products
 - [Screen Inspired](screen-inspired-women/index.md) — 12 products
 - [Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors](cashmere-wrap-scarf-womens-80-plus-colors.md)
-- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](destination-wedding-suit.md)
 - [Featherlight Cashmere Scarf](womens-featherlight-cashmere-scarf.md)
 - [Unlined Linen Duster Coat](linen-dress-jacket-with-notch-collar.md)
 - [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](womens-off-white-pinstripe-double-breasted-suit.md)

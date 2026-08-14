@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-13T13:21:22Z }
 ---
 
 # Coats & Overcoats
@@ -111,17 +111,18 @@ Your finished coat ships from Dubai by trackable courier, about four to six week
 - [Herringbone Car Coat in Tweed Wool](../../products/menswear/mens-coats-and-overcoats/mens-herringbone-wool-car-coat.md)
 - [James Bond Navy Blue Coat Spectre](../../products/menswear/navy-bond-coat-spectre.md)
 - [Keanu Reeves Trench Coat The Matrix Revolutions](../../products/screen-inspired/cyberpunk-trench-coats/the-matrix-revolutions-coat.md)
+- [Long Grey Wool Herringbone Overcoat, Made to Your Length](../../products/menswear/mens-coats-and-overcoats/mens-light-gray-wool-herringbone-topcoat.md)
+- [Long Melton Wool Greatcoat, Belted and Made to Your Length](../../products/menswear/mens-double-breasted-peacoat.md)
 - [Men's Car Coat In Wool](../../products/menswear/mens-car-coat.md)
 - [Men's Cubana Coat](../../products/menswear/mens-cubana-coat.md)
 - [Men's Debonair Coat](../../products/menswear/mens-coats-and-overcoats/mens-debonair-coat.md)
-- [Men's Double Breasted Long Peacoat](../../products/menswear/mens-double-breasted-peacoat.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/mens-linen-frock-coat-summer-wedding.md)
 - [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/menswear/mens-long-black-leather-coat.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](../../products/menswear/mens-navy-peacoat.md)
 - [Men's Navy Topcoat With Velvet Collar](../../products/menswear/velvet/mens-navy-flannel-topcoat.md)
 - [Men's Wool Flared Zip Tailcoat](../../products/menswear/frock-coats-for-men/mens-wool-flared-zip-tailcoat.md)
 - [Mens Fitted Peacoat Black Quantum Of Solace Ending](../../products/menswear/quantum-of-solace-peacoat.md)
-- [Navy Wool Cashmere Topcoat](../../products/menswear/mens-wool-cashmere-topcoat-in-navy.md)
+- [Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit](../../products/menswear/mens-wool-cashmere-topcoat-in-navy.md)
 - [Newt Inspired British Herringbone Tweed Coat](../../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
 - [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/pirate-frock-coat.md)
 - [Sacha Dhawan Master Coat Doctor Series 12](../../products/screen-inspired/sacha-dhawan-master-coat.md)
@@ -129,7 +130,6 @@ Your finished coat ships from Dubai by trackable courier, about four to six week
 - [The Matrix 4 Resurrections Keanu Reeves Neo Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-4-resurrections-neo-coat.md)
 - [Time Lord Frock Coat (Oxford Blue)](../../products/menswear/time-lord-frock-coat-oxford-blue.md)
 - [Western Frock Coat in Wool, Made to Measure](../../products/menswear/mens-frock-coat.md)
-- [Wool Herringbone Topcoat](../../products/menswear/mens-coats-and-overcoats/mens-light-gray-wool-herringbone-topcoat.md)
 
 **Related terms:** men's wool overcoats, custom winter coat, tailored topcoat, long coats for men, movie replica coats
 

@@ -2,6 +2,7 @@
 type: Concept
 title: The Bespoke Commission Process
 description: How a Baron Boutique bespoke commission works from first inquiry to delivered garment, and the thinking behind each stage of the journey.
+topic: Ordering and Process
 tags: [bespoke-tailoring, commission, custom-pattern, test-garment, process]
 sources:
   - id: workshop-practice
@@ -10,7 +11,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 ---
 
@@ -18,7 +19,7 @@ generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 
 Customers rarely arrive at Baron Boutique asking for "a bespoke commission." They arrive with an idea: a screenshot of a coat from a film, a wedding date, a suit they saw once and never forgot. Our first job is not to take the order. It is to understand what the customer is actually trying to achieve, because every decision that follows, fabric, pattern, proportions, fittings, flows from that answer.
 
-Baron Boutique is an independent tailoring house founded in Kathmandu, Nepal in 2000. Every garment is made after an order is confirmed. We do not work from pre-made blocks or standard sizes: every order is drafted from scratch around the customer's own design references and measurements. This document walks through the journey as it actually happens, using a screen-inspired tailcoat commission (the [1989 Joker tailcoat](https://baronboutique.com/1989-joker-tailcoat/)) as the working example.
+Baron Boutique is an independent tailoring house founded in Kathmandu, Nepal in 2000. Every garment is made after an order is confirmed. We do not work from pre-made blocks or standard sizes: every order is drafted from scratch around the customer's own design references and measurements. This document walks through the journey as it actually happens, using a screen-inspired tailcoat commission as the working example: the [1989 Purple Evening Tailcoat, The Showman's Tails](https://baronboutique.com/1989-gotham-villain-purple-tailcoat/), inspired by the 1989 Joker tailcoat.
 
 ## The stages, and why each exists
 

@@ -2,6 +2,7 @@
 type: Concept
 title: Velvet
 description: How Baron Boutique chooses among velvets for frock coats, evening jackets, and gowns, what velvet demands in the workshop, and how to live with a velvet garment for years.
+topic: Fabric and Materials
 tags: [velvet, cotton-velvet, statement-garments, frock-coat, screen-inspired, fabric-care]
 sources:
   - id: workshop-practice
@@ -10,7 +11,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-12T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-07-12T00:00:00Z }
 ---
 

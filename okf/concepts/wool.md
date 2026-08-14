@@ -2,6 +2,7 @@
 type: Concept
 title: Understanding Wool
 description: How Baron Boutique chooses among worsted, tropical, flannel, tweed, and boiled wool, categorized by the problems each solves rather than by technical definitions.
+topic: Fabric and Materials
 tags: [wool, worsted, tropical-wool, flannel, tweed, boiled-wool, fabric]
 sources:
   - id: workshop-practice
@@ -10,7 +11,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 ---
 

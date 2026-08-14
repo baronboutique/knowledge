@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-12T03:00:03Z }
 ---
 
 # Women
@@ -86,7 +86,6 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 ## Products
 
 - [Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors](../products/womenswear/cashmere-wrap-scarf-womens-80-plus-colors.md)
-- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../products/womenswear/destination-wedding-suit.md)
 - [Featherlight Cashmere Scarf](../products/womenswear/womens-featherlight-cashmere-scarf.md)
 - [Unlined Linen Duster Coat](../products/womenswear/linen-dress-jacket-with-notch-collar.md)
 - [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)

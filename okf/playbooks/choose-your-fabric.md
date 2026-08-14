@@ -2,6 +2,7 @@
 type: Playbook
 title: Choose Your Fabric
 description: Walks a customer (or an agent acting for one) through Baron Boutique's fabric decision, from objective to free swatches.
+topic: Fabric and Materials
 trigger: customer is unsure which fabric to choose for a garment, or asks which fabric is best
 tags: [playbook, fabric-selection, swatch-service, bespoke-tailoring]
 sources:
@@ -11,7 +12,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-12T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-07-12T00:00:00Z }
 ---
 

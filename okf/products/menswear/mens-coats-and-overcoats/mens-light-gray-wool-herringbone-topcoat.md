@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Wool Herringbone Topcoat"
-description: "Wool herringbone topcoat boutique made with higher-end fabrication and detailed elements. The sharp texture of grey wool herringbone signals serious presence and style."
+title: "Long Grey Wool Herringbone Overcoat, Made to Your Length"
+description: "A long wool herringbone overcoat in Super 110s cloth, cut to your measurements in the length you choose."
 resource: https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/
 tags: [men, topcoat, overcoat, wool, herringbone, light-gray, winter-coat, bespoke, made-to-order]
 sources:
@@ -9,20 +9,23 @@ sources:
     resource: https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-13
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:59:10Z }
+verified:
+  - { by: human:baron-boutique, at: 2026-08-13T13:20:11Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
+generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
 ---
 
-# Wool Herringbone Topcoat
+# Long Grey Wool Herringbone Overcoat, Made to Your Length
 
 **SKU:** 1801003  
 **URL:** https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/  
 **Type:** bespoke (made to order)  
-**Price:** USD 639.00 (verify current price on product page)  
+**Price:** USD 699.00 (verify current price on product page)  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,9 +36,9 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-Wool herringbone topcoat boutique made with higher-end fabrication and detailed elements. The sharp texture of grey wool herringbone signals serious presence and style. It is the topcoat truly worth the investment.
+A long wool herringbone overcoat in Super 110s cloth, cut to your measurements in the length you choose. The herringbone weave carries a visual depth that a flat solid cannot, which is what makes a quiet coat read as a statement coat in daylight rather than only under evening light. Full canvas front, fly front closure, hand-set armholes. Available in eight herringbone colors, and your commission begins with a free fitting toile.
 
-This is the definitive wool herringbone topcoat, a cornerstone of the sophisticated winter wardrobe. We commission it in a fine Super 110s' wool, its classic V-shaped weave providing visual depth and timeless character. Form & Foundation This grey wool herringbone topcoat is an exercise in textural sophistication. Its architectural drape is assured by an unseen foundation: a full, hand-basted canvas front. A fly front closure maintains an uninterrupted, austere line, while hand-carved horn buttons offer a point of quiet, natural integrity. The armholes, set by hand, ensure a superior fit and range of motion. The Bespoke Promise: Your Free Fitting Canvas A garment of this textural and structural integrity requires absolute precision. Your commission, therefore, begins with a preliminary fitting coat—a free toile—crafted to your initial specifications. This essential step allows for the refinement of silhouette and balance, ensuring the final wool herringbone topcoat is perfectly realized. The fitting canvas is, naturally, yours to retain. The delivery of both pieces is, of course, included as part of our service. Dry clean.
+Form & Foundation This is the definitive wool herringbone topcoat, a cornerstone of the sophisticated winter wardrobe. Commissioned in fine Super 110s wool, its classic V-shaped herringbone weave creates subtle visual depth and texture while retaining the understated character of a traditional tailored coat. Beneath the surface, a full, hand-basted canvas front gives the coat its architectural drape and structured silhouette. A clean fly-front closure preserves an uninterrupted, austere line, complemented by hand-carved horn buttons that add a quiet note of natural distinction. The armholes are set by hand for a closer, more refined fit and greater freedom of movement. Choose Your Length Length is not fixed on this coat. It is a decision you make, and it changes the character of the piece completely. Just above the knee reads modern and moves easily over a suit. At the knee is the classic city length and the most forgiving across the widest range of frames. Mid-calf is the full statement coat, dramatic in motion, and it carries best on taller frames or where a strong shoulder balances the added length. You specify the length you want on the measurement form when you order.
 
 ## Categories
 

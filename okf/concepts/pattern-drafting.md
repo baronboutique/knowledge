@@ -2,6 +2,7 @@
 type: Concept
 title: Pattern Drafting
 description: How Baron Boutique drafts an individual pattern from scratch for each commission, and how it decides proportions when the reference picture and the customer's body disagree.
+topic: Construction and Craft
 tags: [pattern-drafting, bespoke-tailoring, custom-pattern, design-analysis]
 sources:
   - id: workshop-practice
@@ -10,7 +11,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-11T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-07-11T00:00:00Z }
 ---
 
