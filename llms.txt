@@ -110,9 +110,9 @@ Links below point to plain markdown wherever a markdown version exists, and to t
 
 - [Private Label](https://baronboutique.com/private-label/index.md): Baron Boutique offers expert private label and white label production partnership for brands seeking high-quality custom tailored garments (bespoke, MTM suits, shirts, etc.) and luxurious bespoke…
 - [Custom Cashmere Gifts](https://baronboutique.com/custom-cashmere-gifts/index.md): Baron Boutique offers a bespoke cashmere gifting service for life's most meaningful occasions, including weddings, corporate milestones, baby showers, and personal celebrations.
-- [Retail Partnerships](https://baronboutique.com/retailers-wholesale-program/): Baron Boutique offers comprehensive wholesale partnership opportunities for boutique retailers seeking premium custom-tailored menswear, womenswear, authentic movie replicas, and luxury cashmere…
+- [Retail Partnerships](https://baronboutique.com/retailers-wholesale-program/index.md): Baron Boutique offers comprehensive wholesale partnership opportunities for boutique retailers seeking premium custom-tailored menswear, womenswear, authentic movie replicas, and luxury cashmere…
 - [Designer Program](https://baronboutique.com/designer-program/index.md): Baron Boutique's Designer Program provides emerging and established fashion designers with affordable, flexible production support.
-- [Natural Hemp Fabric & Clothing](https://baronboutique.com/100-natural-fiber-himalayan-hemp-fabric/): Baron Boutique offers premium 100% natural hemp fabric and clothing production from high-altitude Nepal (1500m-3000m elevation).
+- [Natural Hemp Fabric & Clothing](https://baronboutique.com/100-natural-fiber-himalayan-hemp-fabric/index.md): Baron Boutique offers premium 100% natural hemp fabric and clothing production from high-altitude Nepal (1500m-3000m elevation).
 - [Custom Corporate Gifts](https://baronboutique.com/custom-corporate-gifts/index.md): Custom corporate gifts by Baron Boutique: branded cashmere scarves, wraps, & gift sets, handwoven in Nepal. Your colors & logo. Low MOQ.
 
 ## Guides
