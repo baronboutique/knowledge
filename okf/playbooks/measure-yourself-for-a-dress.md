@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: Measure Yourself for a Dress
-description: Step-by-step: the exact measurements to send for a custom dress, how to decide the length, and what happens after the order arrives.
+description: "Step-by-step: the exact measurements to send for a custom dress, how to decide the length, and what happens after the order arrives."
 topic: Measurement and Fit
 trigger: customer wants a dress made and asks what to measure, or where to measure the bust for a dress
 tags: [playbook, dress, measurement, womenswear, self-measurement, bespoke-tailoring]
@@ -12,7 +12,6 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-03T00:00:00Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
 generated: { by: human:baron-boutique, at: 2026-08-03T00:00:00Z }
 ---
 
