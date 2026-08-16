@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
 ---
 
 # Dryden Vos Costume Solo: A Star Wars Story Cosplay
@@ -32,10 +32,10 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Jacket and Cape Fabric:** 10 options available
-- **Lining Fabric:** 25 options available
-- **Pants Fabric:** 10 options available
-- **Crepe Silk Fabric:** 16 options available
+- **Fabric:** 10 options available
+- **Lining:** 25 options available
+- **Fabric:** 10 options available
+- **Fabric:** 16 options available
 
 ## Summary
 

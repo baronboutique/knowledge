@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
 ---
 
 # Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Merino Wool Cashmere Chalk Stripes:** Black Chalk Stripes (LSR1-9503-5), Dark Grey Chalk Stripes (LSR1-9503-3), Grey Chalk Stripes (LSR1-9503-2), Light Grey Chalk Stripes (LSR1-9503-1), Navy Chalk Stripes (LSR1-9503-4)
-- **Lining Fabric:** 34 options available
+- **Fabric:** Black Chalk Stripes (LSR1-9503-5), Dark Grey Chalk Stripes (LSR1-9503-3), Grey Chalk Stripes (LSR1-9503-2), Light Grey Chalk Stripes (LSR1-9503-1), Navy Chalk Stripes (LSR1-9503-4)
+- **Lining:** 34 options available
 
 ## Summary
 

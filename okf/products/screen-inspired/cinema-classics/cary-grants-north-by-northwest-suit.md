@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
 ---
 
 # Cary Grant North By Northwest Suit
@@ -32,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Glen Plaid Fabric:** 8310-1 Light Tan, 8310-2 Grey Check, 8310-3 Dark Grey, 8310-6 Navy, CAL-D1-7B Slate Blue, TC756101 Grey
-- **Lining Fabric:** 34 options available
+- **Fabric:** 8310-1 Light Tan, 8310-2 Grey Check, 8310-3 Dark Grey, 8310-6 Navy, CAL-D1-7B Slate Blue, TC756101 Grey
+- **Lining:** 34 options available
 
 ## Summary
 

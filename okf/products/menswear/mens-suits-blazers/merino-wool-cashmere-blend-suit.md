@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
 ---
 
 # Merino Wool Cashmere Blend Suit
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **PTD Series Plain:** PTD-9100-1-Gray, PTD-9100-2-Charcoal, PTD-9100-3-Brown, PTD-9100-4-Petrol Blue, PTD-9100-6-Black, PTD-9101-2-Gray Micro Check
-- **Lining Fabric:** 34 options available
+- **Fabric:** PTD-9100-1-Gray, PTD-9100-2-Charcoal, PTD-9100-3-Brown, PTD-9100-4-Petrol Blue, PTD-9100-6-Black, PTD-9101-2-Gray Micro Check
+- **Lining:** 34 options available
 
 ## Summary
 

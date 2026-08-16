@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-14T05:59:56Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-14T05:58:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
 ---
 
 # Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Linen Fabric:** 18 options available
+- **Fabric:** 18 options available
 
 ## Summary
 
