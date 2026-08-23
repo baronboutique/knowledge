@@ -1,7 +1,7 @@
 ---
 type: Service
 title: "Custom Corporate Gifts"
-description: "Custom Corporate Gifts — service by Baron Boutique."
+description: "Baron Boutique produces branded corporate cashmere gifts to order: scarves, shawls, wraps and pashminas, hand-knitted beanies, gloves and socks, throws, and boxed gift sets. Grade A cashmere is handwoven and hand-knitted in Nepal, Pantone color-matched from over 350 hand-dyed colors using Azo-free dyes, and branded with an embroidered logo, a custom woven label, or a pattern woven into the cloth. A concept illustration and mockup are approved before anything is produced. Minimum order is 6 pieces. Production takes 3 to 4 weeks at 6 pieces and 45 to 50 days up to 200 pieces, with larger programs agreed individually. Delivered gift-ready worldwide with tracking, typically 4 to 6 days in transit. Quotes are returned within 24 hours."
 resource: https://baronboutique.com/custom-corporate-gifts/
 tags: [custom-cashmere-gifts, corporate-gifts, personalized-gifts, cashmere-scarves, monogram, wedding-gifts, gifting-service, handmade, heirloom, service]
 sources:
@@ -9,30 +9,46 @@ sources:
     resource: https://baronboutique.com/custom-corporate-gifts/
     title: "Custom Corporate Gifts"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-14
+    last_modified: 2026-08-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-14T20:51:58Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-22T13:23:02Z }
 ---
 
 # Custom Corporate Gifts
+
+Baron Boutique produces branded corporate cashmere gifts to order: scarves, shawls, wraps and pashminas, hand-knitted beanies, gloves and socks, throws, and boxed gift sets. Grade A cashmere is handwoven and hand-knitted in Nepal, Pantone color-matched from over 350 hand-dyed colors using Azo-free dyes, and branded with an embroidered logo, a custom woven label, or a pattern woven into the cloth. A concept illustration and mockup are approved before anything is produced. Minimum order is 6 pieces. Production takes 3 to 4 weeks at 6 pieces and 45 to 50 days up to 200 pieces, with larger programs agreed individually. Delivered gift-ready worldwide with tracking, typically 4 to 6 days in transit. Quotes are returned within 24 hours.
 
 **URL:** https://baronboutique.com/custom-corporate-gifts/
 
 ## Service Types
 
+- Service
 - Product
-- FAQPage
 
 ## Questions & Answers
 
 **Q:** What is the minimum order for corporate gifts?  
 **A:** Corporate orders start from 6 pieces. The same made-to-order service works for a small executive gift and for a large client or employee program.
+
+**Q:** How much do corporate cashmere gifts cost?  
+**A:** Starting prices per piece are $45 for knitted socks, $65 for beanies, $70 for gloves, and $209 for scarves, shawls, wraps, pashminas, and throws. These apply to both 100% cashmere and cashmere-silk blends. Gift sets are priced to their contents. Your final quote depends on the customization, the quantity, and the finish, and shipping is quoted separately. Send your brief and we will return a firm figure within 24 hours.
+
+**Q:** How long does a corporate order take?  
+**A:** The design proof and sample take about 3 to 4 weeks depending on the design. Once approved, production takes about 3 to 4 weeks for an order of 6 pieces, and 45 to 50 days for larger orders up to 200 pieces. Programs above 200 pieces are agreed with you directly. Add 4 to 6 days for tracked courier delivery after dispatch. If you have a fixed date, tell us early and we will say honestly whether it is achievable.
+
+**Q:** What sizes and weights are the pieces?  
+**A:** Scarves are 28 x 80 inches. Shawls, wraps, and pashminas are 40 x 80 inches. Throws are approximately 50 x 60 inches and can be adjusted. A 28 x 80 inch scarf weighs about 75 grams in a lighter 200/2 yarn or about 130 grams in a medium weight 60/2 yarn. Sizes for knitted beanies, gloves, and socks are confirmed with your quote.
+
+**Q:** Is shipping included in the price?  
+**A:** No. Shipping is quoted separately and depends on the quantity and the destination. Everything ships worldwide with tracking, gift-ready, to one address or many. Import duties and taxes are set by the destination country and are the importer's responsibility.
+
+**Q:** Can we return a corporate order?  
+**A:** Personalized pieces are made to your brief in your colors with your branding, so they cannot be returned or refunded once production has begun. They cannot be sold to anyone else. What you do have is a proper check on arrival: report visible problems such as transit damage, short counts, or work that does not match the approved proof within 14 days of delivery, and manufacturing faults that only appear later within 30 days. Where the fault is ours we remake the affected pieces at no charge and cover shipping both ways.
 
 **Q:** Can you match our exact brand color?  
 **A:** Yes. We hand-dye to your Pantone reference, with a palette of over 350 colors. Send your brand color code with your quote request and we will match it.

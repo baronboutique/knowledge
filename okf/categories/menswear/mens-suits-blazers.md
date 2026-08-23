@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:00:00Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-18T03:00:02Z }
 ---
 
 # Suits & Blazers
@@ -100,7 +100,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [Black Velvet Shawl Collar Tuxedo Jacket](../../products/menswear/dinner-jackets/slim-fit-black-velvet-jacket.md)
 - [Blue Linen Suit for Men, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
 - [Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels](../../products/menswear/dinner-jackets/slim-fit-burgundy-velvet-jacket.md)
-- [Cary Grant North By Northwest Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
+- [Cary Grant North By Northwest Inspired Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
 - [Cotton Linen Blazer Mens Patch Pocket Jacket](../../products/menswear/grooms-linen-suits-for-wedding/linen-blazer-with-patch-pocket-details.md)
 - [Custom Dinner Jacket](../../products/menswear/tuxedos/stylish-dinner-jacket.md)
 - [Grey Pinstripe Suit](../../products/menswear/mens-suits-blazers/gray-pinstripe-suit.md)

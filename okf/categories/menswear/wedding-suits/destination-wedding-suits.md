@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-12T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-22T13:23:02Z }
 ---
 
 # Destination Wedding Suits
@@ -93,8 +93,8 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 - [Fantastic Beasts Percival Graves Black Coat](../../../products/menswear/percival-graves-black-coat.md)
 - [James Bond No Time To Die Beige Corduroy Suit](../../../products/menswear/destination-wedding-suits/no-time-to-die-beige-corduroy-suit-james-bond.md)
 - [James West Wild Wild West Suit](../../../products/menswear/destination-wedding-suits/james-west-wild-wild-west-suit.md)
-- [Matrix Reloaded Neo Coat](../../../products/menswear/destination-wedding-suits/matrix-reloaded-coat.md)
 - [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../../products/menswear/mens-long-black-leather-coat.md)
+- [Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat](../../../products/menswear/destination-wedding-suits/matrix-reloaded-coat.md)
 
 **Related terms:** destination wedding suit, groom cape suit, beach wedding suit for men, summer wedding suit
 

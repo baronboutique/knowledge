@@ -16,8 +16,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-13T13:18:48Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-23T03:00:01Z }
 ---
 
 # Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit

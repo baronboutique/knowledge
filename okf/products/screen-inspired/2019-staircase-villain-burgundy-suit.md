@@ -16,8 +16,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-07T02:59:12Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-23T03:00:01Z }
 ---
 
 # 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit

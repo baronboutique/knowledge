@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-22T13:23:02Z }
 ---
 
 # Cyberpunk Trench Coats
@@ -86,8 +86,8 @@ Your completed coat ships by trackable courier. Production takes approximately f
 
 - [Keanu Reeves Trench Coat The Matrix Revolutions](../../products/screen-inspired/cyberpunk-trench-coats/the-matrix-revolutions-coat.md)
 - [Matrix Coat Neo Trench Coat Black](../../products/screen-inspired/cyberpunk-trench-coats/the-matrix-coat.md)
-- [Matrix Reloaded Neo Coat](../../products/menswear/destination-wedding-suits/matrix-reloaded-coat.md)
 - [Men's Wool Flared Zip Tailcoat](../../products/menswear/frock-coats-for-men/mens-wool-flared-zip-tailcoat.md)
+- [Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat](../../products/menswear/destination-wedding-suits/matrix-reloaded-coat.md)
 - [Neo Leather Trench Coat Matrix 2](../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat-in-leather.md)
 - [The Matrix 4 Resurrections Keanu Reeves Neo Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-4-resurrections-neo-coat.md)
 - [White Long Coat Matrix Reloaded Neo Style Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat-in-white.md)

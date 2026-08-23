@@ -10,7 +10,7 @@ Ordering, measuring, fit, and size guides for [Baron Boutique](../company.md).
 * [Dress Fit Guide](dress-fit-guide.md) — Find your perfect dress fit—Slim, Standard, or Relaxed. Baron Boutique's guide helps you choose the best custom dresses for you.
 * [Jacket Fit Guide](womens-jacket-fit-guide.md) — Find your perfect fit—Slim, Standard, or Relaxed. Baron Boutique's womens guide helps you choose the best custom garment for your style.
 * [Necktie Size Guide](necktie-size-guide.md) — Don't guess your tie size. Our complete guide explains how to choose the perfect tie width and length based on your body type and suit style.
-* [Our Services](our-services.md) — Explore our expert tailoring services of bespoke suits, made-to-order, CMT, prototype development, small-batch production, & alterations.
+* [Our Services](our-services.md) — Six tailoring services, made to order for men & women. Bespoke with a fitting prototype, CMT, prototypes with no minimum, small batches from 5 pieces.
 * [Outwear Fit Guide](womens-outwear-fit-guide.md) — Find your perfect outwear fit—Slim, Standard, or Relaxed. Baron Boutique's guide helps you choose the best custom garment for you.
 * [Outwear Fit Guide](mens-outwear-fit-guide.md) — Find your perfect outwear fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for you.
 * [Pants Fit Guide](mens-pants-fit-guide.md) — Find your perfect pants fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for you.

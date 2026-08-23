@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Cary Grant North By Northwest Suit"
-description: "You've seen the suit. You know exactly which one. GQ called it the best suit in film history -- the grey glen plaid Cary Grant wears through every scene of North by Northwest."
+title: "Cary Grant North By Northwest Inspired Suit"
+description: "You've seen the suit. You know exactly which one. GQ called the grey glen plaid suit Cary Grant wears in *North by Northwest* the best suit in film history."
 resource: https://baronboutique.com/cary-grants-north-by-northwest-suit/
 tags: [men, suit, glen-plaid, grey, wool, two-piece-suit, cary-grant, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
 sources:
@@ -9,17 +9,15 @@ sources:
     resource: https://baronboutique.com/cary-grants-north-by-northwest-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-17
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-23T03:00:01Z }
 ---
 
-# Cary Grant North By Northwest Suit
+# Cary Grant North By Northwest Inspired Suit
 
 **SKU:** 5003016  
 **URL:** https://baronboutique.com/cary-grants-north-by-northwest-suit/  
@@ -37,10 +35,10 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-You've seen the suit. You know exactly which one. GQ called it the best suit in film history -- the grey glen plaid Cary Grant wears through every scene of North by Northwest. The problem is that every grey glen plaid suit you find online is just a grey glen plaid suit. Not this cut. Not the 3-roll-2 lapel that rolls over the top button. Not the ventless back. Not the high-waist double pleats at the natural waist. Those decisions are why the suit still looks right 65 years later -- and this is the bespoke suit built to them, in Super 130s worsted wool, to your body measurements, with a free test suit before the final cloth is cut.
+You've seen the suit. You know exactly which one. GQ called the grey glen plaid suit Cary Grant wears in *North by Northwest* the best suit in film history. Our version is inspired by that legendary silhouette: the 3-roll-2 lapel rolling over the top button, ventless back, and high-waist double pleats at the natural waist. Cut in Super 130s worsted wool and made to your measurements, it captures the character of the original while giving you a bespoke fit. A free test suit is sent first, so you approve the fit before we cut the final cloth.
 
 The Most Studied Suit in Film History. Built to the Same Decisions.
-In 1959, Alfred Hitchcock told his cast to dress in a classic style because he didn't want the picture to date. Sixty-five years later, the grey glen plaid suit Cary Grant wears through every scene of North by Northwest is still being written about, ranked, and searched for. GQ named it the best suit in film history. Esquire agreed. A short story was written entirely from the suit's perspective. A 4K restoration screened at Tribeca to a new generation seeing it for the first time. Here is what most buyers searching for this suit don't realise: the suit's staying power has nothing to do with the color or the pattern.
+In 1959, Alfred Hitchcock asked his cast to dress in a classic style that would keep the picture from dating. More than six decades later, the grey glen plaid suit worn by Cary Grant in North by Northwest The appeal goes far beyond the grey glen plaid pattern. The enduring silhouette comes from a series of tailoring choices: the 3-roll-2 button stance, ventless jacket, structured shoulders, and high-waisted trousers with forward-facing double pleats. These details give the original its distinctive proportions and character. Our suit draws inspiration from that celebrated design rather than claiming to reproduce the original film garment.
 
 The Silhouette Has to Be Exact. The Test Suit Makes Sure It Is.
 This suit works because every proportion is right. The lapel roll. The shoulder stance. The trouser rise. One centimeter off and it stops being this suit. It becomes a grey plaid suit. Before we cut your final suit in Super 130s wool, we make a cotton test suit and ship it to you first. Put on the jacket -- the lapel should roll naturally over that top button without being forced. Put on the trousers -- they should sit at the natural waist, not the hips. Tell us what needs adjusting. We fix everything before the real fabric is touched. The test suit is yours to keep. We retain a copy for reference. Both the test suit and the final suit ship worldwide.

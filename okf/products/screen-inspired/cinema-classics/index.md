@@ -71,7 +71,7 @@ Every adjustment is applied, then your piece is cut and hand-tailored in the fab
 
 ## Products
 
-- [Cary Grant North By Northwest Suit](cary-grants-north-by-northwest-suit.md)
+- [Cary Grant North By Northwest Inspired Suit](cary-grants-north-by-northwest-suit.md)
 - [Count Dooku Cape and Tunic Star Wars](count-dooku-cape-and-tunic-from-star-wars.md)
 - [Hei Trench Coat from Darker Than Black, Custom Made in Wool](hei-trench-coat-darker-than-black.md)
 - [Hunter Coat Bloodborne Cosplay](bloodborne-hunter-cosplay-coat.md)

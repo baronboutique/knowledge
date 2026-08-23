@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Matrix Reloaded Neo Coat"
-description: "Most Matrix coat sellers deliver a polyester approximation in a generic size. The sheen is wrong, the length is approximate, and the silhouette collapses the moment you raise an arm."
+title: "Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat"
+description: "Most Matrix Reloaded-inspired coat sellers offer a generic-size polyester approximation. Baron Boutique takes a different approach."
 resource: https://baronboutique.com/matrix-reloaded-coat/
 tags: [men, trench-coat, long-coat, monks-wool, mandarin-collar, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,17 +9,15 @@ sources:
     resource: https://baronboutique.com/matrix-reloaded-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-08-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-15T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-23T03:00:01Z }
 ---
 
-# Matrix Reloaded Neo Coat
+# Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat
 
 **SKU:** 5002002  
 **URL:** https://baronboutique.com/matrix-reloaded-coat/  
@@ -35,9 +33,9 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Summary
 
-Most Matrix coat sellers deliver a polyester approximation in a generic size. The sheen is wrong, the length is approximate, and the silhouette collapses the moment you raise an arm. Baron builds the Matrix Reloaded Neo coat to your body measurements, with the screen-inspired construction that makes the below-ankle silhouette work. We send a free test coat first. You approve the fit. Then we cut the final.
+Most Matrix Reloaded-inspired coat sellers offer a generic-size polyester approximation. Baron Boutique takes a different approach. Our custom-made Neo Cassock Coat is tailored to your measurements in black wool, with a screen-inspired silhouette and construction designed to achieve the distinctive long, below-ankle look seen in The Matrix Reloaded. We send a complimentary test coat first so you can try the fit at home, provide feedback, and approve the adjustments before we cut the final coat.
 
-The Matrix Reloaded Neo Coat: The Silhouette Everyone Is Copying, Built to Fit You
+The Matrix Reloaded Neo Cassock Coat: The Silhouette Everyone Is Copying, Built to Fit You
 Dior did it. Saint Laurent did it. Balenciaga did it. Every major fashion house that showed a collection paid homage to The Matrix, because the coat Neo wears in Reloaded is one of the most recognizable silhouettes in cinema. Below-ankle length. Mandarin collar. Pleated flared skirt. Princess seam back. Fabric that moves when you move and falls still when you stop. That silhouette is now on runways, on street style accounts, and on every fashion publication's best-dressed list. What those designer versions cost: thousands. What most Matrix coat sellers actually deliver: a polyester approximation in a generic size that looks like a costume the moment you put it on. The sheen is wrong.
 
 Real Customers, Real Coats
@@ -46,7 +44,7 @@ These are not studio shots. The cosplay action photos below are from customers w
 A Special Commission: Winter Weight Matrix Reloaded Coat
 One of our customers wanted the same silhouette in a heavier fabric for winter wear. We built it. The coat shown below uses a winter weight wool rather than the standard monks wool , same construction, same screen-inspired pattern, different hand and weight. This is what a bespoke coat commission looks like when the brief is "the Matrix coat but I want to wear it in January."
 
-Free Test Matrix Coat: Fit the Silhouette Before We Build the Final
+Free Test Cassock Coat: Fit the Silhouette Before We Build the Final
 A below-ankle coat is the least forgiving garment to get wrong. The length must hit a precise point on your frame for the hem to flow correctly. The shoulder placement controls how the coat moves when you walk. The chest fit determines whether it falls cleanly or pulls. Get any one of those measurements slightly off and the entire silhouette collapses , you will know the moment you see a photograph. Before we cut your final Matrix Reloaded coat in monks wool, we build a complete test coat in a lighter cotton fabric, sewn to your measurements, and ship it to you via trackable courier. You try it on. You move in it.
 
 Who This Coat Is For

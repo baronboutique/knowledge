@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-07T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-18T03:00:02Z }
 ---
 
 # Cinema Classics
@@ -97,7 +97,7 @@ Every adjustment is applied, then your piece is cut and hand-tailored in the fab
 - [2008 Purple Melton Overcoat, The Anarchist's Long Coat](../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
 - [2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](../../products/menswear/sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
-- [Cary Grant North By Northwest Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
+- [Cary Grant North By Northwest Inspired Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
 - [Count Dooku Cape and Tunic Star Wars](../../products/screen-inspired/cinema-classics/count-dooku-cape-and-tunic-from-star-wars.md)
 - [Dryden Vos Costume Solo: A Star Wars Story Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
 - [Fantastic Beasts Percival Graves Black Coat](../../products/menswear/percival-graves-black-coat.md)

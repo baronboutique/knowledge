@@ -95,7 +95,7 @@ Links below point to plain markdown wherever a markdown version exists, and to t
 
 ## Featured Products
 
-- [Matrix Reloaded Neo Coat](https://baronboutique.com/matrix-reloaded-coat/index.md): Most Matrix coat sellers deliver a polyester approximation in a generic size. The sheen is wrong, the length is approximate, and the silhouette collapses the moment you raise an arm. (from USD 699.00)
+- [Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat](https://baronboutique.com/matrix-reloaded-coat/index.md): Most Matrix Reloaded-inspired coat sellers offer a generic-size polyester approximation. Baron Boutique takes a different approach. (from USD 699.00)
 - [11th Doctor Who White Pool Party Tuxedo Jacket](https://baronboutique.com/11th-doctor-tuxedo-jacket/index.md): 11th Doctor Who white tuxedo jacket enhanced with a silk satin shawl lapel. A custom-made 11th Doctor Who white pool party tuxedo jacket is for a memorable cosplay. (from USD 599.00)
 - [4th Doctor Beige Frock Coat Tom Baker Inspired](https://baronboutique.com/fourth-doctor-frock-coat/index.md): Every mass-market version of the 4th Doctor frock coat gets the color right and skips everything else, no princess seams, dead-center back vent, wrong piping, wrong collar. (from USD 689.00)
 - [Fourth Doctor Horror Of Fang Baker Coat](https://baronboutique.com/fourth-doctor-baker-coat/index.md): A timeless fourth Doctor Baker Horror Of Fang Baker coat is truly an iconic coat essential for your cosplay collection. (from USD 799.00)
@@ -108,17 +108,18 @@ Links below point to plain markdown wherever a markdown version exists, and to t
 
 ## Services
 
-- [Private Label](https://baronboutique.com/private-label/index.md): Baron Boutique offers expert private label and white label production partnership for brands seeking high-quality custom tailored garments (bespoke, MTM suits, shirts, etc.) and luxurious bespoke…
+- [Private Label](https://baronboutique.com/private-label/index.md): Baron Boutique produces cashmere knitwear, handwoven cashmere accessories and tailored garments for established fashion brands under the brand's own label.
 - [Custom Cashmere Gifts](https://baronboutique.com/custom-cashmere-gifts/index.md): Baron Boutique offers a bespoke cashmere gifting service for life's most meaningful occasions, including weddings, corporate milestones, baby showers, and personal celebrations.
-- [Retail Partnerships](https://baronboutique.com/retailers-wholesale-program/index.md): Baron Boutique offers comprehensive wholesale partnership opportunities for boutique retailers seeking premium custom-tailored menswear, womenswear, authentic movie replicas, and luxury cashmere…
-- [Designer Program](https://baronboutique.com/designer-program/index.md): Baron Boutique's Designer Program provides emerging and established fashion designers with affordable, flexible production support.
-- [Natural Hemp Fabric & Clothing](https://baronboutique.com/100-natural-fiber-himalayan-hemp-fabric/index.md): Baron Boutique offers premium 100% natural hemp fabric and clothing production from high-altitude Nepal (1500m-3000m elevation).
-- [Custom Corporate Gifts](https://baronboutique.com/custom-corporate-gifts/index.md): Custom corporate gifts by Baron Boutique: branded cashmere scarves, wraps, & gift sets, handwoven in Nepal. Your colors & logo. Low MOQ.
+- [Retail Partnerships](https://baronboutique.com/retailers-wholesale-program/index.md): Baron Boutique partners with boutique retailers, specialty stores, and online retailers worldwide, producing custom tailored menswear, womenswear, screen-inspired garments, and handwoven cashmere to…
+- [Designer Program](https://baronboutique.com/designer-program/index.md): Baron Boutique's Designer Program produces garments for emerging and independent fashion designers with a minimum order of one piece.
+- [Natural Hemp Fabric & Clothing](https://baronboutique.com/100-natural-fiber-himalayan-hemp-fabric/index.md): Baron Boutique produces 100% natural hemp fabric and hemp clothing from hemp grown between 1,500m and 3,000m in the Nepal Himalayas without pesticides, herbicides or synthetic fertilizers.
+- [Custom Corporate Gifts](https://baronboutique.com/custom-corporate-gifts/index.md): Baron Boutique produces branded corporate cashmere gifts to order: scarves, shawls, wraps and pashminas, hand-knitted beanies, gloves and socks, throws, and boxed gift sets.
+- [Our Services](https://baronboutique.com/our-services/index.md): Baron Boutique operates as a made-to-order tailoring house. Every garment is cut after it is ordered, to one person's measurements, in the fabric they chose, and no ready-made stock is held.
 
 ## Guides
 
 - [How It Works](https://baronboutique.com/how-it-works/index.md): Baron Boutique's step-by-step tailoring process. Choose your garment, enter measurements, receive a free test garment, & then your final piece.
-- [Our Services](https://baronboutique.com/our-services/index.md): Explore our expert tailoring services of bespoke suits, made-to-order, CMT, prototype development, small-batch production, & alterations.
+- [Our Services](https://baronboutique.com/our-services/index.md): Six tailoring services, made to order for men & women. Bespoke with a fitting prototype, CMT, prototypes with no minimum, small batches from 5 pieces.
 - [Men&#8217;s Measuring Guide](https://baronboutique.com/mens-measuring-guide/index.md): Ensure your custom garment fits flawlessly. Our men's measurement guide provides step-by-step tutorials on measuring everything.
 - [Women&#8217;s Body Measuring Guide](https://baronboutique.com/womens-body-measuring-guide/index.md): Step-by-step guide on how to measure women accurately. Learn to measure your bust, waist, hips, & more with clear images & easy instructions.
 - [Women&#8217;s Shirt Measuring Guide](https://baronboutique.com/womens-shirt-measuring-guide/index.md): Step-by-step guide to measuring for a woman's shirt. Learn to measure your bust, waist, hips, & more with clear images & easy instructions.

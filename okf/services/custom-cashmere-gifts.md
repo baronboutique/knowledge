@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/custom-cashmere-gifts/
     title: "Custom Cashmere Gifts"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-07
+    last_modified: 2026-08-21
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-07T20:07:03Z }
-  - { by: process:baron-catalog-watch, at: 2026-08-16T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-08T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-08-21T09:40:28Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-22T03:00:04Z }
 ---
 
 # Custom Cashmere Gifts
@@ -99,7 +99,7 @@ Baron Boutique offers a bespoke cashmere gifting service for life's most meaning
 **A:** Standard packaging includes elegant gift boxes, silk or satin ribbons, and premium tissue wrapping. We can customize with branded boxes featuring your logo or event name, personalized gift cards, scent sachets (lavender, rose, cedarwood), wax seals, organza bags, and coordinated presentation elements to create an unforgettable unboxing experience.
 
 **Q:** Where can I buy personalized cashmere gifts with gift-ready packaging?  
-**A:** Baron Boutique offers personalized cashmere scarves, shawls, wraps, and baby blankets that arrive fully gift-packaged — silk ribbons, gift boxes, scent sachets, and personalized cards included as standard. Every piece is handwoven in Nepal and customized to your color, monogram, and occasion before shipping worldwide. The packaging is part of the service, not an add-on.
+**A:** Baron Boutique offers personalized cashmere scarves, shawls, wraps and baby blankets that arrive fully gift wrapped: silk ribbons, gift boxes, scent sachets and personalized cards, included as standard. Gift wrapping is complimentary on every order, individual or corporate, and there is no separate gift wrap charge at checkout. Every piece is handwoven in Nepal and customized to your color, monogram and occasion before shipping worldwide. The packaging is part of the service, not an add-on.
 
 **Q:** Where can I find luxury cashmere wraps for holiday gifts?  
 **A:** Handwoven cashmere wraps in custom colors with monogramming and luxury packaging are available through Baron Boutique for individuals and corporate gifting programs. Pieces are made to order in Nepal with MOQs starting at 6 — suitable for a small family holiday gift or a large client program. Colors can be Pantone-matched to a palette, and each wrap ships gift-ready worldwide.
