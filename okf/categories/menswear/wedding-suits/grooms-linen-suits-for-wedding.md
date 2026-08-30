@@ -14,7 +14,7 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
 generated: { by: baron-ai-knowledge-manager/1.15.2, at: 2026-08-05T16:25:50Z }
 ---
 

@@ -73,7 +73,7 @@ Your finished silk ships from Dubai by trackable courier, about four to six week
 - [2 Button Silk and Wool Suit](2button-silk-and-wool-suit.md)
 - [Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements](mens-silk-suit-in-dupioni-silk.md)
 - [Mens Silk Blazer Dupioni Silk](dupioni-silk-blazer.md)
-- [Raw Silk Blazer](raw-silk-blazer.md)
+- [Raw Silk Blazer, Made to Your Measurements](raw-silk-blazer.md)
 - [Silver Dupioni Silk Suit - Bespoke Single-Breasted Tailored Menswear](silver-dupioni-silk-suit.md)
 - [The Black Dupioni Silk Suit for Men - 3 Button Roll to 2](black-dupioni-silk-suit-3-roll-2.md)
 

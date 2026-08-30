@@ -5,7 +5,6 @@ Handwoven cashmere scarves, shawls, and sweaters made by hand in Nepal from fibe
 All products made to order. Every bespoke order includes a complimentary cotton test garment.
 
 - [Aquamarine Blue Handwoven Cashmere Scarf Shawl](aquamarine-blue-handwoven-cashmere-scarf-shawl.md)
-- [Bright Pink Handwoven Cashmere Scarf Shawl](bright-pink-handwoven-cashmere-scarf-shawl.md)
 - [Cloud Stripe Spring Cashmere Scarf](cloud-stripe-spring-cashmere-scarf.md)
 - [Emerald Green Handwoven Cashmere Scarf Shawl](emerald-green-handwoven-cashmere-scarf-shawl.md)
 - [Fog Cable Knit Cashmere Turtleneck Sweater](fog-cable-knit-cashmere-turtleneck.md)
@@ -15,11 +14,9 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Hand Felted Pink Cashmere Scarf Wrap](hand-knitted-pink-cashmere-scarf-wrap.md)
 - [Hand Felted Red Cashmere Scarf Wrap](hand-knitted-red-cashmere-scarf-wrap.md)
 - [Hand-Finished Leopard Print Cashmere Scarf](leopard-print-cashmere-scarf.md)
-- [Handwoven Black Cashmere Scarf Shawl](handwoven-black-cashmere-scarf-shawl.md)
 - [Handwoven Forest Green Cashmere Scarf Shawl](handwoven-forest-green-cashmere-scarf-shawl.md)
 - [Handwoven Ivory Cashmere Scarf Shawl](handwoven-ivory-cashmere-scarf-shawl.md)
 - [Handwoven Salmon Pink Cashmere Scarf Shawl](handwoven-salmon-pink-cashmere-scarf-shawl.md)
-- [Handwoven Yellow Cashmere Scarf Shawl](handwoven-yellow-cashmere-scarf-shawl.md)
 - [Himalayan Horizon Striped Cashmere Scarf – Hand-Finished in Twill Weave](blue-green-tan-striped-cashmere-scarf.md)
 - [Indigo Blue Handwoven Cashmere Scarf Shawl](indigo-blue-handwoven-cashmere-scarf-shawl.md)
 - [Light Teal Green Handwoven Cashmere Scarf Shawl](light-teal-green-handwoven-cashmere-scarf-shawl.md)
@@ -37,6 +34,7 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [The Sunflower-Embroidered Baby Blue Cashmere Wrap](baby-blue-sunflower-embroidered-cashmere-shawl.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](willow-green-handwoven-cashmere-scarf-shawl.md)
 - [Women's Rust Cashmere Turtleneck Sweater](women-rust-cashmere-turtleneck-sweater.md)
+- [Handwoven Cashmere Scarves & Shawls](handwoven-cashmere-scarves-shawls/index.md) — 3 products
 
 ## Related
 

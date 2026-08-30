@@ -9,12 +9,12 @@ sources:
     resource: https://baronboutique.com/fog-cable-knit-cashmere-turtleneck/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-23T03:00:01Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
 ---
 
 # Fog Cable Knit Cashmere Turtleneck Sweater
@@ -38,7 +38,7 @@ Whispers of a Misty Morning Like the first breath of a cool, misty morning, our 
 
 ## Categories
 
-- Handcrafted Cashmere
+- Handcrafted Cashmere › Cashmere Sweaters & Knitwear
 - Women › Sweaters
 
 **Related terms:** roll neck jumper, polo neck sweater, grey cashmere turtleneck, chunky knit cashmere

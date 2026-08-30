@@ -16,7 +16,7 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-07T02:52:33Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-23T03:00:01Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
 ---
 
 # 1989 Gotham Villain Double-Breasted Purple Melton Wool Coat

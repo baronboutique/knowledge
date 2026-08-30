@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/royal-blue-essential-wrap-in-diamond-weave-cashmere/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # Royal Blue Essential Wrap in Diamond Weave Cashmere
@@ -40,7 +40,7 @@ Skyfall in Royal Blue Woven where highland winds carry ancient songs; this royal
 
 ## Categories
 
-- Handcrafted Cashmere
+- Handcrafted Cashmere › Handwoven Cashmere Scarves & Shawls
 - Women › Accessories
 
 **Related terms:** cobalt pashmina, blue cashmere stole, sapphire blue wrap, all season blue muffler

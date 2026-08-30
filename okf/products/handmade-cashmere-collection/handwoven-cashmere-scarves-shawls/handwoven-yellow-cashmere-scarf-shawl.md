@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/handwoven-yellow-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # Handwoven Yellow Cashmere Scarf Shawl
@@ -40,13 +40,14 @@ Yarn and Weight 200/2 yarn count 14-16 microns diameter 35-55mm yarn length Feat
 
 ## Categories
 
-- Handcrafted Cashmere
+- Handcrafted Cashmere › Handwoven Cashmere Scarves & Shawls
 
 **Related terms:** mustard pashmina, sunshine yellow stole, golden shawl, spring color wrap
 
 ## Related
 
-- [Handcrafted Cashmere Category](../../categories/handmade-cashmere-collection.md)
-- [Products Index](../index.md)
-- [Company](../../company.md)
-- [How Bespoke Orders Work](../../guides/how-it-works.md)
+- [Handwoven Cashmere Scarves & Shawls Category](../../../categories/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls.md)
+- [Handwoven Cashmere Scarves & Shawls Products](index.md)
+- [Products Index](../../index.md)
+- [Company](../../../company.md)
+- [How Bespoke Orders Work](../../../guides/how-it-works.md)

@@ -93,7 +93,6 @@ All products are made to order by human tailors after an order is confirmed. No 
 ## [Handcrafted Cashmere](handmade-cashmere-collection/index.md)
 
 - [Aquamarine Blue Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/aquamarine-blue-handwoven-cashmere-scarf-shawl.md)
-- [Bright Pink Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/bright-pink-handwoven-cashmere-scarf-shawl.md)
 - [Cloud Stripe Spring Cashmere Scarf](handmade-cashmere-collection/cloud-stripe-spring-cashmere-scarf.md)
 - [Emerald Green Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/emerald-green-handwoven-cashmere-scarf-shawl.md)
 - [Fog Cable Knit Cashmere Turtleneck Sweater](handmade-cashmere-collection/fog-cable-knit-cashmere-turtleneck.md)
@@ -103,11 +102,9 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Hand Felted Pink Cashmere Scarf Wrap](handmade-cashmere-collection/hand-knitted-pink-cashmere-scarf-wrap.md)
 - [Hand Felted Red Cashmere Scarf Wrap](handmade-cashmere-collection/hand-knitted-red-cashmere-scarf-wrap.md)
 - [Hand-Finished Leopard Print Cashmere Scarf](handmade-cashmere-collection/leopard-print-cashmere-scarf.md)
-- [Handwoven Black Cashmere Scarf Shawl](handmade-cashmere-collection/handwoven-black-cashmere-scarf-shawl.md)
 - [Handwoven Forest Green Cashmere Scarf Shawl](handmade-cashmere-collection/handwoven-forest-green-cashmere-scarf-shawl.md)
 - [Handwoven Ivory Cashmere Scarf Shawl](handmade-cashmere-collection/handwoven-ivory-cashmere-scarf-shawl.md)
 - [Handwoven Salmon Pink Cashmere Scarf Shawl](handmade-cashmere-collection/handwoven-salmon-pink-cashmere-scarf-shawl.md)
-- [Handwoven Yellow Cashmere Scarf Shawl](handmade-cashmere-collection/handwoven-yellow-cashmere-scarf-shawl.md)
 - [Himalayan Horizon Striped Cashmere Scarf – Hand-Finished in Twill Weave](handmade-cashmere-collection/blue-green-tan-striped-cashmere-scarf.md)
 - [Indigo Blue Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/indigo-blue-handwoven-cashmere-scarf-shawl.md)
 - [Light Teal Green Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/light-teal-green-handwoven-cashmere-scarf-shawl.md)
@@ -125,13 +122,14 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [The Sunflower-Embroidered Baby Blue Cashmere Wrap](handmade-cashmere-collection/baby-blue-sunflower-embroidered-cashmere-shawl.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/willow-green-handwoven-cashmere-scarf-shawl.md)
 - [Women's Rust Cashmere Turtleneck Sweater](handmade-cashmere-collection/women-rust-cashmere-turtleneck-sweater.md)
+- [Handwoven Cashmere Scarves & Shawls](handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/index.md) — 3 products
 
 ## [Women](womenswear/index.md)
 
 - [Dresses](womenswear/dresses-for-women/index.md) — 13 products
 - [Screen Inspired](womenswear/screen-inspired-women/index.md) — 12 products
 - [Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors](womenswear/cashmere-wrap-scarf-womens-80-plus-colors.md)
-- [Featherlight Cashmere Scarf](womenswear/womens-featherlight-cashmere-scarf.md)
+- [Featherlight Cashmere Scarf for Travel, Weddings & Events](womenswear/womens-featherlight-cashmere-scarf.md)
 - [Unlined Linen Duster Coat](womenswear/linen-dress-jacket-with-notch-collar.md)
 - [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)

@@ -14,7 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-23T03:00:01Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
 ---
 
 # The Leather-Trimmed Sharkskin Blazer

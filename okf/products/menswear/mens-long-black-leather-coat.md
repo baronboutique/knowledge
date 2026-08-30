@@ -14,7 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-23T03:00:01Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
 ---
 
 # Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa
@@ -108,8 +108,8 @@ Most long leather coats available online are pleather or bonded leather, materia
 ## Categories
 
 - Men › Wedding Suits › Destination Wedding Suits
-- Screen Inspired › Theatrical Villain
 - Men › Coats & Overcoats
+- Screen Inspired › Theatrical Villain
 - Screen Inspired › Cinema Classics
 
 **Related terms:** leather Joker trench coat, purple leather coat, Dark Knight Joker leather coat

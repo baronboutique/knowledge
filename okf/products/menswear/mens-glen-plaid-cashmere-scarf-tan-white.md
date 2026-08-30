@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-glen-plaid-cashmere-scarf-tan-white/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-08-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth
@@ -36,7 +36,7 @@ The Gentleman's Essential A men's plaid cashmere scarf isn't merely an accessory
 
 ## Categories
 
-- Handcrafted Cashmere
+- Handcrafted Cashmere › Men's Cashmere & Pashmina
 - Men › Accessories
 
 **Related terms:** prince of wales check scarf, men's plaid muffler, camel check cashmere wrap, business scarf for suits, neutral houndstooth stole

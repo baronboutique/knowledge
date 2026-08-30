@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # Mens Silk Tie & Pocket Square Set Handmade
@@ -41,8 +41,8 @@ The pairing of a silk tie and a pocket square is the definitive final gesture in
 
 ## Categories
 
-- Men › Real Silk Eventwear
 - Women › Accessories
+- Men › Real Silk Eventwear
 - Men › Accessories
 
 **Related terms:** matching tie and hankie, tie pocket square combo, wedding tie set, groomsmen gift set

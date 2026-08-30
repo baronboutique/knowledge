@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.15.1, at: 2026-08-05T12:33:32Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-26T03:00:01Z }
 ---
 
 # Real Silk Eventwear
@@ -98,7 +98,7 @@ Your finished silk ships from Dubai by trackable courier, about four to six week
 - [Mens Satin Silk Neckties Solid Color Handmade](../../products/menswear/mens-silk-neckties-solid-color-handmade.md)
 - [Mens Silk Blazer Dupioni Silk](../../products/menswear/mens-silk-suits-shirts-ties-scarves/dupioni-silk-blazer.md)
 - [Mens Silk Tie & Pocket Square Set Handmade](../../products/menswear/mens-silk-tie-pocket-square-set.md)
-- [Raw Silk Blazer](../../products/menswear/mens-silk-suits-shirts-ties-scarves/raw-silk-blazer.md)
+- [Raw Silk Blazer, Made to Your Measurements](../../products/menswear/mens-silk-suits-shirts-ties-scarves/raw-silk-blazer.md)
 - [Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made](../../products/menswear/shirts/satin-silk-shirt.md)
 - [Silk Nehru Jacket James Bond Dr. No](../../products/screen-inspired/spy-tailoring/dr-no-silk-jacket.md)
 - [Silver Dupioni Silk Suit - Bespoke Single-Breasted Tailored Menswear](../../products/menswear/mens-silk-suits-shirts-ties-scarves/silver-dupioni-silk-suit.md)

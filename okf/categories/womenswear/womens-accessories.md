@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # Accessories
@@ -76,7 +76,7 @@ Your accessory ships by FedEx, DHL, or UPS with full tracking, gift-ready. Made-
 - [Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors](../../products/womenswear/cashmere-wrap-scarf-womens-80-plus-colors.md)
 - [Cloud Stripe Spring Cashmere Scarf](../../products/handmade-cashmere-collection/cloud-stripe-spring-cashmere-scarf.md)
 - [Emerald Green Handwoven Cashmere Scarf Shawl](../../products/handmade-cashmere-collection/emerald-green-handwoven-cashmere-scarf-shawl.md)
-- [Featherlight Cashmere Scarf](../../products/womenswear/womens-featherlight-cashmere-scarf.md)
+- [Featherlight Cashmere Scarf for Travel, Weddings & Events](../../products/womenswear/womens-featherlight-cashmere-scarf.md)
 - [Glen Plaid Cashmere Scarf – Tan & White Houndstooth Weave](../../products/handmade-cashmere-collection/glen-plaid-cashmere-scarf-tan-white-houndstooth.md)
 - [Hand Felted Grey Cashmere Scarf Wrap](../../products/handmade-cashmere-collection/hand-knitted-grey-cashmere-scarf-wrap.md)
 - [Hand Felted Light Salmon Pink Cashmere Scarf Wrap](../../products/handmade-cashmere-collection/hand-knitted-light-salmon-pink-cashmere-scarf-wrap.md)

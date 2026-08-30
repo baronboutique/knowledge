@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # Mens Satin Silk Neckties Solid Color Handmade
@@ -41,8 +41,8 @@ A line of men's silk neckties handmade from solid color satin silk with a distin
 
 ## Categories
 
-- Men › Real Silk Eventwear
 - Women › Accessories
+- Men › Real Silk Eventwear
 - Men › Accessories
 
 **Related terms:** plain silk tie, solid color wedding tie, dupioni necktie, classic handmade tie

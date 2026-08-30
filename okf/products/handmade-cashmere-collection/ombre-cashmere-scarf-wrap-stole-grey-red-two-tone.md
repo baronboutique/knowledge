@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/ombre-cashmere-scarf-wrap-stole-grey-red-two-tone/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # Ombre Cashmere Scarf Wrap Stole
@@ -40,7 +40,7 @@ Gradient Sky Feel the mountain air captured in this cashmere wrap. A blend of so
 
 ## Categories
 
-- Handcrafted Cashmere
+- Handcrafted Cashmere › Patterned Cashmere Scarves
 - Women › Accessories
 
 **Related terms:** two tone pashmina, gradient cashmere shawl, grey and red muffler, dip dye cashmere wrap

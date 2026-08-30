@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/baby-blue-sunflower-embroidered-cashmere-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-03
+    last_modified: 2026-08-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # The Sunflower-Embroidered Baby Blue Cashmere Wrap
@@ -40,7 +40,7 @@ Sunlight in Thread A scarf that carries the hush of early skies and the promise 
 
 ## Categories
 
-- Handcrafted Cashmere
+- Handcrafted Cashmere › Patterned Cashmere Scarves
 - Women › Accessories
 
 **Related terms:** flower embroidered shawl, light blue pashmina, sunflower stole, embroidered wedding wrap

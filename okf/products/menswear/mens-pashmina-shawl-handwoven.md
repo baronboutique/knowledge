@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-pashmina-shawl-handwoven/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-08-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors
@@ -93,12 +93,12 @@ Fold and place in a breathable cotton garment bag. Store in a cool, dry place aw
 **Q:** What makes a men's pashmina shawl a good gift?  
 **A:** A pashmina shawl makes a practical luxury gift because it is a single item that works across multiple contexts — travel, formal events, meditation, daily wear — without requiring sizing or fitting. For men who travel frequently, the 70-gram weight and compact fold make it more useful than most travel accessories. For men who wear suits, a black, charcoal, or navy shawl adds a layer without compromising the tailored silhouette. The 90-color range means the choice can be matched to the recipient's wardrobe rather than defaulting to a safe neutral. At $299, it sits in the price range where the recipient recognizes genuine quality rather than a token purchase.
 
-**Q:** How do I identify if the pashmina shawl I am buying is genuine?  
+**Q:** A. How do I identify if the pashmina shawl I am buying is genuine?  
 **A:** Genuine pashmina passes four tests that synthetic blends fail. The burn test: take a fringe thread and burn it — real pashmina smells like burnt hair and crumbles to ash; synthetic blends melt, smell of plastic, and leave a hard residue. The ring test: a genuine pashmina shawl at 36 x 80 inches can be passed through a standard finger ring when folded — this is the fineness test. The feel test: real pashmina feels warm to the touch before you put it on, because the fiber traps air at the microscopic level; synthetic alternatives feel cool and slightly slick. The weave test: hold the shawl against light — genuine handwoven pashmina shows slight irregularities in the weave; a perfectly uniform weave indicates machine production. Baron Boutique sources 100% Grade A Himalayan pashmina, hand-spun and handwoven over five days per piece.
 
 ## Categories
 
-- Handcrafted Cashmere
+- Handcrafted Cashmere › Men's Cashmere & Pashmina
 - Men › Accessories
 
 **Related terms:** men's pashmina, ring shawl, traditional loom shawl, Grade A pashmina stole, Himalayan cashmere wrap

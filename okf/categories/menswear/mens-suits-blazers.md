@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-18T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-26T03:00:01Z }
 ---
 
 # Suits & Blazers
@@ -124,7 +124,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [Never The Sinner Suit](../../products/screen-inspired/cinema-classics/never-the-sinner-suit.md)
 - [Off White Dinner Jacket](../../products/menswear/dinner-jackets/iconic-wool-dinner-jacket.md)
 - [One Button Notch Lapel Tuxedo](../../products/menswear/tuxedos/one-button-merino-wool-tuxedo.md)
-- [Raw Silk Blazer](../../products/menswear/mens-silk-suits-shirts-ties-scarves/raw-silk-blazer.md)
+- [Raw Silk Blazer, Made to Your Measurements](../../products/menswear/mens-silk-suits-shirts-ties-scarves/raw-silk-blazer.md)
 - [Shawl Collar Dinner Jacket White](../../products/menswear/dinner-jackets/iconic-wool-dinner-jacket-with-shawl-collar.md)
 - [Silk Nehru Jacket James Bond Dr. No](../../products/screen-inspired/spy-tailoring/dr-no-silk-jacket.md)
 - [Silver Dupioni Silk Suit - Bespoke Single-Breasted Tailored Menswear](../../products/menswear/mens-silk-suits-shirts-ties-scarves/silver-dupioni-silk-suit.md)

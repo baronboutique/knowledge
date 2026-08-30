@@ -9,12 +9,12 @@ sources:
     resource: https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-08-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-23T03:00:01Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
 ---
 
 # Women's Rust Cashmere Turtleneck Sweater
@@ -38,7 +38,7 @@ Amber Embrace of Autumn Like leaves turning in golden light, this rust cashmere 
 
 ## Categories
 
-- Handcrafted Cashmere
+- Handcrafted Cashmere › Cashmere Sweaters & Knitwear
 - Women › Sweaters
 
 **Related terms:** burnt orange roll neck jumper, terracotta polo neck sweater, Nepal knit turtleneck, autumn cashmere jumper

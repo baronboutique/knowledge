@@ -14,13 +14,21 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-23T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.14.0, at: 2026-08-05T10:56:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
+generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 ---
 
 # Handcrafted Cashmere
 
 Handwoven cashmere scarves, shawls, and sweaters made by hand in Nepal from fiber sourced on the Tibetan Plateau.
+
+## Subcategories
+
+- [Handwoven Cashmere Scarves & Shawls](handmade-cashmere-collection/handwoven-cashmere-scarves-shawls.md)
+- [Hand Felted Cashmere Wraps](handmade-cashmere-collection/hand-felted-cashmere-wraps.md)
+- [Patterned Cashmere Scarves](handmade-cashmere-collection/patterned-cashmere-scarves.md)
+- [Men's Cashmere & Pashmina](handmade-cashmere-collection/mens-cashmere-pashmina.md)
+- [Cashmere Sweaters & Knitwear](handmade-cashmere-collection/cashmere-sweaters-knitwear.md)
 
 Most “Cashmere” Is Blended, Machine-Made, or Mislabeled. Ours Is None of Those.
 The word cashmere is one of the most abused labels in fashion. A great deal of what is sold as cashmere is blended with wool, viscose, or acrylic, spun and woven by machine, and finished to feel soft in the shop for exactly as long as it takes to get it home. Within a season it pills, thins, and loses the warmth that made it worth buying. Genuine cashmere behaves the opposite way: it gets softer with every wash, holds its warmth for decades, and reads as quiet luxury rather than costume.
@@ -54,7 +62,7 @@ Your cashmere ships from our workshop by trackable courier, gift-ready. Ready-ma
 **A:** Cashmere is graded on the length and fineness of the fiber. Grade A is the longest and finest, typically measuring 14 to 16 microns in diameter with a long staple, which is what gives it superior warmth without bulk, a soft handle that improves rather than degrades with wear, and strong resistance to pilling. Grade B and C fibers are shorter and coarser, which is why cheaper cashmere feels acceptable at first but pills and thins within a season. Every piece in this collection is 100% Grade A cashmere with no blend, which is the single biggest reason it behaves the way genuine cashmere should.
 
 **Q:** Is pashmina the same as cashmere?  
-**A:** Pashmina is a type of cashmere, specifically the very fine undercoat of the Changthangi goat of the Himalayan highlands, measuring around 12 to 16 microns, which is finer than most standard cashmere. So all pashmina is cashmere, but not all cashmere is pashmina. Our pashmina shawl is 100% Grade A Himalayan pashmina at a 200/2 yarn count, handwoven over five days, while the rest of the collection is 100% Grade A cashmere. Both are genuine single-fiber pieces, never blended with wool, viscose, or synthetic.
+**A:** Pashmina is a type of cashmere, specifically the very fine undercoat of the Changthangi goat of the Himalayan highlands, measuring around 12 to 16 microns, which is finer than most standard cashmere. So all pashmina is cashmere, but not all cashmere is pashmina. Our pashmina shawl is 100% Grade A Himalayan pashmina at a 200/2 yarn count, handwoven over five days, while the rest of the collection is 100% Grade A cashmere 26/2 and 28/1 yarn count depending on what the piece has to do. Both are genuine single-fiber pieces, never blended with wool, viscose, or synthetic.
 
 **Q:** Can I personalize or monogram a cashmere scarf as a gift?  
 **A:** Yes. Scarves, wraps, and shawls can be monogrammed or personalized with initials, and many pieces are available in custom colors on request, which makes them a genuinely one-of-a-kind gift rather than an off-the-shelf one. A personalized 100% Grade A cashmere scarf or pashmina shawl sits in the price range where the recipient recognizes real quality, and because cashmere works across travel, formal events, and everyday wear without any sizing, it suits almost anyone. See the custom cashmere gifts service for personalization options.
@@ -89,7 +97,6 @@ Your cashmere ships from our workshop by trackable courier, gift-ready. Ready-ma
 ## Products
 
 - [Aquamarine Blue Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/aquamarine-blue-handwoven-cashmere-scarf-shawl.md)
-- [Bright Pink Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/bright-pink-handwoven-cashmere-scarf-shawl.md)
 - [Cloud Stripe Spring Cashmere Scarf](../products/handmade-cashmere-collection/cloud-stripe-spring-cashmere-scarf.md)
 - [Emerald Green Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/emerald-green-handwoven-cashmere-scarf-shawl.md)
 - [Fog Cable Knit Cashmere Turtleneck Sweater](../products/handmade-cashmere-collection/fog-cable-knit-cashmere-turtleneck.md)
@@ -99,11 +106,9 @@ Your cashmere ships from our workshop by trackable courier, gift-ready. Ready-ma
 - [Hand Felted Pink Cashmere Scarf Wrap](../products/handmade-cashmere-collection/hand-knitted-pink-cashmere-scarf-wrap.md)
 - [Hand Felted Red Cashmere Scarf Wrap](../products/handmade-cashmere-collection/hand-knitted-red-cashmere-scarf-wrap.md)
 - [Hand-Finished Leopard Print Cashmere Scarf](../products/handmade-cashmere-collection/leopard-print-cashmere-scarf.md)
-- [Handwoven Black Cashmere Scarf Shawl](../products/handmade-cashmere-collection/handwoven-black-cashmere-scarf-shawl.md)
 - [Handwoven Forest Green Cashmere Scarf Shawl](../products/handmade-cashmere-collection/handwoven-forest-green-cashmere-scarf-shawl.md)
 - [Handwoven Ivory Cashmere Scarf Shawl](../products/handmade-cashmere-collection/handwoven-ivory-cashmere-scarf-shawl.md)
 - [Handwoven Salmon Pink Cashmere Scarf Shawl](../products/handmade-cashmere-collection/handwoven-salmon-pink-cashmere-scarf-shawl.md)
-- [Handwoven Yellow Cashmere Scarf Shawl](../products/handmade-cashmere-collection/handwoven-yellow-cashmere-scarf-shawl.md)
 - [Himalayan Horizon Striped Cashmere Scarf – Hand-Finished in Twill Weave](../products/handmade-cashmere-collection/blue-green-tan-striped-cashmere-scarf.md)
 - [Indigo Blue Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/indigo-blue-handwoven-cashmere-scarf-shawl.md)
 - [Light Teal Green Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/light-teal-green-handwoven-cashmere-scarf-shawl.md)
