@@ -16,7 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-07T02:21:29Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # The Collateral Suit, Single-Button Light Grey Worsted Wool
@@ -30,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 12 options available
-- **Lining:** 34 options available
+- **Tropical Wool Fabric:** 12 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:00:00Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Screen Inspired
@@ -75,11 +75,11 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 **Q:** Can you make the Count Dooku cape and tunic from Star Wars?  
 **A:** Yes. The Count Dooku ensemble is offered as two master-crafted pieces: a floor-length cape in Super 130s Fresco wool with a 100% silk-satin lining and hand-made silver brooches joined by a chain, and a tunic in Super 130s black Gabardine wool with a layered-canvas mandarin collar, a concealed six-button front, and double rear vents for movement. Both are cut to your exact height and measurements for a screen-accurate, commanding profile, and, like every order, include a free test outfit first.
 
-**Q:** Do you make the Joker&#8217;s coat and other villain looks?  
+**Q:** Do you make the Joker’s coat and other villain looks?  
 **A:** Yes. The theatrical villain range includes the Jack Nicholson 1989 Joker purple coat and tailcoat, the 2019 Joker look, and other character coats, all built in genuine cloth rather than costume-grade fabric so the drama reads as tailoring. Each is made to your measurements with a free test garment, and if you want a villain look that is not listed, send a reference image and we will quote it.
 
 **Q:** Can you make the Cary Grant North by Northwest suit and other classic-cinema looks?  
-**A:** Yes. The Cary Grant grey suit from North by Northwest is one of the most requested classic-cinema pieces, cut in fine suiting cloth to the clean mid-century silhouette and made to your measurements. The Cinema Classics collection also includes the Brad Pitt Ocean&#8217;s 11 rusty-tan suit and other golden-age and heist-film tailoring. Send a reference for any classic look not listed.
+**A:** Yes. The Cary Grant grey suit from North by Northwest is one of the most requested classic-cinema pieces, cut in fine suiting cloth to the clean mid-century silhouette and made to your measurements. The Cinema Classics collection also includes the Brad Pitt Ocean’s 11 rusty-tan suit and other golden-age and heist-film tailoring. Send a reference for any classic look not listed.
 
 **Q:** What fabrics are used for screen inspired coats compared to the originals?  
 **A:** Fabric selection depends on the style. The signature floor-length trench coat uses a medium-weight structured cotton. Doctor inspired frock coats are typically made in fine wool suiting or velvet depending on the style. Classic spy suits are built in Super 100s or 110s wool. For each piece, the fabric is chosen to match the weight, drape, and texture as closely as possible to what is seen on screen.
@@ -101,16 +101,16 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 
 ## Products
 
-- [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat](../products/screen-inspired/1989-purple-coat-gotham-villain.md)
-- [1989 Purple Evening Tailcoat, The Showman's Tails](../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
-- [2008 Purple Melton Overcoat, The Anarchist's Long Coat](../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
-- [2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
+- [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired](../products/screen-inspired/1989-purple-coat-gotham-villain.md)
+- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
+- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
 - [5th Doctor Cosplay Beige Frock Coat](../products/screen-inspired/5th-doctor-red-piping-frock-coat.md)
-- [Dryden Vos Costume Solo: A Star Wars Story Cosplay](../products/screen-inspired/dryden-vos-costumes-solo.md)
+- [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../products/screen-inspired/dryden-vos-costumes-solo.md)
 - [Eleventh Doctor's "Snowmen" Frock Coat](../products/screen-inspired/eleventh-doctor-snowmen-frock-coat-replica.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](../products/screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
 - [Good Omens Season 02 Crowley Black Blazer](../products/screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [James Bond Casino Royale Final Scene Inspired 3 Piece Suit](../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
+- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [Newt Inspired British Herringbone Tweed Coat](../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
 - [Sacha Dhawan Master Coat Doctor Series 12](../products/screen-inspired/sacha-dhawan-master-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](../products/screen-inspired/smith-shetland-tweed-blazer-jacket.md)

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Hand Felted Cashmere Wraps
@@ -56,7 +56,7 @@ This is the whole skill. Too little and it is simply a knitted wrap; too far and
 **Q:** Can I still see the knitting in the finished wrap?  
 **A:** Usually, if you look closely. Fulling blurs stitch definition rather than erasing it, so the ghost of the original knit structure often remains visible in the surface, particularly at the edges. That trace is a good thing to look for — it is direct evidence the piece was knitted first and then felted, rather than being a pressed or bonded fabric pretending to be handmade.
 
-**Q:** Why don&#8217;t the edges fray or unravel?  
+**Q:** Why don’t the edges fray or unravel?  
 **A:** Because fulling locks the fibers to each other across the whole cloth, including at the edges. An ordinary knitted fabric will run if you cut it; a fulled one will not. That is why these wraps need no hem, no binding and no overlock stitching to hold them together — the structure holds itself, which is also why the edges can be left soft and slightly irregular.
 
 **Q:** Will it shrink further if I wash it?  

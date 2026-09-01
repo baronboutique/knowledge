@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Victorian Detective
@@ -52,16 +52,16 @@ Your finished piece ships by FedEx, DHL, or UPS with full tracking, about four t
 ## Questions & Answers
 
 **Q:** What is in the Baker Street collection?  
-**A:** Two pieces that define the consulting-detective wardrobe: the detective&#8217;s long corduroy frock coat, inspired by the 2009 film, and the doctor&#8217;s black cotton-twill shooting jacket, inspired by the BBC series. Both are made to your exact measurements in real cloth, with a free test garment before the final fabric is cut. If you want another piece from the detective&#8217;s world that is not listed, we can build it from reference images.
+**A:** Two pieces that define the consulting-detective wardrobe: the detective’s long corduroy frock coat, inspired by the 2009 film, and the doctor’s black cotton-twill shooting jacket, inspired by the BBC series. Both are made to your exact measurements in real cloth, with a free test garment before the final fabric is cut. If you want another piece from the detective’s world that is not listed, we can build it from reference images.
 
 **Q:** Can you make the Sherlock Holmes coat from the 2009 film?  
 **A:** Yes. It is built in rugged big-wale corduroy with the signature frock-style back and a hand-basted canvas front for structure, single-breasted with a three-button closure. It is offered in 11 corduroy colors, from oxblood and deep greens to classic tan, and you can choose a wide or thin wale to refine the character. It is made to your measurements, and a free test coat confirms the silhouette before the corduroy is cut.
 
-**Q:** Do you make the doctor&#8217;s shooting jacket from the BBC series?  
+**Q:** Do you make the doctor’s shooting jacket from the BBC series?  
 **A:** Yes. The John Watson shooting jacket is a structured black cotton-twill jacket built for movement, with the understated, practical line that suits the character. Because it is cut to your measurements as a genuine tailored jacket, it also works as a distinctive everyday jacket well beyond a cosplay setting. It includes the same free test garment as every order.
 
-**Q:** What is a frock coat, and how is the detective&#8217;s coat different from a plain overcoat?  
-**A:** A frock coat is a knee-length coat with a horizontal waist seam that gives it a fitted body and a full skirt, the standard day coat of the Victorian era. The detective&#8217;s coat uses that frock-style back but in a rugged big-wale corduroy rather than formal wool, which is what gives it its restless, characterful look, distinct from both a plain straight-hanging overcoat and a formal wool frock coat. If you want the formal versions, they are in the Frock Coats collection.
+**Q:** What is a frock coat, and how is the detective’s coat different from a plain overcoat?  
+**A:** A frock coat is a knee-length coat with a horizontal waist seam that gives it a fitted body and a full skirt, the standard day coat of the Victorian era. The detective’s coat uses that frock-style back but in a rugged big-wale corduroy rather than formal wool, which is what gives it its restless, characterful look, distinct from both a plain straight-hanging overcoat and a formal wool frock coat. If you want the formal versions, they are in the Frock Coats collection.
 
 **Q:** Can I wear these pieces day to day, or only for cosplay?  
 **A:** Both. Because they are real tailored garments in corduroy and cotton twill rather than costume fabric, both read as distinctive everyday outerwear as much as character pieces. The corduroy frock coat in a subdued color like tan or deep green works as a striking statement coat, and the shooting jacket wears like any well-cut casual jacket. They are equally at home at a reenactment, a steampunk or period event, or on the street.

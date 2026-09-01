@@ -38,7 +38,7 @@ Every adjustment is applied, then your dress is cut and hand-tailored in your ch
 **A:** Yes, the tailored sheath is the core of the collection. The Essential Black Sheath, the Wool Flannel V-Neck Sheath, and the White Piped-Trim Sheath are all made to your measurements, and because each is bespoke you choose the neckline, sleeve, and length to suit work, evening, or occasion.
 
 **Q:** Do you have dresses for a wedding or mother of the bride?  
-**A:** Yes. The Minimalist Sheath Wedding Dress and the Modern Mother of the Bride Sheath Dress are both made to your measurements, and you can coordinate the color and cloth with the wedding palette. For suits and tuxedos for the same occasions, see the Women&#8217;s Wedding Suits collection.
+**A:** Yes. The Minimalist Sheath Wedding Dress and the Modern Mother of the Bride Sheath Dress are both made to your measurements, and you can coordinate the color and cloth with the wedding palette. For suits and tuxedos for the same occasions, see the Women’s Wedding Suits collection.
 
 **Q:** Which fabrics can I choose?  
 **A:** Seasonless and flannel wool, crepe silk, linen for summer styles, sharkskin, and cotton, in a range of colors. Each product page lists the cloths available, and we can advise on the best choice for your climate and the occasion you are dressing for.

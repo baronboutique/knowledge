@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Womens Skirt Suit
@@ -28,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** FLGV-5-3 Grey with medium chalk stripes, FLGV-5-4 Charcoal with medium chalk stripes, FLGV-5-5 Navy with medium chalk stripes, FLGV-5-6 Black with medium chalk stripes, FLGV-9-7 Black with medium dotted stripes
-- **Lining:** 34 options available
+- **FLGV Stripes Fabric:** FLGV-5-3 Grey with medium chalk stripes, FLGV-5-4 Charcoal with medium chalk stripes, FLGV-5-5 Navy with medium chalk stripes, FLGV-5-6 Black with medium chalk stripes, FLGV-9-7 Black with medium dotted stripes
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

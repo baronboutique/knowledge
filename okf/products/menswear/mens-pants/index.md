@@ -32,7 +32,7 @@ Your finished trousers ship from Dubai by trackable courier, about four to six w
 
 ## Questions & Answers
 
-**Q:** How should men&#8217;s trousers fit?  
+**Q:** How should men’s trousers fit?  
 **A:** Well-fitted trousers sit at a comfortable rise where the waistband stays put without a belt straining, follow the seat and thigh cleanly without pulling or sagging, and finish at the shoe with the break you prefer. The rise, the seat, and the thigh are the three measurements off-the-rack trousers get wrong most often, because they are cut to a size block rather than your body. Made-to-measure trousers are built from your actual rise, seat, and leg, which is why they solve the fit problems a belt and a quick hem never can.
 
 **Q:** What is trouser break, and which should I choose?  
@@ -48,7 +48,7 @@ Your finished trousers ship from Dubai by trackable courier, about four to six w
 **A:** The range covers dupioni silk for events and full silk suits, Super 150s pinstripe wool for formal and office wear, sharkskin and merino worsted for everyday dress trousers, grey and navy wool flannel for cooler weather and softness, and linen for beach and summer weddings. Each cloth suits a different job, so the product pages describe the weight, season, and character of each. If you want a specific cloth not listed, contact us before ordering.
 
 **Q:** Do you make linen trousers for a beach or destination wedding?  
-**A:** Yes. The linen trouser is cut specifically for beach and summer weddings, breathable and relaxed enough for heat and sand while still tailored to your measurements so it photographs cleanly rather than looking like loose beachwear. It pairs naturally with a linen grooms&#8217; suit or a fine cotton or silk shirt. Order well ahead of the date so there is time for the free test garment and any adjustments.
+**A:** Yes. The linen trouser is cut specifically for beach and summer weddings, breathable and relaxed enough for heat and sand while still tailored to your measurements so it photographs cleanly rather than looking like loose beachwear. It pairs naturally with a linen grooms’ suit or a fine cotton or silk shirt. Order well ahead of the date so there is time for the free test garment and any adjustments.
 
 **Q:** What is the difference between grey flannel and charcoal worsted trousers?  
 **A:** Flannel is a soft, brushed wool with a slightly fuzzy surface that feels warm and looks relaxed, ideal for autumn and winter and for pairing with knitwear and tweed. Charcoal and grey worsted, including sharkskin and merino, is a smoother, harder-finished cloth that presses to a sharper crease and reads more formal, suited to year-round office and dress wear. Many men own both: flannel for cold-weather softness and worsted for a crisp, formal line.

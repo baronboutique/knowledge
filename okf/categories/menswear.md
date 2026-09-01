@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-13T13:21:22Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Men
@@ -74,7 +74,7 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 **A:** When you order a tailored piece, you enter your measurements on the product page. Before we cut your final cloth, we build a complete test garment in a low-cost fabric to those measurements and ship it to you by trackable courier. You try it on at home, check the fit, and send us any adjustments. We update your pattern and only then cut your final garment. The test garment is yours to keep. This is the step that lets us guarantee fit for customers ordering from anywhere in the world.
 
 **Q:** Do you make screen-inspired and cosplay pieces?  
-**A:** Yes, and it is one of Baron&#8217;s specialties. The screen-inspired catalog includes Doctor Who coats and jackets, The Matrix, James Bond tailoring, the Cary Grant North by Northwest suit, and many more, all built as wearable, made-to-your-measurements tailoring in real cloth rather than costume-grade materials. These are collector-quality replicas you can wear to a convention, a themed wedding, or simply as a distinctive garment, and they come with the same free test garment as the rest of the range.
+**A:** Yes, and it is one of Baron’s specialties. The screen-inspired catalog includes Doctor Who coats and jackets, The Matrix, James Bond tailoring, the Cary Grant North by Northwest suit, and many more, all built as wearable, made-to-your-measurements tailoring in real cloth rather than costume-grade materials. These are collector-quality replicas you can wear to a convention, a themed wedding, or simply as a distinctive garment, and they come with the same free test garment as the rest of the range.
 
 **Q:** Can I choose a custom fabric, color, or detail?  
 **A:** Yes. Most pieces offer a range of cloths and colors on the product page, and you can specify details such as lapel style, vents, lining, and button configuration in the order notes. If you want something outside the listed options, a specific color, a particular cloth, or a design change, contact us before ordering and we will confirm what is possible. Personalization such as monogramming is also available on many cashmere pieces.
@@ -86,7 +86,7 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 **A:** For a fixed date such as a wedding, order at least 8 to 10 weeks ahead. That allows comfortable time for the test garment to reach you, for any fit adjustments, and for your final garment to be made and shipped. Production is typically four to six weeks from the point your measurements are confirmed, including the test-garment stage. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
 
 **Q:** Do you ship worldwide, and how do I pay?  
-**A:** Yes, we ship worldwide from Dubai by trackable courier, with delivery usually 3 to 7 business days once a garment is finished. Checkout is secure through PayPal, and you can pay with your PayPal balance or with any major credit or debit card through PayPal&#8217;s guest checkout, with no PayPal account required.
+**A:** Yes, we ship worldwide from Dubai by trackable courier, with delivery usually 3 to 7 business days once a garment is finished. Checkout is secure through PayPal, and you can pay with your PayPal balance or with any major credit or debit card through PayPal’s guest checkout, with no PayPal account required.
 
 **Q:** How is Baron different from off-the-rack or a local bespoke tailor?  
 **A:** Off-the-rack fits an average body and offers no fit guarantee before you buy. A local bespoke tailor makes to your measurements but typically costs several times more and requires you to visit in person. Baron sits between them: genuinely made to your measurements, with a free test garment that confirms the fit before the final cloth is cut, at a price far below traditional bespoke, and available to order from anywhere in the world.
@@ -98,7 +98,7 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 **A:** Because each tailored garment is cut specifically to your measurements, custom pieces are not eligible for return or refund once production has begun. This is exactly why the free test garment exists: fit concerns are identified and resolved on the test garment before your final cloth is cut, and any remaining fit issues are handled through our alteration service. Ready-made accessories follow standard return terms.
 
 **Q:** Does Baron make womenswear too?  
-**A:** Yes. Alongside this menswear range, Baron makes made-to-your-measurements womenswear including suits, tuxedos, coats, dresses, and separates, plus the shared cashmere collection. The same workshop, the same standard, and the same free-test-garment process apply. You can reach the women&#8217;s range from the main navigation.
+**A:** Yes. Alongside this menswear range, Baron makes made-to-your-measurements womenswear including suits, tuxedos, coats, dresses, and separates, plus the shared cashmere collection. The same workshop, the same standard, and the same free-test-garment process apply. You can reach the women’s range from the main navigation.
 
 ## Products
 

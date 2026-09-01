@@ -33,16 +33,16 @@ Every adjustment is applied, then your suit is cut and hand-tailored in your cho
 ## Questions & Answers
 
 **Q:** Do you make custom, bespoke suits for women?  
-**A:** Yes. Every suit and blazer in this collection is made to your exact measurements in real cloth, with no standard sizing. You choose the style, cloth, color, and details, and we tailor it to your body and your brief. Before we cut your final fabric we send a free test garment so the fit is confirmed on you first, which is what makes a truly bespoke women&#8217;s suit possible online.
+**A:** Yes. Every suit and blazer in this collection is made to your exact measurements in real cloth, with no standard sizing. You choose the style, cloth, color, and details, and we tailor it to your body and your brief. Before we cut your final fabric we send a free test garment so the fit is confirmed on you first, which is what makes a truly bespoke women’s suit possible online.
 
-**Q:** Can I order a women&#8217;s pinstripe suit made to measure?  
-**A:** Yes, and it is our signature. The Women&#8217;s Pinstripe Suit is made to your measurements in a fine merino-cashmere cloth, and we also offer an off-white double-breasted pinstripe version. You can have either as a pant suit or a skirt suit, single or double-breasted, with the trouser and jacket length cut to your proportions.
+**Q:** Can I order a women’s pinstripe suit made to measure?  
+**A:** Yes, and it is our signature. The Women’s Pinstripe Suit is made to your measurements in a fine merino-cashmere cloth, and we also offer an off-white double-breasted pinstripe version. You can have either as a pant suit or a skirt suit, single or double-breasted, with the trouser and jacket length cut to your proportions.
 
 **Q:** What tailored blazers do you offer for women?  
 **A:** A full range of single blazers, each cut to your measurements: the Sculpted Merino Wool Blazer, the Dupioni Silk Blazer, the Leather-Trimmed Sharkskin Blazer, and the Statement Red Blazer, among others. Because each is made to order you choose the cloth, color, lapel, and button stance, so the blazer finishes your wardrobe rather than fighting it.
 
-**Q:** Do you make women&#8217;s tuxedos?  
-**A:** Yes. We tailor tuxedos drafted for a woman&#8217;s figure rather than borrowed from a man&#8217;s pattern, including a Velvet Tuxedo Jacket, a Women&#8217;s Tuxedo Suit, and a fully bespoke women&#8217;s tuxedo. Each is made to your measurements with satin or grosgrain details of your choice, ideal for black-tie events, weddings, and evening wear.
+**Q:** Do you make women’s tuxedos?  
+**A:** Yes. We tailor tuxedos drafted for a woman’s figure rather than borrowed from a man’s pattern, including a Velvet Tuxedo Jacket, a Women’s Tuxedo Suit, and a fully bespoke women’s tuxedo. Each is made to your measurements with satin or grosgrain details of your choice, ideal for black-tie events, weddings, and evening wear.
 
 **Q:** Which fabrics can I choose for my suit?  
 **A:** You can choose from merino wool, high-twist tropical wool and Fresco for warm weather, mohair for a crisp finish, sharkskin, dupioni silk, wool-silk blends, and velvet for evening pieces. Each cloth is offered in a range of colors, and we can advise on the best choice for your climate, occasion, and how often you plan to wear the suit.

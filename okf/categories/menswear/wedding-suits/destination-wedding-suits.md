@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-22T13:23:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Destination Wedding Suits
@@ -51,7 +51,7 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 **A:** A groom should choose a piece that suits the setting and the climate, and that is made to his measurements so it photographs cleanly all day. A hot beach or desert ceremony calls for a breathable fabric like Fresco wool or corduroy, while a winter castle or mountain wedding calls for Melton wool, worsted, or leather. Because the setting of a destination wedding is already extraordinary, it is the right occasion to wear a statement piece rather than an ordinary suit.
 
 **Q:** Can a groom wear something bold or unusual to his own wedding?  
-**A:** Yes, and a destination wedding is exactly the setting for it, as long as the piece fits the venue and the couple&#8217;s vision. A cape suit, a dramatic coat, or a colored three-piece reads as intentional and memorable at a ceremony designed to be unforgettable. The key is fit: a bold piece made to your measurements looks deliberate, while the same piece in a generic size looks like a costume.
+**A:** Yes, and a destination wedding is exactly the setting for it, as long as the piece fits the venue and the couple’s vision. A cape suit, a dramatic coat, or a colored three-piece reads as intentional and memorable at a ceremony designed to be unforgettable. The key is fit: a bold piece made to your measurements looks deliberate, while the same piece in a generic size looks like a costume.
 
 **Q:** What fabric works for a summer destination wedding versus a winter one?  
 **A:** For a summer or tropical destination, choose Fresco wool, corduroy, or a lighter weight, because they breathe and stay comfortable through a warm outdoor day. For a winter or cold-weather destination, choose Melton wool, worsted wool, or leather, which hold warmth and structure. This collection deliberately spans both, so the same made-to-your-measurements standard covers a beach in July and a castle in December.
@@ -85,14 +85,14 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 
 ## Products
 
-- [1989 Purple Evening Tailcoat, The Showman's Tails](../../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
-- [2008 Purple Melton Overcoat, The Anarchist's Long Coat](../../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
-- [2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
+- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
+- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
 - [Charcoal Grey Pinstripe Suit James Bond Skyfall](../../../products/menswear/destination-wedding-suits/james-bond-charcoal-stripe-suit-from-skyfall.md)
 - [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../../products/menswear/destination-wedding-suit.md)
 - [Fantastic Beasts Percival Graves Black Coat](../../../products/menswear/percival-graves-black-coat.md)
 - [James Bond No Time To Die Beige Corduroy Suit](../../../products/menswear/destination-wedding-suits/no-time-to-die-beige-corduroy-suit-james-bond.md)
 - [James West Wild Wild West Suit](../../../products/menswear/destination-wedding-suits/james-west-wild-wild-west-suit.md)
+- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../../products/menswear/mens-long-black-leather-coat.md)
 - [Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat](../../../products/menswear/destination-wedding-suits/matrix-reloaded-coat.md)
 

@@ -1,6 +1,6 @@
 ---
 type: Product
-title: "2008 Purple Melton Overcoat, The Anarchist's Long Coat"
+title: "2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired"
 description: "Purple single-breasted overcoat in 100% Melton wool with triple rear vents, five-button flared cuffs, and a hidden orange acetate lining, recreated from the 2008 cinematic villain's coat."
 resource: https://baronboutique.com/2008-purple-trench-coat-gotham-villain/
 tags: [men, coat, trench-coat, melton-wool, purple, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
@@ -9,17 +9,18 @@ sources:
     resource: https://baronboutique.com/2008-purple-trench-coat-gotham-villain/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-07
+    last_modified: 2026-08-30
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-07T02:56:35Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-08-30T18:51:32Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
-# 2008 Purple Melton Overcoat, The Anarchist's Long Coat
+# 2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired
 
 **SKU:** 5003005  
 **URL:** https://baronboutique.com/2008-purple-trench-coat-gotham-villain/  
@@ -32,8 +33,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 15 options available
-- **Lining:** 34 options available
+- **Melton Wool Fabric:** 15 options available
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

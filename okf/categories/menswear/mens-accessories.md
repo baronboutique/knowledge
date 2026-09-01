@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Accessories
@@ -68,7 +68,7 @@ Your accessories ship from Dubai by trackable courier. Ready-made pieces dispatc
 **A:** Yes. Cashmere scarves, wraps, and the pashmina shawl can be monogrammed or personalized with initials, and ties can be cut to a custom length and width, which turns any of them into a genuinely individual gift rather than an off-the-shelf one. Because they are real silk and cashmere at a recognizable quality level, they read as a considered present. See the cashmere collection for personalization options.
 
 **Q:** What makes a good accessory gift for a man?  
-**A:** Accessories are among the best practical-luxury gifts because they need no sizing and suit almost anyone. A silk pocket square at $65 or a tie is an accessible entry point; a tie-and-square set or a men&#8217;s cashmere scarf sits in the mid range; and the pashmina shawl or a personalized cashmere piece is a standout gift. The wide color range and the option to monogram let you choose something specific to the recipient rather than defaulting to a safe neutral.
+**A:** Accessories are among the best practical-luxury gifts because they need no sizing and suit almost anyone. A silk pocket square at $65 or a tie is an accessible entry point; a tie-and-square set or a men’s cashmere scarf sits in the mid range; and the pashmina shawl or a personalized cashmere piece is a standout gift. The wide color range and the option to monogram let you choose something specific to the recipient rather than defaulting to a safe neutral.
 
 **Q:** Do you ship worldwide, and how long does it take?  
 **A:** Yes, we ship worldwide from Dubai by trackable courier. Ready-made ties, squares, and scarves dispatch quickly, usually within a few business days. Personalized or monogrammed pieces and made-to-order items take a little longer because they are finished specifically for you, with the timeline confirmed at checkout. For a gift with a deadline, order with a comfortable margin or contact us and we will confirm what is achievable.

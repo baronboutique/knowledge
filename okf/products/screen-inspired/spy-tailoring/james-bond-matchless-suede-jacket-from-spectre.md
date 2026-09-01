@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # James Bond Morocco Matchless Suede Jacket Spectre
@@ -30,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Beige Faux Suede, Black Faux Suede, Stone Faux Suede, Tan Faux Suede
-- **Lining:** 34 options available
+- **Faux Suede Fabric:** Beige Faux Suede, Black Faux Suede, Stone Faux Suede, Tan Faux Suede
+- **Lining Fabric:** 34 options available
 
 ## Summary
 

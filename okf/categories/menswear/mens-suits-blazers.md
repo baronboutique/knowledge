@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-26T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Suits & Blazers
@@ -54,7 +54,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 
 ## Questions & Answers
 
-**Q:** How should a men&#8217;s suit fit?  
+**Q:** How should a men’s suit fit?  
 **A:** A suit jacket should sit cleanly on the shoulders with the seam ending where your shoulder ends, close the chest without pulling or gaping at the collar, and finish long enough to cover the seat of the trousers. The sleeve should show about a half-inch of shirt cuff, and the trousers should break lightly at the shoe with no pooling. The shoulder is the critical measurement because it is the hardest area to alter, which is why a suit made to your measurements, and confirmed on a free test suit before the cloth is cut, fits in a way an altered off-the-rack suit rarely can.
 
 **Q:** What is the difference between made-to-measure and off-the-rack?  
@@ -79,7 +79,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 **A:** Yes. You can specify notch, peak, or shawl lapel, the button count and stance, single or double vents, a ticket pocket, and the lining color, along with other details, in the customizer or the order notes. Because each suit is made to your measurements, these are genuine construction choices rather than fixed options. If you want something not listed, contact us before ordering and we will confirm what is possible.
 
 **Q:** Which suit is best for a wedding?  
-**A:** For a groom or guest, a dupioni silk suit photographs beautifully and reads as special, while a clean navy or grey wool suit is the versatile choice a guest will wear again. For a distinctive groom look, Baron&#8217;s wedding collection includes the signature wedding suit with a cape and linen grooms&#8217; suits. All are made to your measurements with a free test suit, so the fit is confirmed before the day. See the Wedding Suits collection.
+**A:** For a groom or guest, a dupioni silk suit photographs beautifully and reads as special, while a clean navy or grey wool suit is the versatile choice a guest will wear again. For a distinctive groom look, Baron’s wedding collection includes the signature wedding suit with a cape and linen grooms’ suits. All are made to your measurements with a free test suit, so the fit is confirmed before the day. See the Wedding Suits collection.
 
 **Q:** How long does a suit take, and how far ahead should I order?  
 **A:** Production is about four to six weeks from the point your measurements are confirmed, including the free test-suit stage. For a fixed date such as a wedding, order at least 8 to 10 weeks ahead so there is comfortable time for the test suit and any adjustments before the final suit is made and shipped. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
@@ -88,7 +88,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 **A:** Blazers start at $569, most made-to-your-measurements suits run $699 to $799 depending on cloth, and elaborate pieces such as the cape wedding suit go higher. The free test suit and made-to-measure construction are included at no extra charge. For comparison, a comparable garment from a traditional local bespoke tailor typically costs several times more, while an off-the-rack suit at a similar price offers no fit guarantee.
 
 **Q:** Do you ship worldwide, and how do I pay?  
-**A:** Yes, we ship worldwide from Dubai by trackable courier, usually 3 to 7 business days once your suit is finished. Checkout is secure through PayPal, and you can pay with your PayPal balance or any major credit or debit card through PayPal&#8217;s guest checkout, with no PayPal account required.
+**A:** Yes, we ship worldwide from Dubai by trackable courier, usually 3 to 7 business days once your suit is finished. Checkout is secure through PayPal, and you can pay with your PayPal balance or any major credit or debit card through PayPal’s guest checkout, with no PayPal account required.
 
 ## Products
 

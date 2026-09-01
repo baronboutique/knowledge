@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-18T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Cinema Classics
@@ -54,16 +54,16 @@ Every adjustment is applied, then your piece is cut and hand-tailored in the fab
 ## Questions & Answers
 
 **Q:** What films does the Cinema Classics collection cover?  
-**A:** A wide range across eras and genres: golden-age Hollywood, with the Cary Grant grey suit from North by Northwest; heist cinema, with the Ocean&#8217;s 11 suit; science fiction, with the Count Dooku and Dryden Vos costumes from Star Wars; fantasy, with Fantastic Beasts, Stardust, and the League of Extraordinary Gentlemen; gothic and period drama, with the Gary Oldman Dracula suit; the Wild Wild West suit; and modern screen pieces including a Good Omens blazer and an A Hard Day&#8217;s Night jacket. Each is made to your exact measurements, and we also build film looks not listed from reference images.
+**A:** A wide range across eras and genres: golden-age Hollywood, with the Cary Grant grey suit from North by Northwest; heist cinema, with the Ocean’s 11 suit; science fiction, with the Count Dooku and Dryden Vos costumes from Star Wars; fantasy, with Fantastic Beasts, Stardust, and the League of Extraordinary Gentlemen; gothic and period drama, with the Gary Oldman Dracula suit; the Wild Wild West suit; and modern screen pieces including a Good Omens blazer and an A Hard Day’s Night jacket. Each is made to your exact measurements, and we also build film looks not listed from reference images.
 
 **Q:** Can you make the Cary Grant grey suit from North by Northwest?  
 **A:** Yes, and it is the most-requested piece in this collection. It is cut in fine suiting cloth to the clean, slightly slim mid-century silhouette that made the suit famous, and made to your exact measurements, so it fits the way a bespoke suit should rather than approximating a size. Because it is a genuine, understated grey suit, many customers wear it as a superb everyday business suit as much as a screen-accurate one. As with every order, a free test garment confirms the fit before the final cloth is cut.
 
-**Q:** Do you make the Ocean&#8217;s 11 suit worn by Brad Pitt?  
+**Q:** Do you make the Ocean’s 11 suit worn by Brad Pitt?  
 **A:** Yes. The rusty-tan suit worn by Brad Pitt as Rusty Ryan is made to your measurements in the relaxed, modern cut that defines the look. It is built as a real tailored suit, so it works as distinctive smart-casual tailoring for events well beyond a themed one. Tell us any color or detail preference on the product page, and the free test garment confirms the fit first.
 
 **Q:** Can you make the Gary Oldman Dracula suit correctly?  
-**A:** Yes, and it is built to the details most versions miss. The jacket is a mid-calf frock coat in 140s worsted wool with inset dupioni silk peak lapels and a full princess-seam back; the waistcoat is a double-breasted dupioni silk 6&#215;3; and the trousers match. That silk-to-wool texture contrast and the frock coat structure are what make the grey suit specific rather than a generic Victorian coat. It is made to your measurements with a free test suit before the wool and silk are cut.
+**A:** Yes, and it is built to the details most versions miss. The jacket is a mid-calf frock coat in 140s worsted wool with inset dupioni silk peak lapels and a full princess-seam back; the waistcoat is a double-breasted dupioni silk 6×3; and the trousers match. That silk-to-wool texture contrast and the frock coat structure are what make the grey suit specific rather than a generic Victorian coat. It is made to your measurements with a free test suit before the wool and silk are cut.
 
 **Q:** Which Star Wars pieces do you make?  
 **A:** The Count Dooku cape and tunic, a floor-length Fresco wool cape with a silk-satin lining and metal brooch-and-chain fastening over a Gabardine wool mandarin-collar tunic, and the Dryden Vos costume from Solo. Both are cut to your exact height and measurements for a screen-accurate, commanding profile, and both include the free test garment. If you want another Star Wars look, send reference images and we will quote it.
@@ -78,13 +78,13 @@ Every adjustment is applied, then your piece is cut and hand-tailored in the fab
 **A:** Yes to both. Every piece is made to your measurements with no standard sizes, and before we cut your final cloth we send a free test garment in a low-cost fabric so the fit is confirmed on your body first. You try it on at home, check the fit, and send any adjustments, which we apply before cutting the final garment. The test garment is yours to keep, and it is how we guarantee fit for customers ordering from anywhere in the world.
 
 **Q:** Can I wear these pieces as everyday clothing?  
-**A:** Many of them, yes. The Cary Grant grey suit, the Ocean&#8217;s 11 suit, the Newt herringbone tweed coat, and the Good Omens blazer in particular read as excellent real-world clothing with no obvious film reference. Because each is cut to your measurements in genuine cloth, it wears and lasts like the tailored garment it is. The more theatrical pieces, such as the Dooku cape or the Dracula frock coat, are built for events, cosplay, stage, and collectors, but are still made to be genuinely worn.
+**A:** Many of them, yes. The Cary Grant grey suit, the Ocean’s 11 suit, the Newt herringbone tweed coat, and the Good Omens blazer in particular read as excellent real-world clothing with no obvious film reference. Because each is cut to your measurements in genuine cloth, it wears and lasts like the tailored garment it is. The more theatrical pieces, such as the Dooku cape or the Dracula frock coat, are built for events, cosplay, stage, and collectors, but are still made to be genuinely worn.
 
 **Q:** Can you make a film piece that is not listed?  
 **A:** Yes. If you want a garment from a film that is not currently listed, contact us with reference images and a description. We accept custom requests for suits, coats, capes, and jackets, assess the construction, and provide a quote before any work begins. Commissioning a specific film look this way is common.
 
 **Q:** Where can I find the villain pieces like the Joker coats?  
-**A:** The villain tailoring, including the Joker overcoats, the leather trench, the 1989 evening tailcoat, the 2019 burgundy suit, and The Shadow&#8217;s coat, is grouped in a dedicated Theatrical Villain Tailoring collection for easy browsing. Everything there is made to your measurements with the same free-test-garment process as the rest of Cinema Classics.
+**A:** The villain tailoring, including the Joker overcoats, the leather trench, the 1989 evening tailcoat, the 2019 burgundy suit, and The Shadow’s coat, is grouped in a dedicated Theatrical Villain Tailoring collection for easy browsing. Everything there is made to your measurements with the same free-test-garment process as the rest of Cinema Classics.
 
 **Q:** How long does an order take, and where do you ship?  
 **A:** Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage, and we ship worldwide by FedEx, DHL, or UPS with full tracking, including throughout the UK. Most orders arrive within a few business days of dispatch. For a convention or event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
@@ -92,19 +92,19 @@ Every adjustment is applied, then your piece is cut and hand-tailored in the fab
 ## Products
 
 - [1960s Mod Four-Button Suit with Velvet Collar](../../products/menswear/1960s-mod-suit-jacket-velvet-collar.md)
-- [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat](../../products/screen-inspired/1989-purple-coat-gotham-villain.md)
-- [1989 Purple Evening Tailcoat, The Showman's Tails](../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
-- [2008 Purple Melton Overcoat, The Anarchist's Long Coat](../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
-- [2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
+- [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired](../../products/screen-inspired/1989-purple-coat-gotham-villain.md)
+- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
+- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](../../products/menswear/sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
 - [Cary Grant North By Northwest Inspired Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
 - [Count Dooku Cape and Tunic Star Wars](../../products/screen-inspired/cinema-classics/count-dooku-cape-and-tunic-from-star-wars.md)
-- [Dryden Vos Costume Solo: A Star Wars Story Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
+- [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
 - [Fantastic Beasts Percival Graves Black Coat](../../products/menswear/percival-graves-black-coat.md)
 - [Good Omens Season 02 Crowley Black Blazer](../../products/screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [Hei Trench Coat from Darker Than Black, Custom Made in Wool](../../products/screen-inspired/cinema-classics/hei-trench-coat-darker-than-black.md)
 - [Hunter Coat Bloodborne Cosplay](../../products/screen-inspired/cinema-classics/bloodborne-hunter-cosplay-coat.md)
 - [James West Wild Wild West Suit](../../products/menswear/destination-wedding-suits/james-west-wild-wild-west-suit.md)
+- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/menswear/mens-long-black-leather-coat.md)
 - [Never The Sinner Suit](../../products/screen-inspired/cinema-classics/never-the-sinner-suit.md)
 - [Newt Inspired British Herringbone Tweed Coat](../../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)

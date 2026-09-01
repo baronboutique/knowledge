@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
 ---
 
 # Tuxedos
@@ -30,8 +28,8 @@ A tuxedo is the most powerful thing a woman can wear, and it only works when it 
 Find your tuxedo
 - Classic Wool Tuxedos: The full black-tie statement. The [Women’s Tuxedo Suit](https://baronboutique.com/iconic-wool-tuxedo/) with satin shawl lapels and a satin-striped trouser, and the [Bespoke Menswear-Inspired Tuxedo](https://baronboutique…
 - Velvet Tuxedo: Softer, richer, made for evening. The [Velvet Tuxedo Jacket](https://baronboutique.com/womens-tailored-velvet-tuxedo-jacket/), cut to your measurements in deep cotton velvet with satin lapels. From $529.
-- For the Wedding: A tuxedo is a striking choice for a bride or a black-tie wedding. See the full occasion range in [Women’s Wedding Suits](https://baronboutique.com/wedding-suits-for-women/), all made to your measurements.
-- Complete the Look: Add a tailored shirt or a coordinating piece. Browse [Women’s Suits & Blazers](https://baronboutique.com/womenswear/suits-blazers-for-women/) and [Women’s Shirts](https://baronboutique.com/shirts-for-women/).
+- For the Wedding: A tuxedo is a striking choice for a bride or a black-tie wedding. See the full occasion range in [Women’s Wedding Suits](https://baronboutique.com/womenswear/wedding-suits-for-women/), all made to your measurements.
+- Complete the Look: Add a tailored shirt or a coordinating piece. Browse [Women’s Suits & Blazers](https://baronboutique.com/womenswear/suits-blazers-for-women/) and [Women’s Shirts](https://baronboutique.com/womenswear/shirts-for-women/).
 
 Choose the tuxedo, cloth, and lapel
 Pick the wool or velvet tuxedo and choose the cloth, color, lapel style, and satin details on the product page.
@@ -51,13 +49,13 @@ Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cl
 ## Questions & Answers
 
 **Q:** Do you make tuxedos designed for women?  
-**A:** Yes. Our tuxedos are drafted for a woman&#8217;s figure from the start, not resized from a man&#8217;s pattern, with roped shoulders, a sculpted waist, and satin lapels. Each is made to your exact measurements in real cloth, so the silhouette is powerful and feminine rather than boxy.
+**A:** Yes. Our tuxedos are drafted for a woman’s figure from the start, not resized from a man’s pattern, with roped shoulders, a sculpted waist, and satin lapels. Each is made to your exact measurements in real cloth, so the silhouette is powerful and feminine rather than boxy.
 
 **Q:** What tuxedo styles do you offer?  
-**A:** Three: the Women&#8217;s Tuxedo Suit in Super 140s wool with satin shawl lapels and a satin-striped trouser, the Bespoke Menswear-Inspired Tuxedo with dramatic satin wing-peak lapels in a merino-cashmere blend, and a soft Velvet Tuxedo Jacket. Each is made to your measurements with your choice of cloth, color, and lapel.
+**A:** Three: the Women’s Tuxedo Suit in Super 140s wool with satin shawl lapels and a satin-striped trouser, the Bespoke Menswear-Inspired Tuxedo with dramatic satin wing-peak lapels in a merino-cashmere blend, and a soft Velvet Tuxedo Jacket. Each is made to your measurements with your choice of cloth, color, and lapel.
 
 **Q:** Can I wear a tuxedo to my wedding?  
-**A:** Absolutely. A tuxedo is a striking choice for a bride or for a black-tie wedding, and it is one of our most requested occasion looks. You can see the full wedding range, including bridal suits and silk options, in the Women&#8217;s Wedding Suits collection, all made to your measurements.
+**A:** Absolutely. A tuxedo is a striking choice for a bride or for a black-tie wedding, and it is one of our most requested occasion looks. You can see the full wedding range, including bridal suits and silk options, in the Women’s Wedding Suits collection, all made to your measurements.
 
 **Q:** Can I choose the lapel and satin details?  
 **A:** Yes. Because each tuxedo is made to order, you choose between shawl and peak lapels, the lapel width, and the satin facings and buttons. Tell us your preferences on the product page, and the free test garment stage lets you confirm the look and fit before the final cloth is cut.

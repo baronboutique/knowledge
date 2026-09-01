@@ -1,6 +1,6 @@
 ---
 type: Product
-title: "Dryden Vos Costume Solo: A Star Wars Story Cosplay"
+title: "Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay"
 description: "Make your own sleek, sophisticated, and stylish look with our screen inspired Dryden Vos costume. The custom-made signature villain outfit any Star Wars fan."
 resource: https://baronboutique.com/dryden-vos-costumes-solo/
 tags: [men, jacket, cape, dryden-vos, star-wars, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
@@ -9,15 +9,17 @@ sources:
     resource: https://baronboutique.com/dryden-vos-costumes-solo/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-08-30
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-30T03:00:03Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
-# Dryden Vos Costume Solo: A Star Wars Story Cosplay
+# Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay
 
 **SKU:** 5003017  
 **URL:** https://baronboutique.com/dryden-vos-costumes-solo/  
@@ -30,10 +32,10 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 10 options available
-- **Lining:** 25 options available
-- **Fabric:** 10 options available
-- **Fabric:** 16 options available
+- **Jacket and Cape Fabric:** 10 options available
+- **Lining Fabric:** 25 options available
+- **Pants Fabric:** 10 options available
+- **Crepe Silk Fabric:** 16 options available
 
 ## Summary
 

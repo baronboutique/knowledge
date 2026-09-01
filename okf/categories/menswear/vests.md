@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Vests
@@ -60,7 +60,7 @@ Your finished waistcoat ships from Dubai by trackable courier, about four to six
 **A:** By tradition, yes, the bottom button of a waistcoat is left open. The convention dates back to waistcoats cut with the bottom button positioned so it naturally sits open for ease of movement, and it has become the accepted way to wear one. Leaving it undone also lets the waistcoat sit more comfortably when you sit down. It is a small detail, but it is one of the quiet signals that someone knows how tailoring is worn.
 
 **Q:** Can I add a matching waistcoat to a suit to make it a three-piece?  
-**A:** Yes. A waistcoat is the standard way to turn a two-piece suit into a three-piece, and because it is made to your measurements in the same cloth, it matches the suit exactly rather than being a close approximation. Order the waistcoat alongside a suit from the Suits &amp; Blazers collection, or add one to a wedding suit. A three-piece adds formality and warmth and gives you the option of removing the jacket while still looking dressed.
+**A:** Yes. A waistcoat is the standard way to turn a two-piece suit into a three-piece, and because it is made to your measurements in the same cloth, it matches the suit exactly rather than being a close approximation. Order the waistcoat alongside a suit from the Suits & Blazers collection, or add one to a wedding suit. A three-piece adds formality and warmth and gives you the option of removing the jacket while still looking dressed.
 
 **Q:** Worsted wool or linen, which should I choose?  
 **A:** Choose worsted wool for a year-round, formal waistcoat that works as the third piece of a suit and holds a crisp line in any season. Choose linen for summer weddings, garden parties, and hot climates, where its breathability keeps you cool and its relaxed texture suits a lighter, warm-weather look. If you want a waistcoat mainly for formal three-piece wear, wool is the safer default; if it is for a summer event, linen is the better fit.

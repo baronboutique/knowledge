@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Handcrafted Cashmere
@@ -80,7 +80,7 @@ Your cashmere ships from our workshop by trackable courier, gift-ready. Ready-ma
 **A:** The difference is size. A scarf is narrower, roughly 12 to 22 inches wide, made to loop or knot around the neck. A wrap is wider and works both around the neck and across the shoulders. A shawl is the widest, around 36 inches, made to drape fully across the shoulders or the body, which is why the pashmina shawl at 36 by 80 inches doubles as a travel blanket. This collection includes all three, so the right choice depends on whether you want a neck accessory, a versatile in-between, or a full shoulder drape.
 
 **Q:** Are these cashmere pieces for men or women?  
-**A:** Both. Cashmere scarves, wraps, and shawls are worn by men and women alike, and most of this collection is designed to suit either. There are also pieces made specifically with men in mind, including the men&#8217;s 100% cashmere scarf in over 80 colors, the men&#8217;s glen plaid scarf, and the men&#8217;s pashmina shawl, alongside hand-knitted women&#8217;s cashmere sweaters. Color and size, rather than gender, are what guide most choices here.
+**A:** Both. Cashmere scarves, wraps, and shawls are worn by men and women alike, and most of this collection is designed to suit either. There are also pieces made specifically with men in mind, including the men’s 100% cashmere scarf in over 80 colors, the men’s glen plaid scarf, and the men’s pashmina shawl, alongside hand-knitted women’s cashmere sweaters. Color and size, rather than gender, are what guide most choices here.
 
 **Q:** Where is the cashmere sourced, and is it ethical?  
 **A:** The fiber is sustainably sourced from goats on the Tibetan Plateau and Himalayan highlands, combed by hand in spring rather than sheared, and the pieces are handmade in a Kathmandu workshop that has produced handwoven cashmere and pashmina for over 25 years using the same artisans and looms. Colors are dyed with eco-friendly, Azo-free pigments that are safe for sensitive skin. Supporting traditional herding and handweaving keeps those livelihoods and that craft viable, which is part of what you are buying into with genuine handmade cashmere.

@@ -32,14 +32,14 @@ Every adjustment is applied, then your coat is cut and hand-tailored in your cho
 
 ## Questions & Answers
 
-**Q:** Do you make women&#8217;s frock coats?  
+**Q:** Do you make women’s frock coats?  
 **A:** Yes, and they are one of our most requested pieces. A frock coat is a fitted coat with a horizontal waist seam that gives it a shaped body and a full skirt, the classic Victorian silhouette. We make several for women, including the Victorian Winter Frock Coat and velvet frock coats, each cut to your exact measurements with the length and cloth you choose. If you want a specific historical or Victorian coat that is not listed, we accept custom requests from reference images.
 
 **Q:** Can I get a Victorian-style coat made to measure?  
 **A:** Yes. Our Victorian and frock coats are built to your measurements in real wool or velvet, with the fitted waist, shaped back, and full skirt that define the period silhouette. Because each is made to order you can choose the cloth, color, button stance, and length, so the coat suits both a costume or reenactment use and everyday wear as a distinctive statement piece.
 
 **Q:** What screen-inspired coats do you offer for women?  
-**A:** Several, all cut for a woman&#8217;s figure rather than resized from a man&#8217;s pattern: a Matrix-style long black trench, a Spectre navy coat, a Dark Knight leather coat, a Percival Graves wizard coat, and the Twelfth Doctor velvet coats. Each is made to your measurements, and you can browse the full range in the Screen Inspired for Women collection.
+**A:** Several, all cut for a woman’s figure rather than resized from a man’s pattern: a Matrix-style long black trench, a Spectre navy coat, a Dark Knight leather coat, a Percival Graves wizard coat, and the Twelfth Doctor velvet coats. Each is made to your measurements, and you can browse the full range in the Screen Inspired for Women collection.
 
 **Q:** Which fabrics can I choose for my coat?  
 **A:** Depending on the style, you can choose pure wool, wool-cashmere blends for warmth and softness, cotton velvet for the statement pieces, and leather for the Dark Knight coat. Each product page lists the cloths available, and we can advise on the best choice for your climate and how you plan to wear the coat.

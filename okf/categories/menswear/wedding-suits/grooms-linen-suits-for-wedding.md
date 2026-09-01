@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.15.2, at: 2026-08-05T16:25:50Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Linen Wedding Suits
@@ -67,7 +67,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 **A:** For most weddings a groom looks best in stone, tan, beige, light grey, or a soft blue, with white and cream best reserved for beach and destination ceremonies. Navy and dark blue are the most formal linen options and hold their depth even in bright daylight. All 18 colors in this collection are the same fabric and the same price, so the choice comes down to the setting and your palette rather than cost.
 
 **Q:** Do linen suits wrinkle too much for a wedding?  
-**A:** Linen creases by nature, and at an outdoor summer wedding a little wrinkling is expected and reads as part of the fabric&#8217;s character. What matters is whether the wrinkles look intentional or accidental, and that comes down to fit. A suit cut to your body creases along its natural movement lines, which looks relaxed, while a suit that does not fit creases in the excess fabric, which looks careless. A higher-weight linen and a made-to-your-measurements cut is what keeps linen looking considered through a full day.
+**A:** Linen creases by nature, and at an outdoor summer wedding a little wrinkling is expected and reads as part of the fabric’s character. What matters is whether the wrinkles look intentional or accidental, and that comes down to fit. A suit cut to your body creases along its natural movement lines, which looks relaxed, while a suit that does not fit creases in the excess fabric, which looks careless. A higher-weight linen and a made-to-your-measurements cut is what keeps linen looking considered through a full day.
 
 **Q:** Should the groom and groomsmen wear the same linen color?  
 **A:** The groom should sit one or two shades apart from the groomsmen rather than wear an identical color, so he reads as the focal point in every photograph. A common approach is groomsmen in a lighter neutral such as stone or tan with the groom a shade deeper, or the reverse for a beach setting. Because every suit here is made to measure in 18 shared colors, matching the party and separating the groom is straightforward.
@@ -88,7 +88,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 **A:** 100% linen breathes better and is the more comfortable choice for a hot ceremony, because a blend adds synthetic fibers that trap heat. The trade-off is that a blend, such as the 55% linen and 45% cotton in the Cotton Linen Blazer, creases less and holds a slightly cleaner line over a long day. For genuine heat choose pure linen, and for a suit you want to wear again in more settings a linen-cotton blend is a reasonable middle ground.
 
 **Q:** Can the groom wear a white linen suit?  
-**A:** A groom can wear a white linen suit, and it works particularly well at a beach or destination wedding, provided it does not clash with the dress code or compete with the wedding party&#8217;s palette. Off-white, natural, and stone are safer than a pure bright white if you are unsure, and they photograph with a little more warmth in daylight. Because the White Linen Suit is made to your measurements in 18 colors, you can start with white and change your mind without changing the price.
+**A:** A groom can wear a white linen suit, and it works particularly well at a beach or destination wedding, provided it does not clash with the dress code or compete with the wedding party’s palette. Off-white, natural, and stone are safer than a pure bright white if you are unsure, and they photograph with a little more warmth in daylight. Because the White Linen Suit is made to your measurements in 18 colors, you can start with white and change your mind without changing the price.
 
 **Q:** Can I order a linen wedding suit for a wedding abroad without an in-person fitting?  
 **A:** Yes, the entire process is remote, so you can order for a wedding abroad without visiting us. You enter your measurements on the product page, we ship a free test suit to your home, you try it on and send notes, we correct the pattern, then we cut and ship the final suit to any address you choose. For a destination wedding, order at least 10 to 12 weeks ahead so there is comfortable time for both the test suit and the final production.

@@ -8,7 +8,7 @@ An [Open Knowledge Format (OKF)](https://github.com/GoogleCloudPlatform/knowledg
 
 This bundle is intended for AI agents, answer engines, and retrieval systems. It is machine-readable and human-readable. All facts are sourced from verified public information on [baronboutique.com](https://baronboutique.com).
 
-**Total files:** 437
+**Total files:** 438
 
 ## Company
 
@@ -20,6 +20,7 @@ This bundle is intended for AI agents, answer engines, and retrieval systems. It
 
 ## Product Categories
 
+* [All Categories](categories/index.md)
 * [Handcrafted Cashmere](categories/handmade-cashmere-collection.md)
 * [Women](categories/womenswear.md)
 * [Men](categories/menswear.md)
@@ -77,4 +78,4 @@ Intent-triggered processes an agent can act on.
 - Custom-made garments cannot be returned once production has begun.
 - The Instagram handle is boutiquebaron (not baronboutique).
 - Files under concepts/ and playbooks/ are hand-authored by the Baron Boutique workshop (not auto-generated) and describe the actual production process.
-- This bundle was auto-generated from live WooCommerce data by Baron AI Knowledge Manager v1.18.1.
+- This bundle was auto-generated from live WooCommerce data by Baron AI Knowledge Manager v1.21.1.

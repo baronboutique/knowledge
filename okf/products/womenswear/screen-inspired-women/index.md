@@ -12,7 +12,7 @@ Find your character
 - Spy Tailoring: Sharp coats with a secret-agent edge. The [Spectre navy coat](https://baronboutique.com/womens-mid-thigh-coat-spectre/) and the [Quantum of Solace peacoat](https://baronboutique.com/womens-quantum-of-solace-peacoat/), cu…
 - The Matrix: The floor-length statement. The [Matrix long black trench coat](https://baronboutique.com/the-matrix-revolutions-coat-for-women/), made to your measurements in a dramatic, fluid silhouette. From $599.
 - Gotham & Fantasy: Dark, theatrical, unforgettable. The [Dark Knight leather coat](https://baronboutique.com/womens-joker-coat-in-leather/) and the [Percival Graves wizard coat](https://baronboutique.com/percival-graves-black-coat-for-wome…
-- More Screen Coats: Many of these pieces are outerwear, so if you are after the silhouette rather than the character, browse the full [Women’s Coats & Overcoats](https://baronboutique.com/coats-and-overcoats-for-women/) collection.
+- More Screen Coats: Many of these pieces are outerwear, so if you are after the silhouette rather than the character, browse the full [Women’s Coats & Overcoats](https://baronboutique.com/womenswear/coats-and-overcoats-for-women/) collection.
 
 Choose the piece, cloth, and details
 Pick your character piece and its cloth, color, and details on the product page. If you want a screen-accurate touch we should know about, note it in the order.
@@ -32,19 +32,19 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 ## Questions & Answers
 
 **Q:** What screen characters do you make for women?  
-**A:** A growing range, all cut for a woman&#8217;s figure rather than resized from a man&#8217;s pattern: the Doctor&#8217;s coats and suits across several eras, spy-tailoring coats, the Matrix long black trench, a Dark Knight leather coat, and the Percival Graves wizard coat from Fantastic Beasts. Each is made to your measurements, and if you want a character piece that is not listed, we accept custom requests from reference images.
+**A:** A growing range, all cut for a woman’s figure rather than resized from a man’s pattern: the Doctor’s coats and suits across several eras, spy-tailoring coats, the Matrix long black trench, a Dark Knight leather coat, and the Percival Graves wizard coat from Fantastic Beasts. Each is made to your measurements, and if you want a character piece that is not listed, we accept custom requests from reference images.
 
-**Q:** Do you make the Doctor&#8217;s coats and suits for women?  
-**A:** Yes. We tailor several pieces inspired by the Time Lord for a woman&#8217;s figure, including the Tenth Doctor&#8217;s brown pinstripe suit, the Twelfth Doctor&#8217;s burgundy and navy velvet coats, the Fifth Doctor&#8217;s beige frock coat, the Seventh Doctor&#8217;s utility jacket, and the Thirteenth Doctor&#8217;s teal wool trousers. Each is made to your exact measurements in real cloth, so it works as a distinctive everyday garment as much as a character piece.
+**Q:** Do you make the Doctor’s coats and suits for women?  
+**A:** Yes. We tailor several pieces inspired by the Time Lord for a woman’s figure, including the Tenth Doctor’s brown pinstripe suit, the Twelfth Doctor’s burgundy and navy velvet coats, the Fifth Doctor’s beige frock coat, the Seventh Doctor’s utility jacket, and the Thirteenth Doctor’s teal wool trousers. Each is made to your exact measurements in real cloth, so it works as a distinctive everyday garment as much as a character piece.
 
 **Q:** Do you make spy or Bond-style coats for women?  
-**A:** Yes. The Spectre navy coat and the Quantum of Solace peacoat bring that sharp, secret-agent tailoring to a woman&#8217;s silhouette, each made to your measurements. Because they are real tailored coats rather than costume, they read as elegant everyday outerwear well beyond a themed event.
+**A:** Yes. The Spectre navy coat and the Quantum of Solace peacoat bring that sharp, secret-agent tailoring to a woman’s silhouette, each made to your measurements. Because they are real tailored coats rather than costume, they read as elegant everyday outerwear well beyond a themed event.
 
 **Q:** Can I get the Matrix coat made to measure?  
-**A:** Yes. Our Matrix long black trench coat is cut to your measurements in a dramatic, floor-skimming silhouette, drafted for a woman&#8217;s figure. You choose the cloth and length, and the free test garment stage confirms the fit and the fall of the coat before the final fabric is cut.
+**A:** Yes. Our Matrix long black trench coat is cut to your measurements in a dramatic, floor-skimming silhouette, drafted for a woman’s figure. You choose the cloth and length, and the free test garment stage confirms the fit and the fall of the coat before the final fabric is cut.
 
 **Q:** Are these screen-accurate, and can I wear them day to day?  
-**A:** They are built from reference images to capture the character&#8217;s silhouette and details, but in real tailoring cloth rather than costume fabric, so most read as striking everyday pieces. A velvet coat in a subdued color, a sharp pinstripe suit, or a well-cut trench all wear as distinctive real-world garments as much as convention or themed-event pieces.
+**A:** They are built from reference images to capture the character’s silhouette and details, but in real tailoring cloth rather than costume fabric, so most read as striking everyday pieces. A velvet coat in a subdued color, a sharp pinstripe suit, or a well-cut trench all wear as distinctive real-world garments as much as convention or themed-event pieces.
 
 **Q:** Can you make a character piece that is not listed?  
 **A:** Yes. If you want a specific screen or character garment for women that is not shown, send us reference images and a description. We assess the construction, confirm the cloth and details, and provide a quote before any work begins, then build it to your measurements with the same free test garment as every order.

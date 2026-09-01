@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
 ---
 
 # Sweaters
@@ -31,7 +29,7 @@ Find your cashmere
 - Statement Color Cashmere: Cashmere worth noticing. The [Orange Cashmere Dropped-Shoulder Sweater](https://baronboutique.com/orange-cashmere-dropped-shoulder-boxy-sweater/) in a relaxed boxy cut, and the [Rust Cashmere Turtleneck](https://baronbou…
 - Turtlenecks & Cable Knit: Classic warmth with texture. The [Rust Cashmere Turtleneck](https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/) and the [Fog Cable-Knit Cashmere Turtleneck](https://baronboutique.com/fog-cable-knit-cashmer…
 - Any Color, Made to Order: Every sweater is hand-knitted to order, so you can request your color and fit. If you want a shade or style you do not see here, tell us and we knit it for you.
-- Cashmere Accessories: Complete the look with a handloomed cashmere scarf or wrap. Browse [Women’s Accessories](https://baronboutique.com/womens-accessories/) for cashmere and silk pieces.
+- Cashmere Accessories: Complete the look with a handloomed cashmere scarf or wrap. Browse [Women’s Accessories](https://baronboutique.com/womenswear/womens-accessories/) for cashmere and silk pieces.
 
 Choose the style and color
 Pick your sweater and its color and fit on the product page. If you want a custom color or a specific cut, note it in the order.

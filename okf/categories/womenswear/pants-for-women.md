@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-30T03:00:06Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
+generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 ---
 
 # Pants
@@ -52,7 +52,7 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 
 ## Questions & Answers
 
-**Q:** Do you make women&#8217;s dress trousers to measure?  
+**Q:** Do you make women’s dress trousers to measure?  
 **A:** Yes. Every trouser is cut to your exact measurements in real cloth, with no standard sizing, so you get a true waist, a clean line through the hip, and the exact length you want. That removes the usual ready-made compromise, where trousers fit the waist but not the hip, or are always too long or too short.
 
 **Q:** Can I choose the leg shape?  
@@ -62,7 +62,7 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 **A:** Seasonless pure new wool, warm-weather and Fresco wool for hot climates, tropical wool, sharkskin, melange, linen for wide-leg and straight-leg styles, and cotton velvet for evening. Each product page lists the cloths available, and we can advise on the best choice for your climate and how you plan to wear the trousers.
 
 **Q:** Can I match my trousers to a jacket for a suit?  
-**A:** Yes. Most tailored jackets can be made in the same cloth as your trousers, so you can build a full pant suit. Browse the Women&#8217;s Suits &#038; Blazers collection, choose the matching cloth, and note in your order that you want the pieces to coordinate.
+**A:** Yes. Most tailored jackets can be made in the same cloth as your trousers, so you can build a full pant suit. Browse the Women’s Suits & Blazers collection, choose the matching cloth, and note in your order that you want the pieces to coordinate.
 
 **Q:** How does the fit work, and is there a guarantee?  
 **A:** Each pair is made to your measurements with no standard sizes, and before we cut your final cloth we send a free test garment so the fit is confirmed on your body. You try them on at home, check the waist, rise, and length, and send any adjustments, which we apply before cutting the final trousers. The test garment is yours to keep.

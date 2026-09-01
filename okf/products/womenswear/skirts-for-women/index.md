@@ -41,7 +41,7 @@ Every adjustment is applied, then your skirt is cut and hand-tailored in your ch
 **A:** You can choose seasonless pure new wool, performance tropical wool for warm rooms, fine Vitale Barberis Canonico wool, mohair for a crisp finish, and sharkskin, among others, in a range of colors and patterns including plain black, pinstripe, and stripe. Each product page lists the cloths available, and we can advise on the best choice for how often you plan to wear the skirt.
 
 **Q:** Can I get a matching jacket for a skirt suit?  
-**A:** Yes. Most of our tailored jackets and blazers can be made in the same cloth as your skirt, so you can build a coordinated skirt suit. Browse the Women&#8217;s Suits &#038; Blazers collection, choose the matching cloth, and note in your order that you want the pieces to coordinate.
+**A:** Yes. Most of our tailored jackets and blazers can be made in the same cloth as your skirt, so you can build a coordinated skirt suit. Browse the Women’s Suits & Blazers collection, choose the matching cloth, and note in your order that you want the pieces to coordinate.
 
 **Q:** How does the fit work, and is there a guarantee?  
 **A:** Each skirt is made to your measurements with no standard sizes, and before we cut your final cloth we send a free test garment so the fit is confirmed on your body. You try it on at home, check the waist, hip, and length, and send any adjustments, which we apply before cutting the final skirt. The test garment is yours to keep.
