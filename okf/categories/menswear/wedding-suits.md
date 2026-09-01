@@ -13,6 +13,8 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
 generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
 ---
 

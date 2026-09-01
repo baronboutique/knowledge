@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Indigo Blue Handwoven Cashmere Scarf Shawl
@@ -25,18 +23,56 @@ generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 **URL:** https://baronboutique.com/indigo-blue-handwoven-cashmere-scarf-shawl/  
 **Type:** cashmere (made to order)  
 **Price:** USD 239.00 (verify current price on product page)  
+**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Color:** Indigo Blue ColNo-70DD
+- **Color:** Indigo Blue ColNo-70DD. 1 options: Indigo Blue ColNo-70DD
 
-## Summary
+## Short Description
 
 Indigo blue cashmere scarf shawl handwoven on traditional Himalayan looms. Pure Grade A cashmere sourced from the Tibetan Plateau delivers featherlight softness and warmth without weight. Each wrap measures 40" x 80", giving you multiple styling options as a generous shawl or fold as a classic scarf. Eco-friendly dyes preserve the rich blue tones while respecting the environment. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
 
-Handwoven Indigo Blue Cashmere Perfection This indigo shawl brings together ancient weaving traditions and modern luxury. Artisans in Nepal work each thread on traditional handlooms, creating a blue cashmere wrap with exceptional softness and durability. The deep indigo blue tone evokes twilight skies over the Himalayas. This color works with everything in your wardrobe, from casual weekend looks to formal evening wear. The blue flame cashmere fiber catches light differently throughout the day, revealing subtle depth and richness. Premium Cashmere from the Tibetan Plateau Grade A cashmere comes from goats living at high altitudes where extreme temperatures produce the finest undercoat fibers. This blue shawl wrap uses only the softest, longest fibers. The result is a featherweight scarf that provides genuine warmth without bulk. Pure cashmere means allergen-free wear. No synthetic blends or fillers compromise the quality. You get 100% natural fiber that breathes with your body and regulates temperature naturally. Generous Dimensions for Multiple Looks At 40 inches by 80 inches, this indigo blue scarf offers real versatility.
+## Handwoven Indigo Blue Cashmere Perfection
+
+This indigo shawl brings together ancient weaving traditions and modern luxury. Artisans in Nepal work each thread on traditional handlooms, creating a blue cashmere wrap with exceptional softness and durability.
+
+The deep indigo blue tone evokes twilight skies over the Himalayas. This color works with everything in your wardrobe, from casual weekend looks to formal evening wear. The blue flame cashmere fiber catches light differently throughout the day, revealing subtle depth and richness.
+
+## Premium Cashmere from the Tibetan Plateau
+
+Grade A cashmere comes from goats living at high altitudes where extreme temperatures produce the finest undercoat fibers. This blue shawl wrap uses only the softest, longest fibers. The result is a featherweight scarf that provides genuine warmth without bulk.
+
+Pure cashmere means allergen-free wear. No synthetic blends or fillers compromise the quality. You get 100% natural fiber that breathes with your body and regulates temperature naturally.
+
+## Generous Dimensions for Multiple Looks
+
+At 40 inches by 80 inches, this indigo blue scarf offers real versatility. Drape the shawl blue fabric over your shoulders for warmth. Fold and loop as a scarf. Wrap loosely for a casual look or style formally for special occasions. The size gives you freedom to experiment.
+
+## Yarn and Weight
+
+- 200/2 yarn count
+- 14-16 microns diameter
+- 35-55mm yarn length
+- Featherweight: 2.5 oz (70 grams)
+
+## Sizing and Finishing
+
+- 40″x80″ (1m x 2m)
+- Rectangle in shape and suitable for wearing as a Shawl, Wrap, or Scarf.
+- Fits in a handbag for convenient storage and travel.
+- Live Edge / Loose Ends for a natural look.
+
+## Wash and Care Instructions
+
+- Add a mild detergent to cold or lukewarm water.
+- Soak the cashmere shawl for 8-12 minutes, then gently rub.
+- Rinse and carefully squeeze out excess water.
+- Lay flat to dry; use a steamer or a low-heat iron if needed.
+- For long-term storage, keep in a cool, dry place with cedar chips or lavender sachets.
+- For short-term or daily use, hang in a well-ventilated area.
 
 ## Categories
 

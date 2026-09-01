@@ -13,7 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Tuxedos
@@ -26,7 +26,7 @@ Women’s Tuxedos, Drafted for a Woman’s Figure
 A tuxedo is the most powerful thing a woman can wear, and it only works when it is cut for her. These are not men’s tuxedos resized; each is drafted from the start for a woman’s shoulders, bust, and waist, then made to your exact measurements in real cloth. From a classic wool tuxedo with satin shawl lapels to a dramatic peak-lapel silhouette and a soft velvet jacket, this is black-tie tailoring with a sculpted, feminine line. Choose your cloth, lapel, and satin details, and before we cut your final fabric we send a free test garment so the fit is confirmed on you first. Made to your measurements, from $529.
 
 Find your tuxedo
-- Classic Wool Tuxedos: The full black-tie statement. The [Women’s Tuxedo Suit](https://baronboutique.com/iconic-wool-tuxedo/) with satin shawl lapels and a satin-striped trouser, and the [Bespoke Menswear-Inspired Tuxedo](https://baronboutique…
+- Classic Wool Tuxedos: The full black-tie statement. The [Women’s Tuxedo Suit](https://baronboutique.com/iconic-wool-tuxedo/) with satin shawl lapels and a satin-striped trouser, and the…
 - Velvet Tuxedo: Softer, richer, made for evening. The [Velvet Tuxedo Jacket](https://baronboutique.com/womens-tailored-velvet-tuxedo-jacket/), cut to your measurements in deep cotton velvet with satin lapels. From $529.
 - For the Wedding: A tuxedo is a striking choice for a bride or a black-tie wedding. See the full occasion range in [Women’s Wedding Suits](https://baronboutique.com/womenswear/wedding-suits-for-women/), all made to your measurements.
 - Complete the Look: Add a tailored shirt or a coordinating piece. Browse [Women’s Suits & Blazers](https://baronboutique.com/womenswear/suits-blazers-for-women/) and [Women’s Shirts](https://baronboutique.com/womenswear/shirts-for-women/).

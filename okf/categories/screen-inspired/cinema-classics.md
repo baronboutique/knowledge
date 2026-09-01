@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Cinema Classics
@@ -31,12 +29,12 @@ Some garments outlive the films that made them. Cary Grant’s grey suit in Nort
 
 Browse by film
 - North by Northwest — Cary Grant’s Grey Suit: The most iconic suit in cinema history: the [Cary Grant grey suit from North by Northwest](https://baronboutique.com/cary-grants-north-by-northwest-suit/), cut in fine suiting cloth to the clean mid-century silhouette an…
-- Star Wars — Count Dooku & Dryden Vos: The [Count Dooku cape and tunic](https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/) in Fresco and Gabardine wool with a silk-satin lining, and the [Dryden Vos costume](https://baronboutique.com/dryden-…
+- Star Wars — Count Dooku & Dryden Vos: The [Count Dooku cape and tunic](https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/) in Fresco and Gabardine wool with a silk-satin lining, and the…
 - Ocean’s 11 — Rusty Ryan’s Suit: The heist-cool look: the [rusty-tan suit worn by Brad Pitt as Rusty Ryan](https://baronboutique.com/rustys-suit-from-oceans-11/), made to your measurements in the relaxed, modern cut that defines it.
-- Fantastic Beasts — Graves & Newt: The wizarding-world tailoring: the sharp [Percival Graves black coat](https://baronboutique.com/percival-graves-black-coat/) and the [Newt Scamander herringbone tweed coat](https://baronboutique.com/newt-inspired-herring…
+- Fantastic Beasts — Graves & Newt: The wizarding-world tailoring: the sharp [Percival Graves black coat](https://baronboutique.com/percival-graves-black-coat/) and the…
 - Gothic & Period Cinema — Dracula: The [Gary Oldman Dracula London suit](https://baronboutique.com/vlad-dracula-london-suit/), the grey three-piece done to the details most replicas miss: 140s worsted wool, inset dupioni silk peak lapels, a double-breaste…
-- Fantasy & Adventure — Stardust, League & Wild West: The [Tristan Thorn Stardust coat](https://baronboutique.com/tristan-thorn-stardust-coat-replica/), the [Allan Quatermain long coat](https://baronboutique.com/sean-connery-long-coat-from-league-of-extraordinary-gentlemen/…
-- Music & Modern Screen — Beatles & Good Omens: The [A Hard Day’s Night jacket](https://baronboutique.com/beatles-hard-days-night-jacket-replica/) for the mod-era look, and the [Crowley black blazer from Good Omens](https://baronboutique.com/crowley-good-omens-s02-bla…
+- Fantasy & Adventure — Stardust, League & Wild West: The [Tristan Thorn Stardust coat](https://baronboutique.com/tristan-thorn-stardust-coat-replica/), the…
+- Music & Modern Screen — Beatles & Good Omens: The [A Hard Day’s Night jacket](https://baronboutique.com/beatles-hard-days-night-jacket-replica/) for the mod-era look, and the…
 - Screen Villains: The collection’s villain tailoring, including the Joker overcoats, the leather trench, the evening tailcoat, and The Shadow’s coat, lives in a dedicated collection.
 
 Choose the film piece, or send a reference
@@ -50,6 +48,9 @@ Try it on and check the fit and silhouette, then send your notes and photos. Not
 
 We tailor it in the correct cloth
 Every adjustment is applied, then your piece is cut and hand-tailored in the fabric chosen to reflect the original, with reference images guiding the details throughout.
+
+It ships worldwide with tracking
+Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
 
 ## Questions & Answers
 

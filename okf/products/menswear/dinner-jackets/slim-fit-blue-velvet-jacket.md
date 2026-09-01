@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front
@@ -25,92 +23,192 @@ generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 **URL:** https://baronboutique.com/slim-fit-blue-velvet-jacket/  
 **Type:** bespoke (made to order)  
 **Price:** USD 519.00 (verify current price on product page)  
+**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Velvet:** 11 options available
-- **Lining Fabric:** 34 options available
+- **Velvet:** Blue Velvet. 11 options: Black Velvet, Black Velvet Crushed, Blue Velvet, Burgundy Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Velvet, Red Velvet, Wine Velvet
+- **Lining Fabric:** Navy Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
-## Summary
+## Short Description
 
 Most velvet dinner jackets fail because they were made for someone else's body. The pile catches every misfit - a pulling chest, a drooping shoulder, a sleeve that's a half-inch too long. Baron builds yours to your exact measurements in premium velvet with a canvas front, fabric-covered buttons, and hand-finished buttonholes. 11 velvet colors. Your order includes a free test jacket shipped to you first so the fit is confirmed before we cut the velvet. From $519.
 
-A blue velvet dinner jacket is the most decisive thing a man can wear to an evening event. Not the safest - that would be a plain black tuxedo. But the most decisive. The rich pile catches light differently than any other fabric. The color reads warmer than black and more interesting than navy in a standard wool. It is the jacket that gets noticed and the one that gets remembered. The only question is whether it fits. Baron builds yours to your exact measurements, with a canvas front, before a single stitch goes into your final velvet. The blue velvet dinner jacket has a long history on the men who understand that formal dressing should do more than meet a dress code.
+A blue velvet dinner jacket is the most decisive thing a man can wear to an evening event. Not the safest – that would be a plain black tuxedo. But the most decisive. The rich pile catches light differently than any other fabric. The color reads warmer than black and more interesting than navy in a standard wool. It is the jacket that gets noticed and the one that gets remembered. The only question is whether it fits. Baron builds yours to your exact measurements, with a canvas front, before a single stitch goes into your final velvet.
 
-The Velvet - What Makes It Work for Evening
-Velvet's defining quality is the way it interacts with light. The pile - the raised, cut fibers that create the fabric's surface - absorbs direct light and reflects ambient light in a way that makes color appear deeper and richer than in any flat-woven fabric. Under the low, warm lighting of a dinner party or a ballroom, a blue velvet jacket looks extraordinary in a way a standard wool jacket simply cannot. Our velvet is a poly-cotton blend - a practical choice for a dinner jacket that will be worn at events, transported, and dry-cleaned. It holds its pile well, presses cleanly, and resists the matting and crushing that happens to poorer velvet blends with wear.
+Premium Poly-Cotton Velvet  
+ 11 Velvet Colors  
+ Canvas Front Construction  
+ Made to Your Measurements  
+ Free Test Jacket First  
+ Hand-Finished Buttonholes
 
-Full Specifications
-- Fabric: Premium poly-cotton blend velvet
-- Colors: 11 options: Blue, Navy, Black, Burgundy, Wine, Red, Green, Light Green, Lavender, Maroon, Black Crushed Velvet
-- Construction: Canvas front - molds to your chest with wear
-- Silhouette: Single-breasted, your choice of cut from slim to relaxed
-- Closure: One button, normal stance
-- Lapel: Medium-width peak lapel, 2.75 to 3.25 inches
-- Lapel stitching: Handpick stitching around collar, lapel, and pockets
-- Lapel buttonhole: None
-- Pockets: Horizontal hip pockets with flap, chest welt pocket
-- Interior pockets: Three
-- Lining: Fully lined in acetate, 34 colors available
-- Shoulder pads: Hand-stitched for a sharp shoulder line
-- Armholes: Hand-stitched
-- Vents: Two side vents
-- Hem: Rounded front
-- Sleeve cuff: 3 buttons, vented, kissing-button stance
-- Buttons: Fabric-covered in matching velvet, hand-stitched and reinforced
-- Buttonholes: Hand-finished
-- Measurements: Entered on this product page at checkout
-- Care: Dry clean only
+The blue velvet dinner jacket has a long history on the men who understand that formal dressing should do more than meet a dress code. It should say something. Charlie Hunnam wore a Brioni electric blue velvet jacket at the Actor Awards and stood out immediately in a room full of black tuxedos. Ryan Reynolds went midnight blue velvet at the Met Gala. John Legend wore a full dark blue velvet ensemble that made People Magazine’s best dressed list. The pattern holds: when you want to be remembered, not just well-dressed, this is the jacket.
 
-Who This Jacket Is For
-A blue velvet dinner jacket is not an everyday garment and it does not try to be. It is built for the evenings when you want to be the person in the room who dressed with intent - not costume, not trend, not uniform. Intent.
-- The Holiday Season Dresser: Christmas parties, New Year's dinners, company events where a plain dark suit feels like giving up. Velvet reads festive without reading costume. Blue reads confident without reading try-hard.
-- The Groom or Wedding Guest: Blue velvet photographs beautifully under both natural and venue lighting. The pile creates depth in images that flat fabrics cannot match. If you want to look extraordinary in the photos, this is the deliberate choice.
-- The Cocktail Party Regular: You attend events often enough to know that wearing the same dark blazer every time is a slow erosion of presence. This jacket reserves its impact for the right occasions and delivers every time you reach for it.
-- The Man Who Prefers Custom: You know that a velvet jacket off the rack in your size will not fit the way a velvet jacket should. The fabric is unforgiving of a bad shoulder seam or a chest that pulls. You want it made to your body from the start.
+## The Velvet – What Makes It Work for Evening
 
-Choose Your Color and Lining
+Velvet’s defining quality is the way it interacts with light. The pile – the raised, cut fibers that create the fabric’s surface – absorbs direct light and reflects ambient light in a way that makes color appear deeper and richer than in any flat-woven fabric. Under the low, warm lighting of a dinner party or a ballroom, a blue velvet jacket looks extraordinary in a way a standard wool jacket simply cannot.
+
+Our velvet is a poly-cotton blend – a practical choice for a dinner jacket that will be worn at events, transported, and dry-cleaned. It holds its pile well, presses cleanly, and resists the matting and crushing that happens to poorer velvet blends with wear.
+
+Available in 11 colors: Blue, Navy, Black, Burgundy, Wine, Red, Green, Light Green, Lavender, Maroon, and Black Crushed Velvet. All at the same price. Blue is the most popular color we make.
+
+## Full Specifications
+
+| Fabric | Premium poly-cotton blend velvet |
+| --- | --- |
+| Colors | 11 options: Blue, Navy, Black, Burgundy, Wine, Red, Green, Light Green, Lavender, Maroon, Black Crushed Velvet |
+| Construction | Canvas front – molds to your chest with wear |
+| Silhouette | Single-breasted, your choice of cut from slim to relaxed |
+| Closure | One button, normal stance |
+| Lapel | Medium-width peak lapel, 2.75 to 3.25 inches |
+| Lapel stitching | Handpick stitching around collar, lapel, and pockets |
+| Lapel buttonhole | None |
+| Pockets | Horizontal hip pockets with flap, chest welt pocket |
+| Interior pockets | Three |
+| Lining | Fully lined in acetate, 34 colors available |
+| Shoulder pads | Hand-stitched for a sharp shoulder line |
+| Armholes | Hand-stitched |
+| Vents | Two side vents |
+| Hem | Rounded front |
+| Sleeve cuff | 3 buttons, vented, kissing-button stance |
+| Buttons | Fabric-covered in matching velvet, hand-stitched and reinforced |
+| Buttonholes | Hand-finished |
+| Measurements | Entered on this product page at checkout |
+| Care | Dry clean only |
+
+## Who This Jacket Is For
+
+A blue velvet dinner jacket is not an everyday garment and it does not try to be. It is built for the evenings when you want to be the person in the room who dressed with intent – not costume, not trend, not uniform. Intent.
+
+The Holiday Season Dresser
+
+Christmas parties, New Year’s dinners, company events where a plain dark suit feels like giving up. Velvet reads festive without reading costume. Blue reads confident without reading try-hard. This is the jacket for that moment.
+
+The Groom or Wedding Guest
+
+Blue velvet photographs beautifully under both natural and venue lighting. The pile creates depth in images that flat fabrics cannot match. If you want to look extraordinary in the photos, this is the deliberate choice.
+
+The Cocktail Party Regular
+
+You attend events often enough to know that wearing the same dark blazer every time is a slow erosion of presence. This jacket reserves its impact for the right occasions and delivers every time you reach for it.
+
+The Man Who Prefers Custom
+
+You know that a velvet jacket off the rack in your size will not fit the way a velvet jacket should. The fabric is unforgiving of a bad shoulder seam or a chest that pulls. You want it made to your body from the start.
+
+## How Your Order Works
+
+1
+
+### Choose Your Color and Lining
+
 Select from 11 velvet colors and 34 acetate lining options. Add your measurements and silhouette preference directly on this page. No emails back and forth, no appointments to schedule.
 
-We Build Your Test Jacket
+2
+
+### We Build Your Test Jacket
+
 Before we cut your velvet, we make a complete test jacket in an inexpensive fabric to your measurements. This confirms the fit before we touch the final cloth.
 
-You Try It On at Home
+3
+
+### You Try It On at Home
+
 The test jacket ships to your door by trackable courier. You try it on and check the chest, shoulders, waist, and sleeve length. If anything needs adjusting, you tell us exactly what.
 
-We Correct the Pattern
+4
+
+### We Correct the Pattern
+
 We update your pattern with every adjustment. The test jacket is yours to keep. Nothing moves to production until the fit is confirmed.
 
-## Questions & Answers
+5
 
-**Q:** What occasions is a blue velvet dinner jacket appropriate for?  
-**A:** A blue velvet dinner jacket is built for evenings - holiday parties, Christmas and New Year's dinners, cocktail events, black-tie or black-tie-optional events, weddings as a groom or wedding party member, and any formal dinner where you want to wear something more interesting than a standard black tuxedo. It is not a daytime garment and it is not a casual jacket. When the occasion calls for it, nothing else makes the same statement.
+### We Cut and Finish Your Velvet Jacket
 
-**Q:** What is the difference between blue and navy velvet for a dinner jacket?  
-**A:** Blue velvet is a brighter, mid-tone blue that photographs with more saturation and reads as a deliberate color choice from across a room. Navy velvet is darker and closer to the depth of a standard navy suit - more conservative, still luxurious, and more versatile across different event types. Both are available at the same price. Blue tends to make a stronger statement; navy tends to work across a broader range of occasions. If you want to be noticed, blue. If you want to be polished across more settings, navy.
+Your velvet, cut to your corrected pattern. Canvas front. Hand-stitched armholes and shoulder pads. Hand-finished buttonholes. Fabric-covered buttons stitched and reinforced by hand. Typical production time is 4 to 6 weeks.
 
-**Q:** What do I wear with a blue velvet dinner jacket?  
-**A:** The cleanest option is black tailored trousers or a black tuxedo pant - the contrast between the rich blue and the black reads well under evening lighting. A white dress shirt or a black shirt both work, depending on how much contrast you want. Keep everything else simple: the jacket is the statement, so accessories should support rather than compete. Avoid anything too casual - the velvet elevates, so give the rest of the outfit a chance to keep up.
+6
 
-**Q:** Why do celebrities wear blue velvet jackets on the red carpet?  
-**A:** Because it photographs differently from any other fabric at that formality level. At events like the Actor Awards and the Met Gala, blue velvet stands out in a room full of black tuxedos without looking like a costume. Charlie Hunnam wore a Brioni electric blue velvet jacket at the Actor Awards. Ryan Reynolds wore midnight blue velvet at the Met Gala. John Legend wore a full blue velvet ensemble. The common logic: velvet's pile catches stage and flash lighting in a way that makes the color look richer on camera than it does on the rack.
+### Trackable Worldwide Shipping
 
-**Q:** How does the free test jacket work?  
-**A:** When you place your order, you enter your measurements on this product page. We build a complete test jacket in an inexpensive fabric and ship it to you by trackable courier. You try it on at home, check the chest, shoulders, waist, and sleeve length, and tell us anything that needs adjusting. We update your pattern and then cut your final jacket in the velvet you chose. The test jacket is yours to keep at no extra charge. This is how we guarantee fit for customers ordering worldwide.
+Your finished jacket ships via a trackable courier. Delivery is typically 3 to 7 business days once complete. We ship worldwide.
 
-**Q:** What velvet colors are available?  
-**A:** Eleven colors: Blue, Navy, Black, Burgundy, Wine, Red, Green, Light Green, Lavender, Maroon, and Black Crushed Velvet. All are the same price. Blue and Navy are the most popular for evening events. Burgundy and Wine work particularly well for the holiday season. Red and Green are bolder choices that work best at events with a festive or creative dress code.
+**Starting price:** $519 **Production time:** 4 to 6 weeks total **Care:** Dry clean only
 
-**Q:** Can I choose the fit - slim, regular, or more relaxed?  
-**A:** Yes. Because every jacket is made to your measurements, the silhouette is yours to define. For a velvet dinner jacket, most customers choose a slim to contemporary cut - velvet reads best when the jacket follows your body rather than hanging away from it. A jacket that is too big in velvet will look heavy rather than luxurious. Add your silhouette preference in the order notes and we confirm before production.
+## Baron vs. Off the Rack
 
-**Q:** Can I order matching velvet trousers to complete the look?  
-**A:** Yes - we offer velvet trousers separately. If you want a matching full velvet suit, message us before ordering and we can confirm the fabric availability for both pieces in your chosen color. Most customers pair the blue velvet jacket with black tailored trousers rather than matching velvet, but both options are available.
+| | Baron Boutique | Off the Rack |
+| --- | --- | --- |
+| Fit | Built to your measurements | S / M / L – velvet shows every misfit |
+| Construction | Canvas front – shapes to your body | Fused or unlined front – stiff and flat |
+| Buttons | Fabric-covered in your velvet, hand-reinforced | Plastic or resin |
+| Buttonholes | Hand-finished | Machine-worked |
+| Lining choice | 34 acetate colors, your pick | One standard lining, no choice |
+| Color options | 11 velvet colors, same price | 1 to 3 options, seasonal |
+| Sizing risk | Zero – free test jacket confirms fit first | Returns or costly alterations |
+| Silhouette | Your choice – slim to relaxed | One cut per size block |
 
-**Q:** How long does the whole process take?  
-**A:** Plan on 6 to 8 weeks from order to finished jacket in your hands. The test jacket takes 2 to 3 weeks to build and ship. Once you confirm the fit, the final jacket takes 4 to 6 weeks in production. If you have a fixed date - a wedding, a holiday event, a gala - tell us when you order and we will confirm whether we can meet your deadline.
+## Free Test Jacket – Why It Matters More for Velvet
+
+Velvet is less forgiving than most fabrics. A shoulder seam that sits wrong, a chest that pulls slightly across the button – these flaws are more visible in velvet than in wool because the pile’s light-catching quality draws attention to every line and every imperfection. This is why we will not cut your velvet until the fit is confirmed.
+
+Every Baron order begins with a complete test jacket in an inexpensive fabric, shipped to you by trackable courier. You try it on at home. You tell us what needs adjusting. We update the pattern and then build your final jacket in the velvet you chose. The test jacket is yours to keep. This is the only honest guarantee we can make to a customer ordering from the other side of the world.
+
+## About Baron Boutique
+
+Baron Boutique has been building custom garments by hand for over 25 years. The workshop specializes in made-to-measure tailoring for men and women, covering everything from traditional formal wear to precise pop-culture replicas. Every piece is constructed by the same team, using the same methods, with no shortcuts on the details that matter. We answer emails.
+
+## Frequently Asked Questions
+
+### What occasions is a blue velvet dinner jacket appropriate for?
+
+A blue velvet dinner jacket is built for evenings – holiday parties, Christmas and New Year’s dinners, cocktail events, black-tie or black-tie-optional events, weddings as a groom or wedding party member, and any formal dinner where you want to wear something more interesting than a standard black tuxedo. It is not a daytime garment and it is not a casual jacket. When the occasion calls for it, nothing else makes the same statement.
+
+### What is the difference between blue and navy velvet for a dinner jacket?
+
+Blue velvet is a brighter, mid-tone blue that photographs with more saturation and reads as a deliberate color choice from across a room. Navy velvet is darker and closer to the depth of a standard navy suit – more conservative, still luxurious, and more versatile across different event types. Both are available at the same price. Blue tends to make a stronger statement; navy tends to work across a broader range of occasions. If you want to be noticed, blue. If you want to be polished across more settings, navy.
+
+### What do I wear with a blue velvet dinner jacket?
+
+The cleanest option is black tailored trousers or a black tuxedo pant – the contrast between the rich blue and the black reads well under evening lighting. A white dress shirt or a black shirt both work, depending on how much contrast you want. Keep everything else simple: the jacket is the statement, so accessories should support rather than compete. Avoid anything too casual – the velvet elevates, so give the rest of the outfit a chance to keep up.
+
+### Why do celebrities wear blue velvet jackets on the red carpet?
+
+Because it photographs differently from any other fabric at that formality level. At events like the Actor Awards and the Met Gala, blue velvet stands out in a room full of black tuxedos without looking like a costume. Charlie Hunnam wore a Brioni electric blue velvet jacket at the Actor Awards. Ryan Reynolds wore midnight blue velvet at the Met Gala. John Legend wore a full blue velvet ensemble. The common logic: velvet’s pile catches stage and flash lighting in a way that makes the color look richer on camera than it does on the rack.
+
+### How does the free test jacket work?
+
+When you place your order, you enter your measurements on this product page. We build a complete test jacket in an inexpensive fabric and ship it to you by trackable courier. You try it on at home, check the chest, shoulders, waist, and sleeve length, and tell us anything that needs adjusting. We update your pattern and then cut your final jacket in the velvet you chose. The test jacket is yours to keep at no extra charge. This is how we guarantee fit for customers ordering worldwide.
+
+### What velvet colors are available?
+
+Eleven colors: Blue, Navy, Black, Burgundy, Wine, Red, Green, Light Green, Lavender, Maroon, and Black Crushed Velvet. All are the same price. Blue and Navy are the most popular for evening events. Burgundy and Wine work particularly well for the holiday season. Red and Green are bolder choices that work best at events with a festive or creative dress code.
+
+### Can I choose the fit – slim, regular, or more relaxed?
+
+Yes. Because every jacket is made to your measurements, the silhouette is yours to define. For a velvet dinner jacket, most customers choose a slim to contemporary cut – velvet reads best when the jacket follows your body rather than hanging away from it. A jacket that is too big in velvet will look heavy rather than luxurious. Add your silhouette preference in the order notes and we confirm before production.
+
+### Can I order matching velvet trousers to complete the look?
+
+Yes – we offer velvet trousers separately. If you want a matching full velvet suit, message us before ordering and we can confirm the fabric availability for both pieces in your chosen color. Most customers pair the blue velvet jacket with black tailored trousers rather than matching velvet, but both options are available.
+
+### How long does the whole process take?
+
+Plan on 6 to 8 weeks from order to finished jacket in your hands. The test jacket takes 2 to 3 weeks to build and ship. Once you confirm the fit, the final jacket takes 4 to 6 weeks in production. If you have a fixed date – a wedding, a holiday event, a gala – tell us when you order and we will confirm whether we can meet your deadline.
+
+## Customer Reviews
+
+**Rating:** 5.00 out of 5, from 2 review(s)
+
+**Robert Lougheed-Lowe** (5/5) — 2023-04-28  
+The groomsmen at my wedding wore these jackets and looked smashing!
+
+**Jonny Clark** (5/5) — 2021-11-03  
+I can't emphasize enough how pleased I am with the garment and especially the service I received from Baron Boutique. Any query was attended to immediately and nothing was too much trouble.
 
 ## Categories
 

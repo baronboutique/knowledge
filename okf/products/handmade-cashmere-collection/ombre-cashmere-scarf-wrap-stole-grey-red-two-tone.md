@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Ombre Cashmere Scarf Wrap Stole
@@ -25,18 +23,44 @@ generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
 **URL:** https://baronboutique.com/ombre-cashmere-scarf-wrap-stole-grey-red-two-tone/  
 **Type:** cashmere (made to order)  
 **Price:** USD 275.00 (verify current price on product page)  
+**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Pattern | Design:** Ombre
+- **Pattern | Design:** 1 options: Ombre
 
-## Summary
+## Short Description
 
 Embrace luxurious comfort with this ultra-soft Ombre Cashmere Scarf Wrap Stole. Featuring a beautiful grey & red two-tone gradient, this versatile, lightweight piece adds effortless elegance to any look across seasons. Crafted from 100% pure, allergen-free Grade A cashmere for superior warmth and breathability. Sustainably sourced from the Tibetan Plateau, supporting ethical and eco-conscious production. Generously sized at 28″ x 80″ (70 cm x 200 cm) for versatile styling as a scarf, wrap, or stole. Features an ultra-soft, smooth texture that feels gentle against the skin. Dyed with Azo-free, eco-friendly colors, safe for you and kind to the environment.
 
-Gradient Sky Feel the mountain air captured in this cashmere wrap. A blend of soft grey and warm red two tone, like twilight meeting the earth, woven from whispers against skin. The ultra-soft twill weave gradient drapes like liquid light, a lightweight cloud for your shoulders. More than just fabric, it’s a moment of serene beauty you wear, a personal journey wrapped close. Yarn and Weight 28/1 yarn count 14-16 microns diameter 35-55mm yarn length Regular weight: 7 oz (200 grams) Sizing and Finishing 28″x80″ (70cm x 200cm) Rectangle in shape and suitable for wearing as a scarf, wrap, or stole. Fits in a handbag for convenient storage and travel. Live Edge / Loose Ends for a natural look. Wash and Care Instructions Add a mild detergent to cold or lukewarm water. Soak the cashmere shawl for 8-12 minutes, then gently rub. Rinse and carefully squeeze out excess water. Lay flat to dry; use a steamer or a low-heat iron if needed. For long-term storage, keep in a cool, dry place with cedar chips or lavender sachets. For short-term or daily use, hang in a well-ventilated area.
+#### Gradient Sky
+
+Feel the mountain air captured in this cashmere wrap. A blend of soft grey and warm red two tone, like twilight meeting the earth, woven from whispers against skin. The ultra-soft twill weave gradient drapes like liquid light, a lightweight cloud for your shoulders. More than just fabric, it’s a moment of serene beauty you wear, a personal journey wrapped close.
+
+#### Yarn and Weight
+
+- 28/1 yarn count
+- 14-16 microns diameter
+- 35-55mm yarn length
+- Regular weight: 7 oz (200 grams)
+
+#### Sizing and Finishing
+
+- 28″x80″ (70cm x 200cm)
+- Rectangle in shape and suitable for wearing as a scarf, wrap, or stole.
+- Fits in a handbag for convenient storage and travel.
+- Live Edge / Loose Ends for a natural look.
+
+#### Wash and Care Instructions
+
+- Add a mild detergent to cold or lukewarm water.
+- Soak the cashmere shawl for 8-12 minutes, then gently rub.
+- Rinse and carefully squeeze out excess water.
+- Lay flat to dry; use a steamer or a low-heat iron if needed.
+- For long-term storage, keep in a cool, dry place with cedar chips or lavender sachets.
+- For short-term or daily use, hang in a well-ventilated area.
 
 ## Categories
 

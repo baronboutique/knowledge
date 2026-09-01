@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Screen Inspired
@@ -35,7 +33,7 @@ Screen Inspired Garments Made to Your Measurements — Trench Coats, Doctor Insp
 Every piece in this collection is built from scratch to capture an iconic screen look — the signature leather trench coat, the Doctor inspired frock coat, the classic spy suit, the Victorian Ulster coat. Unlike off-the-rack costume pieces, each garment is cut to your exact measurements with fabric chosen to closely reflect the original: wool blends, fine suiting cloth, brushed cashmere, or structured outerwear fabric depending on the style. Every order includes a complimentary test garment before the final piece is cut, so you can confirm the fit before committing. Ships worldwide via FedEx, DHL, or UPS with full tracking.
 
 Browse the wardrobes by franchise
-- The Matrix — Neo’s Trench Coat: Our most-requested screen piece: the floor-length [Neo trench coat in structured cotton](https://baronboutique.com/the-matrix-coat/), plus the [leather Reloaded version](https://baronboutique.com/matrix-reloaded-coat-in-…
+- The Matrix — Neo’s Trench Coat: Our most-requested screen piece: the floor-length [Neo trench coat in structured cotton](https://baronboutique.com/the-matrix-coat/), plus the…
 - Time Traveler — The Doctor Collection: The deepest Doctor inspired range anywhere: the Tenth Doctor’s blue and brown pinstripe suits, the Fourth Doctor’s bohemian and velvet frock coats, the Eleventh’s “Snowmen” coat, and the Twelfth’s navy velvet coat.
 - Spy Tailoring — James Bond & More: The secret-agent wardrobe done as real tailoring: the beige suit, the Skyfall and Spectre looks, the silk Dr. No Nehru jacket, the naval peacoat, and the suede blouson.
 - Star Wars — Count Dooku: The screen-accurate [Count Dooku cape and tunic](https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/): a floor-length Fresco wool cape with silk-satin lining and metal brooch-and-chain fastening, over a …

@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Fog Cable Knit Cashmere Turtleneck Sweater
@@ -25,18 +23,70 @@ generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 **URL:** https://baronboutique.com/fog-cable-knit-cashmere-turtleneck/  
 **Type:** knitwear (made to order)  
 **Price:** USD 299 (verify current price on product page)  
+**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Knitwear Size:** 9 options available
+- **Knitwear Size:** M (8). 9 options: 3XL (15), 4XL (16), L (10), M (8), S (6), XL (12), XS (4), XXL (14), XXS (0-2)
 
-## Summary
+## Short Description
 
 Envelop yourself in the subtle allure of our Fog Cable Knit Cashmere Turtleneck Sweater. This classic fit, crafted from 100% pure cashmere in a gentle fog hue, offers unparalleled comfort and a refined presence for any occasion. Model in product photo is 5'8" tall wearing Size 8 (our M) for a comfortable look. Key Highlights Made to order. Crafted from 100% pure sustainably sourced Grade A cashmere from the Tibetan Plateau. Available in various sizes, follow the size chart to ensure a perfect fit. Hand-Knitted in Nepal using semi-automatic knitting machines. Dyed with Azo-free, eco-friendly colors, safe for you and kind to the environment.
 
-Whispers of a Misty Morning Like the first breath of a cool, misty morning, our Fog Cable Knit Cashmere Turtleneck Sweater embraces you. The intricate cable knit pattern, a testament to heritage craftsmanship, rises from the breathable cashmere like trails through a serene landscape. This classic turtleneck, in its quiet fog color, drapes with a comfortable ease, a gentle warmth against the skin. A personal sanctuary spun in purest fiber, it’s an invitation to quiet moments and enduring style. Key Features Style: Sweater Fit: Classic Fit Neckline: Turtleneck Shoulder Style: classic shoulder fit Sleeve Style: Long Sleeve Fastening Style: Pullover Length: Waist Pattern: Solid Color Knit Type: Classic Cable Knit Color: Fog Fabric nature: Breathable Season: Fall/Winter Occasion: Formal/Casual Yarn and Weight 26/2 yarn count, 2 ply 14-16 microns diameter 35-55mm yarn length Sweater weight: 11.28 oz (320 grams) Wash & Care Instructions Add mild detergent to cold or lukewarm water. Submerge the sweater and gently agitate for about 30 seconds. Let it soak for up to 30 minutes. Drain the soapy water and rinse thoroughly with cool, clean water.
+#### Whispers of a Misty Morning
+
+Like the first breath of a cool, misty morning, our Fog Cable Knit Cashmere Turtleneck Sweater embraces you. The intricate cable knit pattern, a testament to heritage craftsmanship, rises from the breathable cashmere like trails through a serene landscape.
+
+This classic turtleneck, in its quiet fog color, drapes with a comfortable ease, a gentle warmth against the skin. A personal sanctuary spun in purest fiber, it’s an invitation to quiet moments and enduring style.
+
+#### Key Features
+
+- Style: Sweater
+- Fit: Classic Fit
+- Neckline: Turtleneck
+- Shoulder Style: classic shoulder fit
+- Sleeve Style: Long Sleeve
+- Fastening Style: Pullover
+- Length: Waist
+- Pattern: Solid Color
+- Knit Type: Classic Cable Knit
+- Color: Fog
+- Fabric nature: Breathable
+- Season: Fall/Winter
+- Occasion: Formal/Casual
+
+#### Yarn and Weight
+
+- 26/2 yarn count, 2 ply
+- 14-16 microns diameter
+- 35-55mm yarn length
+- Sweater weight: 11.28 oz (320 grams)
+
+#### Wash & Care Instructions
+
+- Add mild detergent to cold or lukewarm water.
+- Submerge the sweater and gently agitate for about 30 seconds.
+- Let it soak for up to 30 minutes.
+- Drain the soapy water and rinse thoroughly with cool, clean water.
+
+#### Drying
+
+- Gently press out excess water — do not wring.
+- Lay flat on a towel and reshape to air dry.
+- Avoid hanging, as it may stretch the fabric.
+
+#### Care
+
+- Fold, Don’t Hang: Neatly fold when not in use to avoid stretching.
+- Store carefully in a cool, dry place.
+- Use cedar balls or lavender sachets to deter moths.
+
+#### Maintenance
+
+- Pilling: Gently remove any pills using a cashmere comb or fabric shaver.
+- Rotate Wear: Avoid frequent wear to maintain the sweater’s shape.
 
 ## Categories
 

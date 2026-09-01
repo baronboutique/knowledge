@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Frock Coats
@@ -28,9 +26,9 @@ Almost Every Frock Coat Sold Online Is a Costume. These Are Tailored Garments.
 Search for a frock coat and you will mostly find fancy dress: thin polyester cut in flat sizes, sold for a single Halloween or a stag do, shapeless the moment it is on. That is a shame, because the frock coat is one of the great silhouettes in menswear history, the standard day coat of the nineteenth century, knee-length, waist-seamed, and cut to give a man presence. Worn correctly it is not a costume at all; it is the most dramatic thing a tailor can build.
 
 How to choose your frock coat
-- Classic Wool Frock Coats: The wearable, tailored frock coat: the [Western wool frock coat](https://baronboutique.com/mens-frock-coat/) with its clean Victorian line, and the subdued [Time Lord coat in Oxford blue](https://baronboutique.com/time-l…
-- Velvet Frock Coats: The most dramatic reading of the silhouette, in a pile that catches light: the [green velvet frock coat](https://baronboutique.com/green-velvet-frock-coat/) and the theatrical [pirate frock coat](https://baronboutique.co…
-- Doctor Who Frock Coats: Screen-accurate, built as wearable tailoring: the [Eleventh Doctor “Snowmen” coat](https://baronboutique.com/eleventh-doctor-snowmen-frock-coat-replica/), the [Fourth Doctor’s coat](https://baronboutique.com/fourth-docto…
+- Classic Wool Frock Coats: The wearable, tailored frock coat: the [Western wool frock coat](https://baronboutique.com/mens-frock-coat/) with its clean Victorian line, and the subdued…
+- Velvet Frock Coats: The most dramatic reading of the silhouette, in a pile that catches light: the [green velvet frock coat](https://baronboutique.com/green-velvet-frock-coat/) and the theatrical…
+- Doctor Who Frock Coats: Screen-accurate, built as wearable tailoring: the [Eleventh Doctor “Snowmen” coat](https://baronboutique.com/eleventh-doctor-snowmen-frock-coat-replica/), the…
 - Literary & Cinematic Coats: Character coats made in real cloth: the [Sherlock Holmes frock coat](https://baronboutique.com/sherlock-holmes-frock-coat/) from the 2009 film, and the velvet pirate coat for high-drama looks.
 - The Wedding Frock Coat: A lightweight [linen frock coat for summer weddings](https://baronboutique.com/mens-linen-frock-coat-summer-wedding/), made to your measurements, for a groom who wants a Regency or vintage-styled ceremony without overhea…
 - Built for Reenactors & Collectors: Every frock coat is cut with generous seam allowances and a proper waist seam, so it can be tailored to an exact historical brief and altered over years of wear.

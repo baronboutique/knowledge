@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Orange Cashmere Dropped Shoulder Sweater
@@ -25,18 +23,70 @@ generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 **URL:** https://baronboutique.com/orange-cashmere-dropped-shoulder-boxy-sweater/  
 **Type:** knitwear (made to order)  
 **Price:** USD 299.00 (verify current price on product page)  
+**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Knitwear Size:** 7 options available
+- **Knitwear Size:** M (8). 7 options: L (10), M (8), S (6), XL (12), XS (4), XXL (14), XXS (0-2)
 
-## Summary
+## Short Description
 
 Experience the captivating Ember Glow of our orange cashmere sweater. Its modern boxy fit, chic dropped shoulders, and breathable cashmere fabric kissed by elegant contrast tipping, offer a luxurious embrace for unparalleled comfort. Perfect for the Fall/Winter season. The sweater's waist length and jersey knit are complemented by round neck is available in various sizes. This solid orange sweater is both formal and casual. Model in product photo is 5'6" tall wearing size 8 (our M) for a relaxed, boxy look. Key Highlights Made to order. Crafted from 100% pure sustainably sourced Grade A cashmere from the Tibetan Plateau. Available in various sizes, follow the size chart to ensure a perfect fit. Hand-Knitted in Nepal using semi-automatic knitting machines. Dyed with Azo-free, eco-friendly colors, safe for you and kind to the environment.
 
-Twilight's Fiery Kiss As daylight yields to a deeper hue, our Ember Glow orange cashmere captures that fleeting magic. The sweater's generous boxy cut and relaxed dropped shoulders offer a sanctuary of warmth, a breathable haven against the cool air. A whisper of navy tipping traces its edges, like the first stars emerging in a fiery sky. This isn't merely knitwear; it's the vibrant memory of a sunset held close, a personal glow to carry through the evening's quiet moments. Key Features Style: Sweater Fit: Boxy Neckline: Round neck Shoulder Style: Dropped Shoulder Sleeve Style: Long Sleeve Fastening Style: Pullover Length: Waist Pattern: Solid Color Knit Type: Jersey Color: Orange Fabric nature: Breathable Season: Fall/Winter Occasion: Formal/Casual Yarn and Weight 26/2 yarn count, 2 ply 14-16 microns diameter 35-55mm yarn length Sweater weight: 10.2 oz (290 grams) Wash & Care Instructions Add mild detergent to cold or lukewarm water. Submerge the sweater and gently agitate for about 30 seconds. Let it soak for up to 30 minutes. Drain the soapy water and rinse thoroughly with cool, clean water. Drying Gently press out excess water — do not wring.
+#### Twilight’s Fiery Kiss
+
+As daylight yields to a deeper hue, our Ember Glow orange cashmere captures that fleeting magic. The sweater’s generous boxy cut and relaxed dropped shoulders offer a sanctuary of warmth, a breathable haven against the cool air.
+
+A whisper of navy tipping traces its edges, like the first stars emerging in a fiery sky. This isn’t merely knitwear; it’s the vibrant memory of a sunset held close, a personal glow to carry through the evening’s quiet moments.
+
+#### Key Features
+
+- Style: Sweater
+- Fit: Boxy
+- Neckline: Round neck
+- Shoulder Style: Dropped Shoulder
+- Sleeve Style: Long Sleeve
+- Fastening Style: Pullover
+- Length: Waist
+- Pattern: Solid Color
+- Knit Type: Jersey
+- Color: Orange
+- Fabric nature: Breathable
+- Season: Fall/Winter
+- Occasion: Formal/Casual
+
+#### Yarn and Weight
+
+- 26/2 yarn count, 2 ply
+- 14-16 microns diameter
+- 35-55mm yarn length
+- Sweater weight: 10.2 oz (290 grams)
+
+#### Wash & Care Instructions
+
+- Add mild detergent to cold or lukewarm water.
+- Submerge the sweater and gently agitate for about 30 seconds.
+- Let it soak for up to 30 minutes.
+- Drain the soapy water and rinse thoroughly with cool, clean water.
+
+#### Drying
+
+- Gently press out excess water — do not wring.
+- Lay flat on a towel and reshape to air dry.
+- Avoid hanging, as it may stretch the fabric.
+
+#### Care
+
+- Fold, Don’t Hang: Neatly fold when not in use to avoid stretching.
+- Store carefully in a cool, dry place.
+- Use cedar balls or lavender sachets to deter moths.
+
+#### Maintenance
+
+- Pilling: Gently remove any pills using a cashmere comb or fabric shaver.
+- Rotate Wear: Avoid frequent wear to maintain the sweater’s shape.
 
 ## Categories
 

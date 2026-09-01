@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # The Tailored Linen Shirts
@@ -25,18 +23,53 @@ generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 **URL:** https://baronboutique.com/tailored-linen-shirts/  
 **Type:** bespoke (made to order)  
 **Price:** USD 199 (verify current price on product page)  
+**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Linen Fabric:** 18 options available
+- **Linen Fabric:** Dark Blue Linen. 18 options: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
 
-## Summary
+## Short Description
 
 High-quality tailored linen shirts are an essential addition to your summer collection. Available in both long sleeves and short sleeves, these slim-fit linen shirts pair great with other garments of linen, cotton, or even wool, diversifying your holiday collection. Designed for optimal airflow and heat reduction, the 100% pure linen material offers exceptional breathability.
 
-The linen shirt is the definitive sartorial statement of warm-weather elegance. It is a garment that breathes with its environment, prized for its exceptional coolness and the nonchalant, characterful patina it develops with wear. This is not a mere shirt; it is an essential tool for navigating a summer [beach wedding](https://baronboutique.com/destination-wedding-suit) or a sun-drenched holiday with sophisticated ease. The Foundation of Men's Linen Shirts The unique character of pure linen provides a versatile canvas. Our interpretation pairs this relaxed fabric with the deliberate precision of a bespoke cut. The construction can be specified with a classic point collar for a sharper line or a band collar for a more relaxed mien. Convertible cuffs offer the choice between a simple buttoned closure and formal cufflinks. A Personal Commission The creation of your linen shirt is a collaborative process. Through our customizer, you will define its final character—from the precise fit and collar style to the choice of long or short sleeves. Each detail is an opportunity for personal expression.
+The linen shirt is the definitive sartorial statement of warm-weather elegance. It is a garment that breathes with its environment, prized for its exceptional coolness and the nonchalant, characterful patina it develops with wear. This is not a mere shirt; it is an essential tool for navigating a summer [beach wedding](https://baronboutique.com/destination-wedding-suit) or a sun-drenched holiday with sophisticated ease.
+
+#### The Foundation of Men’s Linen Shirts
+
+The unique character of pure linen provides a versatile canvas. Our interpretation pairs this relaxed fabric with the deliberate precision of a bespoke cut. The construction can be specified with a classic point collar for a sharper line or a band collar for a more relaxed mien. Convertible cuffs offer the choice between a simple buttoned closure and formal cufflinks.
+
+#### A Personal Commission
+
+The creation of your linen shirt is a collaborative process. Through our customizer, you will define its final character—from the precise fit and collar style to the choice of long or short sleeves. Each detail is an opportunity for personal expression.
+
+#### The Bespoke Promise: A Flawless Foundation
+
+A fabric with such natural character demands a precise and considered cut. Your commission therefore begins with a preliminary fitting shirt—a toile—crafted to your initial specifications. This critical step allows for the meticulous refinement of the shirt’s balance and line, ensuring the final linen piece is achieved with absolute precision. The fitting canvas is, of course, yours to retain.
+
+Machine wash.
+
+#### The Tailored Linen Shirts Feature
+
+- 100% linen
+- button-front dress shirt
+- solid color
+- built-in stretch for comfort
+- minimal ironing
+- flat-felled seams
+- classic button down collar
+- French placket front
+- left chest pocket skewed
+- one piece long sleeves with wrist placket
+- single-button closure sleeves placket
+- round two buttons convertible cuff to adjust cuff tightness
+- one-piece shoulder yoke
+- one-piece shirt back with centerfold
+- machine-made clean buttonholes
+- hand-stitched white horn buttons
+- curve shirt hem that fits your summer holiday lifestyle
 
 ## Categories
 

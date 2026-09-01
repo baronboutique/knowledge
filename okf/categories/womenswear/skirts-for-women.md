@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Skirts
@@ -30,7 +28,7 @@ A pencil skirt lives or dies on three measurements: the waist, the hip, and the 
 Find your skirt
 - Black Work Skirts: The office staple, done properly. The [Essential Black Work Skirt](https://baronboutique.com/womens-essential-black-skirt/), the [Pocketed Pencil Skirt](https://baronboutique.com/womens-mock-pocket-work-skirt/), and the …
 - Pinstripe & Stripe Skirts: Quiet pattern with real authority. The [Pinstripe Pencil Skirt](https://baronboutique.com/womens-essential-stripe-skirt/) and the [Piped-Trim Pencil Skirt](https://baronboutique.com/womens-white-trim-pencil-skirt/), made…
-- Seasonless & Performance Skirts: Built to hold their line all day. The [Seasonless Midi Pencil Skirt](https://baronboutique.com/womens-seasonless-pure-new-wool-skirt/), the [High-Waisted Power Skirt](https://baronboutique.com/womens-all-season-tropical-…
+- Seasonless & Performance Skirts: Built to hold their line all day. The [Seasonless Midi Pencil Skirt](https://baronboutique.com/womens-seasonless-pure-new-wool-skirt/), the…
 - Detail-Led Skirts: A little movement, still tailored. The [Kick Pleat Pencil Skirt](https://baronboutique.com/womens-kick-pleat-smart-skirt/), made to your measurements for ease of walking without losing the line. From $229.
 - Make It a Skirt Suit: Pair any skirt with a matching tailored jacket for a coordinated look. Browse [Women’s Suits & Blazers](https://baronboutique.com/womenswear/suits-blazers-for-women/) to complete the set in the same cloth.
 

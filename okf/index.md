@@ -78,4 +78,4 @@ Intent-triggered processes an agent can act on.
 - Custom-made garments cannot be returned once production has begun.
 - The Instagram handle is boutiquebaron (not baronboutique).
 - Files under concepts/ and playbooks/ are hand-authored by the Baron Boutique workshop (not auto-generated) and describe the actual production process.
-- This bundle was auto-generated from live WooCommerce data by Baron AI Knowledge Manager v1.21.1.
+- This bundle was auto-generated from live WooCommerce data by Baron AI Knowledge Manager v1.22.1.

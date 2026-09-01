@@ -13,7 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Women
@@ -43,7 +43,7 @@ Everything here is made to order and cut to your exact measurements, from tailor
 - Shirts: Tailored and fitted dress shirts in Egyptian cotton, oxford, twill, and crepe silk, cut to your measurements. Browse [Women’s Shirts](https://baronboutique.com/womenswear/shirts-for-women/).
 - Dresses: Tailored dresses and suit dresses in wool flannel, crepe silk, and more, made to your measurements for work, evening, and occasion. Browse [Women’s Dresses](https://baronboutique.com/womenswear/dresses-for-women/).
 - Wedding Suits & Tuxedos: Bridal suits and black-tie tailoring drafted for a woman’s figure. Browse [Women’s Wedding Suits](https://baronboutique.com/womenswear/wedding-suits-for-women/) and [Women’s Tuxedos](https://baronboutique.com/womenswear/tuxedos-for-women/).
-- Accessories & Cashmere: Handloomed cashmere scarves, silk head and neck wraps, and cashmere sweaters. Browse [Women’s Accessories](https://baronboutique.com/womenswear/womens-accessories/) and [Cashmere Sweaters](https://baronboutique.com/womens-cashmere-…
+- Accessories & Cashmere: Handloomed cashmere scarves, silk head and neck wraps, and cashmere sweaters. Browse [Women’s Accessories](https://baronboutique.com/womenswear/womens-accessories/) and…
 - Screen Inspired: Cinematic tailoring for women, from Doctor-inspired velvet coats to Matrix and Bond silhouettes, each made to your measurements. Browse [Screen Inspired for Women](https://baronboutique.com/womenswear/screen-inspired-women/).
 
 Choose the piece, cloth, and details

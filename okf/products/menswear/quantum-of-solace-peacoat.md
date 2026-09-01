@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Mens Fitted Peacoat Black Quantum Of Solace Ending
@@ -25,19 +23,60 @@ generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 **URL:** https://baronboutique.com/quantum-of-solace-peacoat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 649.00 (verify current price on product page)  
+**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Wool Cashmere Fabric:** Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
-- **Lining Fabric:** 25 options available
+- **Wool Cashmere Fabric:** Black Wool Cashmere. 6 options: Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
+- **Lining Fabric:** Black Satin. 25 options: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
 
-## Summary
+## Short Description
 
 Mens fitted peacoat in black made famous by James Bond. The minified replica coat from Quantum Of Solace ending scene mens black peacoat is known for its warmth and durability. James Bond Quantum Of Solace peacoat is a true classic and has remained on-trend season after season.
 
-Own the sharp, commanding style of 007 with this fitted peacoat, a faithful replica from Quantum of Solace. Custom-tailored from a luxurious wool-cashmere blend, this coat is an investment in timeless power and sophistication. Masterful Construction & Design Experience elite craftsmanship with a hand-basted full canvas front that shapes the coat to your form. The definitive 10x5 double-breasted closure and broad, buttonable lapels create a powerful, screen-accurate silhouette. Versatile Style & Color Palette Choose from 6 classic colors, including signature black, charcoal, and navy, to match any mission. This peacoat pairs perfectly with [flannel dress pants](https://baronboutique.com/light-weight-all-season-wool-flannel-pants-slim-fit) for a look of effortless intelligence. Free Fitted Test Peacoat A coat this precise demands a perfect fit. Your order includes a complimentary test peacoat to ensure every detail is tailored exactly to your measurements. Eliminate all sizing risk and achieve a truly custom-made garment. The test coat is yours to keep. Dry-clean.
+Own the sharp, commanding style of 007 with this fitted peacoat, a faithful replica from Quantum of Solace. Custom-tailored from a luxurious wool-cashmere blend, this coat is an investment in timeless power and sophistication.
+
+#### Masterful Construction & Design
+
+Experience elite craftsmanship with a hand-basted full canvas front that shapes the coat to your form. The definitive 10×5 double-breasted closure and broad, buttonable lapels create a powerful, screen-accurate silhouette.
+
+#### Versatile Style & Color Palette
+
+Choose from 6 classic colors, including signature black, charcoal, and navy, to match any mission. This peacoat pairs perfectly with [flannel dress pants](https://baronboutique.com/light-weight-all-season-wool-flannel-pants-slim-fit) for a look of effortless intelligence.
+
+#### Free Fitted Test Peacoat
+
+A coat this precise demands a perfect fit. Your order includes a complimentary test peacoat to ensure every detail is tailored exactly to your measurements. Eliminate all sizing risk and achieve a truly custom-made garment. The test coat is yours to keep.
+
+Dry-clean.
+
+#### Mens Fitted Peacoat Black Features
+
+- tailored from 95% wool 5% cashmere cloth in black 14 oz weight
+- hand-made by Baron Boutique
+- screen-accurate design
+- canvas front construction
+- double-breasted front
+- 10×5 button coat fastening
+- buttoned neck tab for extra protection
+- hand stitched minimal shoulder pads
+- wide notch lapels
+- top-stitched lapels edge
+- horizontal hip pocket with flap
+- hand made buttonholes
+- peacoat interior lined in black acetate
+- hand stitched armholes
+- two internal pockets
+- semi belted back with buttons
+- center back vent
+- straight pea coat front hem
+- 3 buttons vented sleeves cuff
+- kissing sleeve buttons stance
+- hand made black horn buttons
+- stitched and reinforced coat buttons by hand for everyday use
+- ample coat seam allowances for future alteration
 
 ## Categories
 

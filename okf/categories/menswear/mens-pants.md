@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Pants
@@ -30,9 +28,9 @@ Most men buy trousers as an afterthought to the jacket, off a rack, in a waist-a
 How to choose your trousers
 - Pinstripe & Chalk-Stripe Trousers: The [grey pinstripe trouser in Super 150s wool](https://baronboutique.com/mens-gray-pinstripe-pants/), made to your measurements, with the sharp banker line that carries an office or a power look, worn as a separate or m…
 - Silk Dress Trousers: The [bespoke dupioni silk trouser](https://baronboutique.com/mens-dupioni-silk-trousers/) in over 20 colors, flat-front with a clean leg line, made to your measurements.
-- Grey & Charcoal Flannel Trousers: The wardrobe workhorse: [grey flannel trousers](https://baronboutique.com/mens-gray-wool-flannel-pants/), an [all-season flannel](https://baronboutique.com/light-weight-all-season-wool-flannel-pants-slim-fit/), and [navy…
+- Grey & Charcoal Flannel Trousers: The wardrobe workhorse: [grey flannel trousers](https://baronboutique.com/mens-gray-wool-flannel-pants/), an [all-season flannel](https://baronboutique.com/light-weight-all-season-wool-flannel-pants-slim-fit/), and…
 - Linen Trousers for Beach & Summer Weddings: [Linen trousers cut for a beach wedding](https://baronboutique.com/linen-pants/), made to your measurements, breathable and relaxed for hot climates and destination ceremonies.
-- Sharkskin & Merino Dress Pants: Everyday worsted trousers with a refined finish: [sharkskin dress pants](https://baronboutique.com/mens-dress-pants-in-sharkskin/) with a subtle two-tone weave, and clean [merino wool dress pants](https://baronboutique.c…
+- Sharkskin & Merino Dress Pants: Everyday worsted trousers with a refined finish: [sharkskin dress pants](https://baronboutique.com/mens-dress-pants-in-sharkskin/) with a subtle two-tone weave, and clean…
 - Trousers as Separates: Because each pair is cut on its own block to your measurements, these work as true separates, built to pair with a blazer or sport coat rather than only as suit bottoms.
 
 Choose your cloth and details

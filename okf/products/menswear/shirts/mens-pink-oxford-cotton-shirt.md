@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # The Pink Oxford Shirt
@@ -25,18 +23,37 @@ generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 **URL:** https://baronboutique.com/mens-pink-oxford-cotton-shirt/  
 **Type:** bespoke (made to order)  
 **Price:** USD 199 (verify current price on product page)  
+**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Oxford Cotton Fabric:** 11 options available
+- **Oxford Cotton Fabric:** Pink Oxford Cotton. 11 options: Butter Oxford Cotton, Cornflower Oxford Cotton, Indigo Oxford Cotton, Light Blue Oxford Cotton, Light Brown Oxford Cotton, Pink Oxford Cotton, White and Burgundy Stripe Oxford Cotton, White and Crimson Stripe Oxford Cotton, White and Purple Stripe Oxford Cotton, White and Sky Blue Stripe Oxford Cotton, White Oxford Cotton
 
-## Summary
+## Short Description
 
 The essential pink oxford shirt, a cornerstone of masculine style. Its versatile character pairs with the smooth finish of a worsted suit or provides a point of textural contrast to a flannel blazer. Custom-tailored from durable Oxford cotton, it is the definitive foundation upon which a well-considered ensemble is built. Define its final character with your choice of classic button cuffs or formal French cuffs.
 
-Machine wash. Pink Oxford Shirt Features 100% Oxford cotton plain button-front shirt solid color minimal ironing flat-felled seams cutaway extreme collar no chest pocket one piece long sleeves with wrist placket none closure sleeves placket double pleated French round cuff one-piece shoulder yoke plain shirt back machine-made clean buttonholes hand-stitched white horn buttons tail hem for better tuck-ins
+Machine wash.
+
+#### Pink Oxford Shirt Features
+
+- 100% Oxford cotton
+- plain button-front shirt
+- solid color
+- minimal ironing
+- flat-felled seams
+- cutaway extreme collar
+- no chest pocket
+- one piece long sleeves with wrist placket
+- none closure sleeves placket
+- double pleated French round cuff
+- one-piece shoulder yoke
+- plain shirt back
+- machine-made clean buttonholes
+- hand-stitched white horn buttons
+- tail hem for better tuck-ins
 
 ## Categories
 

@@ -13,9 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Pants
@@ -28,7 +26,7 @@ Tailored Women’s Trousers, Cut to a True Waist
 Ready-made trousers make you choose between the waist and the hip, then hem the length yourself. Made-to-measure removes the compromise. This collection covers the full range of tailored women’s trousers, from seasonless and warm-weather wool dress trousers to wide-leg and straight-leg linen, menswear-inspired formal trousers, and velvet, each cut to your exact measurements in real cloth for a clean line and a waist that actually sits where it should. Choose your cloth, color, and leg shape, from a slim tapered leg to a relaxed wide leg. Before we cut your final fabric we send a free test garment so the fit is confirmed first. Made to your measurements, from $229.
 
 Find your trousers
-- Wool Dress Trousers: The tailored core of the collection. The [Essential Wool Dress Trouser](https://baronboutique.com/womens-seasonless-pure-new-wool-pants/), the [Warm-Weather Dress Trouser](https://baronboutique.com/womens-warm-weather-wo…
+- Wool Dress Trousers: The tailored core of the collection. The [Essential Wool Dress Trouser](https://baronboutique.com/womens-seasonless-pure-new-wool-pants/), the…
 - Linen Trousers: Breathable and elegant for warm weather. The [Wide-Leg Linen Pant](https://baronboutique.com/womens-classic-linen-pants/) and the [Straight-Leg Linen Pant](https://baronboutique.com/womens-warm-weather-linen-pants/), mad…
 - Menswear-Inspired & Formal: Sharp, structured, and precise. The [Straight-Leg Formal Trouser](https://baronboutique.com/womens-menswear-inspired-pants/), the [Sharkskin Flare Trouser](https://baronboutique.com/womens-work-pants-in-sharkskin/), the …
 - Velvet & Statement: For evening and occasion. The [Custom Velvet Skinny Pant](https://baronboutique.com/womens-velvet-pants/), made to your measurements in soft cotton velvet. From $239.

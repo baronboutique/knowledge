@@ -14,9 +14,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Allan Quatermain Long Coat League of Extraordinary Gentlemen
@@ -25,20 +23,53 @@ generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
 **URL:** https://baronboutique.com/sean-connery-long-coat-from-league-of-extraordinary-gentlemen/  
 **Type:** bespoke (made to order)  
 **Price:** USD 599 (verify current price on product page)  
+**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Twill Cotton Chino:** 15 options available
-- **Collar Trim Fabric:** 17 options available
-- **Sleeves Lining:** 10 options available
+- **Twill Cotton Chino:** Brown Chino Twill Cotton. 15 options: Black Chino Twill Cotton, Blue Chino Twill Cotton, Brown Chino Twill Cotton, Burgundy Chino Twill Cotton, Green Chino Twill Cotton, Grey Chino Twill Cotton, Hunter Green Twill Cotton, Khaki Chino Twill Cotton, Light Grey Chino Twill Cotton, Navy Chino Twill Cotton, Olive Green Chino Twill Cotton, Purple Chino Twill Cotton, Red Chino Twill Cotton, Sky Blue Chino Twill Cotton, Tan Chino Twill Cotton
+- **Collar Trim Fabric:** Brown Velvet. 17 options: Black Corduroy, Black Leather, Black Velvet, Blue Velvet, Brown Corduroy, Brown Leather, Brown Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Corduroy, Navy Velvet, Oxblood Corduroy, Red Velvet, Same As Main Fabric, Tan Corduroy
+- **Sleeves Lining:** Brown. 10 options: Black, Black Paisley, Brown, Burgundy Paisley, French Blue, Navy, Off White, Red, Tan, White
 
-## Summary
+## Short Description
 
 Allan Quatermain character played by Sean Connery in the movie League of Extraordinary Gentlemen. The Allan Quatermain long coat is not only for collection but can be worn in everyday life. The Sean Connery long coat is very classy and adds charm and personality. The long coat brings out a great look for any cosplayers.
 
-This is not merely a coat; it is the essential field garment of the gentleman adventurer. Inspired by the legendary Allan Quatermain, it is tailored from a robust, denim-weight twill cotton—an artifact of rugged elegance, built for a life of purpose. Form & Utility The defining touch is the velvet collar—a mark of quiet distinction against the utilitarian twill. A six-button front provides a secure and commanding closure. Slanted hip pockets maintain a clean line while offering easy access, and a deep center-back vent ensures unrestricted movement. Its unstructured body and lined sleeves provide effortless layering over [tailored shirts](https://baronboutique.com/menswear/shirts), making it a trans-seasonal essential. Available for commission in a broad palette of 14 colors. The Bespoke Promise: Your Fitting Canvas A garment of this character demands a perfect foundation. Your commission includes a preliminary fitting coat—a toile—crafted to your initial measurements. This essential step allows for the meticulous refinement of silhouette and fit, ensuring the final trench coat hangs with the intended effortless grace. The fitting canvas is, of course, yours to retain. Dry-clean.
+This is not merely a coat; it is the essential field garment of the gentleman adventurer. Inspired by the legendary Allan Quatermain, it is tailored from a robust, denim-weight twill cotton—an artifact of rugged elegance, built for a life of purpose.
+
+#### Form & Utility
+
+The defining touch is the velvet collar—a mark of quiet distinction against the utilitarian twill. A six-button front provides a secure and commanding closure. Slanted hip pockets maintain a clean line while offering easy access, and a deep center-back vent ensures unrestricted movement. Its unstructured body and lined sleeves provide effortless layering over [tailored shirts](https://baronboutique.com/menswear/shirts), making it a trans-seasonal essential. Available for commission in a broad palette of 14 colors.
+
+#### The Bespoke Promise: Your Fitting Canvas
+
+A garment of this character demands a perfect foundation. Your commission includes a preliminary fitting coat—a toile—crafted to your initial measurements. This essential step allows for the meticulous refinement of silhouette and fit, ensuring the final trench coat hangs with the intended effortless grace. The fitting canvas is, of course, yours to retain.
+
+Dry-clean.
+
+#### Allan Quatermain Long Coat Features
+
+- hand-made by Baron Boutique
+- screen-accurate design
+- tailored from 100% twill cotton brown in denim weight
+- unstructured coat construction
+- single-breasted coat front
+- 6 button fastening
+- type 3 slanted hip pockets with flap
+- hand stitched minimal shoulder pads
+- shirt-style brown velvet collar
+- hand made buttonholes
+- lined sleeves in brown acetate
+- hand stitched armholes
+- 4 internal pockets
+- straight coat front hem
+- center back vent
+- plain sleeves cuff
+- hand made brown horn buttons
+- stitched and reinforced coat buttons by hand for everyday use
+- ample coat seam allowances for future alteration
 
 ## Categories
 

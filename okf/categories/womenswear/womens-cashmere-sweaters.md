@@ -13,7 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Sweaters
@@ -26,8 +26,8 @@ Hand-Knitted Cashmere Sweaters, in Your Color
 There is cashmere, and then there is Grade A cashmere hand-knitted to order. Each sweater in this collection is knitted in Nepal from 100% pure, sustainably sourced Grade A cashmere, the long, fine fibers that give real cashmere its weightless warmth and lasting softness. From a statement orange dropped-shoulder sweater to a rust turtleneck and a fog cable knit, these are made for you, in the color and fit you choose, not pulled off a shelf. Because every sweater is made to order, you are not limited to what is in stock. Tell us the color and the fit, and we knit it for you. Made to order, from $299.
 
 Find your cashmere
-- Statement Color Cashmere: Cashmere worth noticing. The [Orange Cashmere Dropped-Shoulder Sweater](https://baronboutique.com/orange-cashmere-dropped-shoulder-boxy-sweater/) in a relaxed boxy cut, and the [Rust Cashmere Turtleneck](https://baronbou…
-- Turtlenecks & Cable Knit: Classic warmth with texture. The [Rust Cashmere Turtleneck](https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/) and the [Fog Cable-Knit Cashmere Turtleneck](https://baronboutique.com/fog-cable-knit-cashmer…
+- Statement Color Cashmere: Cashmere worth noticing. The [Orange Cashmere Dropped-Shoulder Sweater](https://baronboutique.com/orange-cashmere-dropped-shoulder-boxy-sweater/) in a relaxed boxy cut, and the…
+- Turtlenecks & Cable Knit: Classic warmth with texture. The [Rust Cashmere Turtleneck](https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/) and the…
 - Any Color, Made to Order: Every sweater is hand-knitted to order, so you can request your color and fit. If you want a shade or style you do not see here, tell us and we knit it for you.
 - Cashmere Accessories: Complete the look with a handloomed cashmere scarf or wrap. Browse [Women’s Accessories](https://baronboutique.com/womenswear/womens-accessories/) for cashmere and silk pieces.
 

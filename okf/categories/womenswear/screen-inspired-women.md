@@ -13,7 +13,7 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 ---
 
 # Screen Inspired
@@ -26,10 +26,10 @@ Cinematic Tailoring for Women, Cut to Your Measurements
 The most memorable characters on screen are remembered as much for what they wore as for what they did. This collection recreates those wardrobes for women, in real tailoring rather than costume: the Doctor’s velvet coats and Edwardian frock coats, spy tailoring, the Matrix’s long black trench, and gothic statement outerwear. Every piece is drafted for a woman’s figure and made to your exact measurements, so it reads as a distinctive real-world garment, not fancy dress. Before we cut your final fabric we send a free test garment, so the fit is confirmed on your body first. Wear it for a convention, a themed event, or simply as a striking everyday piece. Made to your measurements, from $229.
 
 Find your character
-- The Doctor’s Wardrobe: A Time Lord’s wardrobe, recut for her. The Tenth Doctor’s [brown pinstripe suit](https://baronboutique.com/womens-10th-doctor-brown-with-blue-stripes-suit/), the Twelfth Doctor’s velvet coats in [burgundy](https://baronb…
+- The Doctor’s Wardrobe: A Time Lord’s wardrobe, recut for her. The Tenth Doctor’s [brown pinstripe suit](https://baronboutique.com/womens-10th-doctor-brown-with-blue-stripes-suit/), the Twelfth Doctor’s velvet coats in…
 - Spy Tailoring: Sharp coats with a secret-agent edge. The [Spectre navy coat](https://baronboutique.com/womens-mid-thigh-coat-spectre/) and the [Quantum of Solace peacoat](https://baronboutique.com/womens-quantum-of-solace-peacoat/), cu…
 - The Matrix: The floor-length statement. The [Matrix long black trench coat](https://baronboutique.com/the-matrix-revolutions-coat-for-women/), made to your measurements in a dramatic, fluid silhouette. From $599.
-- Gotham & Fantasy: Dark, theatrical, unforgettable. The [Dark Knight leather coat](https://baronboutique.com/womens-joker-coat-in-leather/) and the [Percival Graves wizard coat](https://baronboutique.com/percival-graves-black-coat-for-wome…
+- Gotham & Fantasy: Dark, theatrical, unforgettable. The [Dark Knight leather coat](https://baronboutique.com/womens-joker-coat-in-leather/) and the…
 - More Screen Coats: Many of these pieces are outerwear, so if you are after the silhouette rather than the character, browse the full [Women’s Coats & Overcoats](https://baronboutique.com/womenswear/coats-and-overcoats-for-women/) collection.
 
 Choose the piece, cloth, and details
