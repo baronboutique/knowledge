@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend
@@ -29,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Merino Wool Fabric:** G-120.515.003 Dark Grey Pin Stripe Medium. 11 options: G-120.510.002 Navy Chalk Stripe Bold Normal, G-120.515.001 Light Grey Pin Stripe Medium, G-120.515.002 Medium Grey Pin Stripe Medium, G-120.515.003 Dark Grey Pin Stripe Medium, G-120.515.004 Light Navy Pin Stripe Medium, G-120.515.005 Midnight Navy Pinstripe Medium, G-120.515.006 Black Pin stripe Medium, G-120.515.007 Ivory Pinstripe Medium, G-120.535.006 Navy Blue Stripe Bold Medium, G-120.540.002 Navy Red Double Chalk Stripe Medium, G-120.540.003 Grey Bronze Double Chalk Stripe Medium
-- **Lining Fabric:** Burgundy Satin. 35 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** G-120.515.003 Dark Grey Pin Stripe Medium. 11 options: G-120.510.002 Navy Chalk Stripe Bold Normal, G-120.515.001 Light Grey Pin Stripe Medium, G-120.515.002 Medium Grey Pin Stripe Medium, G-120.515.003 Dark Grey Pin Stripe Medium, G-120.515.004 Light Navy Pin Stripe Medium, G-120.515.005 Midnight Navy Pinstripe Medium, G-120.515.006 Black Pin stripe Medium, G-120.515.007 Ivory Pinstripe Medium, G-120.535.006 Navy Blue Stripe Bold Medium, G-120.540.002 Navy Red Double Chalk Stripe Medium, G-120.540.003 Grey Bronze Double Chalk Stripe Medium
+- **Lining:** Burgundy Satin. 35 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

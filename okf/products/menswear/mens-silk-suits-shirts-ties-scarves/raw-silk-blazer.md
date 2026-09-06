@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # Raw Silk Blazer, Made to Your Measurements
@@ -29,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Raw Silk Fabric:** Unprocessed Raw Silk. 14 options: Aqua Green Raw Silk, Blood Red Raw Silk, Brown Raw Silk, Gold Raw Silk, Grey Raw Silk, Hot Pink Raw Silk, Natural Raw Silk, Orange Raw Silk, Petrol Blue Raw Silk, Pink Raw Silk, Red Raw Silk, Steel Grey Raw Silk, Unprocessed Raw Silk, Yellow Raw Silk
-- **Lining Fabric:** Silver Paisley Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Unprocessed Raw Silk. 14 options: Aqua Green Raw Silk, Blood Red Raw Silk, Brown Raw Silk, Gold Raw Silk, Grey Raw Silk, Hot Pink Raw Silk, Natural Raw Silk, Orange Raw Silk, Petrol Blue Raw Silk, Pink Raw Silk, Red Raw Silk, Steel Grey Raw Silk, Unprocessed Raw Silk, Yellow Raw Silk
+- **Lining:** Silver Paisley Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # Hunter Coat Bloodborne Cosplay
@@ -31,7 +33,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Twill Cotton Chino:** Hunter Green Twill Cotton. 15 options: Black Chino Twill Cotton, Blue Chino Twill Cotton, Brown Chino Twill Cotton, Burgundy Chino Twill Cotton, Green Chino Twill Cotton, Grey Chino Twill Cotton, Hunter Green Twill Cotton, Khaki Chino Twill Cotton, Light Grey Chino Twill Cotton, Navy Chino Twill Cotton, Olive Green Chino Twill Cotton, Purple Chino Twill Cotton, Red Chino Twill Cotton, Sky Blue Chino Twill Cotton, Tan Chino Twill Cotton
+- **Fabric:** Hunter Green Twill Cotton. 15 options: Black Chino Twill Cotton, Blue Chino Twill Cotton, Brown Chino Twill Cotton, Burgundy Chino Twill Cotton, Green Chino Twill Cotton, Grey Chino Twill Cotton, Hunter Green Twill Cotton, Khaki Chino Twill Cotton, Light Grey Chino Twill Cotton, Navy Chino Twill Cotton, Olive Green Chino Twill Cotton, Purple Chino Twill Cotton, Red Chino Twill Cotton, Sky Blue Chino Twill Cotton, Tan Chino Twill Cotton
 
 ## Short Description
 

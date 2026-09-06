@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Eleventh Doctor's \"Snowmen\" Frock Coat"
-description: "This is not a costume — it's history, perfected. Our replica of the Eleventh Doctor's \"Snowmen\" Frock Coat is a meticulous recreation, capturing every detail of its iconic Victorian design."
+description: "This is not a costume — it's history, perfected. Our inspiration of the Eleventh Doctor's \"Snowmen\" Frock Coat is a meticulous recreation, capturing every detail of its iconic Victorian design."
 resource: https://baronboutique.com/eleventh-doctor-snowmen-frock-coat-replica/
 tags: [men, coat, frock-coat, cotton, moleskin, plum, victorian-style, doctor-who, eleventh-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,12 +9,14 @@ sources:
     resource: https://baronboutique.com/eleventh-doctor-snowmen-frock-coat-replica/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-03
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-04T03:00:03Z }
 ---
 
 # Eleventh Doctor's "Snowmen" Frock Coat
@@ -31,7 +33,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-This is not a costume — it's history, perfected. Our replica of the Eleventh Doctor's "Snowmen" Frock Coat is a meticulous recreation, capturing every detail of its iconic Victorian design. From the chameleon-like plum moleskin in 100% cotton to the ornate decorative trim, every element speaks to obsessive craftsmanship. Fully lined in smooth, premium-quality burgundy red acetate, it's a bespoke garment for the discerning fan who knows that authenticity is everything.
+This is not a costume — it's history, perfected. Our inspiration of the Eleventh Doctor's "Snowmen" Frock Coat is a meticulous recreation, capturing every detail of its iconic Victorian design. From the chameleon-like plum moleskin in 100% cotton to the ornate decorative trim, every element speaks to obsessive craftsmanship. Fully lined in smooth, premium-quality burgundy red acetate, it's a bespoke garment for the discerning fan who knows that authenticity is everything.
 
 ## A Closer Look: Snowmen Doctor’s Coat Details
 
@@ -41,15 +43,15 @@ This is not merely a coat; it is a tangible connection to a pivotal moment in th
 
 ### The Mystery and Majesty of the Fabric
 
-The soul of this coat lies in its unique, almost chameleon-like materials, which we have painstakingly sourced and replicated.
+The soul of this coat lies in its unique, almost chameleon-like materials, which we have painstakingly sourced and tailored.
 
 - **Rich Cotton Moleskin:** The body is crafted from 100% cotton moleskin, renowned for its dense, suede-like feel and exceptional warmth, perfectly capturing the “winter coat” aesthetic of the original.
-- **The Shifting “Plum” Hue:** We’ve masterfully replicated the coat’s complex color—a deep plum with warm red undertones that, like the original, appears to shift beautifully from a rich burgundy to a more subdued purple depending on the light.
+- **The Shifting “Plum” Hue:** We’ve masterfully tailored the coat’s complex color—a deep plum with warm red undertones that, like the original, appears to shift beautifully from a rich burgundy to a more subdued purple depending on the light.
 - **The Faux Fur Collar:** The generous, contrasting collar and lapels are made from a black faux fur, which provides a layer of rich, authentic texture.
 
 ### An Obsession with Authentic Detail
 
-A true replica is defined by its details. We have obsessed over every stitch and fastening to ensure absolute screen accuracy.
+A true inspirational coat is defined by its details. We have obsessed over every stitch and fastening to ensure absolute perfection in every element.
 
 - **Intricate Decorative Trim:** The front is adorned with three distinctive decorative accents on each side, fashioned from a unique “ovular double chain-link” black trim, identical to the on-screen coat.
 - **A Luxurious Interior:** The coat is fully lined in a rich burgundy acetate, ensuring it glides effortlessly over your clothing. For practicality, two internal breast pockets are included to keep your essentials secure without disrupting the coat’s clean lines.
@@ -57,7 +59,7 @@ A true replica is defined by its details. We have obsessed over every stitch and
 
 ### Our Promise: A Fit Worthy of a Time Lord
 
-A coat this architecturally complex must fit flawlessly. We eliminate all sizing anxiety by sending you a **free test garment** made to your initial measurements before we cut a single inch of the final moleskin fabric. This personal fitting, done from the comfort of your home, allows us to perfect the unique Victorian silhouette. It is our unwavering commitment to delivering a final piece that is not just a replica, but a true bespoke garment.
+A coat this architecturally complex must fit flawlessly. We eliminate all sizing anxiety by sending you a **free test garment** made to your initial measurements before we cut a single inch of the final moleskin fabric. This personal fitting, done from the comfort of your home, allows us to perfect the unique Victorian silhouette. It is our unwavering commitment to delivering a final piece that is not just a coat, but a true bespoke garment.
 
 #### Caring For Your Coat
 

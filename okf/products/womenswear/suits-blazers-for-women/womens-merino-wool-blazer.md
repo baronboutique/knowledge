@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # The Sculpted Wool Blazer
@@ -29,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Merino Wool Fabric:** 8300-13 Blue. 17 options: 8300-1 Tan, 8300-11 Cobalt, 8300-12 Crimson Blue, 8300-13 Blue, 8300-19 Chocolate Brown, 8300-2 Olive, 8300-20 Blue Teal, 8300-4 Light Gray, 8300-5 Gray, 8300-6 Dark Gray, 8300-7 Charcoal, 8300-8 Navy, 8300-9 Black, 8302-1-Charcoal-Pinstripe, 8302-2-Navy-Pinstripe, 8302-3-Black-Pinstripe, 8309-1 Light Brown Narrow Pinstripe
-- **Lining Fabric:** Navy Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** 8300-13 Blue. 17 options: 8300-1 Tan, 8300-11 Cobalt, 8300-12 Crimson Blue, 8300-13 Blue, 8300-19 Chocolate Brown, 8300-2 Olive, 8300-20 Blue Teal, 8300-4 Light Gray, 8300-5 Gray, 8300-6 Dark Gray, 8300-7 Charcoal, 8300-8 Navy, 8300-9 Black, 8302-1-Charcoal-Pinstripe, 8302-2-Navy-Pinstripe, 8302-3-Black-Pinstripe, 8309-1 Light Brown Narrow Pinstripe
+- **Lining:** Navy Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

@@ -16,7 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-07T02:21:29Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # The Collateral Suit, Single-Button Light Grey Worsted Wool
@@ -31,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Tropical Wool Fabric:** Light Grey Tropical Wool (79000-1). 12 options: Beige Tropical Wool, Black Tropical Wool (79000-7), Blue Tropical Wool (79000-11), Brown Tropical Wool (79000-21), Charcoal Grey Tropical Wool (79000-5), Grey Tropical Wool (79000-13), Light Grey Tropical Wool (79000-1), Melange Tropical Wool (79000-12), Navy Tropical Wool (79000-9), Oxford Blue Tropical Wool (79000-23), Tan Tropical Wool (79901-10), White Tropical Wool (79000-22)
-- **Lining Fabric:** Grey Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Light Grey Tropical Wool (79000-1). 12 options: Beige Tropical Wool, Black Tropical Wool (79000-7), Blue Tropical Wool (79000-11), Brown Tropical Wool (79000-21), Charcoal Grey Tropical Wool (79000-5), Grey Tropical Wool (79000-13), Light Grey Tropical Wool (79000-1), Melange Tropical Wool (79000-12), Navy Tropical Wool (79000-9), Oxford Blue Tropical Wool (79000-23), Tan Tropical Wool (79901-10), White Tropical Wool (79000-22)
+- **Lining:** Grey Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # Orange Cashmere Dropped Shoulder Sweater
@@ -29,7 +31,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Knitwear Size:** M (8). 7 options: L (10), M (8), S (6), XL (12), XS (4), XXL (14), XXS (0-2)
+- **Size:** M (8). 7 options: L (10), M (8), S (6), XL (12), XS (4), XXL (14), XXS (0-2)
 
 ## Short Description
 

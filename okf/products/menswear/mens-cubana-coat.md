@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # Men's Cubana Coat
@@ -29,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Flannel Wool Fabric:** TC65002-Grey. 10 options: TC65001-Camel, TC650017-Burgundy, TC650018-Red, TC65002-Grey, TC650029-Chocolate Brown, TC65003-Dark-Grey, TC65004-Charcoal, TC650041-Light Grey, TC65005-Blue, TC65006-Black
-- **Lining Fabric:** Black Satin. 24 options: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Teal Satin, White Satin
+- **Fabric:** TC65002-Grey. 10 options: TC65001-Camel, TC650017-Burgundy, TC650018-Red, TC65002-Grey, TC650029-Chocolate Brown, TC65003-Dark-Grey, TC65004-Charcoal, TC650041-Light Grey, TC65005-Blue, TC65006-Black
+- **Lining:** Black Satin. 24 options: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Teal Satin, White Satin
 
 ## Short Description
 

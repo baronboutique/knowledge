@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/custom-corporate-gifts/
     title: "Custom Corporate Gifts"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-31
+    last_modified: 2026-09-02
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-08-31T19:09:55Z }
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-03T03:00:02Z }
 ---
 
 Baron Boutique produces branded corporate cashmere gifts to order: scarves, shawls, wraps and pashminas, hand-knitted beanies, gloves and socks, throws, and boxed gift sets. Grade A cashmere is handwoven and hand-knitted in Nepal, Pantone color-matched from over 350 hand-dyed colors using Azo-free dyes, and branded with an embroidered logo, a custom woven label, or a pattern woven into the cloth. A concept illustration and mockup are approved before anything is produced. Minimum order is 6 pieces. Production takes 3 to 4 weeks at 6 pieces and 45 to 50 days up to 200 pieces, with larger programs agreed individually. Delivered gift-ready worldwide with tracking, typically 4 to 6 days in transit. Quotes are returned within 24 hours.
@@ -119,13 +119,13 @@ The figures below are starting prices per piece in US dollars, and they apply to
 | --- | --- | --- | --- |
 | Cashmere scarf | 100% cashmere or cashmere-silk blend | 28 x 80 inches | $209 per piece |
 | Cashmere shawl, wrap, or pashmina | 100% cashmere or cashmere-silk blend | 40 x 80 inches | $299 per piece |
-| Cashmere throw | 100% cashmere or cashmere-silk blend | 50 x 80 inches, adjustable | $369 per piece |
-| Knitted cashmere beanie | 100% cashmere or cashmere-silk blend | Confirmed with your quote | $65 per piece |
-| Knitted cashmere gloves | 100% cashmere or cashmere-silk blend | Confirmed with your quote | $70 per pair |
-| Knitted cashmere socks | 100% cashmere or cashmere-silk blend | Confirmed with your quote | $45 per pair |
+| Cashmere throw | 100% cashmere or cashmere-silk blend | 50 x 80 inches, adjustable | $399 per piece |
+| Knitted cashmere beanie | 100% cashmere or cashmere-silk blend | Confirmed with your quote | $69 per piece |
+| Knitted cashmere gloves | 100% cashmere or cashmere-silk blend | Confirmed with your quote | $74 per pair |
+| Knitted cashmere socks | 100% cashmere or cashmere-silk blend | Confirmed with your quote | $48 per pair |
 | Boxed gift set | Built from any of the above | Depends on contents | Priced to your set |
 
-**Scarf weight and yarn.** A 28 x 80 inch scarf comes in about 75 grams in a lighter 200/2 yarn, or about 130 grams in a medium weight 60/2 yarn. The lighter weight drapes softly and suits year-round gifting; the heavier one has more substance in the hand. Tell us which you prefer, or describe the occasion and we will recommend one.  
+**Scarf weight and yarn.** A 28 x 80 inch scarf comes in about 65 grams in a lighter 200/2 yarn, or about 150 grams in a medium weight 28/1 yarn. The lighter weight drapes softly and suits year-round gifting; the heavier one has more substance in the hand. Tell us which you prefer, or describe the occasion and we will recommend one.  
  **What is not included.** Shipping is additional and depends on quantity and destination. Import duties and taxes are set by the destination country and are the recipient’s or importer’s responsibility.
 
 ## How It Works

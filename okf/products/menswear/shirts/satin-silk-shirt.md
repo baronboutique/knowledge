@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made
@@ -29,7 +31,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Satin Silk Fabric:** Off White. 20 options: Aqua Green-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Blood Red-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Yellow-ColNo-5
+- **Fabric:** Off White. 20 options: Aqua Green-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Blood Red-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Yellow-ColNo-5
 
 ## Short Description
 

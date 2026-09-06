@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool
@@ -29,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Merino Wool Stripes:** Off-White With Black Bold Stripes - 907300. 8 options: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Light Grey Bold Pink Stripes - 907301, Off-White With Black Bold Stripes - 907300
-- **Lining Fabric:** White Paisley Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Off-White With Black Bold Stripes - 907300. 8 options: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Light Grey Bold Pink Stripes - 907301, Off-White With Black Bold Stripes - 907300
+- **Lining:** White Paisley Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

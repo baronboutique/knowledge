@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # The Unstructured Cotton Suit Slim Fit Custom Made
@@ -29,7 +31,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Chino Cotton:** Navy Chino Cotton-BOL-012. 18 options: Black Chino Cotton-BOL-013, Blue Chino Cotton-PAL-025, Bright Red Chino Cotton-BOL-024, Burgundy Chino Cotton-BOL-044, Burnt Orange Khaki-BOL-048, Lemon Yellow Chino Cotton-BOL-033, Light Blue Chino Cotton-PAL-003, Light Grey Chino Cotton-PAL-034, Light Pink Chino Cotton-PAL-012, Medium Grey Chino Cotton-PAL-035, Mustard Chino Cotton-PAL-019, Navy Chino Cotton-BOL-012, Purple Chino Cotton-PAL-024, Sea Blue Chino Cotton-PAL-033, Slate Blue Chino Cotton-PAL-030, Tan Beige Chino Cotton-PAL-032, Teal Chino Cotton-PAL-029, White Chino Cotton-PAL-001
+- **Fabric:** Navy Chino Cotton-BOL-012. 18 options: Black Chino Cotton-BOL-013, Blue Chino Cotton-PAL-025, Bright Red Chino Cotton-BOL-024, Burgundy Chino Cotton-BOL-044, Burnt Orange Khaki-BOL-048, Lemon Yellow Chino Cotton-BOL-033, Light Blue Chino Cotton-PAL-003, Light Grey Chino Cotton-PAL-034, Light Pink Chino Cotton-PAL-012, Medium Grey Chino Cotton-PAL-035, Mustard Chino Cotton-PAL-019, Navy Chino Cotton-BOL-012, Purple Chino Cotton-PAL-024, Sea Blue Chino Cotton-PAL-033, Slate Blue Chino Cotton-PAL-030, Tan Beige Chino Cotton-PAL-032, Teal Chino Cotton-PAL-029, White Chino Cotton-PAL-001
 
 ## Short Description
 

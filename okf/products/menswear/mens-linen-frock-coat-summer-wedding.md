@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # Men's Linen Frock Coat Summer Wedding Tailored Dress Coat
@@ -29,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Linen Fabric:** Khaki Linen. 18 options: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
-- **Lining Fabric:** Cornflower Blue Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Khaki Linen. 18 options: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
+- **Lining:** Cornflower Blue Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 - **Collar Trim Fabric:** Brown Velvet. 16 options: Black Corduroy, Black Leather, Black Velvet, Blue Velvet, Brown Corduroy, Brown Leather, Brown Velvet, Green Velvet, Light Green Velvet, Maroon Velvet, Navy Corduroy, Navy Velvet, Oxblood Corduroy, Red Velvet, Same As Main Fabric, Tan Corduroy
 
 ## Short Description

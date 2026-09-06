@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # The Essential Black Tailored Shirt
@@ -29,7 +31,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Twill Cotton Fabric:** Black Twill Cotton. 8 options: Black Twill Cotton, Brown Twill Cotton, Burgundy Twill Cotton, Grey Twill Cotton, Light Blue Twill Cotton, Navy Twill Cotton, Red Twill Cotton, Royal Purple Twill Cotton
+- **Fabric:** Black Twill Cotton. 8 options: Black Twill Cotton, Brown Twill Cotton, Burgundy Twill Cotton, Grey Twill Cotton, Light Blue Twill Cotton, Navy Twill Cotton, Red Twill Cotton, Royal Purple Twill Cotton
 
 ## Short Description
 

@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # The Linen & Cotton Shirt
@@ -29,7 +31,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Linen Cotton Blend Fabric:** Dark Blue Linen Cotton. 11 options: Black Linen Cotton, Brown Linen Cotton, Dark Blue Linen Cotton, Gold Linen Cotton, Light Khaki Linen Cotton, Lilac Linen Cotton, Lime Linen Cotton, Off White Linen Cotton, Stone Grey Linen Cotton, Turquoise Linen Cotton, White Linen Cotton
+- **Fabric:** Dark Blue Linen Cotton. 11 options: Black Linen Cotton, Brown Linen Cotton, Dark Blue Linen Cotton, Gold Linen Cotton, Light Khaki Linen Cotton, Lilac Linen Cotton, Lime Linen Cotton, Off White Linen Cotton, Stone Grey Linen Cotton, Turquoise Linen Cotton, White Linen Cotton
 
 ## Short Description
 

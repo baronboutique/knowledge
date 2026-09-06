@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "12th Doctor Navy Blue Velvet Coat Peter Capaldi Cosplay"
-description: "The thrill of being Peter Capaldi in this 12th Doctor navy blue velvet coat is a great way of self-expression for cosplayers. Step outside your everyday life and engage with your imagination."
+description: "The thrill of being Peter Capaldi in this 12th Doctor inspired navy blue velvet coat is a great way of self-expression for cosplayers."
 resource: https://baronboutique.com/12th-doctors-navy-velvet-coat-for-men/
 tags: [men, coat, velvet, navy, doctor-who, twelfth-doctor, capaldi, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,12 +9,14 @@ sources:
     resource: https://baronboutique.com/12th-doctors-navy-velvet-coat-for-men/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-09-04
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-05T03:00:03Z }
 ---
 
 # 12th Doctor Navy Blue Velvet Coat Peter Capaldi Cosplay
@@ -29,16 +31,16 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Velvet:** Blue Velvet. 8 options: Black Velvet, Blue Velvet, Burgundy Velvet, Green Velvet, Light Green Velvet, Maroon Velvet, Navy Velvet, Red Velvet
-- **Lining Fabric:** Red Satin. 26 options: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
+- **Fabric:** Blue Velvet. 8 options: Black Velvet, Blue Velvet, Burgundy Velvet, Green Velvet, Light Green Velvet, Maroon Velvet, Navy Velvet, Red Velvet
+- **Lining:** Red Satin. 26 options: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
 
 ## Short Description
 
-The thrill of being Peter Capaldi in this 12th Doctor navy blue velvet coat is a great way of self-expression for cosplayers. Step outside your everyday life and engage with your imagination. Finely tailored twelfth Doctor navy velvet coat in premium quality poly-cotton blend velvet cloth, hand-tailored to ensure accurate coat details.
+The thrill of being Peter Capaldi in this 12th Doctor inspired navy blue velvet coat is a great way of self-expression for cosplayers. Step outside your everyday life and engage with your imagination. Finely tailored twelfth Doctor navy velvet coat in premium quality poly-cotton blend velvet cloth, hand-tailored to ensure accurate coat details.
 
 #### 12th Doctor Navy Blue Velvet Try-On Coat–Fit and Style Evaluation
 
-Channel the sharp, modern style of the 12th Doctor with this navy blue velvet coat. Custom-tailored from premium velvet, this Peter Capaldi replica is versatile enough for dedicated cosplay or as a unique everyday outerwear piece.
+Channel the sharp, modern style of the 12th Doctor with this navy blue velvet coat. Custom-tailored from premium velvet, this Peter Capaldi inspired coat is versatile enough for dedicated cosplay or as a unique everyday outerwear piece.
 
 #### Screen-Accurate Details & Quality
 
@@ -48,7 +50,7 @@ This coat is 100% hand-made from a premium poly-cotton blend velvet. It features
 
 Available in 8 rich colors, including signature navy, black, burgundy, and red. It pairs nicely with [tailored dress pants](https://baronboutique.com/menswear/mens-pants) for a complete, screen-accurate look.
 
-#### Free 12th Doctor Blue Velvet Replica Test Coat
+#### Free 12th Doctor Inspired Blue Velvet Test Coat
 
 To guarantee a perfect fit, your order includes a free test coat. This allows you to confirm measurements and style details before we craft your final velvet garment, removing any sizing concerns. The test coat is yours to keep.
 
@@ -73,7 +75,6 @@ Dry-clean.
 - straight coat hem
 - 5 buttons working sleeves cuff
 - kissing sleeve buttons stance
-- hand-made black horn buttons
 - stitched and reinforced coat buttons by hand for everyday use
 - ample coat seam allowances for future alteration
 - mention your desired coat length through the measurement page during checkout

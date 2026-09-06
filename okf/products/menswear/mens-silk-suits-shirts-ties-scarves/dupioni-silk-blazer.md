@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 ---
 
 # Mens Silk Blazer Dupioni Silk
@@ -29,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Dupioni Silk Fabric:** Crimson Pink Dupioni Silk. 22 options: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
-- **Lining Fabric:** Blue Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Crimson Pink Dupioni Silk. 22 options: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
+- **Lining:** Blue Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
