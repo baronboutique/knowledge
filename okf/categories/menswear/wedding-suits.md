@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Wedding Suits
@@ -90,13 +90,13 @@ Before any final cloth is cut, we build a test suit in a low-cost fabric to your
 
 - [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
 - [Blue Linen Suit for Men, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
-- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../products/menswear/destination-wedding-suit.md)
+- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../products/menswear/destination-wedding-suits/destination-wedding-suit.md)
 - [Linen Wedding Suit for Grooms, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
-- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/mens-linen-frock-coat-summer-wedding.md)
+- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/frock-coats-for-men/mens-linen-frock-coat-summer-wedding.md)
 - [Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels](../../products/menswear/tuxedos/mens-navy-herringbone-wool-tuxedo.md)
 - [Mens Burgundy Flannel Tuxedo](../../products/menswear/tuxedos/light-weight-all-season-wool-flannel-tuxedo-suit.md)
 - [One Button Notch Lapel Tuxedo](../../products/menswear/tuxedos/one-button-merino-wool-tuxedo.md)
-- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/pirate-frock-coat.md)
+- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
 - [Slate Blue Sharkskin Suit](../../products/menswear/wedding-suits/sharkskin-wedding-suit.md)
 - [The Linen Ceremonial Suit](../../products/menswear/grooms-linen-suits-for-wedding/wedding-party-linen-suit.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)

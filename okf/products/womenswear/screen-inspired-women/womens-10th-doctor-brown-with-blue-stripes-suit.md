@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-10th-doctor-brown-with-blue-stripes-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-28
+    last_modified: 2026-09-11
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Tenth Doctor's Brown Pinstripe Suit

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-31T03:00:15Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Theatrical Villain
@@ -84,11 +84,11 @@ Both the test garment and the final piece ship by FedEx, DHL, or UPS with full t
 ## Products
 
 - [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired](../../products/screen-inspired/1989-purple-coat-gotham-villain.md)
-- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
-- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
+- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../../products/screen-inspired/theatrical-villain-tailoring/1989-gotham-villain-purple-tailcoat.md)
+- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../../products/screen-inspired/theatrical-villain-tailoring/2008-purple-trench-coat-gotham-villain.md)
 - [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
-- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
-- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/menswear/mens-long-black-leather-coat.md)
+- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/theatrical-villain-tailoring/2019-staircase-villain-burgundy-suit.md)
+- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/screen-inspired/theatrical-villain-tailoring/mens-long-black-leather-coat.md)
 - [The Collateral Suit, Single-Button Light Grey Worsted Wool](../../products/menswear/mens-suits-blazers/collateral-suit-grey-worsted-wool.md)
 
 **Related terms:** Joker coat replica, villain costumes, Dracula suit, movie villain outfits, statement costume tailoring
@@ -96,3 +96,4 @@ Both the test garment and the final piece ship by FedEx, DHL, or UPS with full t
 ## Related
 
 - [Screen Inspired Category Index](../screen-inspired.md)
+- [Browse all Theatrical Villain products](../../products/screen-inspired/theatrical-villain-tailoring/index.md)

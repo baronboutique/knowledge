@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.15.4, at: 2026-08-11T03:00:00Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Spy Tailoring
@@ -80,12 +80,12 @@ Try on the test garment and note anything that needs adjusting — jacket length
 
 ## Products
 
-- [Charcoal Grey Pinstripe Suit James Bond Skyfall](../../products/menswear/destination-wedding-suits/james-bond-charcoal-stripe-suit-from-skyfall.md)
+- [Charcoal Grey Pinstripe Suit James Bond Skyfall](../../products/screen-inspired/spy-tailoring/james-bond-charcoal-stripe-suit-from-skyfall.md)
 - [James Bond Casino Royale Final Scene Inspired 3 Piece Suit](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
-- [James Bond Linen Suit The World Is Not Enough](../../products/menswear/grooms-linen-suits-for-wedding/james-bond-linen-suit-from-the-world-is-not-enough.md)
+- [James Bond Linen Suit The World Is Not Enough](../../products/screen-inspired/spy-tailoring/james-bond-linen-suit-from-the-world-is-not-enough.md)
 - [James Bond Morocco Matchless Suede Jacket Spectre](../../products/screen-inspired/spy-tailoring/james-bond-matchless-suede-jacket-from-spectre.md)
 - [James Bond Navy Blue Coat Spectre](../../products/menswear/navy-bond-coat-spectre.md)
-- [James Bond No Time To Die Beige Corduroy Suit](../../products/menswear/destination-wedding-suits/no-time-to-die-beige-corduroy-suit-james-bond.md)
+- [James Bond No Time To Die Beige Corduroy Suit](../../products/screen-inspired/spy-tailoring/no-time-to-die-beige-corduroy-suit-james-bond.md)
 - [James Bond Skyfall Grey Suit](../../products/screen-inspired/spy-tailoring/james-bond-gray-sharkskin-suit-skyfall.md)
 - [James Bond Skyfall Peacoat](../../products/screen-inspired/spy-tailoring/james-bond-navy-peacoat-from-skyfall.md)
 - [Mens Fitted Peacoat Black Quantum Of Solace Ending](../../products/menswear/quantum-of-solace-peacoat.md)

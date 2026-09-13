@@ -2,7 +2,7 @@
 
 Garments recreated from film and television references and drafted for a woman's figure. Independent recreations, not licensed merchandise.
 
-All 12 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 13 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 Cinematic Tailoring for Women, Cut to Your Measurements
 The most memorable characters on screen are remembered as much for what they wore as for what they did. This collection recreates those wardrobes for women, in real tailoring rather than costume: the Doctor’s velvet coats and Edwardian frock coats, spy tailoring, the Matrix’s long black trench, and gothic statement outerwear. Every piece is drafted for a woman’s figure and made to your exact measurements, so it reads as a distinctive real-world garment, not fancy dress. Before we cut your final fabric we send a free test garment, so the fit is confirmed on your body first. Wear it for a convention, a themed event, or simply as a striking everyday piece. Made to your measurements, from $229.
@@ -57,6 +57,7 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 - [Black Wizard Robe Womens Percival Graves Fantastic Beasts Cosplay](percival-graves-black-coat-for-women.md)
 - [Tenth Doctor's Brown Pinstripe Suit](womens-10th-doctor-brown-with-blue-stripes-suit.md)
 - [The 7th Doctor's Utility Jacket](7th-doctor-jacket-for-women.md)
+- [Thirteenth Doctor Teal Wool Pants](13th-doctor-pants.md)
 - [Women's 12th Doctor Burgundy Velvet Coat](12th-doctor-burgundy-velvet-coat-for-women.md)
 - [Women's Beige Frock Coat with Red Stripe](5th-doctor-red-piping-frock-coat-for-women.md)
 - [Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa](womens-long-black-leather-coat.md)

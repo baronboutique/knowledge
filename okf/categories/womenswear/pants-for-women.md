@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Pants
@@ -83,7 +83,7 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 - [The Modern Relaxed-Fit Work Trouser](../../products/womenswear/pants-for-women/womens-all-season-tropical-pants.md)
 - [The Modern Tapered-Leg Trouser](../../products/womenswear/pants-for-women/womens-fresco-wool-pants-for-all-season.md)
 - [The Warm-Weather Dress Trouser](../../products/womenswear/pants-for-women/womens-warm-weather-wool-pants.md)
-- [Thirteenth Doctor Teal Wool Pants](../../products/womenswear/pants-for-women/13th-doctor-pants.md)
+- [Thirteenth Doctor Teal Wool Pants](../../products/womenswear/screen-inspired-women/13th-doctor-pants.md)
 
 **Related terms:** women's tailored trousers, custom dress pants for women, office pants, made-to-order trousers women, high waisted work pants
 

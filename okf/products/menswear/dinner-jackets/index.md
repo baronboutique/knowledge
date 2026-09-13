@@ -2,7 +2,7 @@
 
 Made-to-order dinner jackets in velvet, silk, and patterned cloth, cut to the wearer's measurements as an alternative to a standard black tuxedo.
 
-All 7 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 6 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 A Dinner Jacket Is How You Do Black Tie Without Looking Like Everyone Else in Black Tie.
 A tuxedo is the whole matching suit, and in a room of them every man reads the same. A dinner jacket is the other way to dress for the evening: a statement jacket in velvet, white, or a patterned cloth, worn with black formal trousers, that keeps the formality of black tie while making you the best-dressed man there rather than one of a dozen in identical black. It is the choice of the man who knows the rules well enough to bend one of them on purpose. Every dinner jacket here is made to your measurements, on a canvas front, with satin or self lapels and hand-finished buttonholes, and it is yours to keep. Burgundy, blue, and black velvet for a winter or festive black-tie evening.
@@ -70,7 +70,6 @@ Your finished jacket ships from Dubai by trackable courier, about four to six we
 
 ## Products
 
-- [11th Doctor Who White Pool Party Tuxedo Jacket](11th-doctor-tuxedo-jacket.md)
 - [Black Velvet Shawl Collar Tuxedo Jacket](slim-fit-black-velvet-jacket.md)
 - [Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels](slim-fit-burgundy-velvet-jacket.md)
 - [Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front](slim-fit-blue-velvet-jacket.md)

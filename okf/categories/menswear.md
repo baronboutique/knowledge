@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Men
@@ -112,9 +112,7 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [3/4 Length Denim-Leather Hybrid Coat](../products/menswear/handmade-denim-leather-hybrid-coat.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](../products/menswear/sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
 - [Chalk Stripe Pants](../products/menswear/mens-navy-chalk-stripe-wool-suit-pant.md)
-- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../products/menswear/destination-wedding-suit.md)
 - [Eleventh Doctor Inspired Green Frock Coat](../products/menswear/eleventh-doctors-green-coat.md)
-- [Fantastic Beasts Percival Graves Black Coat](../products/menswear/percival-graves-black-coat.md)
 - [Flannel Dress Pants](../products/menswear/light-weight-all-season-wool-flannel-pants-slim-fit.md)
 - [Green Velvet Frock Coat](../products/menswear/green-velvet-frock-coat.md)
 - [Grey Flannel Trousers](../products/menswear/mens-gray-wool-flannel-pants.md)
@@ -126,8 +124,6 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Men's Cubana Coat](../products/menswear/mens-cubana-coat.md)
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](../products/menswear/mens-glen-plaid-cashmere-scarf-tan-white.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](../products/menswear/mens-gray-pinstripe-pants.md)
-- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../products/menswear/mens-linen-frock-coat-summer-wedding.md)
-- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../products/menswear/mens-long-black-leather-coat.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](../products/menswear/mens-navy-peacoat.md)
 - [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](../products/menswear/mens-pashmina-shawl-handwoven.md)
 - [Men's Tailored Linen Pants](../products/menswear/tailored-fit-dark-blue-linen-pants.md)
@@ -145,7 +141,6 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Navy Blue Tuxedo Pants](../products/menswear/mens-navy-herringbone-wool-tuxedo-pants.md)
 - [Navy Flannel Pants](../products/menswear/mens-navy-wool-flannel-suit-pant.md)
 - [Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit](../products/menswear/mens-wool-cashmere-topcoat-in-navy.md)
-- [Pirate Frock Coat in Velvet, Made to Measure](../products/menswear/pirate-frock-coat.md)
 - [Tan Wool Dress Pants](../products/menswear/tailored-fit-tan-wool-pants-in-merino-wool.md)
 - [The Bespoke Dupioni Silk Trousers](../products/menswear/mens-dupioni-silk-trousers.md)
 - [The Essential Black Wool Trousers](../products/menswear/mens-black-wool-trousers.md)

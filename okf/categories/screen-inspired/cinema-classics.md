@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Cinema Classics
@@ -96,19 +96,19 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 
 - [1960s Mod Four-Button Suit with Velvet Collar](../../products/menswear/1960s-mod-suit-jacket-velvet-collar.md)
 - [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired](../../products/screen-inspired/1989-purple-coat-gotham-villain.md)
-- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
-- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
+- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../../products/screen-inspired/theatrical-villain-tailoring/1989-gotham-villain-purple-tailcoat.md)
+- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../../products/screen-inspired/theatrical-villain-tailoring/2008-purple-trench-coat-gotham-villain.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](../../products/menswear/sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
 - [Cary Grant North By Northwest Inspired Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
 - [Count Dooku Cape and Tunic Star Wars](../../products/screen-inspired/cinema-classics/count-dooku-cape-and-tunic-from-star-wars.md)
 - [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
-- [Fantastic Beasts Percival Graves Black Coat](../../products/menswear/percival-graves-black-coat.md)
+- [Fantastic Beasts Percival Graves Black Coat](../../products/screen-inspired/cinema-classics/percival-graves-black-coat.md)
 - [Good Omens Season 02 Crowley Black Blazer](../../products/screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [Hei Trench Coat from Darker Than Black, Custom Made in Wool](../../products/screen-inspired/cinema-classics/hei-trench-coat-darker-than-black.md)
 - [Hunter Coat Bloodborne Cosplay](../../products/screen-inspired/cinema-classics/bloodborne-hunter-cosplay-coat.md)
-- [James West Wild Wild West Suit](../../products/menswear/destination-wedding-suits/james-west-wild-wild-west-suit.md)
-- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
-- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/menswear/mens-long-black-leather-coat.md)
+- [James West Wild Wild West Suit](../../products/screen-inspired/cinema-classics/james-west-wild-wild-west-suit.md)
+- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/theatrical-villain-tailoring/2019-staircase-villain-burgundy-suit.md)
+- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/screen-inspired/theatrical-villain-tailoring/mens-long-black-leather-coat.md)
 - [Never The Sinner Suit](../../products/screen-inspired/cinema-classics/never-the-sinner-suit.md)
 - [Newt Inspired British Herringbone Tweed Coat](../../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
 - [Peter B Parker Green Jacket Spider Man Into The Spider Verse](../../products/screen-inspired/cinema-classics/peter-b-parker-coat-spider-man-into-the-spider-verse.md)

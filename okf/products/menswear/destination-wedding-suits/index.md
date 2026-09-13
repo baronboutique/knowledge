@@ -2,7 +2,7 @@
 
 Made-to-order wedding suits for grooms marrying abroad, cut for heat and travel in fresco wool and linen, including cape suits and statement coats.
 
-All 4 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 1 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 You Flew Somewhere Extraordinary. Do Not Wear an Ordinary Suit.
 A destination wedding is a stage. The setting is a cliff above the sea, a vineyard in autumn, a snow-lit castle, or a desert at golden hour. Most grooms answer that setting with the same navy or charcoal suit they could have worn at home. These pieces answer it differently. Every one is a statement, cinematic in origin, made to your measurements, and unmistakably the groom’s own. A destination wedding can be summer or winter, and this collection covers both. Fresco wool and corduroy for heat, Melton wool and worsted for cold, and full-grain leather for any season.
@@ -65,10 +65,7 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 
 ## Products
 
-- [Charcoal Grey Pinstripe Suit James Bond Skyfall](james-bond-charcoal-stripe-suit-from-skyfall.md)
-- [James Bond No Time To Die Beige Corduroy Suit](no-time-to-die-beige-corduroy-suit-james-bond.md)
-- [James West Wild Wild West Suit](james-west-wild-wild-west-suit.md)
-- [Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat](matrix-reloaded-coat.md)
+- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](destination-wedding-suit.md)
 
 ## Related
 

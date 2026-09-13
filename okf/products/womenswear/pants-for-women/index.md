@@ -2,7 +2,7 @@
 
 Made-to-order trousers cut to the wearer's waist and hip together, in seasonless wool, linen, and velvet, without the off-the-rack compromise.
 
-All 12 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 11 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 Tailored Women’s Trousers, Cut to a True Waist
 Ready-made trousers make you choose between the waist and the hip, then hem the length yourself. Made-to-measure removes the compromise. This collection covers the full range of tailored women’s trousers, from seasonless and warm-weather wool dress trousers to wide-leg and straight-leg linen, menswear-inspired formal trousers, and velvet, each cut to your exact measurements in real cloth for a clean line and a waist that actually sits where it should. Choose your cloth, color, and leg shape, from a slim tapered leg to a relaxed wide leg. Before we cut your final fabric we send a free test garment so the fit is confirmed first. Made to your measurements, from $229.
@@ -63,7 +63,6 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 - [The Modern Relaxed-Fit Work Trouser](womens-all-season-tropical-pants.md)
 - [The Modern Tapered-Leg Trouser](womens-fresco-wool-pants-for-all-season.md)
 - [The Warm-Weather Dress Trouser](womens-warm-weather-wool-pants.md)
-- [Thirteenth Doctor Teal Wool Pants](13th-doctor-pants.md)
 
 ## Related
 

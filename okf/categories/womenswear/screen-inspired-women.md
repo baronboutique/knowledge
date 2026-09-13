@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Screen Inspired
@@ -77,7 +77,7 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 - [Black Wizard Robe Womens Percival Graves Fantastic Beasts Cosplay](../../products/womenswear/screen-inspired-women/percival-graves-black-coat-for-women.md)
 - [Tenth Doctor's Brown Pinstripe Suit](../../products/womenswear/screen-inspired-women/womens-10th-doctor-brown-with-blue-stripes-suit.md)
 - [The 7th Doctor's Utility Jacket](../../products/womenswear/screen-inspired-women/7th-doctor-jacket-for-women.md)
-- [Thirteenth Doctor Teal Wool Pants](../../products/womenswear/pants-for-women/13th-doctor-pants.md)
+- [Thirteenth Doctor Teal Wool Pants](../../products/womenswear/screen-inspired-women/13th-doctor-pants.md)
 - [Women's 12th Doctor Burgundy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctor-burgundy-velvet-coat-for-women.md)
 - [Women's Beige Frock Coat with Red Stripe](../../products/womenswear/screen-inspired-women/5th-doctor-red-piping-frock-coat-for-women.md)
 - [Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa](../../products/womenswear/screen-inspired-women/womens-long-black-leather-coat.md)

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Screen Inspired
@@ -102,15 +102,12 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 ## Products
 
 - [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired](../products/screen-inspired/1989-purple-coat-gotham-villain.md)
-- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
-- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
 - [5th Doctor Cosplay Beige Frock Coat](../products/screen-inspired/5th-doctor-red-piping-frock-coat.md)
 - [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../products/screen-inspired/dryden-vos-costumes-solo.md)
 - [Eleventh Doctor's "Snowmen" Frock Coat](../products/screen-inspired/eleventh-doctor-snowmen-frock-coat-replica.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](../products/screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
 - [Good Omens Season 02 Crowley Black Blazer](../products/screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [James Bond Casino Royale Final Scene Inspired 3 Piece Suit](../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
-- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
 - [Newt Inspired British Herringbone Tweed Coat](../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
 - [Sacha Dhawan Master Coat Doctor Series 12](../products/screen-inspired/sacha-dhawan-master-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](../products/screen-inspired/smith-shetland-tweed-blazer-jacket.md)

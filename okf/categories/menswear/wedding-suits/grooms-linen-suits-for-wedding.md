@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Linen Wedding Suits
@@ -100,9 +100,9 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 
 - [Blue Linen Suit for Men, Made to Measure](../../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
 - [Cotton Linen Blazer Mens Patch Pocket Jacket](../../../products/menswear/grooms-linen-suits-for-wedding/linen-blazer-with-patch-pocket-details.md)
-- [James Bond Linen Suit The World Is Not Enough](../../../products/menswear/grooms-linen-suits-for-wedding/james-bond-linen-suit-from-the-world-is-not-enough.md)
+- [James Bond Linen Suit The World Is Not Enough](../../../products/screen-inspired/spy-tailoring/james-bond-linen-suit-from-the-world-is-not-enough.md)
 - [Linen Wedding Suit for Grooms, Made to Measure](../../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
-- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../../products/menswear/mens-linen-frock-coat-summer-wedding.md)
+- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../../products/menswear/frock-coats-for-men/mens-linen-frock-coat-summer-wedding.md)
 - [Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors](../../../products/menswear/grooms-linen-suits-for-wedding/2button-linen-jacket.md)
 - [The Linen Ceremonial Suit](../../../products/menswear/grooms-linen-suits-for-wedding/wedding-party-linen-suit.md)
 - [White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors](../../../products/menswear/grooms-linen-suits-for-wedding/white-linen-suit-with-vest.md)

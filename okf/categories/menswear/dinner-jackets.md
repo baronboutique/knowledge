@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Dinner Jackets
@@ -90,7 +90,7 @@ Your finished jacket ships from Dubai by trackable courier, about four to six we
 
 ## Products
 
-- [11th Doctor Who White Pool Party Tuxedo Jacket](../../products/menswear/dinner-jackets/11th-doctor-tuxedo-jacket.md)
+- [11th Doctor Inspired White Pool Party Tuxedo Jacket](../../products/screen-inspired/doctor-collection/11th-doctor-tuxedo-jacket.md)
 - [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
 - [Black Velvet Shawl Collar Tuxedo Jacket](../../products/menswear/dinner-jackets/slim-fit-black-velvet-jacket.md)
 - [Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels](../../products/menswear/dinner-jackets/slim-fit-burgundy-velvet-jacket.md)

@@ -5,7 +5,6 @@ Bespoke menswear cut from an individual pattern after each order, covering suits
 All products made to order. Every bespoke order includes a complimentary cotton test garment.
 
 - [Pants](mens-pants/index.md) — 9 products
-- [Dinner Jackets](dinner-jackets/index.md) — 7 products
 - [12th Doctor Black Velvet Frock Coat Peter Capaldi Cosplay](12th-doctor-black-velvet-frock-coat.md)
 - [12th Doctor Blue Coat with Red Lining](12th-doctor-wool-coat.md)
 - [12th Doctor Maroon Red Velvet Coat](12th-doctor-burgundy-velvet-coat.md)
@@ -16,9 +15,7 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [3/4 Length Denim-Leather Hybrid Coat](handmade-denim-leather-hybrid-coat.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
 - [Chalk Stripe Pants](mens-navy-chalk-stripe-wool-suit-pant.md)
-- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](destination-wedding-suit.md)
 - [Eleventh Doctor Inspired Green Frock Coat](eleventh-doctors-green-coat.md)
-- [Fantastic Beasts Percival Graves Black Coat](percival-graves-black-coat.md)
 - [Flannel Dress Pants](light-weight-all-season-wool-flannel-pants-slim-fit.md)
 - [Green Velvet Frock Coat](green-velvet-frock-coat.md)
 - [Grey Flannel Trousers](mens-gray-wool-flannel-pants.md)
@@ -30,8 +27,6 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Men's Cubana Coat](mens-cubana-coat.md)
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](mens-glen-plaid-cashmere-scarf-tan-white.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](mens-gray-pinstripe-pants.md)
-- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](mens-linen-frock-coat-summer-wedding.md)
-- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](mens-long-black-leather-coat.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](mens-navy-peacoat.md)
 - [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](mens-pashmina-shawl-handwoven.md)
 - [Men's Tailored Linen Pants](tailored-fit-dark-blue-linen-pants.md)
@@ -49,7 +44,6 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Navy Blue Tuxedo Pants](mens-navy-herringbone-wool-tuxedo-pants.md)
 - [Navy Flannel Pants](mens-navy-wool-flannel-suit-pant.md)
 - [Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit](mens-wool-cashmere-topcoat-in-navy.md)
-- [Pirate Frock Coat in Velvet, Made to Measure](pirate-frock-coat.md)
 - [Tan Wool Dress Pants](tailored-fit-tan-wool-pants-in-merino-wool.md)
 - [The Bespoke Dupioni Silk Trousers](mens-dupioni-silk-trousers.md)
 - [The Essential Black Wool Trousers](mens-black-wool-trousers.md)
@@ -60,11 +54,12 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Real Silk Eventwear](mens-silk-suits-shirts-ties-scarves/index.md) — 6 products
 - [Suits & Blazers](mens-suits-blazers/index.md) — 20 products
 - [House of Velvet](velvet/index.md) — 2 products
-- [Frock Coats](frock-coats-for-men/index.md) — 3 products
+- [Frock Coats](frock-coats-for-men/index.md) — 5 products
 - [Coats & Overcoats](mens-coats-and-overcoats/index.md) — 6 products
 - [Tuxedos](tuxedos/index.md) — 6 products
-- [Linen Wedding Suits](grooms-linen-suits-for-wedding/index.md) — 7 products
-- [Destination Wedding Suits](destination-wedding-suits/index.md) — 4 products
+- [Dinner Jackets](dinner-jackets/index.md) — 6 products
+- [Linen Wedding Suits](grooms-linen-suits-for-wedding/index.md) — 6 products
+- [Destination Wedding Suits](destination-wedding-suits/index.md) — 1 products
 - [Shirts](shirts/index.md) — 9 products
 - [Wedding Suits](wedding-suits/index.md) — 1 products
 - [Vests](vests/index.md) — 2 products

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Frock Coats
@@ -96,9 +96,9 @@ Your finished frock coat ships from Dubai by trackable courier, about four to si
 - [Fourth Doctor Horror Of Fang Baker Coat](../../products/menswear/frock-coats-for-men/fourth-doctor-baker-coat.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](../../products/screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
 - [Green Velvet Frock Coat](../../products/menswear/green-velvet-frock-coat.md)
-- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/mens-linen-frock-coat-summer-wedding.md)
+- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/frock-coats-for-men/mens-linen-frock-coat-summer-wedding.md)
 - [Men's Wool Flared Zip Tailcoat](../../products/menswear/frock-coats-for-men/mens-wool-flared-zip-tailcoat.md)
-- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/pirate-frock-coat.md)
+- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
 - [Sherlock Holmes Coat (2009 film)](../../products/menswear/mens-coats-and-overcoats/sherlock-holmes-frock-coat.md)
 - [Time Lord Frock Coat (Oxford Blue)](../../products/menswear/time-lord-frock-coat-oxford-blue.md)
 - [Western Frock Coat in Wool, Made to Measure](../../products/menswear/mens-frock-coat.md)

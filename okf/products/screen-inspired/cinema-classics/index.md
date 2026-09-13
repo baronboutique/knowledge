@@ -4,7 +4,7 @@ Golden-age and heist-film tailoring recreated in real cloth, from mid-century gr
 
 **Licensing note:** These garments are inspired by screen productions and are NOT officially licensed unless explicitly stated on the individual product page.
 
-All 11 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 13 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 The Wardrobes That Defined the Screen, Cut for Your Body
 Some garments outlive the films that made them. Cary Grant’s grey suit in North by Northwest is still the reference point for what a suit should be. A villain’s cape, a spy’s tailoring, an adventurer’s coat, these are the pieces audiences remember long after the plot fades. The problem is that almost everything sold as a movie costume is thin, flat, and sized for a mannequin, which is exactly why it never looks right in person. This collection is the opposite: the most memorable garments from film, built as real tailoring in proper cloth and cut to your exact measurements.
@@ -76,8 +76,10 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 
 - [Cary Grant North By Northwest Inspired Suit](cary-grants-north-by-northwest-suit.md)
 - [Count Dooku Cape and Tunic Star Wars](count-dooku-cape-and-tunic-from-star-wars.md)
+- [Fantastic Beasts Percival Graves Black Coat](percival-graves-black-coat.md)
 - [Hei Trench Coat from Darker Than Black, Custom Made in Wool](hei-trench-coat-darker-than-black.md)
 - [Hunter Coat Bloodborne Cosplay](bloodborne-hunter-cosplay-coat.md)
+- [James West Wild Wild West Suit](james-west-wild-wild-west-suit.md)
 - [Never The Sinner Suit](never-the-sinner-suit.md)
 - [Peter B Parker Green Jacket Spider Man Into The Spider Verse](peter-b-parker-coat-spider-man-into-the-spider-verse.md)
 - [Prince Vlad Dracula London Suit](vlad-dracula-london-suit.md)

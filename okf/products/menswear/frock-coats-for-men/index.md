@@ -2,7 +2,7 @@
 
 Made-to-order frock coats in wool and velvet with a true waist seam and full skirt, for weddings, stage, historical dress, and collectors.
 
-All 3 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 5 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 Almost Every Frock Coat Sold Online Is a Costume. These Are Tailored Garments.
 Search for a frock coat and you will mostly find fancy dress: thin polyester cut in flat sizes, sold for a single Halloween or a stag do, shapeless the moment it is on. That is a shame, because the frock coat is one of the great silhouettes in menswear history, the standard day coat of the nineteenth century, knee-length, waist-seamed, and cut to give a man presence. Worn correctly it is not a costume at all; it is the most dramatic thing a tailor can build.
@@ -72,7 +72,9 @@ Your finished frock coat ships from Dubai by trackable courier, about four to si
 
 - [4th Doctor Beige Frock Coat Tom Baker Inspired](fourth-doctor-frock-coat.md)
 - [Fourth Doctor Horror Of Fang Baker Coat](fourth-doctor-baker-coat.md)
+- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](mens-linen-frock-coat-summer-wedding.md)
 - [Men's Wool Flared Zip Tailcoat](mens-wool-flared-zip-tailcoat.md)
+- [Pirate Frock Coat in Velvet, Made to Measure](pirate-frock-coat.md)
 
 ## Related
 

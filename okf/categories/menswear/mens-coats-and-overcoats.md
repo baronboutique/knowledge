@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Coats & Overcoats
@@ -105,7 +105,7 @@ Your finished coat ships from Dubai by trackable courier, about four to six week
 - [Camel Topcoat In Melton Wool](../../products/menswear/mens-coats-and-overcoats/mens-camel-melton-wool-topcoat.md)
 - [Eleventh Doctor Inspired Green Frock Coat](../../products/menswear/eleventh-doctors-green-coat.md)
 - [Eleventh Doctor's "Snowmen" Frock Coat](../../products/screen-inspired/eleventh-doctor-snowmen-frock-coat-replica.md)
-- [Fantastic Beasts Percival Graves Black Coat](../../products/menswear/percival-graves-black-coat.md)
+- [Fantastic Beasts Percival Graves Black Coat](../../products/screen-inspired/cinema-classics/percival-graves-black-coat.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](../../products/screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
 - [Green Velvet Frock Coat](../../products/menswear/green-velvet-frock-coat.md)
 - [Herringbone Car Coat in Tweed Wool](../../products/menswear/mens-coats-and-overcoats/mens-herringbone-wool-car-coat.md)
@@ -116,15 +116,15 @@ Your finished coat ships from Dubai by trackable courier, about four to six week
 - [Men's Car Coat In Wool](../../products/menswear/mens-car-coat.md)
 - [Men's Cubana Coat](../../products/menswear/mens-cubana-coat.md)
 - [Men's Debonair Coat](../../products/menswear/mens-coats-and-overcoats/mens-debonair-coat.md)
-- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/mens-linen-frock-coat-summer-wedding.md)
-- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/menswear/mens-long-black-leather-coat.md)
+- [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/frock-coats-for-men/mens-linen-frock-coat-summer-wedding.md)
+- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/screen-inspired/theatrical-villain-tailoring/mens-long-black-leather-coat.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](../../products/menswear/mens-navy-peacoat.md)
 - [Men's Navy Topcoat With Velvet Collar](../../products/menswear/velvet/mens-navy-flannel-topcoat.md)
 - [Men's Wool Flared Zip Tailcoat](../../products/menswear/frock-coats-for-men/mens-wool-flared-zip-tailcoat.md)
 - [Mens Fitted Peacoat Black Quantum Of Solace Ending](../../products/menswear/quantum-of-solace-peacoat.md)
 - [Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit](../../products/menswear/mens-wool-cashmere-topcoat-in-navy.md)
 - [Newt Inspired British Herringbone Tweed Coat](../../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
-- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/pirate-frock-coat.md)
+- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
 - [Sacha Dhawan Master Coat Doctor Series 12](../../products/screen-inspired/sacha-dhawan-master-coat.md)
 - [Sherlock Holmes Coat (2009 film)](../../products/menswear/mens-coats-and-overcoats/sherlock-holmes-frock-coat.md)
 - [The Matrix 4 Resurrections Keanu Reeves Neo Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-4-resurrections-neo-coat.md)

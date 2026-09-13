@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Destination Wedding Suits
@@ -85,16 +85,16 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 
 ## Products
 
-- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../../../products/screen-inspired/1989-gotham-villain-purple-tailcoat.md)
-- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../../../products/screen-inspired/2008-purple-trench-coat-gotham-villain.md)
-- [Charcoal Grey Pinstripe Suit James Bond Skyfall](../../../products/menswear/destination-wedding-suits/james-bond-charcoal-stripe-suit-from-skyfall.md)
-- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../../products/menswear/destination-wedding-suit.md)
-- [Fantastic Beasts Percival Graves Black Coat](../../../products/menswear/percival-graves-black-coat.md)
-- [James Bond No Time To Die Beige Corduroy Suit](../../../products/menswear/destination-wedding-suits/no-time-to-die-beige-corduroy-suit-james-bond.md)
-- [James West Wild Wild West Suit](../../../products/menswear/destination-wedding-suits/james-west-wild-wild-west-suit.md)
-- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../../products/screen-inspired/2019-staircase-villain-burgundy-suit.md)
-- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../../products/menswear/mens-long-black-leather-coat.md)
-- [Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat](../../../products/menswear/destination-wedding-suits/matrix-reloaded-coat.md)
+- [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../../../products/screen-inspired/theatrical-villain-tailoring/1989-gotham-villain-purple-tailcoat.md)
+- [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../../../products/screen-inspired/theatrical-villain-tailoring/2008-purple-trench-coat-gotham-villain.md)
+- [Charcoal Grey Pinstripe Suit James Bond Skyfall](../../../products/screen-inspired/spy-tailoring/james-bond-charcoal-stripe-suit-from-skyfall.md)
+- [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../../products/menswear/destination-wedding-suits/destination-wedding-suit.md)
+- [Fantastic Beasts Percival Graves Black Coat](../../../products/screen-inspired/cinema-classics/percival-graves-black-coat.md)
+- [James Bond No Time To Die Beige Corduroy Suit](../../../products/screen-inspired/spy-tailoring/no-time-to-die-beige-corduroy-suit-james-bond.md)
+- [James West Wild Wild West Suit](../../../products/screen-inspired/cinema-classics/james-west-wild-wild-west-suit.md)
+- [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../../products/screen-inspired/theatrical-villain-tailoring/2019-staircase-villain-burgundy-suit.md)
+- [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../../products/screen-inspired/theatrical-villain-tailoring/mens-long-black-leather-coat.md)
+- [Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat](../../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat.md)
 
 **Related terms:** destination wedding suit, groom cape suit, beach wedding suit for men, summer wedding suit
 

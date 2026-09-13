@@ -4,7 +4,7 @@ Time traveler frock coats, velvet coats, and pinstripe suits recreated from scre
 
 **Licensing note:** These garments are inspired by screen productions and are NOT officially licensed unless explicitly stated on the individual product page.
 
-All 7 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 8 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 Every Incarnation Dressed With Intent. We Tailor Each One to You.
 Few characters in television are defined by their clothes the way the Doctor is. Each incarnation arrives with a wardrobe that says who they are before a word is spoken: the Fourth’s bohemian sprawl, the Seventh’s question-mark whimsy, the Tenth’s sharp pinstripe, the Twelfth’s severe velvet. The problem for anyone who wants to wear one of these looks is that the internet is full of thin, flat costume versions that fall apart after a convention and never quite look right in the first place. This collection is the opposite.
@@ -73,6 +73,7 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 
 ## Products
 
+- [11th Doctor Inspired White Pool Party Tuxedo Jacket](11th-doctor-tuxedo-jacket.md)
 - [13th Doctor Pants Men Jodie Whittaker Cosplay](13th-doctor-pants-for-men.md)
 - [1st Doctor Black Dress Coat](first-doctor-who-coat.md)
 - [4th Doctor Jacket Rust/Oxblood Corduroy Tom Baker Cosplay](fourth-doctor-12th-season-corduroy-coat.md)

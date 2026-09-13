@@ -2,7 +2,7 @@
 
 Made-to-order linen wedding suits for grooms in 100% linen across 18 colors, as two-piece, three-piece, or frock coat, for beach and summer ceremonies.
 
-All 7 products made to order. Bespoke orders include a complimentary cotton test garment.
+All 6 products made to order. Bespoke orders include a complimentary cotton test garment.
 
 A Linen Wedding Suit Only Works If It Fits. That Is the Whole Problem.
 Linen is the right fabric for a summer, garden, beach, or destination wedding. It breathes, it photographs with a natural texture, and it reads as chosen for the occasion rather than borrowed from the office. The problem is not the fabric. It is that almost every linen wedding suit is sold in standard sizes, and linen has no internal structure to hide a fit that is close but not exact. On the groom, photographed in daylight all day, an approximate fit shows in every frame. Every suit in this collection is made to your measurements in 100% linen, in 18 colors from powder blue and stone to white, natural, and navy.
@@ -80,7 +80,6 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 
 - [Blue Linen Suit for Men, Made to Measure](linen-suits-for-men.md)
 - [Cotton Linen Blazer Mens Patch Pocket Jacket](linen-blazer-with-patch-pocket-details.md)
-- [James Bond Linen Suit The World Is Not Enough](james-bond-linen-suit-from-the-world-is-not-enough.md)
 - [Linen Wedding Suit for Grooms, Made to Measure](grooms-linen-suit-for-wedding.md)
 - [Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors](2button-linen-jacket.md)
 - [The Linen Ceremonial Suit](wedding-party-linen-suit.md)

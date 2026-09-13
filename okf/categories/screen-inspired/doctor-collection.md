@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-06T03:00:08Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 ---
 
 # Doctor Collection
@@ -93,7 +93,7 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 
 ## Products
 
-- [11th Doctor Who White Pool Party Tuxedo Jacket](../../products/menswear/dinner-jackets/11th-doctor-tuxedo-jacket.md)
+- [11th Doctor Inspired White Pool Party Tuxedo Jacket](../../products/screen-inspired/doctor-collection/11th-doctor-tuxedo-jacket.md)
 - [12th Doctor Black Velvet Frock Coat Peter Capaldi Cosplay](../../products/menswear/12th-doctor-black-velvet-frock-coat.md)
 - [12th Doctor Blue Coat with Red Lining](../../products/menswear/12th-doctor-wool-coat.md)
 - [12th Doctor Maroon Red Velvet Coat](../../products/menswear/12th-doctor-burgundy-velvet-coat.md)
