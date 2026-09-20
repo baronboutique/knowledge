@@ -9,14 +9,12 @@ sources:
     resource: https://baronboutique.com/matrix-reloaded-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-11
+    last_modified: 2026-09-19
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-20T03:00:03Z }
 ---
 
 # Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat

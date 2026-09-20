@@ -9,14 +9,12 @@ sources:
     resource: https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-27
+    last_modified: 2026-09-19
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-20T03:00:03Z }
 ---
 
 # Aquamarine Blue Handwoven Cashmere Scarf Shawl
@@ -93,7 +91,17 @@ Every piece is individually crafted on wooden handlooms in our Kathmandu worksho
 
 ## Wash and Care Instructions
 
-### Washing & Drying - Add a mild detergent or wool wash to cold or lukewarm water. - Soak the shawl for 8–12 minutes, then gently massage without wringing or stretching. - Rinse thoroughly with cool water and carefully squeeze out excess moisture. - Lay flat to dry on a towel away from direct sunlight; reshape while damp. Use a steamer or low-heat iron if needed. ### Care & Storage - **Daily Use:** Hang in a well-ventilated area between wears to refresh the fibers naturally. - **Seasonal Storage:** Store in a cool, dry place alongside cedar chips or lavender sachets to protect the natural fibers.
+### Washing & Drying
+
+- Add a mild detergent or wool wash to cold or lukewarm water.
+- Soak the shawl for 8–12 minutes, then gently massage without wringing or stretching.
+- Rinse thoroughly with cool water and carefully squeeze out excess moisture.
+- Lay flat to dry on a towel away from direct sunlight; reshape while damp. Use a steamer or low-heat iron if needed.
+
+### Care & Storage
+
+- **Daily Use:** Hang in a well-ventilated area between wears to refresh the fibers naturally.
+- **Seasonal Storage:** Store in a cool, dry place alongside cedar chips or lavender sachets to protect the natural fibers.
 
 ---
 

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-16T03:00:03Z }
 ---
 
 # Suits & Blazers
@@ -106,7 +106,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 - [Grey Pinstripe Suit](../../products/menswear/mens-suits-blazers/gray-pinstripe-suit.md)
 - [Grey Tropical Wool Suit](../../products/menswear/mens-suits-blazers/mens-gray-tropical-wool-suit.md)
 - [James Bond Casino Royale Final Scene Inspired 3 Piece Suit](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
-- [Linen Wedding Suit for Grooms, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
+- [Linen Wedding Suit for Grooms, Custom Made](../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
 - [Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements](../../products/menswear/mens-silk-suits-shirts-ties-scarves/mens-silk-suit-in-dupioni-silk.md)
 - [Men's Black Suit in Super 130s Worsted Wool](../../products/menswear/mens-suits-blazers/mens-essential-black-suit.md)
 - [Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front](../../products/menswear/dinner-jackets/slim-fit-blue-velvet-jacket.md)

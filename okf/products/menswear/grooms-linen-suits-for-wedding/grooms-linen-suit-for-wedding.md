@@ -1,6 +1,6 @@
 ---
 type: Product
-title: "Linen Wedding Suit for Grooms, Made to Measure"
+title: "Linen Wedding Suit for Grooms, Custom Made"
 description: "The problem with a linen wedding suit off the rack is that linen without a proper fit looks underdressed, not relaxed."
 resource: https://baronboutique.com/grooms-linen-suit-for-wedding/
 tags: [men, suit, linen, wedding, groom, summer, beach-wedding, bespoke, made-to-order]
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/grooms-linen-suit-for-wedding/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-09-15
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-13T03:00:07Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-16T03:00:03Z }
 ---
 
-# Linen Wedding Suit for Grooms, Made to Measure
+# Linen Wedding Suit for Grooms, Custom Made
 
 **SKU:** 1700003  
 **URL:** https://baronboutique.com/grooms-linen-suit-for-wedding/  
@@ -100,7 +100,7 @@ Also at This Wedding
 
 ## Dress the Whole Wedding, Not Just the Groom
 
-A linen groom suit sets the register for an outdoor or summer wedding, and the wedding party, guests, and people beside you should belong at the same occasion. These are four garments built for the same broad range of warm-weather formal events — each made to measure, each a different silhouette. If you are still deciding on your own attire, each of these serves a different kind of ceremony equally well.
+A linen groom suit sets the register for an outdoor or summer wedding, and the wedding party, guests, and people beside you should belong at the same occasion. These are four garments built for the same broad range of warm-weather formal events — each custom made, each a different silhouette. If you are still deciding on your own attire, each of these serves a different kind of ceremony equally well.
 
 [The Groom at a Themed or Theatrical Ceremony](https://baronboutique.com/pirate-frock-coat/)
 
@@ -194,7 +194,7 @@ Full Construction Detail
 
 ---
 
-Why Made to Measure Matters More for Linen
+Why Custom Made Matters More for Linen
 
 ## Linen Wedding Suit for Grooms vs. Off the Rack
 
@@ -227,7 +227,7 @@ Questions & Answers
 
 ### How long does a linen wedding suit last if worn to events a few times a year?
 
-A linen wedding suit built on a canvas front and made to measure will last 15 to 20 years with dry-cleaning after each wear. The canvas front is the key factor — fused interlinings delaminate after repeated cleaning and cause the chest architecture to collapse, which is why most off-the-rack linen suits look tired within a few years. Linen itself is one of the most durable natural fibers and softens rather than deteriorates with age. The ample seam allowances Baron builds throughout mean the suit can be let out or taken in as needed, extending its useful life further.
+A linen wedding suit built on a canvas front and custom made will last 15 to 20 years with dry-cleaning after each wear. The canvas front is the key factor — fused interlinings delaminate after repeated cleaning and cause the chest architecture to collapse, which is why most off-the-rack linen suits look tired within a few years. Linen itself is one of the most durable natural fibers and softens rather than deteriorates with age. The ample seam allowances Baron builds throughout mean the suit can be let out or taken in as needed, extending its useful life further.
 
 ### What measurements matter most for a linen groom suit?
 
@@ -255,7 +255,7 @@ A well-made three-piece linen suit in a natural or off-white color reads as deli
 
 ### Can I order this suit for a wedding abroad without visiting Baron Boutique?
 
-Yes — the entire process is remote. You enter your measurements on the product page when you order. We build and ship a cotton test suit to your home address. You try it on, send your adjustment notes, and we correct the pattern before cutting the linen. The final suit ships to whatever address you specify — home, venue, or any international address. For a destination wedding, order early and let us know your wedding date at time of order so we can confirm the timeline honestly.
+Yes — the entire process is remote. You enter your measurements on the product page when you order. We build and ship a cotton test suit to your home address. You try it on, send your adjustment notes, and we correct the pattern before cutting the linen. The final suit ships to whatever address you specify — home, venue, or any international address. For a destination wedding, order early and let us know your wedding date at the time of order so we can confirm the timeline honestly.
 
 ### How long does it take to receive a made-to-measure linen wedding suit?
 

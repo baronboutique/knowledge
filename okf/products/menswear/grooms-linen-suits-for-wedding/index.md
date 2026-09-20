@@ -80,7 +80,7 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 
 - [Blue Linen Suit for Men, Made to Measure](linen-suits-for-men.md)
 - [Cotton Linen Blazer Mens Patch Pocket Jacket](linen-blazer-with-patch-pocket-details.md)
-- [Linen Wedding Suit for Grooms, Made to Measure](grooms-linen-suit-for-wedding.md)
+- [Linen Wedding Suit for Grooms, Custom Made](grooms-linen-suit-for-wedding.md)
 - [Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors](2button-linen-jacket.md)
 - [The Linen Ceremonial Suit](wedding-party-linen-suit.md)
 - [White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors](white-linen-suit-with-vest.md)
