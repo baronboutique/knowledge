@@ -29,9 +29,6 @@ Try the test suit on and check the chest, shoulders, waistcoat closure, and trou
 We cut your linen suit
 Every adjustment is applied, then your suit is cut in your chosen linen and color on a canvas front, with hand-finished buttonholes and hand-carved horn buttons throughout.
 
-It ships worldwide with tracking
-Your finished suit ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-suit stage. The test suit is yours to keep.
-
 ## Questions & Answers
 
 **Q:** How long does a linen wedding suit last?  
@@ -71,10 +68,10 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 **A:** A groom can wear a white linen suit, and it works particularly well at a beach or destination wedding, provided it does not clash with the dress code or compete with the wedding party’s palette. Off-white, natural, and stone are safer than a pure bright white if you are unsure, and they photograph with a little more warmth in daylight. Because the White Linen Suit is made to your measurements in 18 colors, you can start with white and change your mind without changing the price.
 
 **Q:** Can I order a linen wedding suit for a wedding abroad without an in-person fitting?  
-**A:** Yes, the entire process is remote, so you can order for a wedding abroad without visiting us. You enter your measurements on the product page, we ship a free test suit to your home, you try it on and send notes, we correct the pattern, then we cut and ship the final suit to any address you choose. For a destination wedding, order at least 10 to 12 weeks ahead so there is comfortable time for both the test suit and the final production.
+**A:** Yes, the entire process is remote, so you can order for a wedding abroad without visiting us. You enter your measurements on the product page, we ship a free test suit to your home, you try it on and send notes, we correct the pattern, then we cut and ship the final suit to any address you choose. For a destination wedding, order as early as you can so there is comfortable time for both the test suit and the final production.
 
 **Q:** How long does it take to receive a made-to-your-measurements linen wedding suit?  
-**A:** Production takes about four to six weeks from measurement confirmation, including the test-suit stage, and trackable courier delivery adds roughly five to ten business days. For a wedding with a fixed date, tell us the date when you order so we can confirm the timeline honestly. If your date is close, contact us before ordering and we will tell you what is possible rather than guess.
+**A:** Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. For a wedding with a fixed date, tell us the date when you order so we can confirm the timeline honestly. If your date is close, contact us before ordering and we will tell you what is possible rather than guess.
 
 ## Products
 

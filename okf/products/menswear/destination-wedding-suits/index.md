@@ -52,7 +52,7 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 **A:** The coolest choices are the Fresco wool cape suit and the beige corduroy suit. Fresco wool is an open-weave, high-twist cloth built specifically for heat, and the corduroy suit is unstructured and unlined for airflow. Both stay comfortable through a long outdoor ceremony in warm weather while still reading as deliberate and formal in photographs.
 
 **Q:** How far in advance should I order for a destination wedding?  
-**A:** Order at least 10 to 12 weeks before the wedding so there is comfortable time for both the test garment and the final production. Production takes about four to six weeks from measurement confirmation, and international shipping adds several days at each stage. Tell us your wedding date when you order so we can confirm the timeline honestly.
+**A:** Order as early as you can so there is comfortable time for both the test garment and the final production. Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Tell us your wedding date when you order so we can confirm the timeline honestly.
 
 **Q:** Can I order for a wedding abroad without an in-person fitting?  
 **A:** Yes, the entire process is remote, so you can order from anywhere for a wedding anywhere. You enter your measurements on the product page, we ship a free test garment to your home, you try it on and send notes, then we cut and ship the final piece to any address you choose. The test garment step is what makes ordering for a distant wedding safe.

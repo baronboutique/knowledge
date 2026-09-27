@@ -30,7 +30,7 @@ We build the final piece
 Every correction is applied, then your piece is cut and hand-tailored in the chosen cloth or leather, on a canvas front where applicable, with hand-finished details and ample seam allowance for future alteration.
 
 It ships worldwide with tracking
-Both the test garment and the final piece ship by FedEx, DHL, or UPS with full tracking. The test garment is yours to keep. Allow about 6 to 9 weeks in total, including the test-garment stage.
+Both the test garment and the final piece ship by FedEx, DHL, or UPS with full tracking. The test garment is yours to keep. Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch.
 
 ## Questions & Answers
 
@@ -59,7 +59,7 @@ Both the test garment and the final piece ship by FedEx, DHL, or UPS with full t
 **A:** Yes. If you have a specific screen-inspired villain garment in mind that is not listed, contact the team with reference images and a description. Custom requests are accepted for coats, suits, tailcoats, and capes. The team will assess the construction requirements and provide a quote before any work begins.
 
 **Q:** How long does an order take, and where do you ship?  
-**A:** Allow 6 to 8 weeks from order to final garment. The test garment takes 3 to 4 weeks to build and ship. Once you confirm the fit, the final piece takes 3 to 4 weeks in production. Shipping is worldwide. Customers in the US, UK, Australia, Canada, and Europe receive orders regularly. Both the test garment and the final piece ship via trackable courier.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Shipping is worldwide. Customers in the US, UK, Australia, Canada, and Europe receive orders regularly. Both the test garment and the final piece ship via trackable courier.
 
 ## Products
 

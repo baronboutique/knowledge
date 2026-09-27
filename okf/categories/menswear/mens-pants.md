@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Pants
@@ -48,7 +48,7 @@ We cut and finish your trousers
 Every adjustment is applied, then your trousers are cut and hand-finished with a grip-lined waistband, piped or button-through back pockets, and your chosen hem, with ample seam allowance for future alteration.
 
 They ship worldwide with tracking
-Your finished trousers ship from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished trousers ship from Dubai by trackable courier, Your test garment takes 3 to 4 weeks to make and your final trousers 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -83,7 +83,7 @@ Your finished trousers ship from Dubai by trackable courier, about four to six w
 **A:** Dry clean wool, silk, and flannel trousers rather than washing them, and press to restore the crease when needed, using a cloth over silk and flannel to protect the surface. Hang trousers by the hem in a clamp hanger or folded over a bar so the crease stays sharp and the knees do not bag. Rotate pairs rather than wearing the same trousers on consecutive days, which lets the cloth recover. Linen is more relaxed and can be pressed crisp before an event.
 
 **Q:** How long does an order take, and do you ship worldwide?  
-**A:** Production is about four to six weeks from the point your measurements are confirmed, including the free test-garment stage, and we ship worldwide from Dubai by trackable courier, usually 3 to 7 business days once finished. For a wedding or event, order with a comfortable margin so there is time for the test garment and any adjustments. Checkout is secure through PayPal, with any major card accepted through guest checkout.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final trousers takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide from Dubai by trackable courier. For a wedding or event, order with a comfortable margin so there is time for the test garment and any adjustments. Checkout is secure through PayPal, with any major card accepted through guest checkout.
 
 ## Products
 

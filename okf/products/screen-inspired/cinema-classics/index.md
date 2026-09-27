@@ -32,7 +32,7 @@ We tailor it in the correct cloth
 Every adjustment is applied, then your piece is cut and hand-tailored in the fabric chosen to reflect the original, with reference images guiding the details throughout.
 
 It ships worldwide with tracking
-Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished garment ships by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final garment 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -70,7 +70,7 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 **A:** The villain tailoring, including the Joker overcoats, the leather trench, the 1989 evening tailcoat, the 2019 burgundy suit, and The Shadow’s coat, is grouped in a dedicated Theatrical Villain Tailoring collection for easy browsing. Everything there is made to your measurements with the same free-test-garment process as the rest of Cinema Classics.
 
 **Q:** How long does an order take, and where do you ship?  
-**A:** Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage, and we ship worldwide by FedEx, DHL, or UPS with full tracking, including throughout the UK. Most orders arrive within a few business days of dispatch. For a convention or event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide by FedEx, DHL, or UPS with full tracking, including throughout the UK. For a convention or event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
 
 ## Products
 

@@ -28,7 +28,7 @@ We cut your velvet
 Every adjustment is applied, then your piece is cut on a canvas front with hand-stitched armholes, hand-finished buttonholes, and fabric-covered buttons in your velvet.
 
 It ships worldwide with tracking
-Your finished velvet piece ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished velvet piece ships from Dubai by trackable courier, Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -66,7 +66,7 @@ Your finished velvet piece ships from Dubai by trackable courier, about four to 
 **A:** Every piece here is made to your measurements, with no standard sizes and nothing pre-made. You enter your measurements on the product page, and before we cut your final velvet we send a free test garment so the fit is confirmed on your body first. Because velvet shows a poor fit more than almost any other fabric, this step is the single most important reason these pieces look like tailoring rather than costume.
 
 **Q:** How long does a velvet piece take, and do you ship worldwide?  
-**A:** Production takes about four to six weeks from the point your measurements are confirmed, which includes the free test-garment stage. We ship worldwide from Dubai by trackable courier. If you have a fixed date such as a wedding or a holiday event, order at least 8 to 10 weeks ahead so there is comfortable time for the test garment and any adjustments, or contact us before ordering and we will tell you honestly whether a tighter timeline can work.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide from Dubai by trackable courier. If you have a fixed date such as a wedding or a holiday event, order as early as you can so there is comfortable time for the test garment and any adjustments, or contact us before ordering and we will tell you honestly whether a tighter timeline can work.
 
 ## Products
 

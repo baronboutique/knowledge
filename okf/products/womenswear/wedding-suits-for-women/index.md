@@ -28,7 +28,7 @@ You confirm the fit at home
 Try it on, check the fit, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your piece is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your piece is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -48,13 +48,13 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 **A:** Yes. The Wool & Silk Blend Suit has a subtle luster and fluid drape, and the Dupioni Silk Blazer comes in 21 iridescent colors, both made to your measurements. Silk photographs well and reads as elegant and celebratory, which is why it is a popular choice for weddings and formal occasions.
 
 **Q:** How far in advance should I order for a wedding?  
-**A:** Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage. For a dated wedding we recommend ordering with a comfortable margin, ideally two to three months ahead, so there is time for the test garment, any adjustments, and shipping without any last-minute pressure.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. For a dated wedding we recommend ordering with a comfortable margin, as early as you can, so there is time for the test garment, any adjustments, and shipping without any last-minute pressure.
 
 **Q:** How does the fit work, and is there a guarantee?  
 **A:** Each piece is made to your measurements with no standard sizes, and before we cut your final cloth we send a free test garment so the fit is confirmed on your body. You try it on at home, check the fit, and send any adjustments, which we apply before cutting the final garment. The test garment is yours to keep.
 
 **Q:** Do you ship worldwide?  
-**A:** Yes. We ship worldwide by FedEx, DHL, or UPS with full tracking, and most orders arrive within a few business days of dispatch. For a destination wedding, tell us the date and location and we will plan the timeline so your piece arrives in good time.
+**A:** Yes. We ship worldwide by FedEx, DHL, or UPS with full tracking, and each shipment arrives 5 to 10 days after dispatch. For a destination wedding, tell us the date and location and we will plan the timeline so your piece arrives in good time.
 
 ## Products
 

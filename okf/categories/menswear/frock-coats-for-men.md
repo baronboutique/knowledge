@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Frock Coats
@@ -48,7 +48,7 @@ We cut your frock coat
 Every adjustment is applied, then your coat is cut on a hand-basted canvas front with a true waist seam, a full skirt, hand-stitched armholes, and ample seam allowance for future alteration.
 
 It ships worldwide with tracking
-Your finished frock coat ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-coat stage. The test coat is yours to keep. We ship to the UK and worldwide.
+Your finished frock coat ships from Dubai by trackable courier, Your test coat takes 3 to 4 weeks to make and your final frock coat 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test coat is yours to keep. We ship to the UK and worldwide.
 
 ## Questions & Answers
 
@@ -83,7 +83,7 @@ Your finished frock coat ships from Dubai by trackable courier, about four to si
 **A:** Yes. Each coat is cut with generous seam allowances and can be built to a specific brief, a particular era’s cut, a chosen lapel or collar, button count and placement, skirt length, and cloth. This matters for reenactors and for stage or screen productions that need accuracy. Add your requirements in the order notes or contact us before ordering, and we will confirm what is achievable and build to it.
 
 **Q:** Do you ship frock coats to the UK and internationally?  
-**A:** Yes. We ship worldwide from Dubai by trackable courier, including throughout the UK, where frock coats are especially popular for reenactment, weddings, and theatre. Delivery is usually 3 to 7 business days once the coat is finished, and production runs about four to six weeks from the point your measurements are confirmed, including the free test-coat stage.
+**A:** Yes. We ship worldwide from Dubai by trackable courier, including throughout the UK, where frock coats are especially popular for reenactment, weddings, and theatre. Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final frock coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 
 **Q:** How do I care for a frock coat?  
 **A:** Dry clean the wool, velvet, and cotton frock coats to preserve the structure of the canvas front and the shape of the skirt, and hang the coat on a broad shaped hanger between wears so the shoulders and waist keep their line. Velvet should be brushed gently with the pile and steamed rather than pressed, so the nap is never crushed. Linen will relax with wear and benefits from a light press before an event. Cared for this way, a made-to-measure frock coat lasts for many years.

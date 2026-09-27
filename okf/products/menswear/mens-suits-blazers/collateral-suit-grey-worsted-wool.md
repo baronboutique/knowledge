@@ -15,9 +15,9 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-07T02:21:29Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: human:baron-boutique, at: 2026-09-27T09:36:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T09:47:42Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T09:47:42Z }
 ---
 
 # The Collateral Suit, Single-Button Light Grey Worsted Wool
@@ -40,7 +40,7 @@ This is the Collateral suit: the clean grey single-button tailoring Vincent wear
 
 ## Summary
 
-Men's single-button light grey Collateral suit in Super 140s worsted wool, with narrow notch lapels, flapless piped pockets, and beltless side-tab trousers, recreated from the screen reference. Made to order to the customer's measurements with a canvas front and hand-finished buttonholes; a free cotton test suit confirms fit before the final cloth is cut. From $729, made in 4 to 6 weeks, shipped worldwide.
+Men's single-button light grey Collateral suit in Super 140s worsted wool, with narrow notch lapels, flapless piped pockets, and beltless side-tab trousers, recreated from the screen reference. Made to order to the customer's measurements with a canvas front and hand-finished buttonholes; a free cotton test suit confirms fit before the final cloth is cut. From $729, test suit made in 3 to 4 weeks, final suit 3 to 4 weeks after you confirm the fit, shipped worldwide.
 
 The Suit
 

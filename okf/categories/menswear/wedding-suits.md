@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Wedding Suits
@@ -75,7 +75,7 @@ Before any final cloth is cut, we build a test suit in a low-cost fabric to your
 **A:** Every wedding suit here is made to your measurements, with no standard sizes and nothing pre-made. You enter your measurements on the product page, and before we cut your final cloth we send a free test suit so the fit is confirmed on your body first. This is the step that separates a suit that fits from a rental that is close but never right.
 
 **Q:** How far in advance should I order my wedding suit?  
-**A:** Order at least 10 to 12 weeks before the wedding so there is comfortable time for the free test suit and any adjustments before the final suit is made and shipped. Production takes about four to six weeks from measurement confirmation, and international delivery adds several days at each stage. Tell us your wedding date when you order so we can confirm the timeline honestly.
+**A:** Order as early as you can before the wedding so there is comfortable time for the free test suit and any adjustments before the final suit is made and shipped. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Tell us your wedding date when you order so we can confirm the timeline honestly.
 
 **Q:** Can I order for a destination wedding or a wedding abroad?  
 **A:** Yes, the entire process is remote, so you can order from anywhere for a wedding anywhere. You enter your measurements on the product page, we ship a free test suit to your home, you try it on and send notes, then we cut and ship the final suit to any address you choose. The test-suit step is what makes ordering for a distant wedding safe, because the fit is confirmed before you travel.

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Tuxedos
@@ -46,7 +46,7 @@ You confirm the fit at home
 Try it on, check the shoulders, bust, waist, and trouser break, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test suit takes 3 to 4 weeks to make and your final tuxedo 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -66,7 +66,7 @@ Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cl
 **A:** Each tuxedo is made to your measurements with no standard sizes, and before we cut your final cloth we send a free test suit in cotton so the fit is confirmed on your body. You try it on at home, check the shoulders, waist, and trouser break, and send any adjustments, which we apply before cutting the final tuxedo. The test garment is yours to keep.
 
 **Q:** How long does it take, and do you ship worldwide?  
-**A:** Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage, and we ship worldwide by FedEx, DHL, or UPS with full tracking. For a dated event, order with a comfortable margin so there is time for the test garment and any adjustments.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final tuxedo takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide by FedEx, DHL, or UPS with full tracking. For a dated event, order with a comfortable margin so there is time for the test garment and any adjustments.
 
 ## Products
 

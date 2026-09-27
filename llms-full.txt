@@ -2,8 +2,8 @@
 
 Generated-By: Baron Boutique AI Knowledge Manager
 Version: 1.24.0
-Generated: 2026-09-27 08:54 UTC
-Knowledge-Revision: 46
+Generated: 2026-09-27 13:11 UTC
+Knowledge-Revision: 49
 Last-Updated: 2026-09-27
 
 ## What you can do with this document
@@ -57,7 +57,7 @@ SKU: CA1001002
 Price: USD 259.00 (as of generation date)
 Color: Aquamarine ColNo-91
 
-Warmth, Without the Weight. Aquamarine Cashmere, Woven in Kathmandu. One Wrap. Wherever the Day Takes You. Slow Luxury, Made for You: Every piece is individually handwoven on traditional looms in our Kathmandu workshop rather than pulled off a warehouse shelf. Please allow 2–3 weeks for our master artisans to craft and finish your piece. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
+Warmth, Without the Weight. Aquamarine Cashmere, Woven in Kathmandu. One Wrap. Wherever the Day Takes You. Slow Luxury, Made for You: Every piece is individually handwoven on traditional looms in our Kathmandu workshop rather than pulled off a warehouse shelf. Your piece is handmade to order and delivered within 2 to 3 weeks of your order. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
 
 Yarn and Weight Specification Technical Detail What It Means for You Yarn Count 200/2 Two ultra-fine threads twisted together to deliver exceptional durability and resistance to pilling without adding bulk or stiffness. Fiber Fine-ness 14–16 microns Grade-A softness that feels silky and weightless against delicate skin with zero scratchiness. Staple Length 35–55mm Long-staple fibers that keep their shape, shedding far less than standard high-street cashmere. Total Weight 2.5 oz (70g) Ultra-lightweight and compact—folds smaller than a t-shirt so you can easily carry it in your handbag for air travel or cooler evenings. Luminous Handloom Texture A close-up view of our 200/2 yarn weave in serene Aquamarine Blue, showcasing the subtle, featherlight texture created on traditional handlooms in Kathmandu. Sizing and Finishing Feature Specification Value for You Dimensions 40″ x 80″ (1m x 2m) Generously oversized proportions offer full-body coverage, giving you the luxury of draping it as a full shawl or layering it as a scarf. Silhouette Classic Rectangle Versatile cut designed to effortlessly transition between an elegant evening wrap, an airy headscarf, or a casual neck loop.
 
@@ -178,7 +178,7 @@ SKU: CA1001010
 Price: USD 259.00 (as of generation date)
 Color: Forest Green ColNo-17D
 
-Most scarves marketed as forest green cashmere are wool or acrylic blends dyed to look richer than they are. This one is 100% Grade A cashmere, handwoven in Kathmandu at a 200/2 yarn count, 40 x 80 inches and 70 grams. Genuine cashmere passes the burn test and the ring test, and it softens with every wash instead of pilling. $259, handmade to order in 2 to 3 weeks. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
+Most scarves marketed as forest green cashmere are wool or acrylic blends dyed to look richer than they are. This one is 100% Grade A cashmere, handwoven in Kathmandu at a 200/2 yarn count, 40 x 80 inches and 70 grams. Genuine cashmere passes the burn test and the ring test, and it softens with every wash instead of pilling. $259, handmade to order and delivered within 2 to 3 weeks of your order. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
 
 Yarn and WeightSpecificationTechnical DetailWhat It Means for YouYarn Count200/2Two ultra-fine threads twisted together to deliver exceptional durability and resistance to pilling without adding bulk or stiffness.Fiber Fine-ness14–16 micronsGrade-A softness that feels silky and weightless against delicate skin with zero scratchiness.Staple Length35–55mmLong-staple fibers that keep their shape, shedding far less than standard high-street cashmere.Total Weight2.5 oz (70g)Ultra-lightweight and compact—folds smaller than a t-shirt so you can easily carry it in your handbag for air travel or cooler evenings. Handloom Texture in Forest Green A close-up view of our 200/2 yarn weave in deep Forest Green, showing the fine, airy-spun texture created on traditional handlooms in Kathmandu.
 
@@ -1575,7 +1575,7 @@ Price: USD 729.00 (as of generation date)
 Tropical Wool Fabric: 12 options available
 Lining Fabric: 34 options available
 
-Men's single-button light grey Collateral suit in Super 140s worsted wool, with narrow notch lapels, flapless piped pockets, and beltless side-tab trousers, recreated from the screen reference. Made to order to the customer's measurements with a canvas front and hand-finished buttonholes; a free cotton test suit confirms fit before the final cloth is cut. From $729, made in 4 to 6 weeks, shipped worldwide.
+Men's single-button light grey Collateral suit in Super 140s worsted wool, with narrow notch lapels, flapless piped pockets, and beltless side-tab trousers, recreated from the screen reference. Made to order to the customer's measurements with a canvas front and hand-finished buttonholes; a free cotton test suit confirms fit before the final cloth is cut. From $729, test suit made in 3 to 4 weeks, final suit 3 to 4 weeks after you confirm the fit, shipped worldwide.
 
 The Collateral Suit: Built to Look Like Any Grey Suit. Constructed So It Isn't.
 The most memorable grey suit in modern crime cinema had a single brief: look good and go unnoticed. The idea was simple. Could a man in this suit walk into a room and not be remembered? The answer is the same reason most grey suits fail. The ones that try to look expensive advertise it, and the ones that do not bother look exactly like that. This suit sits in neither category. Single-button closure. Narrow notch lapels at 2.75 to 3.25 inches. Three piped pockets, no flap. Double vents. Flat-front trousers with side-tab adjusters. No belt. Light grey Super 140s worsted wool at 8 ounces, structured enough to hold a silhouette, light enough to move without restriction.
@@ -3908,7 +3908,7 @@ We cut it in the correct fabric
 Every adjustment is applied, then your piece is cut and hand-tailored in the cloth chosen to reflect the original, with reference images guiding the details throughout.
 
 It ships worldwide with tracking
-Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished garment ships by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final garment 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Theatrical Villain
 URL: https://baronboutique.com/screen-inspired/theatrical-villain-tailoring/
@@ -3938,7 +3938,7 @@ We build the final piece
 Every correction is applied, then your piece is cut and hand-tailored in the chosen cloth or leather, on a canvas front where applicable, with hand-finished details and ample seam allowance for future alteration.
 
 It ships worldwide with tracking
-Both the test garment and the final piece ship by FedEx, DHL, or UPS with full tracking. The test garment is yours to keep. Allow about 6 to 9 weeks in total, including the test-garment stage.
+Both the test garment and the final piece ship by FedEx, DHL, or UPS with full tracking. The test garment is yours to keep. Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch.
 
 ### Cinema Classics
 URL: https://baronboutique.com/screen-inspired/cinema-classics/
@@ -3970,7 +3970,7 @@ We tailor it in the correct cloth
 Every adjustment is applied, then your piece is cut and hand-tailored in the fabric chosen to reflect the original, with reference images guiding the details throughout.
 
 It ships worldwide with tracking
-Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished garment ships by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final garment 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Men
 URL: https://baronboutique.com/menswear/
@@ -4029,7 +4029,7 @@ We cut your coat
 Every adjustment is applied, then your coat is cut and hand-finished in your chosen fabric, on a canvas front where the coat calls for structure, with hand-finished buttonholes and horn buttons.
 
 It ships worldwide with tracking
-Your finished coat ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-coat stage. The test coat is yours to keep.
+Your finished coat ships from Dubai by trackable courier, Your test coat takes 3 to 4 weeks to make and your final coat 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test coat is yours to keep.
 
 ### Suits & Blazers
 URL: https://baronboutique.com/menswear/mens-suits-blazers/
@@ -4061,7 +4061,7 @@ We cut your suit
 Every adjustment is applied, then your suit is cut on a hand-basted canvas front with hand-stitched armholes, hand-finished buttonholes, and functional details throughout.
 
 It ships worldwide with tracking
-Your finished suit ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-suit stage. The test suit is yours to keep.
+Your finished suit ships from Dubai by trackable courier, Your test suit takes 3 to 4 weeks to make and your final suit 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test suit is yours to keep.
 
 ### Doctor Collection
 URL: https://baronboutique.com/screen-inspired/doctor-collection/
@@ -4092,7 +4092,7 @@ We tailor it in the correct cloth
 Every adjustment is applied, then your piece is cut and hand-tailored in the fabric chosen to reflect the original, with reference images guiding the details throughout.
 
 It ships worldwide with tracking
-Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished garment ships by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final garment 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Handcrafted Cashmere
 URL: https://baronboutique.com/handmade-cashmere-collection/
@@ -4122,7 +4122,7 @@ Personalized, if you wish
 Scarves, wraps, and shawls can be monogrammed or personalized with initials for a gift that is genuinely unique. Custom colors are available on most pieces on request.
 
 Shipped worldwide with tracking
-Your cashmere ships from our workshop by trackable courier, gift-ready. Ready-made pieces dispatch quickly; made-to-order sweaters and personalized items take a little longer, confirmed at checkout.
+Your cashmere ships from our workshop by trackable courier, gift-ready. Every piece, including sweaters and personalized items, is handmade to order and delivered within 2 to 3 weeks of your order.
 
 ### Handwoven Cashmere Scarves & Shawls
 URL: https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/
@@ -4257,7 +4257,7 @@ Handmade to order
 Ties, squares, and scarves are hand-finished, bias-cut and wool-interlined for the ties, hand-rolled edges on the squares, and handwoven over days for the cashmere and pashmina.
 
 Shipped worldwide, gift-ready
-Your accessories ship from Dubai by trackable courier. Ready-made pieces dispatch quickly; personalized or monogrammed items take a little longer, confirmed at checkout.
+Your accessories ship from Dubai by trackable courier. Every piece, including personalized or monogrammed items, is handmade to order and delivered within 2 to 3 weeks of your order.
 
 ### Frock Coats
 URL: https://baronboutique.com/menswear/frock-coats-for-men/
@@ -4287,7 +4287,7 @@ We cut your frock coat
 Every adjustment is applied, then your coat is cut on a hand-basted canvas front with a true waist seam, a full skirt, hand-stitched armholes, and ample seam allowance for future alteration.
 
 It ships worldwide with tracking
-Your finished frock coat ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-coat stage. The test coat is yours to keep. We ship to the UK and worldwide.
+Your finished frock coat ships from Dubai by trackable courier, Your test coat takes 3 to 4 weeks to make and your final frock coat 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test coat is yours to keep. We ship to the UK and worldwide.
 
 ### Cyberpunk Trench Coats
 URL: https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/
@@ -4318,7 +4318,7 @@ We Cut and Build Your Coat
 Your coat is cut in the correct fabric for that specific piece — monks’ wool, structured wool blend, full-grain leather, or worsted wool — to your confirmed measurements. Every seam is checked before the coat leaves the workshop.
 
 It Ships to You Worldwide
-Your completed coat ships by trackable courier. Production takes approximately four to six weeks from measurement confirmation, including the test coat stage. The test coat is yours to keep. Free test coat:
+Your completed coat ships by trackable courier. Your test coat takes 3 to 4 weeks to make and your final coat 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test coat is yours to keep. Free test coat:
 
 ### Coats & Overcoats
 URL: https://baronboutique.com/womenswear/coats-and-overcoats-for-women/
@@ -4348,7 +4348,7 @@ You confirm the fit at home
 Try it on over your usual layers, check the shoulders, sleeves, and length, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your coat is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your coat is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final coat 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Suits & Blazers
 URL: https://baronboutique.com/womenswear/suits-blazers-for-women/
@@ -4378,7 +4378,7 @@ You confirm the fit at home
 Try it on, check the shoulders, bust, and waist, and send your notes and photos. Nothing is cut in your final fabric until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your suit is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your suit is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final suit 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Wedding Suits
 URL: https://baronboutique.com/womenswear/wedding-suits-for-women/
@@ -4408,7 +4408,7 @@ You confirm the fit at home
 Try it on, check the fit, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your piece is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your piece is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Cashmere Sweaters & Knitwear
 URL: https://baronboutique.com/handmade-cashmere-collection/cashmere-sweaters-knitwear/
@@ -4514,7 +4514,7 @@ We cut your velvet
 Every adjustment is applied, then your piece is cut on a canvas front with hand-stitched armholes, hand-finished buttonholes, and fabric-covered buttons in your velvet.
 
 It ships worldwide with tracking
-Your finished velvet piece ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished velvet piece ships from Dubai by trackable courier, Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Wedding Suits
 URL: https://baronboutique.com/menswear/wedding-suits/
@@ -4568,9 +4568,6 @@ Try the test suit on and check the chest, shoulders, waistcoat closure, and trou
 We cut your linen suit
 Every adjustment is applied, then your suit is cut in your chosen linen and color on a canvas front, with hand-finished buttonholes and hand-carved horn buttons throughout.
 
-It ships worldwide with tracking
-Your finished suit ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-suit stage. The test suit is yours to keep.
-
 ### Screen Inspired
 URL: https://baronboutique.com/womenswear/screen-inspired-women/
 Garments recreated from film and television references and drafted for a woman's figure. Independent recreations, not licensed merchandise.
@@ -4598,7 +4595,7 @@ You confirm the fit at home
 Try it on, check the shoulders, length, and silhouette, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your piece is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your piece is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Real Silk Eventwear
 URL: https://baronboutique.com/menswear/mens-silk-suits-shirts-ties-scarves/
@@ -4628,7 +4625,7 @@ We cut your silk
 Every adjustment is applied, then your piece is cut and hand-finished in genuine silk, on a canvas front for the jackets and suits, with hand-stitched detail throughout.
 
 It ships worldwide with tracking
-Your finished silk ships from Dubai by trackable courier, about four to six weeks from measurement confirmation for tailored pieces including the test-garment stage. The test garment is yours to keep.
+Your finished silk ships from Dubai by trackable courier, For tailored pieces, your test garment takes 3 to 4 weeks to make and your final garment 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Shirts
 URL: https://baronboutique.com/menswear/shirts/
@@ -4688,7 +4685,7 @@ We cut and finish your trousers
 Every adjustment is applied, then your trousers are cut and hand-finished with a grip-lined waistband, piped or button-through back pockets, and your chosen hem, with ample seam allowance for future alteration.
 
 They ship worldwide with tracking
-Your finished trousers ship from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished trousers ship from Dubai by trackable courier, Your test garment takes 3 to 4 weeks to make and your final trousers 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Dinner Jackets
 URL: https://baronboutique.com/menswear/dinner-jackets/
@@ -4716,9 +4713,6 @@ Try it on over a dress shirt, check the shoulders, the chest, and the jacket len
 
 We cut your dinner jacket
 Every adjustment is applied, then your jacket is cut on a canvas front with satin or self lapels, hand-finished buttonholes, and a full lining in your chosen color.
-
-It ships worldwide with tracking
-Your finished jacket ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-jacket stage. The test jacket is yours to keep.
 
 ### Pants
 URL: https://baronboutique.com/womenswear/pants-for-women/
@@ -4748,7 +4742,7 @@ You confirm the fit at home
 Try them on, check the waist, rise, and length, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor them and ship worldwide
-Every adjustment is applied, then your trousers are cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your trousers are cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final trousers 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Tuxedos
 URL: https://baronboutique.com/menswear/tuxedos/
@@ -4778,7 +4772,7 @@ We cut your tuxedo
 Every adjustment is applied, then your tuxedo is cut on a canvas front with satin lapels, hand-finished buttonholes, and a clean satin-striped trouser with no cuff.
 
 It ships worldwide with tracking
-Your finished tuxedo ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-suit stage. The test suit is yours to keep.
+Your finished tuxedo ships from Dubai by trackable courier, Your test suit takes 3 to 4 weeks to make and your final tuxedo 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test suit is yours to keep.
 
 ### Tuxedos
 URL: https://baronboutique.com/womenswear/tuxedos-for-women/
@@ -4806,7 +4800,7 @@ You confirm the fit at home
 Try it on, check the shoulders, bust, waist, and trouser break, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test suit takes 3 to 4 weeks to make and your final tuxedo 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Victorian Detective
 URL: https://baronboutique.com/screen-inspired/victorian-detective/
@@ -4833,7 +4827,7 @@ We tailor it in the correct cloth
 Every adjustment is applied, then your piece is cut and hand-tailored on a canvas front in the corduroy or cotton twill you chose, with reference images guiding the details.
 
 It ships worldwide with tracking
-Your finished piece ships by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished piece ships by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Dresses
 URL: https://baronboutique.com/womenswear/dresses-for-women/
@@ -4862,7 +4856,7 @@ You confirm the fit at home
 Try it on, check the bust, waist, and length, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your dress is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your dress is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final dress 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Shirts & Blouses
 URL: https://baronboutique.com/womenswear/shirts-for-women/
@@ -4891,7 +4885,7 @@ You confirm the fit at home
 Try it on, check the shoulders, bust, and sleeve, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your shirt is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your shirt is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final shirt 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Skirts
 URL: https://baronboutique.com/womenswear/skirts-for-women/
@@ -4920,7 +4914,7 @@ You confirm the fit at home
 Try it on, check the waist, hip, and length, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your skirt is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your skirt is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final skirt 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ### Vests
 URL: https://baronboutique.com/menswear/vests/
@@ -4948,7 +4942,7 @@ We cut and finish your waistcoat
 Every adjustment is applied, then your waistcoat is cut and hand-finished with welt pockets, an adjustable back strap, and hand-stitched buttonholes.
 
 It ships worldwide with tracking
-Your finished waistcoat ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished waistcoat ships from Dubai by trackable courier, Your test garment takes 3 to 4 weeks to make and your final waistcoat 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Services
 
@@ -5572,7 +5566,7 @@ Q: Which piece is coolest for a hot beach or desert wedding?
 A: The coolest choices are the Fresco wool cape suit and the beige corduroy suit. Fresco wool is an open-weave, high-twist cloth built specifically for heat, and the corduroy suit is unstructured and unlined for airflow. Both stay comfortable through a long outdoor ceremony in warm weather while still reading as deliberate and formal in photographs.
 
 Q: How far in advance should I order for a destination wedding?
-A: Order at least 10 to 12 weeks before the wedding so there is comfortable time for both the test garment and the final production. Production takes about four to six weeks from measurement confirmation, and international shipping adds several days at each stage. Tell us your wedding date when you order so we can confirm the timeline honestly.
+A: Order as early as you can so there is comfortable time for both the test garment and the final production. Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Tell us your wedding date when you order so we can confirm the timeline honestly.
 
 Q: Can I order for a wedding abroad without an in-person fitting?
 A: Yes, the entire process is remote, so you can order from anywhere for a wedding anywhere. You enter your measurements on the product page, we ship a free test garment to your home, you try it on and send notes, then we cut and ship the final piece to any address you choose. The test garment step is what makes ordering for a distant wedding safe.
@@ -5620,7 +5614,7 @@ Q: Can you make a screen inspired coat or suit not already listed?
 A: Yes. If you have a specific screen inspired piece in mind that is not listed, contact the team with reference images and a description. Custom requests are accepted for coats, jackets, suits, and capes. The team will assess the construction requirements and provide a quote before any work begins.
 
 Q: How long does an order take, and where do you ship?
-A: Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage, and we ship worldwide by FedEx, DHL, or UPS with full tracking, including throughout the UK. Most orders arrive within a few business days of dispatch. For a convention or event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
+A: Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide by FedEx, DHL, or UPS with full tracking, including throughout the UK. For a convention or event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
 
 Q: Which versions of the Purple coat do you make?
 A: Every major era cinematic villain coats are available. The 1989 cinematic inspired look is available as the double-breasted purple overcoat and as the rarer purple evening tailcoat. The modern 2019 inspired look is the burgundy three-piece suit. Each is made to your exact measurements with a free test garment first.
@@ -5695,10 +5689,10 @@ Q: Can I choose a custom fabric, color, or detail?
 A: Yes. Most pieces offer a range of cloths and colors on the product page, and you can specify details such as lapel style, vents, lining, and button configuration in the order notes. If you want something outside the listed options, a specific color, a particular cloth, or a design change, contact us before ordering and we will confirm what is possible. Personalization such as monogramming is also available on many cashmere pieces.
 
 Q: How far in advance should I order for a wedding or event?
-A: For a fixed date such as a wedding, order at least 8 to 10 weeks ahead. That allows comfortable time for the test garment to reach you, for any fit adjustments, and for your final garment to be made and shipped. Production is typically four to six weeks from the point your measurements are confirmed, including the test-garment stage. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
+A: For a fixed date such as a wedding, order as early as you can. That allows comfortable time for the test garment to reach you, for any fit adjustments, and for your final garment to be made and shipped. Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
 
 Q: Do you ship worldwide, and how do I pay?
-A: Yes, we ship worldwide from Dubai by trackable courier, with delivery usually 3 to 7 business days once a garment is finished. Checkout is secure through PayPal, and you can pay with your PayPal balance or with any major credit or debit card through PayPal’s guest checkout, with no PayPal account required.
+A: Yes, we ship worldwide from Dubai by trackable courier, and each shipment arrives 5 to 10 days after dispatch. Checkout is secure through PayPal, and you can pay with your PayPal balance or with any major credit or debit card through PayPal’s guest checkout, with no PayPal account required.
 
 Q: How is Baron different from off-the-rack or a local bespoke tailor?
 A: Off-the-rack fits an average body and offers no fit guarantee before you buy. A local bespoke tailor makes to your measurements but typically costs several times more and requires you to visit in person. Baron sits between them: genuinely made to your measurements, with a free test garment that confirms the fit before the final cloth is cut, at a price far below traditional bespoke, and available to order from anywhere in the world.
@@ -5779,7 +5773,7 @@ Q: Which suit is best for a wedding?
 A: For a groom or guest, a dupioni silk suit photographs beautifully and reads as special, while a clean navy or grey wool suit is the versatile choice a guest will wear again. For a distinctive groom look, Baron’s wedding collection includes the signature wedding suit with a cape and linen grooms’ suits. All are made to your measurements with a free test suit, so the fit is confirmed before the day. See the Wedding Suits collection.
 
 Q: How long does a suit take, and how far ahead should I order?
-A: Production is about four to six weeks from the point your measurements are confirmed, including the free test-suit stage. For a fixed date such as a wedding, order at least 8 to 10 weeks ahead so there is comfortable time for the test suit and any adjustments before the final suit is made and shipped. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
+A: Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. For a fixed date such as a wedding, order as early as you can so there is comfortable time for the test suit and any adjustments before the final suit is made and shipped. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
 
 Q: How much does a custom suit cost here?
 A: Blazers start at $569, most made-to-your-measurements suits run $699 to $799 depending on cloth, and elaborate pieces such as the cape wedding suit go higher. The free test suit and made-to-measure construction are included at no extra charge. For comparison, a comparable garment from a traditional local bespoke tailor typically costs several times more, while an off-the-rack suit at a similar price offers no fit guarantee.
@@ -5812,7 +5806,7 @@ Q: Do you make matching trousers, scarves, and accessories?
 A: Yes. Alongside the coats and jackets we make the Thirteenth Doctor’s trousers and can supply matching trousers for the suits, the Fourth Doctor’s long scarf, and other accessory pieces to complete a look. Note what you need in your order and we will confirm availability and pricing for the accompanying items.
 
 Q: How long does an order take, and do you ship to the UK and worldwide?
-A: Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage, and we ship worldwide by FedEx, DHL, or UPS with full tracking, including throughout the UK where these pieces are especially popular. Most orders arrive within a few business days of dispatch. For a convention or event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
+A: Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide by FedEx, DHL, or UPS with full tracking, including throughout the UK where these pieces are especially popular. For a convention or event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
 
 Q: What is Grade A cashmere, and why does it matter?
 A: Cashmere is graded on the length and fineness of the fiber. Grade A is the longest and finest, typically measuring 14 to 16 microns in diameter with a long staple, which is what gives it superior warmth without bulk, a soft handle that improves rather than degrades with wear, and strong resistance to pilling. Grade B and C fibers are shorter and coarser, which is why cheaper cashmere feels acceptable at first but pills and thins within a season. Every piece in this collection is 100% Grade A cashmere with no blend, which is the single biggest reason it behaves the way genuine cashmere should.
@@ -5848,7 +5842,7 @@ Q: Is cashmere a good gift, and can it be gift-wrapped?
 A: Cashmere is one of the best practical-luxury gifts because a scarf, wrap, or shawl works across travel, formal events, and everyday wear without any need for sizing or fitting, so it suits almost any recipient. The option to monogram or personalize with initials, and to choose from a wide color range, turns it from a safe default into something chosen specifically for the person. Pieces ship gift-ready by trackable courier, and the custom cashmere gifts service covers personalization and presentation.
 
 Q: Do you ship worldwide, and how long does it take?
-A: Yes, we ship worldwide by trackable courier from our workshop. Ready-made scarves, wraps, and shawls dispatch quickly, usually within a few business days. Made-to-order cashmere sweaters and personalized or monogrammed pieces take a little longer because they are made or finished specifically for you; the timeline is confirmed at checkout. For a gift with a deadline, order with a comfortable margin or contact us and we will confirm what is achievable.
+A: Yes, we ship worldwide by trackable courier from our workshop. Scarves, wraps, shawls, sweaters, and personalized or monogrammed pieces are all handmade to order and delivered within 2 to 3 weeks of your order. For a gift with a deadline, order with a comfortable margin or contact us and we will confirm what is achievable.
 
 Q: Is this a scarf or a shawl?
 A: It depends on the width you choose. At 28 inches it behaves as a scarf — loops at the neck, sits under a collar. At 40 inches it is a shawl, worn open across the shoulders. At 36 inches it does both adequately. All three are woven at the same 80-inch length, so the difference is entirely in how much of you it covers, not in how it is made.
@@ -5881,7 +5875,7 @@ Q: Do you make suits and coats for weddings and work?
 A: Yes. Our women’s suits, wedding suits, and tuxedos are popular for brides, mothers of the bride and groom, and guests, as well as for boardroom and everyday work wear. Because each piece is made to your measurements you choose the cloth and formality to match the occasion.
 
 Q: How long does an order take, and do you ship worldwide?
-A: Production is about four to six weeks from the point your measurements are confirmed, including the free test-garment stage, and we ship worldwide from Dubai by trackable courier, usually 3 to 7 business days once finished. For a wedding or event, order with a comfortable margin so there is time for the test garment and any adjustments. Checkout is secure through PayPal, with any major card accepted through guest checkout.
+A: Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final trousers takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide from Dubai by trackable courier. For a wedding or event, order with a comfortable margin so there is time for the test garment and any adjustments. Checkout is secure through PayPal, with any major card accepted through guest checkout.
 
 Q: What fabrics do you offer?
 A: Merino and tropical wool, mohair, flannel, sharkskin, linen, dupioni and crepe silk, velvet, Egyptian cotton, and handloomed cashmere, among others. Each garment lists the cloths available, and we can advise on the best choice for your climate, occasion, and how often you plan to wear the piece.
@@ -5905,7 +5899,7 @@ Q: How do I care for my cashmere scarf?
 A: Hand-wash in cool water with a gentle cashmere or wool wash, or use a delicate cycle in a mesh bag, then reshape and dry it flat rather than hanging it. Store it folded. Cared for this way, Grade A cashmere softens with age and lasts for many years.
 
 Q: How long does it take, and do you ship worldwide?
-A: Production is about four to six weeks from the point your measurements are confirmed, including the free test-garment stage, and we ship worldwide from Dubai by trackable courier. For a wedding or event, order at least 8 to 10 weeks ahead so there is comfortable time for the test garment and any adjustments. If your date is sooner, contact us before ordering and we will confirm whether the timeline works.
+A: Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final waistcoat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide. For a wedding or event, order as early as you can so there is comfortable time for the test garment and any adjustments. If your date is sooner, contact us before ordering and we will confirm whether the timeline works.
 
 Q: How can I check whether a pashmina is real before buying?
 A: Ask three questions any honest seller can answer instantly: what is the micron count, what is the yarn count, and where was it woven. Real pashmina runs roughly 14 to 16 microns at a 200/2 hand-spun count. If the answer is vague, it is a blend. Then check the ends — hand-loomed pieces have hand-knotted fringe, while machine-made ones are cut or serged.
@@ -5971,7 +5965,7 @@ Q: Can I request historical accuracy or a custom specification?
 A: Yes. Each coat is cut with generous seam allowances and can be built to a specific brief, a particular era’s cut, a chosen lapel or collar, button count and placement, skirt length, and cloth. This matters for reenactors and for stage or screen productions that need accuracy. Add your requirements in the order notes or contact us before ordering, and we will confirm what is achievable and build to it.
 
 Q: Do you ship frock coats to the UK and internationally?
-A: Yes. We ship worldwide from Dubai by trackable courier, including throughout the UK, where frock coats are especially popular for reenactment, weddings, and theatre. Delivery is usually 3 to 7 business days once the coat is finished, and production runs about four to six weeks from the point your measurements are confirmed, including the free test-coat stage.
+A: Yes. We ship worldwide from Dubai by trackable courier, including throughout the UK, where frock coats are especially popular for reenactment, weddings, and theatre. Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final frock coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 
 Q: How do I care for a frock coat?
 A: Dry clean the wool, velvet, and cotton frock coats to preserve the structure of the canvas front and the shape of the skirt, and hang the coat on a broad shaped hanger between wears so the shoulders and waist keep their line. Velvet should be brushed gently with the pile and steamed rather than pressed, so the nap is never crushed. Linen will relax with wear and benefits from a light press before an event. Cared for this way, a made-to-measure frock coat lasts for many years.
@@ -6001,7 +5995,7 @@ Q: What is the difference between the wool Matrix Reloaded coat and the leather 
 A: Both follow the same Matrix Reloaded silhouette — mandarin collar, hidden placket, below-ankle length — but in different materials. The wool version is made in monks’ wool, which gives it the heavy, structured drape seen in the film and makes it functional as cold-weather outerwear. The leather version is cut from premium full-grain leather for a more fitted, elevated finish suited equally to daily wear and cosplay. Both are made to your exact measurements with the same free test coat process.
 
 Q: How long does production take and where do you ship?
-A: Production takes approximately four to six weeks from measurement confirmation, which includes the free test coat stage. Orders ship worldwide by trackable courier. Delivery typically adds five to ten business days depending on your location. For time-sensitive orders — a convention, a shoot, or an event with a fixed date — contact us before ordering so we can confirm the timeline honestly.
+A: Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Orders ship worldwide by trackable courier. For time-sensitive orders — a convention, a shoot, or an event with a fixed date — contact us before ordering so we can confirm the timeline honestly.
 
 Q: Do you make women’s frock coats?
 A: Yes, and they are one of our most requested pieces. A frock coat is a fitted coat with a horizontal waist seam that gives it a shaped body and a full skirt, the classic Victorian silhouette. We make several for women, including the Victorian Winter Frock Coat and velvet frock coats, each cut to your exact measurements with the length and cloth you choose. If you want a specific historical or Victorian coat that is not listed, we accept custom requests from reference images.
@@ -6058,7 +6052,7 @@ Q: Can I have a silk suit for the wedding?
 A: Yes. The Wool & Silk Blend Suit has a subtle luster and fluid drape, and the Dupioni Silk Blazer comes in 21 iridescent colors, both made to your measurements. Silk photographs well and reads as elegant and celebratory, which is why it is a popular choice for weddings and formal occasions.
 
 Q: How far in advance should I order for a wedding?
-A: Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage. For a dated wedding we recommend ordering with a comfortable margin, ideally two to three months ahead, so there is time for the test garment, any adjustments, and shipping without any last-minute pressure.
+A: Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. For a dated wedding we recommend ordering with a comfortable margin, as early as you can, so there is time for the test garment, any adjustments, and shipping without any last-minute pressure.
 
 Q: Should I wash or dry clean a cashmere sweater?
 A: Wash it. Dry cleaning solvents strip the natural lanolin that keeps cashmere supple, which is why frequently dry-cleaned knitwear starts to feel papery. Hand wash in cool water with a gentle shampoo, do not wring, press the water out in a towel, and dry flat. Cashmere genuinely improves with washing — the fibers bloom and the handle softens. This is the opposite of what most retailers advise, and it is the correct advice.
@@ -6160,7 +6154,7 @@ Q: Are these velvet pieces made to my measurements or standard sizes?
 A: Every piece here is made to your measurements, with no standard sizes and nothing pre-made. You enter your measurements on the product page, and before we cut your final velvet we send a free test garment so the fit is confirmed on your body first. Because velvet shows a poor fit more than almost any other fabric, this step is the single most important reason these pieces look like tailoring rather than costume.
 
 Q: How long does a velvet piece take, and do you ship worldwide?
-A: Production takes about four to six weeks from the point your measurements are confirmed, which includes the free test-garment stage. We ship worldwide from Dubai by trackable courier. If you have a fixed date such as a wedding or a holiday event, order at least 8 to 10 weeks ahead so there is comfortable time for the test garment and any adjustments, or contact us before ordering and we will tell you honestly whether a tighter timeline can work.
+A: Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide from Dubai by trackable courier. If you have a fixed date such as a wedding or a holiday event, order as early as you can so there is comfortable time for the test garment and any adjustments, or contact us before ordering and we will tell you honestly whether a tighter timeline can work.
 
 Q: What should a groom wear to his wedding?
 A: A groom should wear something made to his measurements that suits the setting and stands one step apart from the guests. For a summer or beach ceremony that means a breathable linen suit, for a formal evening a tuxedo, and for a groom who wants to be unmistakable a cape suit or a statement piece. The single most important thing is fit, which is why every wedding suit here is made to your measurements and confirmed with a free test suit before the final cloth is cut.
@@ -6187,7 +6181,7 @@ Q: Are these wedding suits made to my measurements or standard sizes?
 A: Every wedding suit here is made to your measurements, with no standard sizes and nothing pre-made. You enter your measurements on the product page, and before we cut your final cloth we send a free test suit so the fit is confirmed on your body first. This is the step that separates a suit that fits from a rental that is close but never right.
 
 Q: How far in advance should I order my wedding suit?
-A: Order at least 10 to 12 weeks before the wedding so there is comfortable time for the free test suit and any adjustments before the final suit is made and shipped. Production takes about four to six weeks from measurement confirmation, and international delivery adds several days at each stage. Tell us your wedding date when you order so we can confirm the timeline honestly.
+A: Order as early as you can before the wedding so there is comfortable time for the free test suit and any adjustments before the final suit is made and shipped. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Tell us your wedding date when you order so we can confirm the timeline honestly.
 
 Q: Can I order for a destination wedding or a wedding abroad?
 A: Yes, the entire process is remote, so you can order from anywhere for a wedding anywhere. You enter your measurements on the product page, we ship a free test suit to your home, you try it on and send notes, then we cut and ship the final suit to any address you choose. The test-suit step is what makes ordering for a distant wedding safe, because the fit is confirmed before you travel.
@@ -6232,10 +6226,10 @@ Q: Can the groom wear a white linen suit?
 A: A groom can wear a white linen suit, and it works particularly well at a beach or destination wedding, provided it does not clash with the dress code or compete with the wedding party’s palette. Off-white, natural, and stone are safer than a pure bright white if you are unsure, and they photograph with a little more warmth in daylight. Because the White Linen Suit is made to your measurements in 18 colors, you can start with white and change your mind without changing the price.
 
 Q: Can I order a linen wedding suit for a wedding abroad without an in-person fitting?
-A: Yes, the entire process is remote, so you can order for a wedding abroad without visiting us. You enter your measurements on the product page, we ship a free test suit to your home, you try it on and send notes, we correct the pattern, then we cut and ship the final suit to any address you choose. For a destination wedding, order at least 10 to 12 weeks ahead so there is comfortable time for both the test suit and the final production.
+A: Yes, the entire process is remote, so you can order for a wedding abroad without visiting us. You enter your measurements on the product page, we ship a free test suit to your home, you try it on and send notes, we correct the pattern, then we cut and ship the final suit to any address you choose. For a destination wedding, order as early as you can so there is comfortable time for both the test suit and the final production.
 
 Q: How long does it take to receive a made-to-your-measurements linen wedding suit?
-A: Production takes about four to six weeks from measurement confirmation, including the test-suit stage, and trackable courier delivery adds roughly five to ten business days. For a wedding with a fixed date, tell us the date when you order so we can confirm the timeline honestly. If your date is close, contact us before ordering and we will tell you what is possible rather than guess.
+A: Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. For a wedding with a fixed date, tell us the date when you order so we can confirm the timeline honestly. If your date is close, contact us before ordering and we will tell you what is possible rather than guess.
 
 Q: What screen characters do you make for women?
 A: A growing range, all cut for a woman’s figure rather than resized from a man’s pattern: the Doctor’s coats and suits across several eras, spy-tailoring coats, the Matrix long black trench, a Dark Knight leather coat, and the Percival Graves wizard coat from Fantastic Beasts. Each is made to your measurements, and if you want a character piece that is not listed, we accept custom requests from reference images.
@@ -6289,7 +6283,7 @@ Q: What silk accessories do you make?
 A: Hand-finished in 100% satin silk: solid-color neckties in over 20 colors, the two-face two-tone necktie made from two contrasting silk panels, matching tie-and-pocket-square sets cut from the same bolt for a perfect color match, hand-rolled pocket squares in 21 colors, and the 75-inch aviator silk neck scarf in more than 60 colors. They are the finishing details that complete a tailored outfit, and at $65 for a pocket square, the easiest way into genuine silk.
 
 Q: How long does a silk garment take, and do you ship worldwide?
-A: Tailored pieces take about four to six weeks from the point your measurements are confirmed, which includes the free test-garment stage; accessories ship sooner. We ship worldwide from Dubai by trackable courier. For a wedding or event, order at least 8 to 10 weeks ahead so there is comfortable time for the test garment and any adjustments, or contact us before ordering and we will tell you honestly whether a tighter timeline can work.
+A: For tailored pieces, your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Silk accessories are handmade to order and delivered within 2 to 3 weeks of your order. We ship worldwide from Dubai by trackable courier. For a wedding or event, order as early as you can so there is comfortable time for the test garment and any adjustments, or contact us before ordering and we will tell you honestly whether a tighter timeline can work.
 
 Q: Why does an off-the-rack dress shirt never fit properly?
 A: Because a ready-made shirt is sized on only two measurements, the neck and the sleeve length, while the chest, waist, shoulder, and cuff are all cut to a fixed average. That means the shirt that fits your neck usually billows through the body, and the one cut slim enough for your body pulls tight at the collar. A shirt made to your measurements is cut to your neck, your body, and your arm at the same time, which is the only way to get all of them right.
@@ -6436,7 +6430,7 @@ Q: How long does a bought tuxedo last?
 A: A well-made tuxedo built on a canvas front lasts decades, and black-tie style barely changes, so it does not date the way fashion suiting can. The satin lapels, the silhouette, and the color conventions of black tie have held for generations, which means a tuxedo bought correctly today will still be correct in twenty years. The ample seam allowances built into each one also allow for future alteration as your fit changes.
 
 Q: How far in advance should I order for an event?
-A: Order at least 8 to 10 weeks before the event so there is comfortable time for the test suit and any adjustments before the final tuxedo is made and shipped. Production takes about four to six weeks from measurement confirmation, including the test-suit stage. If your event is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
+A: Order as early as you can before the event so there is comfortable time for the test suit and any adjustments before the final tuxedo is made and shipped. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final tuxedo takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your event is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
 
 Q: Do you make tuxedos designed for women?
 A: Yes. Our tuxedos are drafted for a woman’s figure from the start, not resized from a man’s pattern, with roped shoulders, a sculpted waist, and satin lapels. Each is made to your exact measurements in real cloth, so the silhouette is powerful and feminine rather than boxy.

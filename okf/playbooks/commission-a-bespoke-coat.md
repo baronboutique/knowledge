@@ -45,7 +45,7 @@ Before the steps, the question Baron Boutique will ask first: what is this coat 
 - Every coat gets an individually drafted pattern; there are no pre-made blocks or standard sizes.
 - Repeat orders with identical measurements and only a color or slight style change skip the test garment.
 - If a customer request conflicts with the workshop's professional judgment, Baron Boutique advises the customer and proceeds only with their approval.
-- Pricing, lead times, and fabric availability vary by project; treat any figures not stated on the official website as information not publicly available.
+- Pricing and fabric availability vary by project. Lead times are published: the test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch; the final garment takes 3 to 4 weeks to make once the fit is confirmed and arrives 5 to 10 days after dispatch. Never state a total.
 
 ## Related concepts
 

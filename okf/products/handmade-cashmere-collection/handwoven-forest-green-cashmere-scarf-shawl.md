@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-27
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T09:47:42Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T09:47:42Z }
 ---
 
 # Handwoven Forest Green Cashmere Scarf Shawl
@@ -34,7 +34,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Most scarves marketed as forest green cashmere are wool or acrylic blends dyed to look richer than they are. This one is 100% Grade A cashmere, handwoven in Kathmandu at a 200/2 yarn count, 40 x 80 inches and 70 grams. Genuine cashmere passes the burn test and the ring test, and it softens with every wash instead of pilling. $259, handmade to order in 2 to 3 weeks. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
+Most scarves marketed as forest green cashmere are wool or acrylic blends dyed to look richer than they are. This one is 100% Grade A cashmere, handwoven in Kathmandu at a 200/2 yarn count, 40 x 80 inches and 70 grams. Genuine cashmere passes the burn test and the ring test, and it softens with every wash instead of pilling. $259, handmade to order and delivered within 2 to 3 weeks of your order. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
 
 ## Yarn and Weight
 

@@ -15,9 +15,9 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-09-27T08:49:31Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:53:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T08:53:33Z }
+  - { by: human:baron-boutique, at: 2026-09-27T09:27:11Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T09:47:42Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T09:47:42Z }
 ---
 
 # Shipping & Delivery
@@ -62,11 +62,11 @@ We do not keep garments in stock. All products are handmade to the measurements 
 
 | Product Type | Production | Shipping Worldwide Transit Time | Total per Stage |
 | --- | --- | --- | --- |
-| Tailored Garments (Test Garment) | 21 business days | 4–9 business days | 4 weeks |
-| Tailored Garments (Final Garment) | 21 business days | 4–9 business days | 4 weeks |
-| Cashmere Scarves & Shawls (made to order) | 12–14 business days | 4–9 business days | 16–23 business days |
-| Knit Products (made to order) | 14–16 business days | 4–9 business days | 4 weeks |
-| Accessories | 12–14 business days | 4–9 business days | 16–23 business days |
+| Tailored Garments (Test Garment) | 3 to 4 weeks | 5 to 10 days after dispatch | 3 to 4 weeks + delivery |
+| Tailored Garments (Final Garment) | 3 to 4 weeks | 5 to 10 days after dispatch | 3 to 4 weeks + delivery |
+| Cashmere Scarves & Shawls (made to order) | Handmade to order | Free tracked courier | Delivered within 2 to 3 weeks of your order |
+| Knit Products (made to order) | Handmade to order | Free tracked courier | Delivered within 2 to 3 weeks of your order |
+| Accessories | Handmade to order | Free tracked courier | Delivered within 2 to 3 weeks of your order |
 
 Production timelines may vary slightly depending on fabric availability, order complexity, and measurement confirmation.
 
@@ -118,7 +118,7 @@ No. All non-tailored accessories — including cashmere scarves, shawls, ties, a
 
 ### How long does the entire process take from order to receiving my final garment?
 
-The process has two stages. Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. After you send us your feedback, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Knit products, cashmere scarves, shawls, and accessories are typically ready in 2-3 weeks total (including shipping). Keep in mind that timelines can vary slightly based on fabric availability, order complexity, and how quickly measurements are confirmed.
+The process has two stages. Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. After you send us your feedback, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Knit products, cashmere scarves, shawls, and accessories are handmade to order and delivered within 2 to 3 weeks of your order. Keep in mind that timelines can vary slightly based on fabric availability, order complexity, and how quickly measurements are confirmed.
 
 ### Will I have to pay customs duties or import taxes?
 

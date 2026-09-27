@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-measuring-guide/
     title: "Men’s Measuring Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-20
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-09-20T14:30:29Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-09-27T13:04:36Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Men’s Measuring Guide
@@ -172,7 +172,7 @@ Your safety net is that nothing final, and nothing costly, is cut until you have
 
 ### I need this for a wedding or a specific event and I am anxious it will not be right on the day.
 
-Tell us the date when you order and we plan the whole timeline back from it, including the free test-garment stage, so there is time to confirm the fit and make any adjustments with room to spare. For a dated event we recommend ordering two to three months ahead. Because you approve the fit on the test garment before the final piece is cut, you are not walking into your event hoping it fits, you already know it does.
+Tell us the date when you order and we plan the whole timeline back from it, including the free test-garment stage, so there is time to confirm the fit and make any adjustments with room to spare. For a dated event, order as early as you can. Because you approve the fit on the test garment before the final piece is cut, you are not walking into your event hoping it fits, you already know it does.
 
 ### What if it arrives and something is still not quite right?
 

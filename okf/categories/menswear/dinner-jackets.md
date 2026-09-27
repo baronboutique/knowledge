@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Dinner Jackets
@@ -46,9 +46,6 @@ Try it on over a dress shirt, check the shoulders, the chest, and the jacket len
 
 We cut your dinner jacket
 Every adjustment is applied, then your jacket is cut on a canvas front with satin or self lapels, hand-finished buttonholes, and a full lining in your chosen color.
-
-It ships worldwide with tracking
-Your finished jacket ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-jacket stage. The test jacket is yours to keep.
 
 ## Questions & Answers
 

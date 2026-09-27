@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Real Silk Eventwear
@@ -48,7 +48,7 @@ We cut your silk
 Every adjustment is applied, then your piece is cut and hand-finished in genuine silk, on a canvas front for the jackets and suits, with hand-stitched detail throughout.
 
 It ships worldwide with tracking
-Your finished silk ships from Dubai by trackable courier, about four to six weeks from measurement confirmation for tailored pieces including the test-garment stage. The test garment is yours to keep.
+Your finished silk ships from Dubai by trackable courier, For tailored pieces, your test garment takes 3 to 4 weeks to make and your final garment 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -86,7 +86,7 @@ Your finished silk ships from Dubai by trackable courier, about four to six week
 **A:** Hand-finished in 100% satin silk: solid-color neckties in over 20 colors, the two-face two-tone necktie made from two contrasting silk panels, matching tie-and-pocket-square sets cut from the same bolt for a perfect color match, hand-rolled pocket squares in 21 colors, and the 75-inch aviator silk neck scarf in more than 60 colors. They are the finishing details that complete a tailored outfit, and at $65 for a pocket square, the easiest way into genuine silk.
 
 **Q:** How long does a silk garment take, and do you ship worldwide?  
-**A:** Tailored pieces take about four to six weeks from the point your measurements are confirmed, which includes the free test-garment stage; accessories ship sooner. We ship worldwide from Dubai by trackable courier. For a wedding or event, order at least 8 to 10 weeks ahead so there is comfortable time for the test garment and any adjustments, or contact us before ordering and we will tell you honestly whether a tighter timeline can work.
+**A:** For tailored pieces, your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Silk accessories are handmade to order and delivered within 2 to 3 weeks of your order. We ship worldwide from Dubai by trackable courier. For a wedding or event, order as early as you can so there is comfortable time for the test garment and any adjustments, or contact us before ordering and we will tell you honestly whether a tighter timeline can work.
 
 ## Products
 

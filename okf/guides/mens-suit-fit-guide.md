@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-suit-fit-guide/
     title: "Suit Fit Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-20
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-09-20T13:53:37Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-09-27T13:06:54Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Suit Fit Guide
@@ -138,7 +138,7 @@ You do not have to be perfect. Our guide walks you through each measurement, a f
 
 ### I need it for a wedding or a specific event and I am anxious it will not be right on the day.
 
-Tell us the date when you order and we plan the whole timeline back from it, including the free test-garment stage, so there is room to confirm the fit and make any adjustments with time to spare. For a dated event we recommend ordering two to three months ahead. Because you approve the fit on the test garment before the final suit is cut, you are not walking in hoping it fits, you already know it does.
+Tell us the date when you order and we plan the whole timeline back from it, including the free test-garment stage, so there is room to confirm the fit and make any adjustments with time to spare. For a dated event, order as early as you can. Because you approve the fit on the test garment before the final suit is cut, you are not walking in hoping it fits, you already know it does.
 
 ### It is a lot to spend on one suit. What is my safety net?
 

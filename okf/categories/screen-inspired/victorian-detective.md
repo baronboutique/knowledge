@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Victorian Detective
@@ -47,7 +47,7 @@ We tailor it in the correct cloth
 Every adjustment is applied, then your piece is cut and hand-tailored on a canvas front in the corduroy or cotton twill you chose, with reference images guiding the details.
 
 It ships worldwide with tracking
-Your finished piece ships by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished piece ships by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -73,7 +73,7 @@ Your finished piece ships by FedEx, DHL, or UPS with full tracking, about four t
 **A:** Yes. If you want a specific detective or Victorian garment that is not currently listed, for example a long single-breasted wool coat, an Inverness cape, or a tweed Ulster, contact us with reference images and a description. We accept custom requests for coats, capes, and jackets, assess the construction, and provide a quote before any work begins.
 
 **Q:** How long does an order take, and do you ship to the UK and worldwide?  
-**A:** Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage, and we ship worldwide by FedEx, DHL, or UPS with full tracking, including throughout the UK where these pieces are especially popular. Most orders arrive within a few business days of dispatch. For an event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide by FedEx, DHL, or UPS with full tracking, including throughout the UK where these pieces are especially popular. For an event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
 
 ## Products
 

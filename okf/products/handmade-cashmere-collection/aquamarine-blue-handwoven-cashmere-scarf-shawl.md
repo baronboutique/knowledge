@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-19
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T09:47:42Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T09:47:42Z }
 ---
 
 # Aquamarine Blue Handwoven Cashmere Scarf Shawl
@@ -34,7 +34,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Warmth, Without the Weight. Aquamarine Cashmere, Woven in Kathmandu. One Wrap. Wherever the Day Takes You. Slow Luxury, Made for You: Every piece is individually handwoven on traditional looms in our Kathmandu workshop rather than pulled off a warehouse shelf. Please allow 2–3 weeks for our master artisans to craft and finish your piece. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
+Warmth, Without the Weight. Aquamarine Cashmere, Woven in Kathmandu. One Wrap. Wherever the Day Takes You. Slow Luxury, Made for You: Every piece is individually handwoven on traditional looms in our Kathmandu workshop rather than pulled off a warehouse shelf. Your piece is handmade to order and delivered within 2 to 3 weeks of your order. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
 
 ## Yarn and Weight
 

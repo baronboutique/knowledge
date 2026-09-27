@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Men
@@ -83,10 +83,10 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 **A:** No. Every measurement field on the product pages includes instructions, and most customers complete them in about 15 minutes with a soft tape measure and a second person to help. Small errors are normal, which is exactly what the free test garment is for: nothing is cut in your final cloth until you have tried the test garment on and confirmed the fit. You do not need any prior experience to order.
 
 **Q:** How far in advance should I order for a wedding or event?  
-**A:** For a fixed date such as a wedding, order at least 8 to 10 weeks ahead. That allows comfortable time for the test garment to reach you, for any fit adjustments, and for your final garment to be made and shipped. Production is typically four to six weeks from the point your measurements are confirmed, including the test-garment stage. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
+**A:** For a fixed date such as a wedding, order as early as you can. That allows comfortable time for the test garment to reach you, for any fit adjustments, and for your final garment to be made and shipped. Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
 
 **Q:** Do you ship worldwide, and how do I pay?  
-**A:** Yes, we ship worldwide from Dubai by trackable courier, with delivery usually 3 to 7 business days once a garment is finished. Checkout is secure through PayPal, and you can pay with your PayPal balance or with any major credit or debit card through PayPal’s guest checkout, with no PayPal account required.
+**A:** Yes, we ship worldwide from Dubai by trackable courier, and each shipment arrives 5 to 10 days after dispatch. Checkout is secure through PayPal, and you can pay with your PayPal balance or with any major credit or debit card through PayPal’s guest checkout, with no PayPal account required.
 
 **Q:** How is Baron different from off-the-rack or a local bespoke tailor?  
 **A:** Off-the-rack fits an average body and offers no fit guarantee before you buy. A local bespoke tailor makes to your measurements but typically costs several times more and requires you to visit in person. Baron sits between them: genuinely made to your measurements, with a free test garment that confirms the fit before the final cloth is cut, at a price far below traditional bespoke, and available to order from anywhere in the world.

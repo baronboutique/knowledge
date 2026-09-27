@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Cyberpunk Trench Coats
@@ -51,7 +51,7 @@ We Cut and Build Your Coat
 Your coat is cut in the correct fabric for that specific piece — monks’ wool, structured wool blend, full-grain leather, or worsted wool — to your confirmed measurements. Every seam is checked before the coat leaves the workshop.
 
 It Ships to You Worldwide
-Your completed coat ships by trackable courier. Production takes approximately four to six weeks from measurement confirmation, including the test coat stage. The test coat is yours to keep. Free test coat:
+Your completed coat ships by trackable courier. Your test coat takes 3 to 4 weeks to make and your final coat 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test coat is yours to keep. Free test coat:
 
 ## Questions & Answers
 
@@ -80,7 +80,7 @@ Your completed coat ships by trackable courier. Production takes approximately f
 **A:** Both follow the same Matrix Reloaded silhouette — mandarin collar, hidden placket, below-ankle length — but in different materials. The wool version is made in monks’ wool, which gives it the heavy, structured drape seen in the film and makes it functional as cold-weather outerwear. The leather version is cut from premium full-grain leather for a more fitted, elevated finish suited equally to daily wear and cosplay. Both are made to your exact measurements with the same free test coat process.
 
 **Q:** How long does production take and where do you ship?  
-**A:** Production takes approximately four to six weeks from measurement confirmation, which includes the free test coat stage. Orders ship worldwide by trackable courier. Delivery typically adds five to ten business days depending on your location. For time-sensitive orders — a convention, a shoot, or an event with a fixed date — contact us before ordering so we can confirm the timeline honestly.
+**A:** Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Orders ship worldwide by trackable courier. For time-sensitive orders — a convention, a shoot, or an event with a fixed date — contact us before ordering so we can confirm the timeline honestly.
 
 ## Products
 

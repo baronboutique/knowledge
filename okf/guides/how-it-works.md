@@ -15,9 +15,9 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-09-27T08:46:30Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:53:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T08:53:33Z }
+  - { by: human:baron-boutique, at: 2026-09-27T09:28:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T09:47:42Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T09:47:42Z }
 ---
 
 # How It Works — Ordering Process
@@ -74,7 +74,7 @@ Rush service is available upon request at no additional cost, subject to product
 **A:** Have someone take clear photos of you wearing the test garment from the front, back and both sides, for each garment in the order. Email them with your written feedback to customerservice@baronboutique.com. Plain daylight, a plain background, arms down and a natural stance are worth more than a good camera. The more specific your feedback, the more precisely we can adjust.
 
 **Q:** How long does the whole process take?  
-**A:** The test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final garment takes 3 to 4 weeks to make, counted from the day we receive your feedback, and arrives 5 to 10 days after dispatch.
+**A:** The test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final garment takes 3 to 4 weeks to make, counted from the day we receive your feedback, and arrives 5 to 10 days after dispatch. The part in between is yours, and the clock stops while we wait for your photos, so a fast reply shortens the whole order.
 
 **Q:** I need it for a specific date. Can you work to a deadline?  
 **A:** Tell us the date before you order, not after, and we will tell you honestly whether it is achievable. We would rather turn down an order than take one we cannot deliver in time for a wedding. Bear in mind that customs clearance is outside our control and can add days that no production schedule can absorb.
@@ -119,7 +119,7 @@ Rush service is available upon request at no additional cost, subject to product
 **A:** Yes. At checkout, select the card option through PayPal and enter your debit or credit card details directly. No PayPal account is required at any point. Prices are shown in the currency displayed on the site, and any conversion or foreign transaction fee your bank applies is outside our control. See our Payment Policy for full details.
 
 **Q:** Do cashmere scarves and accessories go through the same process?  
-**A:** No. Scarves, shawls, wraps and non-tailored accessories need no measurements and no test garment. Add them to your cart, pay, and they are made to order in 12 to 14 business days and then shipped, arriving 4 to 9 business days later. Accessories ship free worldwide.
+**A:** No. Scarves, shawls, wraps and non-tailored accessories need no measurements and no test garment. Add them to your cart, pay, and they are handmade to order and delivered within 2 to 3 weeks of your order. Accessories ship free worldwide.
 
 **Q:** Who actually makes my garment, and where?  
 **A:** Human tailors in our own workroom in Kathmandu, Nepal, where the house has been operating since 2000, with operations extending to Dubai. Nothing is subcontracted to a factory and nothing is cut before you order it. That is also why the lead times on this page are what they are.

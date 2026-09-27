@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Women
@@ -78,7 +78,7 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 **A:** Yes. Our women’s suits, wedding suits, and tuxedos are popular for brides, mothers of the bride and groom, and guests, as well as for boardroom and everyday work wear. Because each piece is made to your measurements you choose the cloth and formality to match the occasion.
 
 **Q:** How long does an order take, and do you ship worldwide?  
-**A:** Tailored pieces typically take four to six weeks from measurement confirmation, including the free test-garment stage, and we ship worldwide by FedEx, DHL, or UPS with full tracking. For a dated event, order with a comfortable margin so there is time for the test garment and any adjustments.
+**A:** For tailored pieces, your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide by FedEx, DHL, or UPS with full tracking. For a dated event, order with a comfortable margin so there is time for the test garment and any adjustments.
 
 **Q:** What fabrics do you offer?  
 **A:** Merino and tropical wool, mohair, flannel, sharkskin, linen, dupioni and crepe silk, velvet, Egyptian cotton, and handloomed cashmere, among others. Each garment lists the cloths available, and we can advise on the best choice for your climate, occasion, and how often you plan to wear the piece.

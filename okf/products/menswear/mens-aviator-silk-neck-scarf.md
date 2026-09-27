@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-aviator-silk-neck-scarf/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T09:47:42Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T09:47:42Z }
 ---
 
 # Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors
@@ -71,7 +71,7 @@ Dry-clean or hand-wash in cold water with a mild silk-friendly detergent.
 - iron in low heat or quick steam for wrinkle-free
 - to store the scarves, gently fold and place them in a breathable cotton garment bag
 - during the season, store them by hanging them in a cool dry place
-- ships within 3-5 business days
+- handmade to order and delivered within 2 to 3 weeks of your order
 
 ## Categories
 

@@ -27,7 +27,7 @@ You confirm the fit at home
 Try it on, check the shoulders, length, and silhouette, and send your notes and photos. Nothing is cut in your final cloth until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your piece is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your piece is hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final piece 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -50,7 +50,7 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 **A:** Yes. If you want a specific screen or character garment for women that is not shown, send us reference images and a description. We assess the construction, confirm the cloth and details, and provide a quote before any work begins, then build it to your measurements with the same free test garment as every order.
 
 **Q:** How long does it take, and do you ship worldwide?  
-**A:** Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage, and we ship worldwide by FedEx, DHL, or UPS with full tracking. For a convention or event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final piece takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide by FedEx, DHL, or UPS with full tracking. For a convention or event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments.
 
 ## Products
 

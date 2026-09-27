@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/dress-fit-guide/
     title: "Dress Fit Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-20
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-09-20T14:06:06Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-09-27T13:07:56Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Dress Fit Guide
@@ -110,7 +110,7 @@ Yes. Because the hem is cut to your height, not to a standard size chart, you ge
 
 ### I have an occasion coming up and I am terrified it will not be right on the day.
 
-Tell us the date when you order and we plan the timeline back from it, including the free test-garment stage, so there is time to confirm the fit and make any adjustments with room to spare. For a wedding or dated event we recommend ordering two to three months ahead. Because you approve the fit before the final dress is cut, you walk into your occasion knowing it fits, not hoping.
+Tell us the date when you order and we plan the timeline back from it, including the free test-garment stage, so there is time to confirm the fit and make any adjustments with room to spare. For a wedding or dated event, order as early as you can. Because you approve the fit before the final dress is cut, you walk into your occasion knowing it fits, not hoping.
 
 ### A silk or fitted dress worries me, I do not want it clinging in the wrong places.
 

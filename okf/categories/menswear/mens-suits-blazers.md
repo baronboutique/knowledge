@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Suits & Blazers
@@ -50,7 +50,7 @@ We cut your suit
 Every adjustment is applied, then your suit is cut on a hand-basted canvas front with hand-stitched armholes, hand-finished buttonholes, and functional details throughout.
 
 It ships worldwide with tracking
-Your finished suit ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-suit stage. The test suit is yours to keep.
+Your finished suit ships from Dubai by trackable courier, Your test suit takes 3 to 4 weeks to make and your final suit 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test suit is yours to keep.
 
 ## Questions & Answers
 
@@ -82,13 +82,13 @@ Your finished suit ships from Dubai by trackable courier, about four to six week
 **A:** For a groom or guest, a dupioni silk suit photographs beautifully and reads as special, while a clean navy or grey wool suit is the versatile choice a guest will wear again. For a distinctive groom look, Baron’s wedding collection includes the signature wedding suit with a cape and linen grooms’ suits. All are made to your measurements with a free test suit, so the fit is confirmed before the day. See the Wedding Suits collection.
 
 **Q:** How long does a suit take, and how far ahead should I order?  
-**A:** Production is about four to six weeks from the point your measurements are confirmed, including the free test-suit stage. For a fixed date such as a wedding, order at least 8 to 10 weeks ahead so there is comfortable time for the test suit and any adjustments before the final suit is made and shipped. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
+**A:** Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. For a fixed date such as a wedding, order as early as you can so there is comfortable time for the test suit and any adjustments before the final suit is made and shipped. If your date is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
 
 **Q:** How much does a custom suit cost here?  
 **A:** Blazers start at $569, most made-to-your-measurements suits run $699 to $799 depending on cloth, and elaborate pieces such as the cape wedding suit go higher. The free test suit and made-to-measure construction are included at no extra charge. For comparison, a comparable garment from a traditional local bespoke tailor typically costs several times more, while an off-the-rack suit at a similar price offers no fit guarantee.
 
 **Q:** Do you ship worldwide, and how do I pay?  
-**A:** Yes, we ship worldwide from Dubai by trackable courier, usually 3 to 7 business days once your suit is finished. Checkout is secure through PayPal, and you can pay with your PayPal balance or any major credit or debit card through PayPal’s guest checkout, with no PayPal account required.
+**A:** Yes, we ship worldwide from Dubai by trackable courier, and each shipment arrives 5 to 10 days after dispatch. Checkout is secure through PayPal, and you can pay with your PayPal balance or any major credit or debit card through PayPal’s guest checkout, with no PayPal account required.
 
 ## Products
 

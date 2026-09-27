@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Handcrafted Cashmere
@@ -54,7 +54,7 @@ Personalized, if you wish
 Scarves, wraps, and shawls can be monogrammed or personalized with initials for a gift that is genuinely unique. Custom colors are available on most pieces on request.
 
 Shipped worldwide with tracking
-Your cashmere ships from our workshop by trackable courier, gift-ready. Ready-made pieces dispatch quickly; made-to-order sweaters and personalized items take a little longer, confirmed at checkout.
+Your cashmere ships from our workshop by trackable courier, gift-ready. Every piece, including sweaters and personalized items, is handmade to order and delivered within 2 to 3 weeks of your order.
 
 ## Questions & Answers
 
@@ -92,7 +92,7 @@ Your cashmere ships from our workshop by trackable courier, gift-ready. Ready-ma
 **A:** Cashmere is one of the best practical-luxury gifts because a scarf, wrap, or shawl works across travel, formal events, and everyday wear without any need for sizing or fitting, so it suits almost any recipient. The option to monogram or personalize with initials, and to choose from a wide color range, turns it from a safe default into something chosen specifically for the person. Pieces ship gift-ready by trackable courier, and the custom cashmere gifts service covers personalization and presentation.
 
 **Q:** Do you ship worldwide, and how long does it take?  
-**A:** Yes, we ship worldwide by trackable courier from our workshop. Ready-made scarves, wraps, and shawls dispatch quickly, usually within a few business days. Made-to-order cashmere sweaters and personalized or monogrammed pieces take a little longer because they are made or finished specifically for you; the timeline is confirmed at checkout. For a gift with a deadline, order with a comfortable margin or contact us and we will confirm what is achievable.
+**A:** Yes, we ship worldwide by trackable courier from our workshop. Scarves, wraps, shawls, sweaters, and personalized or monogrammed pieces are all handmade to order and delivered within 2 to 3 weeks of your order. For a gift with a deadline, order with a comfortable margin or contact us and we will confirm what is achievable.
 
 ## Products
 

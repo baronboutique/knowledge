@@ -28,7 +28,7 @@ We cut your coat
 Every adjustment is applied, then your coat is cut and hand-finished in your chosen fabric, on a canvas front where the coat calls for structure, with hand-finished buttonholes and horn buttons.
 
 It ships worldwide with tracking
-Your finished coat ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-coat stage. The test coat is yours to keep.
+Your finished coat ships from Dubai by trackable courier, Your test coat takes 3 to 4 weeks to make and your final coat 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test coat is yours to keep.
 
 ## Questions & Answers
 

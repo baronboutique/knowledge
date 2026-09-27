@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Accessories
@@ -45,7 +45,7 @@ Handmade to order
 Ties, squares, and scarves are hand-finished, bias-cut and wool-interlined for the ties, hand-rolled edges on the squares, and handwoven over days for the cashmere and pashmina.
 
 Shipped worldwide, gift-ready
-Your accessories ship from Dubai by trackable courier. Ready-made pieces dispatch quickly; personalized or monogrammed items take a little longer, confirmed at checkout.
+Your accessories ship from Dubai by trackable courier. Every piece, including personalized or monogrammed items, is handmade to order and delivered within 2 to 3 weeks of your order.
 
 ## Questions & Answers
 
@@ -71,7 +71,7 @@ Your accessories ship from Dubai by trackable courier. Ready-made pieces dispatc
 **A:** Accessories are among the best practical-luxury gifts because they need no sizing and suit almost anyone. A silk pocket square at $65 or a tie is an accessible entry point; a tie-and-square set or a men’s cashmere scarf sits in the mid range; and the pashmina shawl or a personalized cashmere piece is a standout gift. The wide color range and the option to monogram let you choose something specific to the recipient rather than defaulting to a safe neutral.
 
 **Q:** Do you ship worldwide, and how long does it take?  
-**A:** Yes, we ship worldwide from Dubai by trackable courier. Ready-made ties, squares, and scarves dispatch quickly, usually within a few business days. Personalized or monogrammed pieces and made-to-order items take a little longer because they are finished specifically for you, with the timeline confirmed at checkout. For a gift with a deadline, order with a comfortable margin or contact us and we will confirm what is achievable.
+**A:** Yes, we ship worldwide from Dubai by trackable courier. Ties, squares, and scarves, including personalized or monogrammed pieces, are handmade to order and delivered within 2 to 3 weeks of your order. For a gift with a deadline, order with a comfortable margin or contact us and we will confirm what is achievable.
 
 ## Products
 

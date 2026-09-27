@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Screen Inspired
@@ -56,7 +56,7 @@ We cut it in the correct fabric
 Every adjustment is applied, then your piece is cut and hand-tailored in the cloth chosen to reflect the original, with reference images guiding the details throughout.
 
 It ships worldwide with tracking
-Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished garment ships by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final garment 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -97,7 +97,7 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, about four
 **A:** Yes. If you have a specific screen inspired piece in mind that is not listed, contact the team with reference images and a description. Custom requests are accepted for coats, jackets, suits, and capes. The team will assess the construction requirements and provide a quote before any work begins.
 
 **Q:** How long does an order take, and where do you ship?  
-**A:** Production typically takes four to six weeks from measurement confirmation to dispatch, which includes the free test coat stage. Shipping is worldwide. Customers in the US, UK, Australia, Canada, and Europe receive orders regularly. Shipping timelines vary by destination but most orders arrive within 4-6 business days of dispatch.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Shipping is worldwide. Customers in the US, UK, Australia, Canada, and Europe receive orders regularly.
 
 ## Products
 

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.15.0, at: 2026-08-05T12:07:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Tuxedos
@@ -48,7 +48,7 @@ We cut your tuxedo
 Every adjustment is applied, then your tuxedo is cut on a canvas front with satin lapels, hand-finished buttonholes, and a clean satin-striped trouser with no cuff.
 
 It ships worldwide with tracking
-Your finished tuxedo ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-suit stage. The test suit is yours to keep.
+Your finished tuxedo ships from Dubai by trackable courier, Your test suit takes 3 to 4 weeks to make and your final tuxedo 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test suit is yours to keep.
 
 ## Questions & Answers
 
@@ -86,7 +86,7 @@ Your finished tuxedo ships from Dubai by trackable courier, about four to six we
 **A:** A well-made tuxedo built on a canvas front lasts decades, and black-tie style barely changes, so it does not date the way fashion suiting can. The satin lapels, the silhouette, and the color conventions of black tie have held for generations, which means a tuxedo bought correctly today will still be correct in twenty years. The ample seam allowances built into each one also allow for future alteration as your fit changes.
 
 **Q:** How far in advance should I order for an event?  
-**A:** Order at least 8 to 10 weeks before the event so there is comfortable time for the test suit and any adjustments before the final tuxedo is made and shipped. Production takes about four to six weeks from measurement confirmation, including the test-suit stage. If your event is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
+**A:** Order as early as you can before the event so there is comfortable time for the test suit and any adjustments before the final tuxedo is made and shipped. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final tuxedo takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your event is sooner, contact us before ordering and we will tell you honestly whether the timeline works.
 
 ## Products
 

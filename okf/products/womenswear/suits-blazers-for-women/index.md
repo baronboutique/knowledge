@@ -28,7 +28,7 @@ You confirm the fit at home
 Try it on, check the shoulders, bust, and waist, and send your notes and photos. Nothing is cut in your final fabric until the fit is confirmed.
 
 We tailor it and ship worldwide
-Every adjustment is applied, then your suit is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, about four to six weeks from measurement confirmation. The test garment is yours to keep.
+Every adjustment is applied, then your suit is cut and hand-tailored in your chosen cloth and shipped by FedEx, DHL, or UPS with full tracking, Your test garment takes 3 to 4 weeks to make and your final suit 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -54,7 +54,7 @@ Every adjustment is applied, then your suit is cut and hand-tailored in your cho
 **A:** Each suit is made to your measurements with no standard sizes, and before we cut your final cloth we send a free test garment in a stand-in fabric so the fit is confirmed on your body. You try it on at home, check the shoulders, bust, waist, and length, and send any adjustments, which we apply before cutting the final suit. The test garment is yours to keep.
 
 **Q:** How long does it take, and do you ship worldwide?  
-**A:** Production typically takes four to six weeks from measurement confirmation, including the free test-garment stage, and we ship worldwide by FedEx, DHL, or UPS with full tracking. For an event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments before your final suit is made.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide by FedEx, DHL, or UPS with full tracking. For an event with a fixed date, order with a comfortable margin so there is time for the test garment and any adjustments before your final suit is made.
 
 ## Products
 

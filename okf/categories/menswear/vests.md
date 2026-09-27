@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
 ---
 
 # Vests
@@ -46,7 +46,7 @@ We cut and finish your waistcoat
 Every adjustment is applied, then your waistcoat is cut and hand-finished with welt pockets, an adjustable back strap, and hand-stitched buttonholes.
 
 It ships worldwide with tracking
-Your finished waistcoat ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-garment stage. The test garment is yours to keep.
+Your finished waistcoat ships from Dubai by trackable courier, Your test garment takes 3 to 4 weeks to make and your final waistcoat 3 to 4 weeks once you confirm the fit, and each arrives 5 to 10 days after dispatch. The test garment is yours to keep.
 
 ## Questions & Answers
 
@@ -75,7 +75,7 @@ Your finished waistcoat ships from Dubai by trackable courier, about four to six
 **A:** Both the worsted wool and linen waistcoats are best dry cleaned to preserve the structure of the lined front and the shape of the cloth. Between wears, hang the waistcoat on a hanger rather than folding it, so the front keeps its line. Linen will relax and soften with wear, which is part of its character; a light press restores a crisp look for an event.
 
 **Q:** How long does it take, and do you ship worldwide?  
-**A:** Production is about four to six weeks from the point your measurements are confirmed, including the free test-garment stage, and we ship worldwide from Dubai by trackable courier. For a wedding or event, order at least 8 to 10 weeks ahead so there is comfortable time for the test garment and any adjustments. If your date is sooner, contact us before ordering and we will confirm whether the timeline works.
+**A:** Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final waistcoat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide. For a wedding or event, order as early as you can so there is comfortable time for the test garment and any adjustments. If your date is sooner, contact us before ordering and we will confirm whether the timeline works.
 
 ## Products
 

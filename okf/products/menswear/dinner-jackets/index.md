@@ -27,9 +27,6 @@ Try it on over a dress shirt, check the shoulders, the chest, and the jacket len
 We cut your dinner jacket
 Every adjustment is applied, then your jacket is cut on a canvas front with satin or self lapels, hand-finished buttonholes, and a full lining in your chosen color.
 
-It ships worldwide with tracking
-Your finished jacket ships from Dubai by trackable courier, about four to six weeks from measurement confirmation including the test-jacket stage. The test jacket is yours to keep.
-
 ## Questions & Answers
 
 **Q:** What is the difference between a dinner jacket and a tuxedo?  
