@@ -9,20 +9,22 @@ sources:
     resource: https://baronboutique.com/womens-skirt-measuring-guide/
     title: "Women’s Skirt Measuring Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-20
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T14:21:09Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: human:baron-boutique, at: 2026-09-20T13:04:15Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
 ---
 
 # Women’s Skirt Measuring Guide
 
 Step-by-step guide on how to measure for a woman's skirt. Learn to measure waist, hips, & skirt length with clear images & easy instructions.
+
+**Already know what you want?** Browse [women’s skirts](/womenswear/skirts-for-women/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Women’s Skirt Measuring Guide
 
@@ -167,6 +169,8 @@ Snug but not tight. The tape should sit flat against your body with just enough 
 ### What if my measurements are not perfect?
 
 That is exactly why we send a free test garment. Give us your best measurements, and we build a test version in a stand-in cloth to your numbers and ship it to you. You try it on, we adjust from there, and nothing is cut in your final fabric until the fit is confirmed.
+
+**Measurements taken?** Browse [women’s skirtss](/womenswear/skirts-for-women/), or [message us](/contact-baron/) with your numbers and any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how to measure for a dress, women's measurement guide, bust waist hip measurements, measure yourself for tailoring
 

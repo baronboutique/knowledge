@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-22T03:00:02Z }
 ---
 
 # Wedding Suits
@@ -32,7 +32,7 @@ Find your wedding look
 - Tuxedos for the Wedding: Black-tie, done properly. The [Women’s Tuxedo Suit](https://baronboutique.com/iconic-wool-tuxedo/), the [Bespoke Menswear-Inspired Tuxedo](https://baronboutique.com/mens-inspired-tuxedo/), and the soft…
 - Silk & Silk-Blend Suits: Luster for the occasion. The [Wool & Silk Blend Suit](https://baronboutique.com/boutique-tailored-silk-and-wool-suit/) and the iridescent [Dupioni Silk Blazer](https://baronboutique.com/womens-dupioni-silk-jacket/) in 21…
 - Mother of the Bride & Groom: Elegant, comfortable, unmistakably you. Pair the [Dupioni Silk Blazer](https://baronboutique.com/womens-dupioni-silk-jacket/) with tailored trousers, or choose the…
-- Prefer a Dress?: If a dress is the answer, the [Minimalist Sheath Wedding Dress](https://baronboutique.com/womens-pure-new-wool-sheath-dress/) and more live in the [Women’s Dresses](https://baronboutique.com/womenswear/dresses-for-women/) collectio…
+- Prefer a Dress?: If a dress is the answer, the [Minimalist Sheath Wedding Dress](https://baronboutique.com/womens-pure-new-wool-sheath-dress/) and more live in the…
 - Build the Whole Look: Coordinate a jacket, trousers, or a skirt in the same cloth. Browse [Women’s Suits & Blazers](https://baronboutique.com/womenswear/suits-blazers-for-women/) to complete the set.
 
 Choose the piece, cloth, and details

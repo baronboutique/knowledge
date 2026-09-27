@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/womens-silk-neck-scarf-head-shoulders-wrap/  
 **Type:** bespoke (made to order)  
 **Price:** USD 169.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Color:** Plum ColNo-245. 61 options: Algae ColNo-95, Aquamarine ColNo-91, Aubergine ColNo-41, Baby Pink ColNo-18L, Basil ColNo-152, Black, Blue ColNo-50, Blue Teal ColNo-187, Brown Sugar ColNo-177, Butterscotch ColNo-165, Carrot ColNo-61, Carrot Orange ColNo-144, Celeste ColNo-71L, Chartreuse ColNo-7, Dark Burgundy ColNo-406, Dark Fuchsia ColNo-100D, Dark Olive ColNo-405, Deep Navy ColNo-266, Deep Purple ColNo-323, Eucalyptus ColNo-11D, Forest Green ColNo-17D, Fuchsia ColNo-98, Garnet ColNo-242D, Ginger ColNo-76, Green Teal ColNo-395, Henna ColNo-169, Hot Pink ColNo-22, Hunter Green ColNo-13, Light Purple ColNo-31, Light Silver ColNo-32L, Lilac ColNo-28, Navy ColNo-70D, Off White, Olive ColNo-168, Orange Brick ColNo-403, Pastel Green ColNo-8, Pastel Pink ColNo-19, Patina Green ColNo-16, Persian Blue ColNo-53, Persian Pink ColNo-44, Petrol Blue ColNo-90L, Pink ColNo-201, Pistachio ColNo-161, Plum ColNo-245, Pumpkin ColNo-78, Purple ColNo-31D, Raspberry ColNo-195, Red ColNo-24, Rhino ColNo-36, Royal Pink ColNo-203, Rustic Brick ColNo-180D, Sacramento ColNo-174, Scarlet ColNo-242, Silver ColNo-34, Slate Blue ColNo-69, Turquoise ColNo-72, Tyrian Deep Purple ColNo-47D, Tyrian Purple ColNo-47, Vibrant Orange ColNo-62D, Wheat ColNo-73, Yellow ColNo-5
+- **Color:** Plum ColNo-245. Total 61 options available: Algae ColNo-95, Aquamarine ColNo-91, Aubergine ColNo-41, Baby Pink ColNo-18L, Basil ColNo-152, Black, Blue ColNo-50, Blue Teal ColNo-187, Brown Sugar ColNo-177, Butterscotch ColNo-165, Carrot ColNo-61, Carrot Orange ColNo-144, Celeste ColNo-71L, Chartreuse ColNo-7, Dark Burgundy ColNo-406, Dark Fuchsia ColNo-100D, Dark Olive ColNo-405, Deep Navy ColNo-266, Deep Purple ColNo-323, Eucalyptus ColNo-11D, Forest Green ColNo-17D, Fuchsia ColNo-98, Garnet ColNo-242D, Ginger ColNo-76, Green Teal ColNo-395, Henna ColNo-169, Hot Pink ColNo-22, Hunter Green ColNo-13, Light Purple ColNo-31, Light Silver ColNo-32L, Lilac ColNo-28, Navy ColNo-70D, Off White, Olive ColNo-168, Orange Brick ColNo-403, Pastel Green ColNo-8, Pastel Pink ColNo-19, Patina Green ColNo-16, Persian Blue ColNo-53, Persian Pink ColNo-44, Petrol Blue ColNo-90L, Pink ColNo-201, Pistachio ColNo-161, Plum ColNo-245, Pumpkin ColNo-78, Purple ColNo-31D, Raspberry ColNo-195, Red ColNo-24, Rhino ColNo-36, Royal Pink ColNo-203, Rustic Brick ColNo-180D, Sacramento ColNo-174, Scarlet ColNo-242, Silver ColNo-34, Slate Blue ColNo-69, Turquoise ColNo-72, Tyrian Deep Purple ColNo-47D, Tyrian Purple ColNo-47, Vibrant Orange ColNo-62D, Wheat ColNo-73, Yellow ColNo-5
 
 ## Short Description
 

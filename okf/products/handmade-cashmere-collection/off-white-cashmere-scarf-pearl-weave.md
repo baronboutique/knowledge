@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Off-White Cashmere Scarf – Hand-Finished in Pearl Weave
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/off-white-cashmere-scarf-pearl-weave/  
 **Type:** cashmere (made to order)  
 **Price:** USD 299 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Pattern | Design:** Pearl Weave. 1 options: Pearl Weave
+- **Pattern | Design:** Pearl Weave. Total 1 options available: Pearl Weave
 
 ## Short Description
 

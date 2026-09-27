@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/slim-fit-blue-velvet-jacket/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/slim-fit-blue-velvet-jacket/  
 **Type:** bespoke (made to order)  
 **Price:** USD 519.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Blue Velvet. 11 options: Black Velvet, Black Velvet Crushed, Blue Velvet, Burgundy Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Velvet, Red Velvet, Wine Velvet
-- **Lining:** Navy Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Velvet:** Blue Velvet. Total 11 options available: Black Velvet, Black Velvet Crushed, Blue Velvet, Burgundy Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Velvet, Red Velvet, Wine Velvet
+- **Lining Fabric:** Navy Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -131,15 +130,15 @@ We update your pattern with every adjustment. The test jacket is yours to keep. 
 
 ### We Cut and Finish Your Velvet Jacket
 
-Your velvet, cut to your corrected pattern. Canvas front. Hand-stitched armholes and shoulder pads. Hand-finished buttonholes. Fabric-covered buttons stitched and reinforced by hand. Typical production time is 4 to 6 weeks.
+Your velvet, cut to your corrected pattern. Canvas front. Hand-stitched armholes and shoulder pads. Hand-finished buttonholes. Fabric-covered buttons stitched and reinforced by hand. Your final jacket takes 3 to 4 weeks to make once you confirm the fit.
 
 6
 
 ### Trackable Worldwide Shipping
 
-Your finished jacket ships via a trackable courier. Delivery is typically 3 to 7 business days once complete. We ship worldwide.
+Your finished jacket ships via a trackable courier. Delivery is 5 to 10 days after dispatch. We ship worldwide.
 
-**Starting price:** $519 **Production time:** 4 to 6 weeks total **Care:** Dry clean only
+**Starting price:** $519 **Production time:** 3 to 4 weeks for the test jacket, 3 to 4 weeks for the final jacket **Care:** Dry clean only
 
 ## Baron vs. Off the Rack
 
@@ -200,7 +199,7 @@ Yes – we offer velvet trousers separately. If you want a matching full velvet 
 
 ### How long does the whole process take?
 
-Plan on 6 to 8 weeks from order to finished jacket in your hands. The test jacket takes 2 to 3 weeks to build and ship. Once you confirm the fit, the final jacket takes 4 to 6 weeks in production. If you have a fixed date – a wedding, a holiday event, a gala – tell us when you order and we will confirm whether we can meet your deadline.
+Your test jacket takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final jacket takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a fixed date – a wedding, a holiday event, a gala – tell us when you order and we will confirm whether we can meet your deadline.
 
 ## Customer Reviews
 

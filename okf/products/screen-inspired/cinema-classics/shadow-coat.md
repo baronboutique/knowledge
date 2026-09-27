@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Shadow Coat Costume from Alec Baldwin's "The Shadow"
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/shadow-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 1379 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,9 +32,9 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Gabardine Wool Fabric:** Black Gabardine Wool. 11 options: Black Gabardine Wool, Burgundy Gabardine Wool, Dark Brown Gabardine Wool, Dark Grey Gabardine Wool, Grey Gabardine Wool, Khaki Gabardine Wool, Navy Blue Gabardine Wool, Olive Gabardine Wool, Purple Gabardine Wool, Red Gabardine Wool, Stone Gabardine Wool
-- **Lining Fabric:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
-- **Satin Silk Fabric:** Red-ColNo-24. 20 options: Aqua Green-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Blood Red-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Yellow-ColNo-5
+- **Gabardine Wool Fabric:** Black Gabardine Wool. Total 11 options available: Black Gabardine Wool, Burgundy Gabardine Wool, Dark Brown Gabardine Wool, Dark Grey Gabardine Wool, Grey Gabardine Wool, Khaki Gabardine Wool, Navy Blue Gabardine Wool, Olive Gabardine Wool, Purple Gabardine Wool, Red Gabardine Wool, Stone Gabardine Wool
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Satin Silk Fabric:** Red-ColNo-24. Total 20 options available: Aqua Green-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Blood Red-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Yellow-ColNo-5
 
 ## Short Description
 

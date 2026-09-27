@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-navy-herringbone-wool-tuxedo/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/mens-navy-herringbone-wool-tuxedo/  
 **Type:** bespoke (made to order)  
 **Price:** USD 799.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 8301-10-Navy-Blue-Herringbone. 9 options: 8301-1-Gray-Herringbone, 8301-10-Navy-Blue-Herringbone, 8301-11-Midnight-Blue-Herringbone, 8301-2-Dark-Gray-Herringbone, 8301-3-Charcoal-Herringbone, 8301-5-Black-Herringbone, 8301-6-Med-Gray-Herringbone, 8301-8-Dusky-Blue-Herringbone, 8301-9-Petrol-Blue-Herringbone
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **8301 Herringbone Fabric:** 8301-10-Navy-Blue-Herringbone. Total 9 options available: 8301-1-Gray-Herringbone, 8301-10-Navy-Blue-Herringbone, 8301-11-Midnight-Blue-Herringbone, 8301-2-Dark-Gray-Herringbone, 8301-3-Charcoal-Herringbone, 8301-5-Black-Herringbone, 8301-6-Med-Gray-Herringbone, 8301-8-Dusky-Blue-Herringbone, 8301-9-Petrol-Blue-Herringbone
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -145,7 +144,7 @@ A 100% linen frock coat in 18 colors — canvas front, horn buttons, princess se
 **We answer if anything needs attention**  
  We are reachable by email and we reply. Our customers come back because the fit is right and we answer emails. Every garment is made by a tailor whose name we know.
 
-**Starting price:** $799 **Production time:** 6 to 8 weeks total **Care:** Dry clean only
+**Starting price:** $799 **Production time:** 3 to 4 weeks for the test suit, 3 to 4 weeks for the final tuxedo **Care:** Dry clean only
 
 ---
 
@@ -232,7 +231,7 @@ Nine herringbone wool colors: Navy Blue (default), Gray, Midnight Blue, Dark Gra
 
 ### How long does the whole process take?
 
-Plan on 6 to 8 weeks from order to final tuxedo in your hands. The test suit takes 3 to 4 weeks to build and ship. Once you confirm the fit, the final tuxedo takes 3 to 4 weeks in production. If you have a specific wedding date, tell us when you order and we will confirm honestly whether we can meet it. Order as early as possible for a milestone garment.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final tuxedo takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a specific wedding date, tell us when you order and we will confirm honestly whether we can meet it. Order as early as possible for a milestone garment.
 
 ### Do you ship internationally?
 

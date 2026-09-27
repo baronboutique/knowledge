@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/black-dupioni-silk-suit-3-roll-2/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-06
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # The Black Dupioni Silk Suit for Men - 3 Button Roll to 2
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/black-dupioni-silk-suit-3-roll-2/  
 **Type:** bespoke (made to order)  
 **Price:** USD 699 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Dupioni Silk. 22 options: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
-- **Lining:** Aubergine Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Dupioni Silk Fabric:** Black Dupioni Silk. Total 22 options available: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
+- **Lining Fabric:** Aubergine Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -63,12 +62,12 @@ Silk with zero stretch and zero give is exactly why fit must be confirmed before
 
 ### What the Test Suit Process Looks Like
 
-You enter your measurements on the product page. We cut a full test suit in cotton to those exact measurements — jacket, trousers, same 3-roll-2 construction — and ship it to you within 3 to 4 weeks. You try it on. You check the shoulder width, the chest break point where the lapel rolls, the trouser seat and break at the shoe. You send us photos and notes. We make every correction you ask for. Then we cut the black dupioni silk to those confirmed measurements. The final suit ships 3 to 4 weeks after you approve the fit. Total timeline from order to final delivery: 6 to 8 weeks. Allow the full 8 weeks if you have a fixed event date.
+You enter your measurements on the product page. We cut a full test suit in cotton to those exact measurements — jacket, trousers, same 3-roll-2 construction — and make it in 3 to 4 weeks, then it reaches you 5 to 10 days after dispatch. You try it on. You check the shoulder width, the chest break point where the lapel rolls, the trouser seat and break at the shoe. You send us photos and notes. We make every correction you ask for. Then we cut the black dupioni silk to those confirmed measurements. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a fixed event date, tell us when you order.
 
 The test suit costs you nothing extra. It is included in the $699 price.
 
 **Test suit material:** Cotton  
- **Timeline:** 3 to 4 weeks to your door  
+ **Timeline:** 3 to 4 weeks to make, then 5 to 10 days to your door after dispatch  
  **Cost:** Complimentary, no extra charge  
  **After delivery:** The test suit is yours to keep
 
@@ -211,7 +210,7 @@ Select your dupioni silk color and acetate lining at checkout. Enter your measur
 
 ### Receive and Try On Your Free Test Suit
 
-We cut a full cotton test suit to your measurements — jacket and trousers, 3-roll-2 construction — and ship it within 3 to 4 weeks via trackable courier. Try it on. Check the shoulder, the chest, the lapel break point, the trouser seat and break. Send us photos and written notes with any adjustments.
+We cut a full cotton test suit to your measurements — jacket and trousers, 3-roll-2 construction — and make it in 3 to 4 weeks, then ship it by trackable courier to arrive 5 to 10 days after dispatch. Try it on. Check the shoulder, the chest, the lapel break point, the trouser seat and break. Send us photos and written notes with any adjustments.
 
 3
 
@@ -223,7 +222,7 @@ Once you approve the fit — or once we have applied your requested adjustments 
 
 ### Your Final Suit Ships
 
-The finished black dupioni silk suit ships within 3 to 4 weeks of fit approval, via trackable courier, ships worldwide. The test suit stays with you. Total time from order to final delivery: 6 to 8 weeks. Allow the full 8 weeks if you have a fixed event date.
+Once you confirm the fit, your finished black dupioni silk suit takes 3 to 4 weeks to make and ships worldwide by trackable courier, arriving 5 to 10 days after dispatch. The test suit stays with you. If you have a fixed event date, tell us when you order.
 
 ---
 
@@ -322,7 +321,7 @@ Dupioni is one of the more wrinkle-resistant silks because of its structured, me
 
 ### How long does the entire process take, from ordering to receiving the final suit?
 
-The total production time is 6 to 8 weeks from order to final delivery. The free test suit takes 3 to 4 weeks to reach you. Once you approve the fit and we apply any adjustments, the final black dupioni silk suit takes a further 3 to 4 weeks. If you have a fixed event date, allow the full 8 weeks to ensure there is time for any fit refinement without rushing the final garment.
+Your free test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you approve the fit and we apply any adjustments, your final black dupioni silk suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a fixed event date, tell us when you order so there is time for any fit refinement without rushing the final garment.
 
 ### What if the final suit still doesn’t fit after the test suit process?
 

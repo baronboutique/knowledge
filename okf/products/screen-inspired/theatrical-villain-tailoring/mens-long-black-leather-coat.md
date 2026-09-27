@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-long-black-leather-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-11
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 **URL:** https://baronboutique.com/mens-long-black-leather-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 899.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Leather:** Cow Nappa Black. 3 options: Black Lambskin, Cow Nappa Black, Dark Brown Lambskin
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Leather:** Cow Nappa Black. Total 3 options available: Black Lambskin, Cow Nappa Black, Dark Brown Lambskin
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -119,7 +118,7 @@ How It Works
 
 **Shipped to your door by trackable courier.** Both the test coat and the final leather coat. The test coat is yours to keep. Dry clean the leather coat.
 
-**Production time:** 3-4 weeks after test coat approval **Ships:** Worldwide **Care:** Dry clean only
+**Production time:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final leather coat **Ships:** Worldwide **Care:** Dry clean only
 
 ---
 
@@ -204,7 +203,7 @@ Yes. Note your preferred coat length in the measurement section at checkout. The
 
 ### How long does production take?
 
-Allow 3-4 weeks from test coat approval to delivery of your final leather coat. This covers producing the test coat, shipping it to you, reviewing your feedback, and producing the final garment. Both ship worldwide by trackable courier.
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final leather coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship worldwide by trackable courier.
 
 ### Is this coat wearable day to day?
 

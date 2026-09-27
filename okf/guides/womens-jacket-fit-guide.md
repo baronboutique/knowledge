@@ -9,20 +9,22 @@ sources:
     resource: https://baronboutique.com/womens-jacket-fit-guide/
     title: "Jacket Fit Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-20
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T14:12:43Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: human:baron-boutique, at: 2026-09-20T13:38:21Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
 ---
 
 # Jacket Fit Guide
 
 Find your perfect fit—Slim, Standard, or Relaxed. Baron Boutique's womens guide helps you choose the best custom garment for your style.
+
+**Already know your fit?** Browse [women’s coats and jackets](/womenswear/coats-and-overcoats-for-women/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Women’s Jacket Fit Guide
 
@@ -139,6 +141,8 @@ Nothing final, and nothing costly, is cut until you have approved the fit on the
 ### What if my size changes later?
 
 The finished jacket is made with seam allowances, so a local tailor can take it in or let it out at the waist and sides within reason. The shoulders and armholes are cut precisely to you from the start, since those are the areas that cannot easily be changed, and we keep your measurements on record for any future pieces.
+
+**Chosen your fit?** Browse [women’s coats and jackets](/womenswear/coats-and-overcoats-for-women/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** women's blazer fit, how should a jacket fit a woman, tailored jacket sizing
 

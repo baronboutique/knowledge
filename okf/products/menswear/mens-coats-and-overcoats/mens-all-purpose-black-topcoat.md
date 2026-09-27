@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # All Purpose Black Wool Topcoat
@@ -25,15 +25,14 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/mens-all-purpose-black-topcoat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 639.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Melton Wool. 15 options: Aubergine Melton Wool, Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Purple Melton Wool, Teal Melton Wool, Turquoise Melton Wool
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
-- **Collar Trim Fabric:** Black Velvet. 15 options: Black Corduroy, Black Velvet, Blue Velvet, Brown Corduroy, Brown Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Corduroy, Navy Velvet, Oxblood Corduroy, Red Velvet, Same As Main Fabric, Tan Corduroy
+- **Melton Wool Fabric:** Black Melton Wool. Total 15 options available: Aubergine Melton Wool, Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Purple Melton Wool, Teal Melton Wool, Turquoise Melton Wool
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Collar Trim Fabric:** Black Velvet. Total 15 options available: Black Corduroy, Black Velvet, Blue Velvet, Brown Corduroy, Brown Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Corduroy, Navy Velvet, Oxblood Corduroy, Red Velvet, Same As Main Fabric, Tan Corduroy
 
 ## Short Description
 

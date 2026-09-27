@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-double-breasted-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # 6 Button Double Breasted Suit, Custom Made in Super 120s Wool
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/mens-double-breasted-suit/  
 **Type:** bespoke (made to order)  
 **Price:** USD 729 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Charcoal Worsted Wool (LSR1-9501-9). 8 options: Black Worsted Wool (LSR1-9501-10), Blue Worsted Wool (LSR1-9501-2), Charcoal Worsted Wool (LSR1-9501-9), Dark Brown Worsted Wool (LSR1-9501-0), Dark Grey Worsted Wool (LSR1-9501-8), Light Grey Worsted Wool (LSR1-9501-7), Lightest Brown Worsted Wool (LSR1-9501-1), Navy Worsted Wool (LSR1-9501-6)
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Worsted Wool Plain Fabric:** Charcoal Worsted Wool (LSR1-9501-9). Total 8 options available: Black Worsted Wool (LSR1-9501-10), Blue Worsted Wool (LSR1-9501-2), Charcoal Worsted Wool (LSR1-9501-9), Dark Brown Worsted Wool (LSR1-9501-0), Dark Grey Worsted Wool (LSR1-9501-8), Light Grey Worsted Wool (LSR1-9501-7), Lightest Brown Worsted Wool (LSR1-9501-1), Navy Worsted Wool (LSR1-9501-6)
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -216,7 +215,7 @@ Yes. The free customizer on the product page lets you add a ticket pocket to the
 
 ### How long does the full process take?
 
-Allow 6 to 9 weeks from order to final suit. The test suit takes 2 to 3 weeks to build and ship. Once you confirm fit, the final suit takes 4 to 6 weeks in production. If you have a specific event or deadline, tell us when you order and we will confirm whether the timeline is workable.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a specific event or deadline, tell us when you order and we will confirm whether the timeline is workable.
 
 ### Do you ship internationally?
 
@@ -246,7 +245,7 @@ Yes. Both the test suit and your final suit ship worldwide via trackable courier
 **A:** Yes. The free customizer on the product page lets you add a ticket pocket to the jacket, select extended lining if you have wool sensitivity, add suspender buttons to the trousers, and choose from three fit styles: slim, standard, and relaxed. All customizations are included at no extra charge.
 
 **Q:** How long does the full process take?  
-**A:** Allow 6 to 9 weeks from order to final suit. The test suit takes 2 to 3 weeks to build and ship. Once you confirm fit, the final suit takes 4 to 6 weeks in production. If you have a specific event or deadline, tell us when you order and we will confirm whether the timeline is workable.
+**A:** Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a specific event or deadline, tell us when you order and we will confirm whether the timeline is workable.
 
 **Q:** Do you ship internationally?  
 **A:** Yes. Both the test suit and your final suit ship worldwide via trackable courier. Delivery times vary by destination.

@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/2019-staircase-villain-burgundy-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-11
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-11T09:46:43Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit
@@ -26,7 +26,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 **URL:** https://baronboutique.com/2019-staircase-villain-burgundy-suit/  
 **Type:** bespoke (made to order)  
 **Price:** USD 839 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -34,9 +33,9 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Burgundy Red Melton Wool. 14 options: Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Purple Melton Wool, Teal Melton Wool, Turquoise Melton Wool
-- **Lining:** Maroon Satin. 25 options: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
-- **Vest Fabric:** Gold Yellow Melton Wool. 7 options: Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Gold Yellow Melton Wool, Navy Melton Wool, Purple Melton Wool
+- **Melton Wool Fabric:** Burgundy Red Melton Wool. Total 14 options available: Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Purple Melton Wool, Teal Melton Wool, Turquoise Melton Wool
+- **Lining Fabric:** Maroon Satin. Total 25 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
+- **Vest Fabric:** Gold Yellow Melton Wool. Total 7 options available: Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Gold Yellow Melton Wool, Navy Melton Wool, Purple Melton Wool
 
 ## Short Description
 
@@ -219,7 +218,7 @@ It is a classic two-button, single-breasted jacket layout, directly matching the
 
 ### How long does production and delivery take?
 
-The entire end-to-end bespoke journey—including crafting the initial test prototype, integrating your custom adjustments, and hand-tailoring the final three-piece wool suit—typically requires 4 to 6 weeks. We will explicitly confirm the current workshop scheduling timeline upon receiving your order. If you are preparing for a specific red carpet event or comic convention, please contact us ahead of time so we can provide an accurate schedule.
+The entire end-to-end bespoke journey—including crafting the initial test prototype, integrating your custom adjustments, and hand-tailoring the final three-piece wool suit—takes 3 to 4 weeks for the test prototype and 3 to 4 weeks for the final suit, and each arrives 5 to 10 days after dispatch. We will explicitly confirm the current workshop scheduling timeline upon receiving your order. If you are preparing for a specific red carpet event or comic convention, please contact us ahead of time so we can provide an accurate schedule.
 
 ### Do you ship these collector pieces internationally?
 

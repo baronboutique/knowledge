@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-navy-peacoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-13
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-13T12:47:16Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere
@@ -26,14 +26,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/mens-navy-peacoat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 599 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Navy Wool Cashmere. 6 options: Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
-- **Lining:** Navy Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Wool Cashmere Fabric:** Navy Wool Cashmere. Total 6 options available: Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
+- **Lining Fabric:** Navy Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -187,15 +186,15 @@ If anything needs adjusting, we update your pattern.
 
 We make your peacoat
 
-We cut and hand-finish your peacoat in 18-ounce wool-cashmere to the corrected pattern. Typical production time 4 to 6 weeks.
+We cut and hand-finish your peacoat in 18-ounce wool-cashmere to the corrected pattern. Your final peacoat takes 3 to 4 weeks to make once you confirm the fit.
 
 6
 
 Trackable worldwide shipping
 
-DHL, UPS or FedEx with full tracking. Usually 3 to 7 business days once your coat is finished.
+DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
-**Production time:** 4 to 6 weeks **Care:** Dry clean only
+**Production time:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat **Care:** Dry clean only
 
 ---
 
@@ -246,7 +245,7 @@ It is a dense 18-ounce blend of wool and cashmere. The wool gives it shape, weig
 
 ### How long does it take to make?
 
-Usually 4 to 6 weeks from the day your measurements are confirmed via the test coat. The test coat itself takes 2 to 3 weeks. So plan on 6 to 9 weeks total from order to final coat in your hands. If you have a deadline, contact us and we will tell you honestly whether we can meet it.
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final peacoat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a deadline, contact us and we will tell you honestly whether we can meet it.
 
 ### What if the test coat doesn’t fit perfectly?
 
@@ -258,7 +257,7 @@ Yes. The default cut is slim, but because every coat is made to your measurement
 
 ### Do you ship internationally?
 
-Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is usually 3 to 7 business days once your coat is finished.
+Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 ### How do I pay?
 
@@ -284,7 +283,7 @@ Dry clean only. With reasonable care, an 18-ounce wool-cashmere peacoat will hol
 **A:** It is a dense 18-ounce blend of wool and cashmere. The wool gives it shape, weight and durability. The cashmere gives it a softer hand and a quiet sheen. The fabric blocks wind and holds its silhouette through years of wear, unlike thinner department-store peacoats.
 
 **Q:** How long does it take to make?  
-**A:** Usually 4 to 6 weeks from the day your measurements are confirmed via the test coat. The test coat itself takes 2 to 3 weeks. So plan on 6 to 9 weeks total from order to final coat in your hands. If you have a deadline, contact us and we will tell you honestly whether we can meet it.
+**A:** Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final peacoat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a deadline, contact us and we will tell you honestly whether we can meet it.
 
 **Q:** What if the test coat doesn't fit perfectly?  
 **A:** That is exactly what the test coat is for. You try it on, send us pictures and your notes, and we adjust the pattern. There is no extra charge for fit corrections. We only cut the wool-cashmere after you have confirmed the fit on the cotton.
@@ -293,7 +292,7 @@ Dry clean only. With reasonable care, an 18-ounce wool-cashmere peacoat will hol
 **A:** Yes. The default cut is slim, but because every coat is made to your measurements, we can adjust the silhouette to a regular or fuller fit. Add a note at checkout and we will confirm before production.
 
 **Q:** Do you ship internationally?  
-**A:** Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is usually 3 to 7 business days once your coat is finished.
+**A:** Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 **Q:** How do I pay?  
 **A:** Secure checkout through PayPal. You can pay with your PayPal balance or with any major credit or debit card through PayPal's guest checkout, no PayPal account required.

@@ -9,20 +9,22 @@ sources:
     resource: https://baronboutique.com/womens-outwear-fit-guide/
     title: "Outwear Fit Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-20
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T14:15:31Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: human:baron-boutique, at: 2026-09-20T13:42:42Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
 ---
 
 # Outwear Fit Guide
 
 Find your perfect outwear fit—Slim, Standard, or Relaxed. Baron Boutique's guide helps you choose the best custom garment for you.
+
+**Already know your fit?** Browse [women’s outwear](/womenswear/coats-and-overcoats-for-women/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Women’s Outerwear Fit Guide
 
@@ -121,6 +123,8 @@ Coats carry generous seam allowances, so a local tailor can adjust the body with
 ### The whole custom process feels intimidating. What actually happens?
 
 It is simpler than it sounds. You choose the coat, cloth, and length and send your measurements; we make a free test garment and post it to you; you try it on over your layers and send notes and photos; we adjust and then cut and hand-tailor your final coat; and it ships to you with tracking. At no point are you committing to a finished coat you have not already seen fit on your body.
+
+**Chosen your fit?** Browse [women’s outwear](/womenswear/coats-and-overcoats-for-women/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** women's coat fit guide, how should a wool coat fit, coat sizing women
 

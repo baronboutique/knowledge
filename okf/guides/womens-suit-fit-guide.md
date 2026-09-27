@@ -9,20 +9,22 @@ sources:
     resource: https://baronboutique.com/womens-suit-fit-guide/
     title: "Suit Fit Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-20
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T14:18:46Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: human:baron-boutique, at: 2026-09-20T13:37:10Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
 ---
 
 # Suit Fit Guide
 
 Find your perfect fit—Slim, Standard, or Relaxed. Baron Boutique's womens guide helps you choose the best custom garment for your style.
+
+**Already know your fit?** Browse [women’s suit & blazer](/womenswear/suits-blazers-for-women/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Women’s Suit Fit Guide
 
@@ -141,6 +143,8 @@ The final suit is cut to the exact fit you signed off on the test garment, so su
 ### What if my weight changes before the event, or afterwards?
 
 Take your measurements as close to the event as you can, and if your size shifts before we cut the final cloth we simply adjust to your new numbers. For afterwards, the finished suit is made with seam allowances so a local tailor can take it in or let it out within reason, and we keep your measurements on record for any future pieces.
+
+**Chosen your fit?** Browse [women’s suit & blazer](/womenswear/suits-blazers-for-women/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how should a women's suit fit, ladies suit fit guide, blazer fit women
 

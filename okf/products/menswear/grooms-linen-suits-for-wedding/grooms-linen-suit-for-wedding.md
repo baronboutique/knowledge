@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/grooms-linen-suit-for-wedding/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-15
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Linen Wedding Suit for Grooms, Custom Made
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-16T03:00:03Z }
 **URL:** https://baronboutique.com/grooms-linen-suit-for-wedding/  
 **Type:** bespoke (made to order)  
 **Price:** USD 839.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Dark Blue Linen. 18 options: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
-- **Lining:** Navy Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Linen Fabric:** Dark Blue Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
+- **Lining Fabric:** Navy Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -259,7 +258,7 @@ Yes — the entire process is remote. You enter your measurements on the product
 
 ### How long does it take to receive a made-to-measure linen wedding suit?
 
-Production takes approximately four to six weeks from measurement confirmation, depending on current order volume. Delivery via trackable courier typically adds five to ten business days. For a wedding or event with a fixed date, contact us before ordering so we can confirm the timeline honestly. For destination weddings, we recommend ordering at least 12 weeks before the wedding date to allow time for the test suit process and final production.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship by trackable courier. For a wedding or event with a fixed date, contact us before ordering so we can confirm the timeline honestly. For destination weddings, we recommend ordering as early as you can to allow time for the test suit process and final production.
 
 ## Categories
 

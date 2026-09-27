@@ -9,20 +9,22 @@ sources:
     resource: https://baronboutique.com/mens-shirt-fit-guide/
     title: "Shirt Fit Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-20
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T14:18:19Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: human:baron-boutique, at: 2026-09-20T13:59:14Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
 ---
 
 # Shirt Fit Guide
 
 Find your perfect shirt fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for you.
+
+**Already know your fit?** Browse [men’s shirts](/menswear/shirts/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Shirt Fit Guide
 
@@ -149,6 +151,8 @@ That is the idea. We cut a clean, timeless shape rather than a trend, in good cl
 ### What if my weight or neck size changes later?
 
 We keep your measurements on record, so ordering another shirt that fits your new numbers is simple whenever you need it, and small changes can often be eased by a local tailor. Your fit is never locked to a size on a label.
+
+**Chosen your fit?** Browse [men’s shirts](/menswear/shirts/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how should a dress shirt fit, shirt collar size guide, men's shirt sizing
 

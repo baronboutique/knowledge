@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/2008-purple-trench-coat-gotham-villain/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-11
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-11T09:48:11Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # 2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired
@@ -26,7 +26,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 **URL:** https://baronboutique.com/2008-purple-trench-coat-gotham-villain/  
 **Type:** bespoke (made to order)  
 **Price:** USD 699.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -34,8 +33,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Purple Melton Wool. 15 options: Aubergine Melton Wool, Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Purple Melton Wool, Teal Melton Wool, Turquoise Melton Wool
-- **Lining:** Orange Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Melton Wool Fabric:** Purple Melton Wool. Total 15 options available: Aubergine Melton Wool, Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Purple Melton Wool, Teal Melton Wool, Turquoise Melton Wool
+- **Lining Fabric:** Orange Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -233,7 +232,7 @@ You input your dimensions directly on our product page when submitting your orde
 
 ### How many weeks should I allocate for production and delivery?
 
-The complete cycle from initial web checkout to the final tailored overcoat landing at your address requires roughly 6 to 8 weeks. The cotton sizing prototype takes approximately 3 to 4 weeks to build and ship out to you. Once you examine the fitment and approve your design changes, the permanent Melton wool coat proceeds through an intensive 3 to 4 week handcrafted tailoring loop. If you are preparing for a specific red carpet event or comic convention, please note your timeline so we can provide an accurate schedule.
+The cotton sizing prototype takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you examine the fitment and approve your design changes, the permanent Melton wool coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you are preparing for a specific red carpet event or comic convention, please note your timeline so we can provide an accurate schedule.
 
 ### Is this long coat appropriate to wear as an everyday winter statement piece?
 
@@ -241,7 +240,7 @@ Yes, and this versatility is a primary reason collectors invest in it. When orde
 
 ### Do you ship these investment-grade collector pieces internationally?
 
-Yes. Both the interim cotton testing garment and the final custom 2008 long overcoat ship worldwide using fully insured, trackable express courier services. Tracking numbers are updated instantly via email upon dispatch, ensuring global collectors can securely monitor their shipment’s transit progress, which typically takes between 4 to 9 business days depending on your destination city.
+Yes. Both the interim cotton testing garment and the final custom 2008 long overcoat ship worldwide using fully insured, trackable express courier services. Tracking numbers are updated instantly via email upon dispatch, ensuring global collectors can securely monitor their shipment’s transit progress, which is 5 to 10 days after dispatch.
 
 ## Customer Reviews
 

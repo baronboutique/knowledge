@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/destination-wedding-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-11
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Destination Wedding Suit with Cape, Custom Made in Fresco Wool
@@ -25,16 +25,15 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 **URL:** https://baronboutique.com/destination-wedding-suit/  
 **Type:** bespoke (made to order)  
 **Price:** USD 1499 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Cape Fabric:** Black Fresco Wool. 13 options: Beige Fresco Wool, Black Fresco Wool, Blue Fresco Wool, Charcoal Fresco Wool, Chocolate Brown Fresco Wool, Dark Grey Fresco Wool, Grey Fresco Wool, Light Grey Fresco Wool, Navy Blue Fresco Wool, Purple Fresco Wool, Red Fresco Wool, Tan Fresco Wool, White Fresco Wool
-- **Satin Silk Lining:** Black. 20 options: Aqua Green-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Blood Red-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Yellow-ColNo-5
-- **Tunic & Pants Fabric:** Black Fresco Wool. 13 options: Beige Fresco Wool, Black Fresco Wool, Blue Fresco Wool, Charcoal Fresco Wool, Chocolate Brown Fresco Wool, Dark Grey Fresco Wool, Grey Fresco Wool, Light Grey Fresco Wool, Navy Blue Fresco Wool, Purple Fresco Wool, Red Fresco Wool, Tan Fresco Wool, White Fresco Wool
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Cape Fabric:** Black Fresco Wool. Total 13 options available: Beige Fresco Wool, Black Fresco Wool, Blue Fresco Wool, Charcoal Fresco Wool, Chocolate Brown Fresco Wool, Dark Grey Fresco Wool, Grey Fresco Wool, Light Grey Fresco Wool, Navy Blue Fresco Wool, Purple Fresco Wool, Red Fresco Wool, Tan Fresco Wool, White Fresco Wool
+- **Satin Silk Lining:** Black. Total 20 options available: Aqua Green-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Blood Red-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Yellow-ColNo-5
+- **Tunic & Pants Fabric:** Black Fresco Wool. Total 13 options available: Beige Fresco Wool, Black Fresco Wool, Blue Fresco Wool, Charcoal Fresco Wool, Chocolate Brown Fresco Wool, Dark Grey Fresco Wool, Grey Fresco Wool, Light Grey Fresco Wool, Navy Blue Fresco Wool, Purple Fresco Wool, Red Fresco Wool, Tan Fresco Wool, White Fresco Wool
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -235,7 +234,7 @@ You enter your measurements on the product page when you order. We build a compl
 
 ### How long does the full process take?
 
-Allow 6 to 8 weeks from order to final suit in your hands. The test suit takes 3 to 4 weeks to build and ship. Once you confirm fit, the final suit takes 3 to 4 weeks in production. For a destination wedding, order as early as possible and tell us your date when you do. We will confirm whether the timeline is workable before you commit.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. For a destination wedding, order as early as possible and tell us your date when you do. We will confirm whether the timeline is workable before you commit.
 
 ### Can I order this in a color other than black?
 

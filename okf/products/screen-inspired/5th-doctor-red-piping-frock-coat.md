@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # 5th Doctor Cosplay Beige Frock Coat
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/5th-doctor-red-piping-frock-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 549 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Beige Tropical Wool. 14 options: Beige Tropical Wool, Black Tropical Wool (79000-7), Blue Tropical Wool (79000-11), Brown Tropical Wool (79000-21), Charcoal Grey Tropical Wool (79000-5), Dark Grey Tropical Wool (79000-6), Grey Tropical Wool (79000-13), Light Grey Tropical Wool (79000-1), Medium Grey Tropical Wool (79000-3), Melange Tropical Wool (79000-12), Navy Tropical Wool (79000-9), Oxford Blue Tropical Wool (79000-23), Tan Tropical Wool (79901-10), White Tropical Wool (79000-22)
-- **Lining:** Beige Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Tropical Wool Fabric:** Beige Tropical Wool. Total 14 options available: Beige Tropical Wool, Black Tropical Wool (79000-7), Blue Tropical Wool (79000-11), Brown Tropical Wool (79000-21), Charcoal Grey Tropical Wool (79000-5), Dark Grey Tropical Wool (79000-6), Grey Tropical Wool (79000-13), Light Grey Tropical Wool (79000-1), Medium Grey Tropical Wool (79000-3), Melange Tropical Wool (79000-12), Navy Tropical Wool (79000-9), Oxford Blue Tropical Wool (79000-23), Tan Tropical Wool (79901-10), White Tropical Wool (79000-22)
+- **Lining Fabric:** Beige Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

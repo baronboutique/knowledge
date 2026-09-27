@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Grey Pinstripe Suit
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/gray-pinstripe-suit/  
 **Type:** bespoke (made to order)  
 **Price:** USD 699 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Grey With Faint Blue Pinstripes - 907232. 13 options: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Black With Red Pinstripes - 907235, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Charcoal With Red Pinstripes - 907233, Charcoal With Red Stripes - 907236, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Grey With Faint Blue Pinstripes - 907232, Light Grey Bold Pink Stripes - 907301, Navy With Red Pinstripes - 907234, Off-White With Black Bold Stripes - 907300
-- **Lining:** Grey Satin. 35 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Merino Wool Stripes:** Grey With Faint Blue Pinstripes - 907232. Total 13 options available: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Black With Red Pinstripes - 907235, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Charcoal With Red Pinstripes - 907233, Charcoal With Red Stripes - 907236, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Grey With Faint Blue Pinstripes - 907232, Light Grey Bold Pink Stripes - 907301, Navy With Red Pinstripes - 907234, Off-White With Black Bold Stripes - 907300
+- **Lining Fabric:** Grey Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

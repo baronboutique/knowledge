@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Mens Satin Silk Neckties Solid Color Handmade
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/mens-silk-neckties-solid-color-handmade/  
 **Type:** bespoke (made to order)  
 **Price:** USD 119.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Satin Silk Color:** Emerald-ColNo-395. 26 options: Aqua-ColNo-91, Black, Blood Red-ColNo-242, Brown-Col-No-126, Coral-ColNo-81, Cream-ColNo-136, Dark Silver-ColNo-35, Emerald-ColNo-395, Gold-ColNo-197, Green-ColNo-11D, Hot Pink-ColNo-22, Lavender-ColNo-43L, Lilac-ColNo-29, Magenta-ColNo-47D, Mustard-ColNo-142, Navy-ColNo-70D, Off-White, Olive-ColNo-169, Orange-ColNo-62, Pastel Pink-ColNo-19, Purple-ColNo-31D, Red-ColNo-24, Royal Blue-ColNo-53, Royal Purple-ColNo-245, Silver-ColNo-33, Yellow-ColNo-5
-- **Tie Width:** Standard. 3 options: Extra Large, Skinny, Standard
+- **Satin Silk Color:** Emerald-ColNo-395. Total 26 options available: Aqua-ColNo-91, Black, Blood Red-ColNo-242, Brown-Col-No-126, Coral-ColNo-81, Cream-ColNo-136, Dark Silver-ColNo-35, Emerald-ColNo-395, Gold-ColNo-197, Green-ColNo-11D, Hot Pink-ColNo-22, Lavender-ColNo-43L, Lilac-ColNo-29, Magenta-ColNo-47D, Mustard-ColNo-142, Navy-ColNo-70D, Off-White, Olive-ColNo-169, Orange-ColNo-62, Pastel Pink-ColNo-19, Purple-ColNo-31D, Red-ColNo-24, Royal Blue-ColNo-53, Royal Purple-ColNo-245, Silver-ColNo-33, Yellow-ColNo-5
+- **Tie Width:** Standard. Total 3 options available: Extra Large, Skinny, Standard
 
 ## Short Description
 

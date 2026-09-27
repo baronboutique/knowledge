@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/necktie-size-guide/
     title: "Necktie Size Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-21
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T17:59:44Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+  - { by: human:baron-boutique, at: 2026-09-21T06:09:26Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-22T03:00:02Z }
 ---
 
 Don't guess your tie size. Our complete guide explains how to choose the perfect tie width and length based on your body type and suit style.
@@ -198,7 +198,7 @@ All three are handmade in satin silk, in skinny, standard or extra large, with c
  [Two face silk neckties](https://baronboutique.com/two-face-silk-neckties-handmade/)  
  [Tie and pocket square set](https://baronboutique.com/mens-silk-tie-pocket-square-set/)
 
-Not sure which width suits the suit you already own? Send us the lapel measurement and we will tell you honestly, even if the answer is the tie you already have.
+Not sure which width suits the suit you already own? [Send us the lapel measurement](/contact-baron/) and we will tell you honestly, even if the answer is the tie you already have.
 
 **Related terms:** necktie length guide, tie size chart, how long should a tie be
 

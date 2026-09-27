@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/2button-linen-jacket/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/2button-linen-jacket/  
 **Type:** bespoke (made to order)  
 **Price:** USD 539 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Turquoise Linen. 18 options: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
+- **Linen Fabric:** Turquoise Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
 
 ## Short Description
 
@@ -217,7 +216,7 @@ No. All 18 colors are the same price. The herringbone natural costs the same as 
 
 ### Where do you ship, and how long does it take?
 
-We ship worldwide by trackable courier. Total production time depends on where the test jacket fitting falls. Once you confirm the fit and we complete your final jacket, courier delivery typically takes 5 to 10 business days depending on your location.
+We ship worldwide by trackable courier. Your test jacket takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final jacket takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 
 ### How do I take my measurements?
 

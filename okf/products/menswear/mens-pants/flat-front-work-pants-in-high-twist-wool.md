@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/flat-front-work-pants-in-high-twist-wool/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # High Twist Wool Work Pants
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/flat-front-work-pants-in-high-twist-wool/  
 **Type:** bespoke (made to order)  
 **Price:** USD 239 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 180100-8-Black. 13 options: 180100-3-Gray, 180100-4-Dark Gray, 180100-5-Charcoal, 180100-6B-Blue, 180100-7-Navy, 180100-8-Black, Beige, Black With Grey Stripes, Black With Self Stripes, Brown, Light Gray, Red, W1004-Tan
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **High Twist Wool Fabric:** 180100-8-Black. Total 13 options available: 180100-3-Gray, 180100-4-Dark Gray, 180100-5-Charcoal, 180100-6B-Blue, 180100-7-Navy, 180100-8-Black, Beige, Black With Grey Stripes, Black With Self Stripes, Brown, Light Gray, Red, W1004-Tan
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -92,7 +91,7 @@ The most expensive mistake in custom clothing is a structural error caught too l
 
 Your commission begins with a test trouser made in a matching mid-weight cloth, cut to your initial measurements. You try it on at home. Check the seat height, thigh room, rise, break length, and the hang of the leg. Tell us what needs adjusting. We refine the pattern before your high-twist wool is touched.
 
-The test trouser ships in 3 to 4 weeks. Your final trouser ships 3 to 4 weeks after you confirm the fit. The test trouser is yours to keep.
+Your test trouser takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final trouser takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The test trouser is yours to keep.
 
 ---
 
@@ -212,13 +211,13 @@ Provide your measurements through the on-page customizer. The sizing guide walks
 
 Receive Your Test Trouser
 
-Your test trouser ships in 3 to 4 weeks. Try it on. Check the seat, thigh, rise, and break length. Let us know what needs adjusting – we refine the pattern before your wool is cut.
+Your test trouser takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Try it on. Check the seat, thigh, rise, and break length. Let us know what needs adjusting – we refine the pattern before your wool is cut.
 
 04
 
 Receive Your Final Trouser
 
-Your high-twist wool trouser ships 3 to 4 weeks after you confirm the fit. It arrives fully finished – hemmed by hand, pressed, and ready to wear. The test trouser is yours to keep.
+Once you confirm the fit, your high-twist wool trouser takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. It arrives fully finished – hemmed by hand, pressed, and ready to wear. The test trouser is yours to keep.
 
 ---
 
@@ -259,7 +258,7 @@ High-twist wool is defined by how the yarn is made, not how the fabric is labele
 
 ### What is the free test trouser and how does the process work?
 
-Before we cut your high-twist wool, we make a test trouser in a matching mid-weight cloth cut to your initial measurements. You try it on at home and check the seat, rise, thigh room, and break length. If anything needs adjustment, you notify us and we refine the pattern before your wool is touched. The test trouser ships in 3 to 4 weeks from order. Your final trouser ships 3 to 4 weeks after you confirm the fit. The test trouser is yours to keep at no additional charge.
+Before we cut your high-twist wool, we make a test trouser in a matching mid-weight cloth cut to your initial measurements. You try it on at home and check the seat, rise, thigh room, and break length. If anything needs adjustment, you notify us and we refine the pattern before your wool is touched. Your test trouser takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final trouser takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The test trouser is yours to keep at no additional charge.
 
 ### What measurements do I need to provide and how do I take them?
 
@@ -275,7 +274,7 @@ High-twist wool in the Super 130s grade is one of the best year-round profession
 
 ### How long does the full order take from payment to final delivery?
 
-The test trouser ships in 3 to 4 weeks. After you confirm the fit, the final trouser ships in a further 3 to 4 weeks. Total time from order to final delivery is approximately 6 to 8 weeks. If you have a specific event or travel date, we recommend ordering at least 8 weeks in advance to allow comfortable time for any pattern adjustments.
+Your test trouser takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final trouser takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a specific event or travel date, we recommend ordering as early as you can to allow comfortable time for any pattern adjustments.
 
 ### Does Baron Boutique ship internationally?
 

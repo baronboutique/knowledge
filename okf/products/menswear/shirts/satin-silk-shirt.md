@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/satin-silk-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/satin-silk-shirt/  
 **Type:** bespoke (made to order)  
 **Price:** USD 269 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Off White. 20 options: Aqua Green-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Blood Red-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Yellow-ColNo-5
+- **Satin Silk Fabric:** Off White. Total 20 options available: Aqua Green-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Blood Red-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Yellow-ColNo-5
 
 ## Short Description
 
@@ -228,7 +227,7 @@ Dry clean only. Natural silk is a protein fiber that is sensitive to heat, harsh
 
 ### Where do you ship, and how long does delivery take?
 
-We ship worldwide by trackable courier. We recommend ordering at least 6 to 8 weeks before your event — this allows time for the test shirt to reach you, for fit adjustments to be confirmed, and for your silk shirt to be made and shipped. If your timeline is tighter, contact us before placing your order and we will confirm what is possible.
+We ship worldwide by trackable courier. We recommend ordering as early as you can before your event — this allows time for the test shirt to reach you, for fit adjustments to be confirmed, and for your silk shirt to be made and shipped. If your timeline is tighter, contact us before placing your order and we will confirm what is possible.
 
 ## Categories
 

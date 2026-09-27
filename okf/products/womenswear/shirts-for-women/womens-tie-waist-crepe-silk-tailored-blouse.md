@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # The Crepe Silk Shirt Dress
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/womens-tie-waist-crepe-silk-tailored-blouse/  
 **Type:** bespoke (made to order)  
 **Price:** USD 299 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Crepe Silk. 16 options: Aqua Crepe Silk, Beetroot Crepe Silk, Black Crepe Silk, Buttercup Crepe Silk, Dark Blue Crepe Silk, Dark Grey Crepe Silk, Lavender Crepe Silk, Light Grey Crepe Silk, Lime Crepe Silk, Mandarin Red Crepe Silk, Orange Crepe Silk, Red Crepe Silk, Rose Crepe Silk, Royal Blue Crepe Silk, Sage Crepe Silk, White Crepe Silk
+- **Crepe Silk Fabric:** Black Crepe Silk. Total 16 options available: Aqua Crepe Silk, Beetroot Crepe Silk, Black Crepe Silk, Buttercup Crepe Silk, Dark Blue Crepe Silk, Dark Grey Crepe Silk, Lavender Crepe Silk, Light Grey Crepe Silk, Lime Crepe Silk, Mandarin Red Crepe Silk, Orange Crepe Silk, Red Crepe Silk, Rose Crepe Silk, Royal Blue Crepe Silk, Sage Crepe Silk, White Crepe Silk
 
 ## Short Description
 

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/the-matrix-revolutions-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-11
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Keanu Reeves Trench Coat The Matrix Revolutions
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 **URL:** https://baronboutique.com/the-matrix-revolutions-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 769.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Worsted Wool (LSR1-9501-10). 8 options: Black Worsted Wool (LSR1-9501-10), Blue Worsted Wool (LSR1-9501-2), Charcoal Worsted Wool (LSR1-9501-9), Dark Brown Worsted Wool (LSR1-9501-0), Dark Grey Worsted Wool (LSR1-9501-8), Light Grey Worsted Wool (LSR1-9501-7), Lightest Brown Worsted Wool (LSR1-9501-1), Navy Worsted Wool (LSR1-9501-6)
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Worsted Wool Plain Fabric:** Black Worsted Wool (LSR1-9501-10). Total 8 options available: Black Worsted Wool (LSR1-9501-10), Blue Worsted Wool (LSR1-9501-2), Charcoal Worsted Wool (LSR1-9501-9), Dark Brown Worsted Wool (LSR1-9501-0), Dark Grey Worsted Wool (LSR1-9501-8), Light Grey Worsted Wool (LSR1-9501-7), Lightest Brown Worsted Wool (LSR1-9501-1), Navy Worsted Wool (LSR1-9501-6)
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -81,7 +80,7 @@ Dry-clean.
 
 **Q.** Hello, Baron! I’ve had my eyes on your Neo Revolutions coat. I wanted your opinion on how long it might take for it to arrive at my doorstep after I ordered it?
 
-**A.** Our lead time is 16 to 18 business days including shipping for the test Revolutions coat. 18 to 21 business days including shipping for the final Neo Revolutions coat.
+**A.** Your test Revolutions coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final Neo Revolutions coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 
 **Q.** How long is the coat length for your page model here, and what would look screen accurate for someone 6ft tall?
 

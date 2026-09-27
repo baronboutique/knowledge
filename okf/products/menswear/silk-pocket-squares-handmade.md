@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Hand Finished Silk Pocket Squares
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/silk-pocket-squares-handmade/  
 **Type:** bespoke (made to order)  
 **Price:** USD 65.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Satin Silk Color:** Purple-ColNo-31D. 27 options: Aqua-ColNo-91, Black, Blood Red-ColNo-242, Brown-Col-No-126, Coral-ColNo-81, Cream-ColNo-136, Dark Silver-ColNo-35, Emerald-ColNo-395, Gold-ColNo-197, Green-ColNo-11D, Hot Pink-ColNo-22, Lavender-ColNo-43L, Lilac-ColNo-29, Magenta-ColNo-47D, Mustard-ColNo-142, Navy-ColNo-70D, Off-White, Olive-ColNo-169, Orange-ColNo-62, Pastel Pink-ColNo-19, Purple-ColNo-31D, Red-ColNo-24, Royal Blue-ColNo-53, Royal Purple-ColNo-245, Sea Green-ColNo-93, Silver-ColNo-33, Yellow-ColNo-5
-- **Pocket Square Dimension:** 12 inches². 6 options: 12 inches², 13 inches², 14 inches², 15 inches ², 16 inches ², 17 inches²
+- **Satin Silk Color:** Purple-ColNo-31D. Total 27 options available: Aqua-ColNo-91, Black, Blood Red-ColNo-242, Brown-Col-No-126, Coral-ColNo-81, Cream-ColNo-136, Dark Silver-ColNo-35, Emerald-ColNo-395, Gold-ColNo-197, Green-ColNo-11D, Hot Pink-ColNo-22, Lavender-ColNo-43L, Lilac-ColNo-29, Magenta-ColNo-47D, Mustard-ColNo-142, Navy-ColNo-70D, Off-White, Olive-ColNo-169, Orange-ColNo-62, Pastel Pink-ColNo-19, Purple-ColNo-31D, Red-ColNo-24, Royal Blue-ColNo-53, Royal Purple-ColNo-245, Sea Green-ColNo-93, Silver-ColNo-33, Yellow-ColNo-5
+- **Pocket Square Dimension:** 12 inches². Total 6 options available: 12 inches², 13 inches², 14 inches², 15 inches ², 16 inches ², 17 inches²
 
 ## Short Description
 

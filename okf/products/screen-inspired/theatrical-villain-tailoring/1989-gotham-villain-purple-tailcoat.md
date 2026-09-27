@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/1989-gotham-villain-purple-tailcoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-11
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-11T09:43:58Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # 1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired
@@ -26,7 +26,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 **URL:** https://baronboutique.com/1989-gotham-villain-purple-tailcoat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 699.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -157,15 +156,15 @@ Any corrections needed are made to your pattern at no extra cost. The cotton tai
 
 We cut the fabric
 
-Your real tailcoat is hand-tailored in purple wool to the corrected pattern. Canvas front, fabric-covered buttons, full purple satin lining. Typical production time 4 to 6 weeks.
+Your real tailcoat is hand-tailored in purple wool to the corrected pattern. Canvas front, fabric-covered buttons, full purple satin lining. Your final tailcoat takes 3 to 4 weeks to make once you confirm the fit.
 
 6
 
 Worldwide tracked shipping
 
-Shipped by DHL, UPS, or FedEx with full tracking. Usually 3 to 7 business days from the day your tailcoat leaves our workshop.
+Shipped by DHL, UPS, or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
-**Production time:** 4 to 6 weeks**Care:** Dry clean only **Free fit guarantee:** cotton test tailcoat included
+**Production time:** 3 to 4 weeks for the test tailcoat, 3 to 4 weeks for the final tailcoat**Care:** Dry clean only **Free fit guarantee:** cotton test tailcoat included
 
 ---
 
@@ -224,7 +223,7 @@ After your order we make a cotton version of your tailcoat to the measurements y
 
 ### How long does production take?
 
-Typically 4 to 6 weeks from the day your measurements are confirmed. The test tailcoat step adds a little time at the start, but prevents the far larger problem of a fit issue arriving with the finished garment.
+Your test tailcoat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final tailcoat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The test tailcoat step adds a little time at the start, but prevents the far larger problem of a fit issue arriving with the finished garment.
 
 ### Is this suitable for wearing on stage or at theatrical events?
 
@@ -232,7 +231,7 @@ Yes. The canvas front construction and hand-stitched details are built for repea
 
 ### Do you ship internationally?
 
-Yes. We ship worldwide by DHL, UPS, or FedEx with full tracking. Delivery is usually 3 to 7 business days once your tailcoat leaves our workshop.
+Yes. We ship worldwide by DHL, UPS, or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 ### How do I pay?
 
@@ -256,13 +255,13 @@ Secure checkout through PayPal. You can pay with your PayPal balance or with any
 **A:** After your order we make a cotton version of your tailcoat to the measurements you provided, and we ship it to you at no charge. Try it on at home. Check the shoulder line, the front cut, and how the tails fall. Send us your feedback. If anything needs adjusting, we update your pattern before cutting the real purple wool. The cotton test tailcoat is yours to keep. We do not ask for it back.
 
 **Q:** How long does production take?  
-**A:** Typically 4 to 6 weeks from the day your measurements are confirmed. The test tailcoat step adds a little time at the start, but prevents the far larger problem of a fit issue arriving with the finished garment.
+**A:** Your test tailcoat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final tailcoat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The test tailcoat step adds a little time at the start, but prevents the far larger problem of a fit issue arriving with the finished garment.
 
 **Q:** Is this suitable for wearing on stage or at theatrical events?  
 **A:** Yes. The canvas front construction and hand-stitched details are built for repeated wearing. The tailcoat silhouette commands space on a stage or event floor in a way that a straight jacket does not, and the wool holds its structure through movement. Dry clean after use.
 
 **Q:** Do you ship internationally?  
-**A:** Yes. We ship worldwide by DHL, UPS, or FedEx with full tracking. Delivery is usually 3 to 7 business days once your tailcoat leaves our workshop.
+**A:** Yes. We ship worldwide by DHL, UPS, or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 **Q:** How do I pay?  
 **A:** Secure checkout through PayPal. You can pay with your PayPal balance or with any major credit or debit card through PayPal's guest checkout. No PayPal account is required.

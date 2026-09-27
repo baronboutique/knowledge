@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/12th-doctor-grey-linen-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # 12th Grey Linen Coat, Capaldi Series 10
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/12th-doctor-grey-linen-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 679.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Grey ColNo 12. 18 options: Black ColNo 09, Blue ColNo 13, Brick ColNo 48, Brown ColNo 62, Charcoal ColNo 36, Dark Tan ColNo 43, Forest Green ColNo 73, Gold ColNo 88T, Grey ColNo 12, Light Blue ColNo 87T, Light Grey ColNo 63, Natural ColNo 70, Navy ColNo 23, Off-White ColNo 68, Olive Green ColNo 28, Persian Blue ColNo 79, Red ColNo 78, White ColNo 08
-- **Lining:** Black Satin. 35 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Slub Linen Fabric:** Grey ColNo 12. Total 18 options available: Black ColNo 09, Blue ColNo 13, Brick ColNo 48, Brown ColNo 62, Charcoal ColNo 36, Dark Tan ColNo 43, Forest Green ColNo 73, Gold ColNo 88T, Grey ColNo 12, Light Blue ColNo 87T, Light Grey ColNo 63, Natural ColNo 70, Navy ColNo 23, Off-White ColNo 68, Olive Green ColNo 28, Persian Blue ColNo 79, Red ColNo 78, White ColNo 08
+- **Lining Fabric:** Black Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -126,7 +125,7 @@ Follow our step-by-step guide. Under 10 minutes. No tailor required. Just a flex
 
 Receive your test coat
 
-We cut and send a full cotton test coat in 18-21 business days. Try it, photograph it, tell us what to adjust.
+We cut and make a full cotton test coat in 3 to 4 weeks, and it arrives 5 to 10 days after dispatch. Try it, photograph it, tell us what to adjust.
 
 3
 
@@ -138,7 +137,7 @@ We update the pattern based on your feedback. No charge. No questions. Until it 
 
 Receive the final coat
 
-The final linen coat arrives 18-21 business days after approval. Screen-accurate. Built to your body. Yours forever.
+The final linen coat takes 3 to 4 weeks to make after approval and arrives 5 to 10 days after dispatch. Screen-accurate. Built to your body. Yours forever.
 
 ---
 
@@ -206,7 +205,7 @@ Absolutely. Because the grey linen frock coat reads as a distinctive tailored co
 
 ### How long does the full order take?
 
-The test coat takes 18-21 business days to arrive. After you approve the fit, the final linen coat takes a further 18-21 business days. Total time from order to final coat is typically 6-8 weeks. If you have a convention or event deadline, contact us and we will do our best to accommodate it.
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final linen coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a convention or event deadline, contact us and we will do our best to accommodate it.
 
 ### Do I need to return the test coat?
 

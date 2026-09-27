@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/percival-graves-black-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-11
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Fantastic Beasts Percival Graves Black Coat
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 **URL:** https://baronboutique.com/percival-graves-black-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 689.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Tropical Wool (79000-7). 12 options: Beige Tropical Wool, Black Tropical Wool (79000-7), Blue Tropical Wool (79000-11), Brown Tropical Wool (79000-21), Charcoal Grey Tropical Wool (79000-5), Grey Tropical Wool (79000-13), Light Grey Tropical Wool (79000-1), Melange Tropical Wool (79000-12), Navy Tropical Wool (79000-9), Oxford Blue Tropical Wool (79000-23), Tan Tropical Wool (79901-10), White Tropical Wool (79000-22)
-- **Lining:** White Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Tropical Wool Fabric:** Black Tropical Wool (79000-7). Total 12 options available: Beige Tropical Wool, Black Tropical Wool (79000-7), Blue Tropical Wool (79000-11), Brown Tropical Wool (79000-21), Charcoal Grey Tropical Wool (79000-5), Grey Tropical Wool (79000-13), Light Grey Tropical Wool (79000-1), Melange Tropical Wool (79000-12), Navy Tropical Wool (79000-9), Oxford Blue Tropical Wool (79000-23), Tan Tropical Wool (79901-10), White Tropical Wool (79000-22)
+- **Lining Fabric:** White Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -118,7 +117,7 @@ How It Works
 
 **Shipped worldwide by trackable courier.** Both the test coat and the final coat ship to your door. You keep the test coat.
 
-**Production time:** 3-4 weeks after test coat approval **Ships:** Worldwide
+**Production time:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat **Ships:** Worldwide
 
 ---
 
@@ -194,7 +193,7 @@ Yes. You can specify your preferred coat length through the measurement section 
 
 ### How long does the process take?
 
-From order to delivery of the final coat, allow approximately 3-4 weeks. This includes production of the test coat, shipping it to you, any adjustments, and production of the final coat. We ship the test coat and final coat by trackable courier to any country.
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship the test coat and final coat by trackable courier to any country.
 
 ### Do you ship internationally?
 

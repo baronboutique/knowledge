@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/dryden-vos-costumes-solo/  
 **Type:** bespoke (made to order)  
 **Price:** USD 1249.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,10 +32,10 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Jacket and Cape Fabric:** 180100-8-Black. 10 options: 180100-3-Gray, 180100-4-Dark Gray, 180100-7-Navy, 180100-8-Black, Black With Grey Stripes, Black With Self Stripes, Chocolate Brown, Purple, Red, W1004-Tan
-- **Lining Fabric:** Black Satin. 25 options: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
-- **Pants Fabric:** Black With Self Stripes. 10 options: 180100-3-Gray, 180100-4-Dark Gray, 180100-7-Navy, 180100-8-Black, Black With Grey Stripes, Black With Self Stripes, Chocolate Brown, Purple, Red, W1004-Tan
-- **Crepe Silk Fabric:** White Crepe Silk. 16 options: Aqua Crepe Silk, Beetroot Crepe Silk, Black Crepe Silk, Buttercup Crepe Silk, Dark Blue Crepe Silk, Dark Grey Crepe Silk, Lavender Crepe Silk, Light Grey Crepe Silk, Lime Crepe Silk, Mandarin Red Crepe Silk, Orange Crepe Silk, Red Crepe Silk, Rose Crepe Silk, Royal Blue Crepe Silk, Sage Crepe Silk, White Crepe Silk
+- **Jacket and Cape Fabric:** 180100-8-Black. Total 10 options available: 180100-3-Gray, 180100-4-Dark Gray, 180100-7-Navy, 180100-8-Black, Black With Grey Stripes, Black With Self Stripes, Chocolate Brown, Purple, Red, W1004-Tan
+- **Lining Fabric:** Black Satin. Total 25 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
+- **Pants Fabric:** Black With Self Stripes. Total 10 options available: 180100-3-Gray, 180100-4-Dark Gray, 180100-7-Navy, 180100-8-Black, Black With Grey Stripes, Black With Self Stripes, Chocolate Brown, Purple, Red, W1004-Tan
+- **Crepe Silk Fabric:** White Crepe Silk. Total 16 options available: Aqua Crepe Silk, Beetroot Crepe Silk, Black Crepe Silk, Buttercup Crepe Silk, Dark Blue Crepe Silk, Dark Grey Crepe Silk, Lavender Crepe Silk, Light Grey Crepe Silk, Lime Crepe Silk, Mandarin Red Crepe Silk, Orange Crepe Silk, Red Crepe Silk, Rose Crepe Silk, Royal Blue Crepe Silk, Sage Crepe Silk, White Crepe Silk
 
 ## Short Description
 

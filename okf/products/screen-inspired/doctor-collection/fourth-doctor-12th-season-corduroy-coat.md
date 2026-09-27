@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # 4th Doctor Jacket Rust/Oxblood Corduroy Tom Baker Cosplay
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/fourth-doctor-12th-season-corduroy-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 449 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 4th Oxblood Corduroy Narrow Wale. 13 options: 4th Oxblood Corduroy Narrow Wale, Black Corduroy Narrow Wale, Black Corduroy Wide Wale, Brown Corduroy Narrow Wale, Green Corduroy Narrow Wale, Lilac Corduroy Narrow Wale, Mustard Corduroy Narrow Wale, Natural Corduroy Narrow Wale, Navy Corduroy Narrow Wale, Oxblood Corduroy Narrow Wale, Purple Corduroy Narrow Wale, Red Corduroy Narrow Wale, Tan Corduroy Narrow Wale
-- **Lining:** Blue Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Corduroy Fabric:** 4th Oxblood Corduroy Narrow Wale. Total 13 options available: 4th Oxblood Corduroy Narrow Wale, Black Corduroy Narrow Wale, Black Corduroy Wide Wale, Brown Corduroy Narrow Wale, Green Corduroy Narrow Wale, Lilac Corduroy Narrow Wale, Mustard Corduroy Narrow Wale, Natural Corduroy Narrow Wale, Navy Corduroy Narrow Wale, Oxblood Corduroy Narrow Wale, Purple Corduroy Narrow Wale, Red Corduroy Narrow Wale, Tan Corduroy Narrow Wale
+- **Lining Fabric:** Blue Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

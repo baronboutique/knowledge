@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/silver-dupioni-silk-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-31
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Silver Dupioni Silk Suit - Bespoke Single-Breasted Tailored Menswear
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/silver-dupioni-silk-suit/  
 **Type:** bespoke (made to order)  
 **Price:** USD 719.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Silver Dupioni Silk. 22 options: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Dupioni Silk Fabric:** Silver Dupioni Silk. Total 22 options available: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -249,9 +248,9 @@ Canvas front, hand-stitched armholes, hand-finished buttonholes, roped shoulders
 6
 
 **Worldwide delivery**  
-Ships via trackable courier worldwide. You receive tracking from dispatch. Allow the full 6 weeks when ordering for a specific event date.
+Ships via trackable courier worldwide. You receive tracking from dispatch. Delivery is 5 to 10 days after dispatch.
 
-**Total time:** 6 to 8 weeks **Payment:** PayPal (card accepted, no account needed) **Vest option:** Available at additional charge **Care:** Dry-clean only
+**Production time:** 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit **Payment:** PayPal (card accepted, no account needed) **Vest option:** Available at additional charge **Care:** Dry-clean only
 
 ---
 
@@ -318,7 +317,7 @@ Yes. Dupioni silk is a formal fabric. Silver is the most requested dupioni color
 
 How long does it take?
 
-6 to 8 weeks total from order to delivery, including the free test suit. The test suit typically takes 3 weeks. Construction takes 3 to 4 weeks once fit is confirmed. We ship worldwide via trackable courier and provide tracking from dispatch. If you have a firm event date, contact us before ordering and we will confirm whether the timeline is achievable.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. We ship worldwide via trackable courier and provide tracking from dispatch. If you have a firm event date, contact us before ordering and we will confirm whether the timeline is achievable.
 
 How do I care for a dupioni silk suit?
 

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-frock-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Western Frock Coat in Wool, Made to Measure
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/mens-frock-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 699 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** TC65003-Dark-Grey. 10 options: TC65001-Camel, TC650017-Burgundy, TC650018-Red, TC65002-Grey, TC650029-Chocolate Brown, TC65003-Dark-Grey, TC65004-Charcoal, TC650041-Light Grey, TC65005-Blue, TC65006-Black
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Flannel Wool Fabric:** TC65003-Dark-Grey. Total 10 options available: TC65001-Camel, TC650017-Burgundy, TC650018-Red, TC65002-Grey, TC650029-Chocolate Brown, TC65003-Dark-Grey, TC65004-Charcoal, TC650041-Light Grey, TC65005-Blue, TC65006-Black
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -244,7 +243,7 @@ Ten wool flannel colors are available: dark grey, charcoal, black, burgundy, cam
 
 ### How long does it take to receive a made-to-measure frock coat from Baron Boutique?
 
-Production takes approximately four to six weeks from measurement confirmation, depending on current order volume. Delivery via trackable courier typically adds four to nine business days. For a wedding or event with a fixed date, contact us before ordering so we can confirm the timeline honestly.
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final frock coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship by trackable courier. For a wedding or event with a fixed date, contact us before ordering so we can confirm the timeline honestly.
 
 ## Categories
 

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/smith-shetland-tweed-blazer-jacket/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Smith Shetland Tweed Blazer, W. Bill 100% Pure New Wool
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/smith-shetland-tweed-blazer-jacket/  
 **Type:** bespoke (made to order)  
 **Price:** USD 1089.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,7 +32,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Off-the-rack tweed blazers come in three sizes, none of them yours, and most are not even real Shetland wool. We fix both. Every blazer on this page is hand-tailored to your measurements in genuine W. Bill Shetland tweed, the same heritage British cloth used for film and television wardrobes. Before we cut the wool, we send you a free cotton test jacket to try on at home. You confirm the fit, we adjust if needed, then we make your blazer. Hand-finished by skilled tailors. Worldwide tracked shipping. Typical production time 3 to 4 weeks per stage.
+Off-the-rack tweed blazers come in three sizes, none of them yours, and most are not even real Shetland wool. We fix both. Every blazer on this page is hand-tailored to your measurements in genuine W. Bill Shetland tweed, the same heritage British cloth used for film and television wardrobes. Before we cut the wool, we send you a free cotton test jacket to try on at home. You confirm the fit, we adjust if needed, then we make your blazer. Hand-finished by skilled tailors. Worldwide tracked shipping. Typical production time 3 to 4 weeks for the test blazer and 3 to 4 weeks for the final blazer.
 
 Made to Your Measurements
 
@@ -159,15 +158,15 @@ If anything needs adjusting, we update your pattern at no extra cost. The cotton
 
 We cut the Shetland tweed
 
-We cut and hand-finish your real W. Bill Shetland blazer to the corrected pattern. Typical production time 3 to 4 weeks per stage.
+We cut and hand-finish your real W. Bill Shetland blazer to the corrected pattern. Your final blazer takes 3 to 4 weeks to make once you confirm the fit.
 
 6
 
 Trackable worldwide shipping
 
-DHL, UPS or FedEx with full tracking. Usually 3 to 7 business days from the day your blazer leaves our workshop.
+DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
-**Production time:** 3 to 4 weeks per stage **Care:** Dry clean only **Free fit guarantee:** cotton test jacket included
+**Production time:** 3 to 4 weeks for the test blazer, 3 to 4 weeks for the final blazer **Care:** Dry clean only **Free fit guarantee:** cotton test jacket included
 
 ---
 
@@ -218,7 +217,7 @@ Smith wore it across his run in a long-running British science-fiction televisio
 
 ### How long does the blazer take to make?
 
-Usually 3 to 4 weeks per stage from the day your measurements are confirmed. The cotton test jacket step adds a little time at the start, but prevents the much bigger delay (and disappointment) of a fit problem at the end.
+Usually, 3 to 4 weeks for the test blazer and additional 3 to 4 weeks for the final blazer. The cotton test jacket step adds a little time at the start, but prevents the much bigger delay (and disappointment) of a fit problem at the end.
 
 ### What if the fit is not right when it arrives?
 
@@ -230,7 +229,7 @@ Yes. The default jacket is true to the on-screen original (elbow patches, notch 
 
 ### Do you ship internationally?
 
-Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is usually 3 to 7 business days once your blazer leaves our workshop.
+Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 ### How do I pay?
 
@@ -252,7 +251,7 @@ Absolutely. Real W. Bill Shetland tweed reads as a heritage sport coat first and
 **A:** 100% pure new wool. The cloth is W. Bill Shetland tweed by Harrisons of Edinburgh, woven in Britain, 390gsm. No polyester. No acrylic. No "tweed-look" blend. The lining is acetate.
 
 **Q:** How long does the blazer take to make?  
-**A:** Usually [time-per-stage] from the day your measurements are confirmed. The cotton test jacket step adds a little time at the start, but prevents the much bigger delay (and disappointment) of a fit problem at the end.
+**A:** Usually, 3 to 4 weeks for the test blazer and additional 3 to 4 weeks for the final blazer. The cotton test jacket step adds a little time at the start, but prevents the much bigger delay (and disappointment) of a fit problem at the end.
 
 **Q:** What if the fit is not right when it arrives?  
 **A:** That is exactly what the test jacket is for. We send you a free cotton version of your blazer first, and we only cut the Shetland tweed after you have confirmed the fit. If the test jacket needs adjusting, we adjust the pattern and make the real blazer to the corrected fit.
@@ -261,7 +260,7 @@ Absolutely. Real W. Bill Shetland tweed reads as a heritage sport coat first and
 **A:** Yes. The default jacket is true to the on-screen original (elbow patches, notch lapel, three-button closure, single back vent), but we will build it any way you prefer. Add your customizations to the order notes at checkout and we will confirm before production.
 
 **Q:** Do you ship internationally?  
-**A:** Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is usually 3 to 7 business days once your blazer leaves our workshop.
+**A:** Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 **Q:** How do I pay?  
 **A:** Secure checkout through PayPal. You can pay with your PayPal balance or with any major credit or debit card through PayPal's guest checkout. No PayPal account required.

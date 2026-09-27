@@ -9,20 +9,22 @@ sources:
     resource: https://baronboutique.com/mens-suit-fit-guide/
     title: "Suit Fit Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-20
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T14:18:57Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: human:baron-boutique, at: 2026-09-20T13:53:37Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
 ---
 
 # Suit Fit Guide
 
 Find your perfect fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for your style.
+
+**Already know your fit?** Browse [men’s suits and blazers](/menswear/mens-suits-blazers/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Suit Fit Guide
 
@@ -153,6 +155,8 @@ The final suit is cut to the exact fit you approved on the test garment, so surp
 ### What if my weight changes over the years?
 
 Take your measurements as close to your order as you can, and if your size shifts before we cut the final cloth we simply work to your new numbers. For later on, the finished suit is made with seam allowances so a local tailor can take it in or let it out within reason, and we keep your measurements on record, so ordering another piece that fits is simple whenever you want one.
+
+**Chosen your fit?** Browse [men’s suits and blazers](/menswear/mens-suits-blazers/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how should a suit fit, men's suit fit types, suit fit chart, slim vs classic fit suit
 

@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Allan Quatermain Long Coat League of Extraordinary Gentlemen
@@ -25,15 +25,14 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/sean-connery-long-coat-from-league-of-extraordinary-gentlemen/  
 **Type:** bespoke (made to order)  
 **Price:** USD 599 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Brown Chino Twill Cotton. 15 options: Black Chino Twill Cotton, Blue Chino Twill Cotton, Brown Chino Twill Cotton, Burgundy Chino Twill Cotton, Green Chino Twill Cotton, Grey Chino Twill Cotton, Hunter Green Twill Cotton, Khaki Chino Twill Cotton, Light Grey Chino Twill Cotton, Navy Chino Twill Cotton, Olive Green Chino Twill Cotton, Purple Chino Twill Cotton, Red Chino Twill Cotton, Sky Blue Chino Twill Cotton, Tan Chino Twill Cotton
-- **Collar Trim Fabric:** Brown Velvet. 17 options: Black Corduroy, Black Leather, Black Velvet, Blue Velvet, Brown Corduroy, Brown Leather, Brown Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Corduroy, Navy Velvet, Oxblood Corduroy, Red Velvet, Same As Main Fabric, Tan Corduroy
-- **Lining:** Brown. 10 options: Black, Black Paisley, Brown, Burgundy Paisley, French Blue, Navy, Off White, Red, Tan, White
+- **Twill Cotton Chino:** Brown Chino Twill Cotton. Total 15 options available: Black Chino Twill Cotton, Blue Chino Twill Cotton, Brown Chino Twill Cotton, Burgundy Chino Twill Cotton, Green Chino Twill Cotton, Grey Chino Twill Cotton, Hunter Green Twill Cotton, Khaki Chino Twill Cotton, Light Grey Chino Twill Cotton, Navy Chino Twill Cotton, Olive Green Chino Twill Cotton, Purple Chino Twill Cotton, Red Chino Twill Cotton, Sky Blue Chino Twill Cotton, Tan Chino Twill Cotton
+- **Collar Trim Fabric:** Brown Velvet. Total 17 options available: Black Corduroy, Black Leather, Black Velvet, Blue Velvet, Brown Corduroy, Brown Leather, Brown Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Corduroy, Navy Velvet, Oxblood Corduroy, Red Velvet, Same As Main Fabric, Tan Corduroy
+- **Sleeves Lining:** Brown. Total 10 options available: Black, Black Paisley, Brown, Burgundy Paisley, French Blue, Navy, Off White, Red, Tan, White
 
 ## Short Description
 

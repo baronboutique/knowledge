@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/white-linen-suit-with-vest/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-12
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/white-linen-suit-with-vest/  
 **Type:** bespoke (made to order)  
 **Price:** USD 869.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** White Linen. 18 options: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
-- **Lining:** White Satin. 35 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Linen Fabric:** White Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
+- **Lining Fabric:** White Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -139,6 +138,7 @@ White Linen Suit Construction Detail
 
 | Fabric | 100% linen |
 | --- | --- |
+| Fabric weight | Suit-weight linen typically runs 200 to 280 gsm (about 6 to 8 oz per square yard) |
 | Colors available | 18: Black, Blue, Brown, Burgundy, Charcoal, Cornflower, Dark Blue, Grey, Herringbone Natural, Khaki, Lavender, Light Blue, Natural, Off White, Pink, Soft Tan, Turquoise, White |
 | Construction | Canvas front |
 | Buttons | Two-button, normal stance |
@@ -237,15 +237,19 @@ The vest is included. This is a true three-piece commission — jacket, vest, an
 
 ### Will linen wrinkle during a long event?
 
-Linen creases naturally — that is part of the fabric’s character. What matters is whether those creases look intentional or accidental. A white linen suit with vest cut to your measurements creases along the lines of your body, which reads as relaxed and natural. A suit that doesn’t fit creases unevenly and randomly, which reads as sloppy. The fit is what determines whether linen looks considered or careless.
+Yes. Linen creases naturally — that is part of the fabric’s character. What matters is whether those creases look intentional or accidental. Suit-weight linen, typically 200 to 280 gsm, is heavier than the 120 to 160 gsm used for shirts, and heavier linen tends to crease in larger, fewer folds. A well-fitted linen suit creases naturally along the lines of your body, giving it a relaxed and considered appearance.
+
+### Does the fit affect how much a linen suit wrinkles?
+
+Yes. Fit plays an important role in how linen creases. A linen suit and vest cut to your measurements will generally crease along the natural lines of your body, while a poorly fitting suit can create uneven or random creasing. Proper fit helps linen maintain a clean, natural appearance even as it develops the characteristic wrinkles that come with wearing the fabric.
 
 ### How far in advance should I order for a wedding?
 
-We recommend ordering at least 8 to 10 weeks before your event. This allows time for the test suit to reach you, for any fit adjustments to be confirmed, and for your final linen suit to be made and shipped. If your timeline is tighter, contact us before ordering and we will confirm what is possible.
+We recommend ordering as early as you can before your event. This allows time for the test suit to reach you, for any fit adjustments to be confirmed, and for your final linen suit to be made and shipped. If your timeline is tighter, contact us before ordering and we will confirm what is possible.
 
 ### Where do you ship, and what does delivery look like?
 
-We ship worldwide by trackable courier. Once your fit is confirmed and your suit is complete, courier delivery typically takes 5 to 10 business days depending on your location. You will receive tracking information as soon as your package ships.
+We ship worldwide by trackable courier. Your test suit and your final suit each arrive 5 to 10 days after dispatch. You will receive tracking information as soon as your package ships.
 
 ### Can the jacket be ordered without the vest?
 

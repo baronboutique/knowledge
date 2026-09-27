@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/terms-and-conditions/
     title: "Terms & Conditions"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T14:19:35Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+  - { by: human:baron-boutique, at: 2026-09-27T08:50:12Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:53:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T08:53:33Z }
 ---
 
 # Terms & Conditions
@@ -52,7 +52,7 @@ We aim to provide accurate pricing at all times. However, errors may occasionall
 
 ## Shipping and Delivery
 
-All garments are produced on a made-to-order basis. Each order involves two separate shipments — a test garment followed by the final garment. Production for each stage is approximately 21 business days, with shipping taking 4–9 business days, for a total of approximately 4 weeks per stage.
+All garments are produced on a made-to-order basis. Each order involves two separate shipments — a test garment followed by the final garment. Production for each stage takes 3 to 4 weeks, and each shipment arrives 5 to 10 days after dispatch.
 
 A flat shipping fee applies to bespoke tailored garments and covers both shipments. Accessories, scarves, and non-tailored items ship free worldwide. Current shipping fees by region are listed on our [Shipping & Delivery page](https://baronboutique.com/shipping-and-delivery/).
 

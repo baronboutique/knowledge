@@ -9,14 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-pinstripe-pant-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-28
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-09-22T18:48:54Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend
@@ -25,14 +26,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/womens-pinstripe-pant-suit/  
 **Type:** bespoke (made to order)  
 **Price:** USD 699.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** G-120.515.003 Dark Grey Pin Stripe Medium. 11 options: G-120.510.002 Navy Chalk Stripe Bold Normal, G-120.515.001 Light Grey Pin Stripe Medium, G-120.515.002 Medium Grey Pin Stripe Medium, G-120.515.003 Dark Grey Pin Stripe Medium, G-120.515.004 Light Navy Pin Stripe Medium, G-120.515.005 Midnight Navy Pinstripe Medium, G-120.515.006 Black Pin stripe Medium, G-120.515.007 Ivory Pinstripe Medium, G-120.535.006 Navy Blue Stripe Bold Medium, G-120.540.002 Navy Red Double Chalk Stripe Medium, G-120.540.003 Grey Bronze Double Chalk Stripe Medium
-- **Lining:** Burgundy Satin. 35 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Merino Wool Fabric:** G-120.515.003 Dark Grey Pin Stripe Medium. Total 11 options available: G-120.510.002 Navy Chalk Stripe Bold Normal, G-120.515.001 Light Grey Pin Stripe Medium, G-120.515.002 Medium Grey Pin Stripe Medium, G-120.515.003 Dark Grey Pin Stripe Medium, G-120.515.004 Light Navy Pin Stripe Medium, G-120.515.005 Midnight Navy Pinstripe Medium, G-120.515.006 Black Pin stripe Medium, G-120.515.007 Ivory Pinstripe Medium, G-120.535.006 Navy Blue Stripe Bold Medium, G-120.540.002 Navy Red Double Chalk Stripe Medium, G-120.540.003 Grey Bronze Double Chalk Stripe Medium
+- **Lining Fabric:** Burgundy Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -40,9 +40,9 @@ New Collection New Fabric Collection — Now Available We've expanded our pinstr
 
 ## Women’s Pinstripe Suit: The Moment Is Now, and the Fit Has to Be Yours
 
-Andy Sachs wore a vintage Jean Paul Gaultier pinstripe suit in The Devil Wears Prada 2 and every fashion publication immediately declared pinstripes back. Emily Charlton spent the film in precision tailoring and pinstripes. The costume designer built the entire wardrobe around what she called “feminine menswear”, the idea that a woman in a beautifully cut pinstripe suit commands a room differently than a woman in a dress. Not louder. More deliberately.
+Most sellers of women’s pinstripe suits offer the same promise: made to measure, tailored to your measurements, custom fit. The finished garment is where those claims are tested. A suit can look correct in a photograph and still be wrong through the shoulders, waist, or trouser rise. By then, the cloth has already been cut. Our approach is different: establish the fit first, then proceed to the final garment.
 
-The problem is that most women’s pinstripe suits are not built around a woman’s body. They are men’s suit patterns scaled down, which means boxy shoulders, a trouser break that lands wrong, and lapels that sit flat when you move. You end up wearing a suit that looks like it belongs to someone else. The authority you wanted is undermined by the fit before you say a word.
+A woman’s pinstripe suit requires more than reducing the dimensions of a men’s pattern. The shoulder line, chest, waist, hip, trouser rise, and lapel placement all need to work together on a woman’s proportions. When they do not, the suit can feel restrictive in one area and shapeless in another, while the trousers sit incorrectly and the lapels shift with movement. The result is a suit that wears like an adaptation rather than a garment made for you.
 
 Baron builds this suit to your measurements in a Super 130s merino and cashmere blend, with a canvas front, rounded peak lapels, and a trouser cut designed for a woman’s frame. Before we cut the final cloth, we send you a free test suit. You try it on, tell us what needs adjusting, and the final suit is cut to the corrected pattern. The pinstripe lands where it should. The shoulders sit correctly. The suit works.
 
@@ -215,7 +215,7 @@ Yes. Super 130s merino is a fine, soft wool that most people with wool sensitivi
 
 ### How long does the full process take?
 
-Allow 6 to 9 weeks from order to final suit. The test suit typically takes 2 to 3 weeks to build and ship. Once you confirm fit adjustments, the final suit takes 4 to 6 weeks in production. If you have a specific event or deadline, tell us when you order and we will confirm whether the timeline is workable.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a specific event or deadline, tell us when you order and we will confirm whether the timeline is workable.
 
 ### Do you ship internationally?
 

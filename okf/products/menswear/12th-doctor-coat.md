@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # 12th Doctor Who Series 9 Coat
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/12th-doctor-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 519.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Navy Melton Wool. 13 options: Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Teal Melton Wool, Turquoise Melton Wool
-- **Lining:** Red Satin. 25 options: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
+- **Melton Wool Fabric:** Navy Melton Wool. Total 13 options available: Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Teal Melton Wool, Turquoise Melton Wool
+- **Lining Fabric:** Red Satin. Total 25 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
 
 ## Short Description
 

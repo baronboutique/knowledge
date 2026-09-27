@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/newt-inspired-herringbone-tweed-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Newt Inspired British Herringbone Tweed Coat
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/newt-inspired-herringbone-tweed-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 929 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,7 +32,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-The coat that made a generation of fantasy film fans fall in love with British tweed. Every version we make is hand-tailored to your measurements in authentic herringbone tweed, finished with dark leather accents on the pocket flaps, sleeves, and collar, just as inspired by the screen. Before we cut the cloth, we send you a complimentary cotton test coat to try on at home. You confirm the fit, we make any needed adjustments, and only then do we craft the final coat. Worldwide tracked shipping. Typical production time: 3 to 4 weeks per stage.
+The coat that made a generation of fantasy film fans fall in love with British tweed. Every version we make is hand-tailored to your measurements in authentic herringbone tweed, finished with dark leather accents on the pocket flaps, sleeves, and collar, just as inspired by the screen. Before we cut the cloth, we send you a complimentary cotton test coat to try on at home. You confirm the fit, we make any needed adjustments, and only then do we craft the final coat. Worldwide tracked shipping. Your final coat takes 3 to 4 weeks to make once you confirm the fit.
 
 Made to Your Measurements
 
@@ -162,15 +161,16 @@ If anything needs adjusting, we update your pattern at no extra cost. The cotton
 
 We cut the herringbone tweed
 
-We cut and hand-finish your real herringbone coat to the corrected pattern, with leather accents hand-stitched onto the pocket flaps. Typical production time 3 to 4 weeks per stage.
+We cut and hand-finish your real herringbone coat to the corrected pattern, with leather accents hand-stitched onto the pocket flaps. Your final coat takes 3 to 4 weeks to make once you confirm the fit.
 
 6
 
 Trackable worldwide shipping
 
-DHL, UPS or FedEx with full tracking. Usually 3 to 7 business days from the day your coat leaves our workshop.
+DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
-**Production time:** 3 to 4 weeks per stage **Care:** Dry clean only  
+**Production time:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat  
+ **Care:** Dry clean only  
  **Free fit guarantee:** cotton test coat included
 
 ---
@@ -227,7 +227,7 @@ Yes. The accent trim on the pocket is genuine dark leather, stitched during cons
 
 ### How long does the coat take to make?
 
-Usually 3 to 4 weeks per stage from the day your measurements are confirmed. The cotton test coat step adds a little time at the start, but it prevents the far bigger problem of a fit issue.
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The cotton test coat step adds a little time at the start, but it prevents the far bigger problem of a fit issue.
 
 ### What if the fit is not right when the test coat arrives?
 
@@ -239,7 +239,7 @@ Yes. The default coat is built to the screen silhouette, wide notch lapel, one-b
 
 ### Do you ship internationally?
 
-Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is usually 3 to 7 business days once your coat leaves our workshop.
+Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 ### How do I pay?
 
@@ -264,7 +264,7 @@ Absolutely. British herringbone tweed in overcoat weight is one of the most vers
 **A:** 100% Wool British herringbone tweed, woven in Britain. The herringbone weave is structural, not printed, which means the pattern holds its definition across the life of the coat. The lining is acetate in your choice of color.
 
 **Q:** How long does the coat take to make?  
-**A:** Usually [time-per-stage] from the day your measurements are confirmed. The cotton test coat step adds a little time at the start, but it prevents the far bigger problem of a fit issue.
+**A:** Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The cotton test coat step adds a little time at the start, but it prevents the far bigger problem of a fit issue.
 
 **Q:** What if the fit is not right when the test coat arrives?  
 **A:** That is exactly what the test coat is for. We make a cotton version of your coat first, before cutting the herringbone tweed. If anything needs adjusting, sleeves, shoulders, length, chest, you tell us and we update the pattern. Your real coat is then cut to the corrected fit. The cotton test coat is yours to keep at no charge.
@@ -273,7 +273,7 @@ Absolutely. British herringbone tweed in overcoat weight is one of the most vers
 **A:** Yes. The default coat is built to the screen silhouette, wide notch lapel, one-button front, back half-belt, dark leather pocket accents, but we will build it any way you prefer. Add your requirements to the order notes at checkout. We will confirm the full specification with you before production starts.
 
 **Q:** Do you ship internationally?  
-**A:** Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is usually 3 to 7 business days once your coat leaves our workshop.
+**A:** Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 **Q:** How do I pay?  
 **A:** Secure checkout through PayPal. Pay with your PayPal balance or with any major credit or debit card through PayPal's guest checkout. No PayPal account required.

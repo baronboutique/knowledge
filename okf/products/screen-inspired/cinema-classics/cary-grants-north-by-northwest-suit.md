@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/cary-grants-north-by-northwest-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-17
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Cary Grant North By Northwest Inspired Suit
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/cary-grants-north-by-northwest-suit/  
 **Type:** bespoke (made to order)  
 **Price:** USD 729.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** TC756101 Grey. 6 options: 8310-1 Light Tan, 8310-2 Grey Check, 8310-3 Dark Grey, 8310-6 Navy, CAL-D1-7B Slate Blue, TC756101 Grey
-- **Lining:** Grey Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Glen Plaid Fabric:** TC756101 Grey. Total 6 options available: 8310-1 Light Tan, 8310-2 Grey Check, 8310-3 Dark Grey, 8310-6 Navy, CAL-D1-7B Slate Blue, TC756101 Grey
+- **Lining Fabric:** Grey Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -118,7 +117,7 @@ How It Works
 
 **Shipped to your door by trackable courier.** Both the test suit and the final suit. The test suit is yours to keep.
 
-**Production time:** 4-6 weeks after test suit approval **Ships:** Worldwide
+**Production time:** 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit **Ships:** Worldwide
 
 ---
 
@@ -221,7 +220,7 @@ Yes. We can extend the lining to the full length of the trouser leg, front and b
 
 ### How long will this take?
 
-Allow 4-6 weeks from test suit approval to delivery of the final suit. That covers the test suit, shipping it to you, any adjustments, and production of the final garment. Both pieces ship worldwide by trackable courier.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both pieces ship worldwide by trackable courier.
 
 ### The original was made by Kilgour on Savile Row. How does this compare?
 

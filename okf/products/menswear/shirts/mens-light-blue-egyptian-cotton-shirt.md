@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-light-blue-egyptian-cotton-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Egyptian Cotton Dress Shirts
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/mens-light-blue-egyptian-cotton-shirt/  
 **Type:** bespoke (made to order)  
 **Price:** USD 199 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Light Blue Egyptian Cotton. 8 options: Black Egyptian Cotton, Blue Egyptian Cotton, Lavender Egyptian Cotton, Light Blue Egyptian Cotton, Light Purple Egyptian Cotton, Pink Egyptian Cotton, Sky Blue Egyptian Cotton, White Egyptian Cotton
+- **Egyptian Cotton Fabric:** Light Blue Egyptian Cotton. Total 8 options available: Black Egyptian Cotton, Blue Egyptian Cotton, Lavender Egyptian Cotton, Light Blue Egyptian Cotton, Light Purple Egyptian Cotton, Pink Egyptian Cotton, Sky Blue Egyptian Cotton, White Egyptian Cotton
 
 ## Short Description
 
@@ -113,7 +112,7 @@ The finished shirt ships via trackable courier. The test shirt is yours to keep.
 6**We answer if anything needs attention**  
 We are reachable by email and we reply. Our customers come back because the fit is right and we answer emails. Every garment is made by a tailor whose name we know.
 
-**Fabric:** 100% Egyptian cotton, 220 thread count **Colors:** 8, same price across all **Cuffs:** Barrel or French cuff **Production:** 3 to 4 weeks per stage **Care:** Machine wash
+**Fabric:** 100% Egyptian cotton, 220 thread count **Colors:** 8, same price across all **Cuffs:** Barrel or French cuff **Production:** 3 to 4 weeks for the test shirt, 3 to 4 weeks for the final shirt **Care:** Machine wash
 
 ---
 
@@ -204,7 +203,7 @@ It does, significantly — and almost no buyer thinks to ask about it before pur
 
 ### How long does it take to receive a made-to-measure Egyptian cotton shirt from Baron Boutique?
 
-Production takes six to eight weeks total from measurement confirmation, which includes the test shirt step. Delivery via trackable courier adds four to nine business days depending on destination. If you have a specific event, travel date, or deadline in mind, contact us before ordering so we can confirm the timeline honestly.
+Your test shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship by trackable courier. If you have a specific event, travel date, or deadline in mind, contact us before ordering so we can confirm the timeline honestly.
 
 ## Categories
 

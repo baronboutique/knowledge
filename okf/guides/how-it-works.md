@@ -9,20 +9,20 @@ sources:
     resource: https://baronboutique.com/how-it-works/
     title: "How It Works"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-21
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-21T09:45:48Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-22T03:00:04Z }
+  - { by: human:baron-boutique, at: 2026-09-27T08:46:30Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:53:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T08:53:33Z }
 ---
 
 # How It Works — Ordering Process
 
-A bespoke order at Baron Boutique follows a defined, step-by-step process. Total time from confirmed order to receiving the final garment is typically 8–10 weeks.
+A bespoke order at Baron Boutique follows a defined, step-by-step process. Each garment is made after the order is confirmed, so order as early as you can for a dated occasion.
 
 ## Steps
 
@@ -32,19 +32,18 @@ A bespoke order at Baron Boutique follows a defined, step-by-step process. Total
 4. **Checkout.** Available as a guest or with a registered account. Registered accounts save measurement history for future orders.
 5. **Pay.** Full payment in advance via PayPal. No PayPal account required — direct card payment available. See [Payment Policy](../policies/payment-policy.md).
 6. **Pattern drafting.** Baron Boutique tailors draft an individual pattern from the submitted measurements, informed by 25+ years of tailoring data.
-7. **Test garment production and shipping.** A cotton test garment (toile / fitting garment) is made and shipped. Production: ~21 business days. Shipping: 4–9 business days worldwide.
+7. **Test garment production and shipping.** A cotton test garment (toile / fitting garment) is made and shipped. Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 8. **Customer fitting and feedback.** Customer tries on the test garment, takes clear photos (front, back, two sides), and emails photos and written feedback to customerservice@baronboutique.com. The test garment belongs to the customer and does not need to be returned.
 9. **Pattern adjustment.** Baron Boutique adjusts the pattern based on feedback. A second test garment may be sent if needed.
-10. **Final garment production.** Final garment produced in the selected fabric (~21 business days) and shipped (4–9 business days) after feedback is received.
+10. **Final garment production.** The final garment is produced in the selected fabric. Once you confirm the fit, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 11. **Alteration reimbursement.** If minor local adjustments are needed after delivery, the customer may visit a local tailor and claim reimbursement from Baron Boutique up to defined limits. The measurement pattern is updated for future orders.
 
-## Timeline Summary
+## Timeline
 
-| Stage | Duration |
+| Stage | Timeline |
 |---|---|
-| Test garment: production + shipping | ~4 weeks |
-| Final garment: production + shipping | ~4 weeks after feedback |
-| **Total** | **~8–10 weeks** |
+| Test garment | 3 to 4 weeks to make, arrives 5 to 10 days after dispatch |
+| Final garment | 3 to 4 weeks to make once you confirm the fit, arrives 5 to 10 days after dispatch |
 
 Rush service is available upon request at no additional cost, subject to production capacity.
 
@@ -75,7 +74,7 @@ Rush service is available upon request at no additional cost, subject to product
 **A:** Have someone take clear photos of you wearing the test garment from the front, back and both sides, for each garment in the order. Email them with your written feedback to customerservice@baronboutique.com. Plain daylight, a plain background, arms down and a natural stance are worth more than a good camera. The more specific your feedback, the more precisely we can adjust.
 
 **Q:** How long does the whole process take?  
-**A:** The test garment takes about 4 weeks, which is 21 business days in production plus 4 to 9 business days in transit. The final garment takes about the same again, counted from the day we receive your feedback. Most customers land between 8 and 10 weeks in total. The part in between is yours, and the clock stops while we wait for your photos, so a fast reply shortens the whole order.
+**A:** The test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final garment takes 3 to 4 weeks to make, counted from the day we receive your feedback, and arrives 5 to 10 days after dispatch.
 
 **Q:** I need it for a specific date. Can you work to a deadline?  
 **A:** Tell us the date before you order, not after, and we will tell you honestly whether it is achievable. We would rather turn down an order than take one we cannot deliver in time for a wedding. Bear in mind that customs clearance is outside our control and can add days that no production schedule can absorb.

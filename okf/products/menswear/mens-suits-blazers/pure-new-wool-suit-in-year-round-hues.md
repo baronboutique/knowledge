@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/pure-new-wool-suit-in-year-round-hues/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Men's Pure New Wool Suit, Custom Made in Super 160s VBC Wool
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/pure-new-wool-suit-in-year-round-hues/  
 **Type:** bespoke (made to order)  
 **Price:** USD 719 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Light Grey Fabric (VBC-121). 7 options: Black Fabric (VBC-128), Dark Grey Fabric (VBC-124), Light Grey Fabric (VBC-121), Medium Grey Fabric (VBC-122), Midnight Blue Fabric (VBC-125), Navy Blue Fabric (VBC-127), Steel Grey Fabric (VBC-126)
-- **Lining:** Dark Grey Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **vbc:** Light Grey Fabric (VBC-121). Total 7 options available: Black Fabric (VBC-128), Dark Grey Fabric (VBC-124), Light Grey Fabric (VBC-121), Medium Grey Fabric (VBC-122), Midnight Blue Fabric (VBC-125), Navy Blue Fabric (VBC-127), Steel Grey Fabric (VBC-126)
+- **Lining Fabric:** Dark Grey Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -109,15 +108,15 @@ We update your pattern with every adjustment. The test suit is yours to keep. No
 
 ### We Cut Your Final Suit
 
-Super 160s VBC wool, cut to your corrected pattern. Canvas front, hand-stitched armholes and shoulder pads. Hand-finished buttonholes. Buttons reinforced by hand. Typical production time is 4 to 6 weeks.
+Super 160s VBC wool, cut to your corrected pattern. Canvas front, hand-stitched armholes and shoulder pads. Hand-finished buttonholes. Buttons reinforced by hand. Your final suit takes 3 to 4 weeks to make once you confirm the fit.
 
 6
 
 ### Trackable Worldwide Shipping
 
-Your finished suit ships by trackable courier. Delivery is typically 3 to 7 business days once complete. We ship worldwide.
+Your finished suit ships by trackable courier. Delivery is 5 to 10 days after dispatch. We ship worldwide.
 
-**Starting price:** $719 **Production time:** 6 to 9 weeks total **Care:** Dry clean only
+**Starting price:** $719 **Production time:** 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit **Care:** Dry clean only
 
 ---
 
@@ -219,11 +218,11 @@ Yes. A grey or navy wool suit in Super 160s is appropriate for almost any weddin
 
 ### How long does the whole process take?
 
-Plan on 6 to 9 weeks from order to final suit in your hands. The test suit takes 2 to 3 weeks to build and ship. Once you confirm the fit, the final suit takes 4 to 6 weeks in production. If you have a specific date – a wedding, an event, a first day at a new job – tell us when you order and we will confirm whether we can meet it. We will not promise a deadline we cannot keep.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a specific date – a wedding, an event, a first day at a new job – tell us when you order and we will confirm whether we can meet it. We will not promise a deadline we cannot keep.
 
 ### Do you ship worldwide?
 
-Yes. Both the test suit and the final suit ship by trackable courier to your address anywhere in the world. Delivery is typically 3 to 7 business days once each piece is complete. Customers in the USA, UK, Canada, Australia, Germany, France, the Netherlands, Singapore, Japan, and many other countries order regularly.
+Yes. Both the test suit and the final suit ship by trackable courier to your address anywhere in the world. Each piece arrives 5 to 10 days after dispatch. Customers in the USA, UK, Canada, Australia, Germany, France, the Netherlands, Singapore, Japan, and many other countries order regularly.
 
 ## Categories
 

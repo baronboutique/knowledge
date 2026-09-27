@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Womens Long Coat Black Trench Matrix Style
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
 **URL:** https://baronboutique.com/the-matrix-revolutions-coat-for-women/  
 **Type:** bespoke (made to order)  
 **Price:** USD 599 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Worsted Wool (LSR1-9501-10). 8 options: Black Worsted Wool (LSR1-9501-10), Blue Worsted Wool (LSR1-9501-2), Charcoal Worsted Wool (LSR1-9501-9), Dark Brown Worsted Wool (LSR1-9501-0), Dark Grey Worsted Wool (LSR1-9501-8), Light Grey Worsted Wool (LSR1-9501-7), Lightest Brown Worsted Wool (LSR1-9501-1), Navy Worsted Wool (LSR1-9501-6)
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Worsted Wool Plain Fabric:** Black Worsted Wool (LSR1-9501-10). Total 8 options available: Black Worsted Wool (LSR1-9501-10), Blue Worsted Wool (LSR1-9501-2), Charcoal Worsted Wool (LSR1-9501-9), Dark Brown Worsted Wool (LSR1-9501-0), Dark Grey Worsted Wool (LSR1-9501-8), Light Grey Worsted Wool (LSR1-9501-7), Lightest Brown Worsted Wool (LSR1-9501-1), Navy Worsted Wool (LSR1-9501-6)
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

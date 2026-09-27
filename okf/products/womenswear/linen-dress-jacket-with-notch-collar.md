@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/linen-dress-jacket-with-notch-collar/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-28
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Unlined Linen Duster Coat
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/linen-dress-jacket-with-notch-collar/  
 **Type:** bespoke (made to order)  
 **Price:** USD 519 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Natural Linen. 18 options: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
+- **Linen Fabric:** Natural Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
 
 ## Short Description
 
@@ -133,7 +132,7 @@ How It Works
 
 **Shipped to your door by trackable courier.** Both the test coat and the final coat. The test coat is yours to keep. Machine washable when it arrives. Dry clean recommended.
 
-**Production time:** 3-4 weeks after test coat approval **Ships:** Worldwide **Care:** Machine washable. Dry clean recommended.
+**Production time:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final linen coat **Ships:** Worldwide **Care:** Machine washable. Dry clean recommended.
 
 ---
 
@@ -219,7 +218,7 @@ Linen packs flat and is light enough not to add meaningful weight to luggage. It
 
 ### How long does production take?
 
-Allow 3-4 weeks from test coat approval to delivery of your final coat. This includes producing the test coat, shipping it to you, reviewing your feedback, and producing the final linen coat. Both the test coat and the final coat ship worldwide by trackable courier.
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final linen coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both the test coat and the final coat ship worldwide by trackable courier.
 
 ### Do you ship internationally?
 

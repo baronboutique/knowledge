@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/essential-black-mohair-wool-tuxedo-2-button/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Black Mohair Tuxedo, Made to Measure
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/essential-black-mohair-wool-tuxedo-2-button/  
 **Type:** bespoke (made to order)  
 **Price:** USD 719.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Mohair. 6 options: Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
-- **Lining:** Black Satin. 25 options: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
+- **Mohair Wool Fabric:** Black Mohair. Total 6 options available: Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
+- **Lining Fabric:** Black Satin. Total 25 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
 
 ## Short Description
 
@@ -247,7 +246,7 @@ After you place your order with measurements, we build a complete jacket and tro
 
 ### How long does it take to receive a made-to-measure mohair tuxedo?
 
-Production takes approximately four to six weeks from measurement confirmation, depending on current order volume. Delivery via trackable courier typically adds five to ten business days. For a wedding with a fixed date, contact us before ordering so we can confirm the timeline honestly.
+Your test tuxedo takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final tuxedo takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship by trackable courier. For a wedding with a fixed date, contact us before ordering so we can confirm the timeline honestly.
 
 ## Categories
 

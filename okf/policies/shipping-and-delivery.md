@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/shipping-and-delivery/
     title: "Shipping & Delivery"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T14:18:09Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+  - { by: human:baron-boutique, at: 2026-09-27T08:49:31Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:53:33Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T08:53:33Z }
 ---
 
 # Shipping & Delivery
@@ -72,7 +72,7 @@ Production timelines may vary slightly depending on fabric availability, order c
 
 ## Shipping Method & Tracking
 
-All orders are shipped via international air courier (FedEx, DHL, or UPS). Estimated delivery time after dispatch is typically 4 to 9 business days worldwide. Actual delivery times may vary depending on the destination, courier operations, and customs clearance.
+All orders are shipped via international air courier (FedEx, DHL, or UPS). Estimated delivery time after dispatch is typically 5 to 10 days worldwide. Actual delivery times may vary depending on the destination, courier operations, and customs clearance.
 
 Tracking details will be provided by email once your order has been dispatched.
 
@@ -118,7 +118,7 @@ No. All non-tailored accessories — including cashmere scarves, shawls, ties, a
 
 ### How long does the entire process take from order to receiving my final garment?
 
-The process has two stages. Your test garment takes approximately 4 weeks (21 business days production + shipping 4-9 business days). After you send us your feedback, your final garment takes another 4 weeks. Total time from order to final delivery is typically 6 to 8 weeks for most customers. Knit products, cashmere scarves, shawls, and accessories are typically ready in 16–23 business days total (including shipping). Keep in mind that timelines can vary slightly based on fabric availability, order complexity, and how quickly measurements are confirmed.
+The process has two stages. Your test garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. After you send us your feedback, your final garment takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Knit products, cashmere scarves, shawls, and accessories are typically ready in 2-3 weeks total (including shipping). Keep in mind that timelines can vary slightly based on fabric availability, order complexity, and how quickly measurements are confirmed.
 
 ### Will I have to pay customs duties or import taxes?
 
@@ -153,17 +153,17 @@ PO boxes and APO/FPO addresses cannot be served.
 
 **Non-tailored accessories** (scarves, ties, pocket squares, cashmere scarves and shawls): Ship free worldwide.
 
-## Production & Shipping Timelines
+## Production & Delivery Timelines
 
-| Product Type | Production | Shipping | Total per stage |
-|---|---|---|---|
-| Bespoke test garment | ~21 business days | 4–9 business days | ~4 weeks |
-| Bespoke final garment | ~21 business days | 4–9 business days | ~4 weeks after feedback |
-| Cashmere scarves & shawls | 12–14 business days | 4–9 business days | 16–23 business days |
-| Knit products (made to order) | 14–16 business days | 4–9 business days | ~4 weeks |
-| Accessories | 12–14 business days | 4–9 business days | 16–23 business days |
+| Product Type | Timeline |
+|---|---|
+| Bespoke test garment | 3 to 4 weeks to make, delivered 5 to 10 days after dispatch |
+| Bespoke final garment | 3 to 4 weeks to make once the fit is confirmed, delivered 5 to 10 days after dispatch |
+| Cashmere scarves & shawls | Handmade to order and delivered within 2 to 3 weeks of the order |
+| Knit products (made to order) | Handmade to order and delivered within 2 to 3 weeks of the order |
+| Accessories | Handmade to order and delivered within 2 to 3 weeks of the order |
 
-Total bespoke order time from confirmed order to receiving the final garment is typically 8–10 weeks.
+Every garment is made after the order is confirmed, so order as early as you can for a dated occasion.
 
 Rush service is available upon request at no additional cost, subject to production capacity.
 

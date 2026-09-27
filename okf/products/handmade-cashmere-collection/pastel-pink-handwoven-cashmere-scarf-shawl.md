@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Pastel Pink Handwoven Cashmere Scarf Shawl
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/pastel-pink-handwoven-cashmere-scarf-shawl/  
 **Type:** cashmere (made to order)  
 **Price:** USD 229.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Color:** Pastel Pink ColNo-19. 1 options: Pastel Pink ColNo-19
+- **Color:** Pastel Pink ColNo-19. Total 1 options available: Pastel Pink ColNo-19
 
 ## Short Description
 

@@ -9,20 +9,22 @@ sources:
     resource: https://baronboutique.com/womens-trouser-fit-guide/
     title: "Trouser Fit Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-20
+    last_modified: 2026-09-20
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-20T14:19:45Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.19.0, at: 2026-08-31T19:09:01Z }
+  - { by: human:baron-boutique, at: 2026-09-20T13:29:14Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
 ---
 
 # Trouser Fit Guide
 
 Find your perfect trouser fit—Slim, Standard, and Relaxed. Baron Boutique's guide helps you choose the best custom garment for you.
+
+**Already know your fit?** Browse [women’s pants](/womenswear/pants-for-women/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Women’s Trouser Fit Guide
 
@@ -143,6 +145,8 @@ Nothing final is cut until you have approved the fit on the free test garment, s
 ### What if my weight changes later?
 
 Your finished trousers are made with seam allowances, so a local tailor can take them in or let them out at the waist and seat within reason if your shape shifts. And we keep your measurements on record, so ordering another pair that fits is simple whenever you want one.
+
+**Chosen your fit?** Browse [women’s pants](/womenswear/pants-for-women/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** women's trouser fit, how should work pants fit, pants sizing women
 

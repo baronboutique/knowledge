@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/vlad-dracula-london-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Prince Vlad Dracula London Suit
@@ -25,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/vlad-dracula-london-suit/  
 **Type:** bespoke (made to order)  
 **Price:** USD 879.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -33,9 +32,9 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Light Grey Tropical Wool (79000-1). 14 options: Beige Tropical Wool, Black Tropical Wool (79000-7), Blue Tropical Wool (79000-11), Brown Tropical Wool (79000-21), Charcoal Grey Tropical Wool (79000-5), Dark Grey Tropical Wool (79000-6), Grey Tropical Wool (79000-13), Light Grey Tropical Wool (79000-1), Medium Grey Tropical Wool (79000-3), Melange Tropical Wool (79000-12), Navy Tropical Wool (79000-9), Oxford Blue Tropical Wool (79000-23), Tan Tropical Wool (79901-10), White Tropical Wool (79000-22)
-- **Lining:** Grey Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
-- **Fabric:** Silver Dupioni Silk. 22 options: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
+- **Tropical Wool Fabric:** Light Grey Tropical Wool (79000-1). Total 14 options available: Beige Tropical Wool, Black Tropical Wool (79000-7), Blue Tropical Wool (79000-11), Brown Tropical Wool (79000-21), Charcoal Grey Tropical Wool (79000-5), Dark Grey Tropical Wool (79000-6), Grey Tropical Wool (79000-13), Light Grey Tropical Wool (79000-1), Medium Grey Tropical Wool (79000-3), Melange Tropical Wool (79000-12), Navy Tropical Wool (79000-9), Oxford Blue Tropical Wool (79000-23), Tan Tropical Wool (79901-10), White Tropical Wool (79000-22)
+- **Lining Fabric:** Grey Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Dupioni Silk Fabric:** Silver Dupioni Silk. Total 22 options available: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
 
 ## Short Description
 
@@ -121,7 +120,7 @@ How It Works
 
 **Shipped to your door by trackable courier.** Both the test suit and the final three-piece suit. The test suit is yours to keep. Dry-clean the final suit.
 
-**Production time:** 3-4 weeks after test suit approval **Ships:** Worldwide **Care:** Dry-clean only
+**Production time:** 3 to 4 weeks for the test suit, 3 to 4 weeks for the final three-piece suit **Ships:** Worldwide **Care:** Dry-clean only
 
 ---
 
@@ -232,7 +231,7 @@ Yes. We can extend the trouser lining to the full leg length at no extra charge.
 
 ### How long does production take?
 
-Allow 3-4 weeks from test suit approval to delivery of the final three-piece suit. This covers producing the test suit, shipping it to you, reviewing your feedback, and producing the final suit in wool and silk. Both ship worldwide by trackable courier.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final three-piece suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship worldwide by trackable courier.
 
 ### Do you ship internationally?
 

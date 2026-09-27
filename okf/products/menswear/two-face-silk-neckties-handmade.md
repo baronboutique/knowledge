@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Two Face Silk Neckties Handmade
@@ -25,15 +25,14 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/two-face-silk-neckties-handmade/  
 **Type:** bespoke (made to order)  
 **Price:** USD 149 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Face 1: Left Satin Silk Color:** Silver-ColNo-32. 21 options: Aqua-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Bloodred-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Silver-ColNo-32, Yellow-ColNo-5
-- **Face 2: Right Satin Silk Color:** Black. 21 options: Aqua-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Bloodred-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Silver-ColNo-32, Yellow-ColNo-5
-- **Tie Width:** Standard. 3 options: Extra Large, Skinny, Standard
+- **Face 1: Left Satin Silk Color:** Silver-ColNo-32. Total 21 options available: Aqua-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Bloodred-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Silver-ColNo-32, Yellow-ColNo-5
+- **Face 2: Right Satin Silk Color:** Black. Total 21 options available: Aqua-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Bloodred-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Silver-ColNo-32, Yellow-ColNo-5
+- **Tie Width:** Standard. Total 3 options available: Extra Large, Skinny, Standard
 
 ## Short Description
 

@@ -9,12 +9,14 @@ sources:
     resource: https://baronboutique.com/matrix-reloaded-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-19
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-20T03:00:03Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat
@@ -23,7 +25,6 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-20T03:00:03Z }
 **URL:** https://baronboutique.com/matrix-reloaded-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 699.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -31,20 +32,18 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 8305-3-Black. 8 options: 8305-1-Grey, 8305-10-Navy, 8305-11-Dark-Navy, 8305-2-Dark-Grey, 8305-3-Black, 8305-4-Dark-Brown, 8305-7-Slate-Blue, 8305-9-Petrol-Blue
-- **Lining:** Black Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Monks Wool Fabric:** 8305-3-Black. Total 8 options available: 8305-1-Grey, 8305-10-Navy, 8305-11-Dark-Navy, 8305-2-Dark-Grey, 8305-3-Black, 8305-4-Dark-Brown, 8305-7-Slate-Blue, 8305-9-Petrol-Blue
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
 Most Matrix Reloaded-inspired coat sellers offer a generic-size polyester approximation. Baron Boutique takes a different approach. Our custom-made Neo Cassock Coat is tailored to your measurements in black wool, with a screen-inspired silhouette and construction designed to achieve the distinctive long, below-ankle look seen in The Matrix Reloaded. We send a complimentary test coat first so you can try the fit at home, provide feedback, and approve the adjustments before we cut the final coat.
 
-## The Matrix Reloaded Neo Cassock Coat: The Silhouette Everyone Is Copying, Built to Fit You
+## The Matrix Reloaded Neo Cassock Coat: Inspired by the Film, Built to Fit You
 
-Dior did it. Saint Laurent did it. Balenciaga did it. Every major fashion house that showed a collection paid homage to The Matrix, because the coat Neo wears in Reloaded is one of the most recognizable silhouettes in cinema. Below-ankle length. Mandarin collar. Pleated flared skirt. Princess seam back. Fabric that moves when you move and falls still when you stop. That silhouette is now on runways, on street style accounts, and on every fashion publication’s best-dressed list.
+In The Matrix Reloaded, Neo wears a long black cassock-style coat, often searched for as the Matrix jacket. This is Baron’s custom made coat inspired by it, not the coat from the first film or from Resurrections, which use a different cut. If you are comparing this against other Matrix coat listings, the difference that matters is fit: yours is built to your own measurements and confirmed with a free test coat before we touch the final wool.
 
-What those designer versions cost: thousands. What most Matrix coat sellers actually deliver: a polyester approximation in a generic size that looks like a costume the moment you put it on. The sheen is wrong. The length is wrong. The shoulder placement is wrong and it shows every time you lift an arm.
-
-Baron builds the Matrix Reloaded Neo coat to your body measurements in monks wool, the same fabric category used for quality tailored outerwear , with a canvas front, hand-finished buttonholes, and the screen-inspired construction details that make the silhouette work. Before we cut your final coat, we send you a free test coat to confirm the fit. The below-ankle length has to land in exactly the right place for this coat to look right. We do not leave that to chance.
+Baron builds the Matrix Reloaded Neo coat to your body measurements in monks wool, the same fabric category used for quality tailored outerwear, with a canvas front, hand-finished buttonholes, and the screen-inspired construction details that make the silhouette work. The below-ankle length has to land in exactly the right place for this coat to look right. We do not leave that to chance.
 
 Screen-inspired Matrix Reloaded replica  
  Monks wool, 8 colors  
@@ -84,7 +83,7 @@ You have done your research on the Reloaded coat specifically , the below-ankle 
 
 The Fashion Buyer Who Wants the Silhouette
 
-You are not coming at this from cosplay. You saw the Matrix-core coverage from the runway collections, you have seen the street style shots, and you want the actual coat , not a leather approximation that makes you look like you are wearing a costume. Monks wool in black gives you the dramatic below-ankle silhouette without the sheen. It reads as a statement coat to anyone who does not know the reference, and as an exact replica to everyone who does.
+You are not coming at this from cosplay. You saw the Matrix-core coverage from the runway collections, you have seen the street style shots, and you want the movie inspired coat, not a leather approximation that makes you look like you are wearing a costume. Monks wool in black gives you the dramatic below-ankle silhouette without the sheen. It reads as a statement coat to anyone who does not know the reference, and as a movie inspired coat to everyone who does.
 
 The Convention Regular Who Has Worn a Bad One
 
@@ -130,7 +129,7 @@ This coat is not for a one-night Halloween. The canvas front, monks wool, and ha
 **We answer if anything needs attention**  
  We are reachable by email and we reply. Our customers come back because the fit is right and we answer emails. Every coat is made by a tailor whose name we know.
 
-**Starting price:** $699 **Production time:** 6 to 8 weeks total **Care:** Dry clean only
+**Starting price:** $699 **Production time:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat **Care:** Dry clean only
 
 ---
 
@@ -190,11 +189,11 @@ The Matrix Reloaded coat is specifically the coat Neo wears from Matrix 2 onward
 
 ### Why monks wool instead of leather or PVC like in the film?
 
-The screen-used coats were made from a wool-based fabric, not leather or PVC. What looks black and slightly reflective on screen is monks wool , a tightly woven, matte wool fabric with a subtle sheen that reads as dark and cinematic under lighting. Leather and PVC versions exist in the market but they drape differently and read as costume rather than tailored outerwear. Monks wool gives you the correct silhouette, the correct weight for movement, and a finish that works both at conventions and as everyday outerwear. It is also significantly more comfortable to wear for extended periods than any synthetic alternative.
+The screen-used coats were made from a tightly woven wool blend, not leather or PVC. Baron builds this coat in monks wool, a tightly woven, matte wool with a subtle sheen that reads as dark and cinematic under lighting. Leather and PVC versions exist in the market, but they drape differently and read as costume rather than tailored outerwear. Monks wool gives you the correct weight for movement and a finish that works both at conventions and as everyday outerwear, and it is more comfortable to wear for extended periods than a synthetic alternative.
 
 ### Can I wear this as an everyday coat, not just for cosplay?
 
-Yes, and this is increasingly the reason people order it. The Matrix aesthetic has been on major fashion runways continuously since the early 2000s, and the Reloaded silhouette specifically has appeared in designer collections from Dior, Saint Laurent, and Balenciaga. In black monks wool, this coat reads as a dramatic statement coat to anyone who does not recognize the character reference. It is appropriate for formal events, film premieres, editorial shoots, theatrical occasions, and anywhere a deliberately dramatic long coat works. It is not appropriate for casual daily errands, the below-ankle length and construction demand an occasion.
+Yes, worn in black monks wool this coat reads as a dramatic statement coat, not a costume, to anyone who does not recognize the character reference. It works for formal events, film premieres, editorial shoots, theatrical occasions, and anywhere a deliberately dramatic long coat belongs.
 
 ### How does the free test coat process work?
 
@@ -210,7 +209,7 @@ Eight monks wool colors: Black (screen-inspired default), Grey, Dark Grey, Dark 
 
 ### How long does the whole process take?
 
-Plan on 6 to 8 weeks from order to final coat in your hands. The test coat takes 3 to 4 weeks to build and ship. Once you confirm the fit, the final coat takes 3 to 4 weeks in production. If you have a convention date or a specific deadline, tell us when you order and we will confirm honestly whether we can meet it.
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a convention date or a specific deadline, tell us when you order and we will confirm honestly whether we can meet it.
 
 ### Do you ship internationally?
 

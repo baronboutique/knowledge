@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-off-white-pinstripe-double-breasted-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-28
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/womens-off-white-pinstripe-double-breasted-suit/  
 **Type:** bespoke (made to order)  
 **Price:** USD 699.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Off-White With Black Bold Stripes - 907300. 8 options: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Light Grey Bold Pink Stripes - 907301, Off-White With Black Bold Stripes - 907300
-- **Lining:** White Paisley Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Merino Wool Stripes:** Off-White With Black Bold Stripes - 907300. Total 8 options available: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Light Grey Bold Pink Stripes - 907301, Off-White With Black Bold Stripes - 907300
+- **Lining Fabric:** White Paisley Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -176,15 +175,15 @@ We update your pattern with every note you gave us. The test suit is yours to ke
 
 ### We Build Your Final Suit
 
-Super 130s merino wool, cut to your corrected pattern. Canvas front. Darted jacket front for a sculpted silhouette. Hand-stitched armholes. Hand-finished buttonholes. Black horn buttons reinforced by hand. Wide-leg trouser with acetate lining to the knee. Typical production time is 3 to 4 weeks per stage.
+Super 130s merino wool, cut to your corrected pattern. Canvas front. Darted jacket front for a sculpted silhouette. Hand-stitched armholes. Hand-finished buttonholes. Black horn buttons reinforced by hand. Wide-leg trouser with acetate lining to the knee. Your final suit takes 3 to 4 weeks to make once you confirm the fit.
 
 6
 
 ### Trackable Worldwide Shipping
 
-Your finished suit ships via a trackable courier. Delivery is typically 4 to 9 business days once complete. We ship worldwide.
+Your finished suit ships via a trackable courier. Delivery is 5 to 10 days after dispatch. We ship worldwide.
 
-**Starting price:** $699 **Production time:** 3 to 4 weeks per stage **Care:** Dry clean only
+**Starting price:** $699 **Production time:** 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit **Care:** Dry clean only
 
 ---
 
@@ -257,7 +256,7 @@ Keep everything underneath clean and simple – a fitted black or white bodysuit
 
 ### How long does the whole process take?
 
-Plan on 6 to 8 weeks from order to finished suit in your hands. The test suit takes 3 to 4 weeks to build and ship. Once you confirm the fit, the final suit takes 3 to 4 weeks in production. If you have a fixed date – a wedding, an event, a keynote – tell us when you order and we will confirm honestly whether we can meet it.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a fixed date – a wedding, an event, a keynote – tell us when you order and we will confirm honestly whether we can meet it.
 
 ## Categories
 

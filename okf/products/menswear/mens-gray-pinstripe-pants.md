@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-gray-pinstripe-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-06-09
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/mens-gray-pinstripe-pants/  
 **Type:** bespoke (made to order)  
 **Price:** USD 239 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Grey With Faint Blue Pinstripes - 907232. 13 options: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Black With Red Pinstripes - 907235, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Charcoal With Red Pinstripes - 907233, Charcoal With Red Stripes - 907236, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Grey With Faint Blue Pinstripes - 907232, Light Grey Bold Pink Stripes - 907301, Navy With Red Pinstripes - 907234, Off-White With Black Bold Stripes - 907300
-- **Lining:** Grey Satin. 35 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Merino Wool Stripes:** Grey With Faint Blue Pinstripes - 907232. Total 13 options available: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Black With Red Pinstripes - 907235, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Charcoal With Red Pinstripes - 907233, Charcoal With Red Stripes - 907236, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Grey With Faint Blue Pinstripes - 907232, Light Grey Bold Pink Stripes - 907301, Navy With Red Pinstripes - 907234, Off-White With Black Bold Stripes - 907300
+- **Lining Fabric:** Grey Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -127,15 +126,15 @@ We update your pattern with every adjustment you noted. The test pair is yours t
 
 ### We Cut and Finish Your Final Pair
 
-Super 150s wool, cut to your corrected pattern. Hand-carved horn buttons. Handmade buttonholes. Hand-stitched hem. Acetate-lined to the front knee. Typical production time is 6 to 8 weeks.
+Super 150s wool, cut to your corrected pattern. Hand-carved horn buttons. Handmade buttonholes. Hand-stitched hem. Acetate-lined to the front knee. Your final pair takes 3 to 4 weeks to make once you confirm the fit.
 
 6
 
 ### Trackable Worldwide Shipping
 
-Your finished trousers ship via a trackable courier. Delivery is usually 4 to 9 business days once complete. We ship to the USA, UK, Canada, Australia, Germany, France, the Netherlands, Singapore, Japan, and worldwide.
+Your finished trousers ship via a trackable courier. Delivery is 5 to 10 days after dispatch. We ship to the USA, UK, Canada, Australia, Germany, France, the Netherlands, Singapore, Japan, and worldwide.
 
-**Starting price:** $239 **Production time:** 6 to 8 weeks total **Care:** Dry clean only
+**Starting price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Care:** Dry clean only
 
 ## Baron vs. Off the Rack
 
@@ -191,7 +190,7 @@ The “Super” number refers to the fineness of the wool fiber – the higher t
 
 ### How long does the whole process take?
 
-Plan on 6 to 8 weeks from order to final pair in your hands. The test pair takes roughly 3 to 4 weeks to make and ship. Once you confirm the fit, the final pair takes another 3 to 4 weeks in production. If you have a specific deadline – a wedding, an event, a start date – message us before ordering and we will tell you honestly whether we can meet it.
+Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a specific deadline – a wedding, an event, a start date – message us before ordering and we will tell you honestly whether we can meet it.
 
 ### What stripe colors are available?
 
@@ -199,7 +198,7 @@ Thirteen options: Grey with faint blue pinstripes, Black with red pinstripes, Ch
 
 ### Do you ship worldwide?
 
-Yes. We ship to the USA, UK, Canada, Australia, Germany, France, the Netherlands, Singapore, Japan, and many other countries via a trackable courier. Delivery is typically 4 to 9 business days once your final pair is complete. The test pair ships to the same address first.
+Yes. We ship to the USA, UK, Canada, Australia, Germany, France, the Netherlands, Singapore, Japan, and many other countries via a trackable courier. Delivery is 5 to 10 days after dispatch. The test pair ships to the same address first.
 
 ### What kind of pinstripe suit pants would Nigel from The Devil Wears Prada wear?
 

@@ -14,7 +14,9 @@ sources:
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-20T03:00:03Z }
+verified:
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Aquamarine Blue Handwoven Cashmere Scarf Shawl
@@ -23,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-20T03:00:03Z }
 **URL:** https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/  
 **Type:** cashmere (made to order)  
 **Price:** USD 259.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Color:** Aquamarine ColNo-91. 1 options: Aquamarine ColNo-91
+- **Color:** Aquamarine ColNo-91. Total 1 options available: Aquamarine ColNo-91
 
 ## Short Description
 

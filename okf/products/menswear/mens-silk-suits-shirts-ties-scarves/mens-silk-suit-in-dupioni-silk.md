@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-silk-suit-in-dupioni-silk/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-03
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements
@@ -25,18 +25,17 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/mens-silk-suit-in-dupioni-silk/  
 **Type:** bespoke (made to order)  
 **Price:** USD 699.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Green Dupioni Silk. 22 options: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
-- **Lining:** Green Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Dupioni Silk Fabric:** Green Dupioni Silk. Total 22 options available: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
+- **Lining Fabric:** Green Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
-Men's silk suits off the rack almost never fit, and cheap ones don't even look like silk. We fix both. Every suit on this page is made to your measurements in 100% dupioni silk, and before we cut the real thing, we send you a free test suit to try on at home. You confirm the fit, we adjust if needed, then we make your silk suit. 22 colors. Hand-finished by our skilled tailors. Trackable worldwide shipping. Secure checkout. From $699. Typical production time 4 to 6 weeks.
+Men's silk suits off the rack almost never fit, and cheap ones don't even look like silk. We fix both. Every suit on this page is made to your measurements in 100% dupioni silk, and before we cut the real thing, we send you a free test suit to try on at home. You confirm the fit, we adjust if needed, then we make your silk suit. 22 colors. Hand-finished by our skilled tailors. Trackable worldwide shipping. Secure checkout. From $699. Test suit made in 3 to 4 weeks, final suit 3 to 4 weeks after you confirm the fit.
 
 Made to Your Measurements
 
@@ -172,15 +171,15 @@ If anything needs adjusting, we update your pattern.
 
 We make your silk suit
 
-We cut and hand-finish your silk suit to the corrected pattern. Typical production time 4 to 6 weeks.
+We cut and hand-finish your silk suit to the corrected pattern. Your final suit takes 3 to 4 weeks to make once you confirm the fit.
 
 6
 
 Trackable worldwide shipping
 
-DHL, UPS or FedEx with full tracking. Usually 3 to 7 business days once your suit is finished.
+DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
-**Production time:** 6 to 8 weeks total **Care:** Dry clean only**Price:** $699 for a two-piece and $898 for a three-piece with waistcoat.
+**Production time:** 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit **Care:** Dry clean only**Price:** $699 for a two-piece and $898 for a three-piece with waistcoat.
 
 ---
 
@@ -235,11 +234,11 @@ No. Every measurement field on this page has instructions, and most customers fi
 
 ### How far in advance should I order a silk suit for a wedding?
 
-10 to 12 weeks before the wedding is comfortable. The test suit cycle takes about 4 weeks including shipping, and the final suit another 4 to 6 weeks including shipping. If your date is closer, contact us before ordering — rush production is sometimes possible and we will tell you honestly whether your date is achievable.
+Order as early as you can before the wedding. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your date is closer, contact us before ordering — rush production is sometimes possible and we will tell you honestly whether your date is achievable.
 
 ### How long does a custom silk suit usually take to make and deliver?
 
-Usually 6 to 8 weeks from the day your measurements are confirmed. The test suit step adds a little time at the start but prevents far bigger delays at the end from fit corrections.
+Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The test suit step adds a little time at the start but prevents far bigger delays at the end from fit corrections.
 
 ### What if the fit is not right?
 
@@ -247,7 +246,7 @@ That is exactly what the test suit is for. We ship you a cotton version of your 
 
 ### Do you ship internationally?
 
-Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is usually 3 to 7 business days once your suit is finished.
+Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 ### How do I pay?
 
@@ -280,16 +279,16 @@ Yes. Add any customizations (ticket pocket, peak lapels, double vent, three-piec
 **A:** No. Every measurement field on this page has instructions, and most customers finish in about 15 minutes with a soft tape measure and a second person to help. Small errors are normal — that is what the free test suit is for. Nothing is cut in silk until you confirm the fit.
 
 **Q:** How far in advance should I order a silk suit for a wedding?  
-**A:** 10 to 12 weeks before the wedding is comfortable. The test suit cycle takes about 4 weeks including shipping, and the final suit another 4 to 6 weeks including shipping. If your date is closer, contact us before ordering — rush production is sometimes possible and we will tell you honestly whether your date is achievable.
+**A:** Order as early as you can before the wedding. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your date is closer, contact us before ordering — rush production is sometimes possible and we will tell you honestly whether your date is achievable.
 
 **Q:** How long does a custom silk suit usually take to make and deliver?  
-**A:** Usually 6 to 8 weeks from the day your measurements are confirmed. The test suit step adds a little time at the start but prevents far bigger delays at the end from fit corrections.
+**A:** Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The test suit step adds a little time at the start but prevents far bigger delays at the end from fit corrections.
 
 **Q:** What if the fit is not right?  
 **A:** That is exactly what the test suit is for. We ship you a cotton version of your suit first, and we only cut the silk after you have confirmed the fit. If the test suit needs adjusting, we adjust the pattern and make the silk suit to the corrected pattern.
 
 **Q:** Do you ship internationally?  
-**A:** Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is usually 3 to 7 business days once your suit is finished.
+**A:** Yes. We ship worldwide by DHL, UPS or FedEx with full tracking. Delivery is 5 to 10 days after dispatch.
 
 **Q:** How do I pay?  
 **A:** Secure checkout through PayPal. You can pay with your PayPal balance or with any major credit or debit card through PayPal's guest checkout, no PayPal account required.

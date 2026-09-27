@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Belted V-Neck Shift Dress Pockets Knee Length
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/womens-belted-a-line-dress/  
 **Type:** bespoke (made to order)  
 **Price:** USD 399.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Chino Twill Cotton. 15 options: Black Chino Twill Cotton, Blue Chino Twill Cotton, Brown Chino Twill Cotton, Burgundy Chino Twill Cotton, Green Chino Twill Cotton, Grey Chino Twill Cotton, Hunter Green Twill Cotton, Khaki Chino Twill Cotton, Light Grey Chino Twill Cotton, Navy Chino Twill Cotton, Olive Green Chino Twill Cotton, Purple Chino Twill Cotton, Red Chino Twill Cotton, Sky Blue Chino Twill Cotton, Tan Chino Twill Cotton
+- **Twill Cotton Chino:** Black Chino Twill Cotton. Total 15 options available: Black Chino Twill Cotton, Blue Chino Twill Cotton, Brown Chino Twill Cotton, Burgundy Chino Twill Cotton, Green Chino Twill Cotton, Grey Chino Twill Cotton, Hunter Green Twill Cotton, Khaki Chino Twill Cotton, Light Grey Chino Twill Cotton, Navy Chino Twill Cotton, Olive Green Chino Twill Cotton, Purple Chino Twill Cotton, Red Chino Twill Cotton, Sky Blue Chino Twill Cotton, Tan Chino Twill Cotton
 
 ## Short Description
 

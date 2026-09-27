@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/fourth-doctor-frock-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-02
+    last_modified: 2026-09-27
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # 4th Doctor Beige Frock Coat Tom Baker Inspired
@@ -25,15 +25,14 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/fourth-doctor-frock-coat/  
 **Type:** bespoke (made to order)  
 **Price:** USD 689.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Beige. 13 options: 180100-3-Gray, 180100-4-Dark Gray, 180100-5-Charcoal, 180100-6B-Blue, 180100-7-Navy, 180100-8-Black, Beige, Black With Grey Stripes, Black With Self Stripes, Brown, Light Gray, Red, W1004-Tan
-- **Lining:** Brown Satin. 34 options: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
-- **Collar Trim Fabric:** Brown Velvet. 14 options: Black Corduroy, Blue Velvet, Brown Corduroy, Brown Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Corduroy, Navy Velvet, Oxblood Corduroy, Red Velvet, Same As Main Fabric, Tan Corduroy
+- **High Twist Wool Fabric:** Beige. Total 13 options available: 180100-3-Gray, 180100-4-Dark Gray, 180100-5-Charcoal, 180100-6B-Blue, 180100-7-Navy, 180100-8-Black, Beige, Black With Grey Stripes, Black With Self Stripes, Brown, Light Gray, Red, W1004-Tan
+- **Lining Fabric:** Brown Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Collar Trim Fabric:** Brown Velvet. Total 14 options available: Black Corduroy, Blue Velvet, Brown Corduroy, Brown Velvet, Green Velvet, Lavender Velvet, Light Green Velvet, Maroon Velvet, Navy Corduroy, Navy Velvet, Oxblood Corduroy, Red Velvet, Same As Main Fabric, Tan Corduroy
 
 ## Short Description
 
@@ -116,7 +115,7 @@ How It Works
 
 **Shipped to your door by trackable courier.** Both the test coat and the final coat. The test coat is yours to keep.
 
-**Production time:** 3-4 weeks after test coat approval **Ships:** Worldwide
+**Production time:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat **Ships:** Worldwide
 
 ---
 
@@ -201,7 +200,7 @@ Yes. Note your preferred coat length through the measurement page during checkou
 
 ### How long does production take?
 
-Allow 3-4 weeks from test coat approval to delivery of the final coat. This covers production of the test coat, shipping it to you, any adjustments, and production of the final garment. Both ship worldwide by trackable courier.
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship worldwide by trackable courier.
 
 ### Is this coat wearable outside of conventions?
 

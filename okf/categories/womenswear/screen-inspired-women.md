@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-12T03:00:01Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
+generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
 ---
 
 # Screen Inspired
@@ -32,7 +32,7 @@ Find your character
 - Spy Tailoring: Sharp coats with a secret-agent edge. The [Spectre navy coat](https://baronboutique.com/womens-mid-thigh-coat-spectre/) and the [Quantum of Solace peacoat](https://baronboutique.com/womens-quantum-of-solace-peacoat/), cu…
 - The Matrix: The floor-length statement. The [Matrix long black trench coat](https://baronboutique.com/the-matrix-revolutions-coat-for-women/), made to your measurements in a dramatic, fluid silhouette. From $599.
 - Gotham & Fantasy: Dark, theatrical, unforgettable. The [Dark Knight leather coat](https://baronboutique.com/womens-joker-coat-in-leather/) and the…
-- More Screen Coats: Many of these pieces are outerwear, so if you are after the silhouette rather than the character, browse the full [Women’s Coats & Overcoats](https://baronboutique.com/womenswear/coats-and-overcoats-for-women/) collection.
+- More Screen Coats: Many of these pieces are outerwear, so if you are after the silhouette rather than the character, browse the full [Women’s Coats & Overcoats](https://baronboutique.com/womenswear/coats-and-overcoats-for-women/) collectio…
 
 Choose the piece, cloth, and details
 Pick your character piece and its cloth, color, and details on the product page. If you want a screen-accurate touch we should know about, note it in the order.

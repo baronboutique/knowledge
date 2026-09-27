@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # The Double-Collar Tailored Shirt
@@ -25,13 +25,12 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-02T03:00:03Z }
 **URL:** https://baronboutique.com/womens-double-collar-boutique-tailored-shirt/  
 **Type:** bespoke (made to order)  
 **Price:** USD 199 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** White Oxford Cotton. 11 options: Butter Oxford Cotton, Cornflower Oxford Cotton, Indigo Oxford Cotton, Light Blue Oxford Cotton, Light Brown Oxford Cotton, Pink Oxford Cotton, White and Burgundy Stripe Oxford Cotton, White and Crimson Stripe Oxford Cotton, White and Purple Stripe Oxford Cotton, White and Sky Blue Stripe Oxford Cotton, White Oxford Cotton
+- **Oxford Cotton Fabric:** White Oxford Cotton. Total 11 options available: Butter Oxford Cotton, Cornflower Oxford Cotton, Indigo Oxford Cotton, Light Blue Oxford Cotton, Light Brown Oxford Cotton, Pink Oxford Cotton, White and Burgundy Stripe Oxford Cotton, White and Crimson Stripe Oxford Cotton, White and Purple Stripe Oxford Cotton, White and Sky Blue Stripe Oxford Cotton, White Oxford Cotton
 
 ## Short Description
 

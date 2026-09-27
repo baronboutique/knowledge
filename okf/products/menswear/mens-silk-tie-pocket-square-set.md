@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-20T03:00:09Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
+generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
 ---
 
 # Mens Silk Tie & Pocket Square Set Handmade
@@ -25,14 +25,13 @@ generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
 **URL:** https://baronboutique.com/mens-silk-tie-pocket-square-set/  
 **Type:** bespoke (made to order)  
 **Price:** USD 159.00 (verify current price on product page)  
-**Availability:** InStock  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Satin Silk Color:** Off-White. 12 options: Black, Blood Red-ColNo-242, Coral-ColNo-81, Cream-ColNo-136, Lilac-ColNo-29, Mustard-ColNo-142, Navy-ColNo-70D, Off-White, Pastel Pink-ColNo-19, Purple-ColNo-31D, Royal Blue-ColNo-53, Silver-ColNo-33
-- **Tie Width:** Standard. 3 options: Extra Large, Skinny, Standard
+- **Satin Silk Color:** Off-White. Total 12 options available: Black, Blood Red-ColNo-242, Coral-ColNo-81, Cream-ColNo-136, Lilac-ColNo-29, Mustard-ColNo-142, Navy-ColNo-70D, Off-White, Pastel Pink-ColNo-19, Purple-ColNo-31D, Royal Blue-ColNo-53, Silver-ColNo-33
+- **Tie Width:** Standard. Total 3 options available: Extra Large, Skinny, Standard
 
 ## Short Description
 
