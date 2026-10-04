@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # The Cornerstone Professional Shirt
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Egyptian Cotton Fabric:** Black Egyptian Cotton. Total 8 options available: Black Egyptian Cotton, Blue Egyptian Cotton, Lavender Egyptian Cotton, Light Blue Egyptian Cotton, Light Purple Egyptian Cotton, Pink Egyptian Cotton, Sky Blue Egyptian Cotton, White Egyptian Cotton
+- **Fabric:** Black Egyptian Cotton. Total 8 options available: Black Egyptian Cotton, Blue Egyptian Cotton, Lavender Egyptian Cotton, Light Blue Egyptian Cotton, Light Purple Egyptian Cotton, Pink Egyptian Cotton, Sky Blue Egyptian Cotton, White Egyptian Cotton
 
 ## Short Description
 

@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # Destination Wedding Suit with Cape, Custom Made in Fresco Wool
@@ -33,7 +33,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 - **Cape Fabric:** Black Fresco Wool. Total 13 options available: Beige Fresco Wool, Black Fresco Wool, Blue Fresco Wool, Charcoal Fresco Wool, Chocolate Brown Fresco Wool, Dark Grey Fresco Wool, Grey Fresco Wool, Light Grey Fresco Wool, Navy Blue Fresco Wool, Purple Fresco Wool, Red Fresco Wool, Tan Fresco Wool, White Fresco Wool
 - **Satin Silk Lining:** Black. Total 20 options available: Aqua Green-ColNo-101L, Baby Blue-ColNo-348L, Beige-ColNo-188, Black, Blood Red-ColNo-242, Charcoal-ColNo-36, Chocolate-ColNo-210, French Blue-ColNo-53, Green-ColNo-150, Hot Pink-ColNo-202, Navy-ColNo-70DD, Off White, Olive Green-ColNo-166, Orange Brick-ColNo-403, Orange-ColNo-84, Pink-ColNo-43L, Red-ColNo-24, Royal Purple-ColNo-147D, Sage Green-ColNo-219, Yellow-ColNo-5
 - **Tunic & Pants Fabric:** Black Fresco Wool. Total 13 options available: Beige Fresco Wool, Black Fresco Wool, Blue Fresco Wool, Charcoal Fresco Wool, Chocolate Brown Fresco Wool, Dark Grey Fresco Wool, Grey Fresco Wool, Light Grey Fresco Wool, Navy Blue Fresco Wool, Purple Fresco Wool, Red Fresco Wool, Tan Fresco Wool, White Fresco Wool
-- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Lining:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # The Crepe Silk Blouse
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Crepe Silk Fabric:** White Crepe Silk. Total 16 options available: Aqua Crepe Silk, Beetroot Crepe Silk, Black Crepe Silk, Buttercup Crepe Silk, Dark Blue Crepe Silk, Dark Grey Crepe Silk, Lavender Crepe Silk, Light Grey Crepe Silk, Lime Crepe Silk, Mandarin Red Crepe Silk, Orange Crepe Silk, Red Crepe Silk, Rose Crepe Silk, Royal Blue Crepe Silk, Sage Crepe Silk, White Crepe Silk
+- **Fabric:** White Crepe Silk. Total 16 options available: Aqua Crepe Silk, Beetroot Crepe Silk, Black Crepe Silk, Buttercup Crepe Silk, Dark Blue Crepe Silk, Dark Grey Crepe Silk, Lavender Crepe Silk, Light Grey Crepe Silk, Lime Crepe Silk, Mandarin Red Crepe Silk, Orange Crepe Silk, Red Crepe Silk, Rose Crepe Silk, Royal Blue Crepe Silk, Sage Crepe Silk, White Crepe Silk
 
 ## Short Description
 

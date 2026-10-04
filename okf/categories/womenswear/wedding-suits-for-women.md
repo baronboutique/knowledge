@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T18:52:36Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T18:52:36Z }
 ---
 
 # Wedding Suits
@@ -84,7 +84,7 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 - [The Women's Bespoke Tuxedo](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
 - [The Women's Tuxedo Suit](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
 - [The Wool & Silk Blend Suit](../../products/womenswear/wedding-suits-for-women/boutique-tailored-silk-and-wool-suit.md)
-- [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](../../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
+- [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](../../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 
 **Related terms:** bridal pant suit, women's wedding suits, modern bride suit, courthouse wedding outfit, tailored bridal separates
 

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-silk-suit-in-dupioni-silk/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-27
+    last_modified: 2026-09-29
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Dupioni Silk Fabric:** Green Dupioni Silk. Total 22 options available: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
-- **Lining Fabric:** Green Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Green Dupioni Silk. Total 22 options available: Aqua Dupioni Silk, Black Dupioni Silk, Blood Red Dupioni Silk, Blue Dupioni Silk, Chocolate Dupioni Silk, Cream Dupioni Silk, Cream Turquoise Dupioni Silk, Crimson Pink Dupioni Silk, English Khaki Dupioni Silk, Green Dupioni Silk, Light Blue Dupioni Silk, Lime Green Dupioni Silk, Orange Dupioni Silk, Purple Dupioni Silk, Red Dupioni Silk, Royal Gold Dupioni Silk, Royal Pink Dupioni Silk, Sea Green Dupioni Silk, Silver Dupioni Silk, Turquoise Dupioni Silk, White Dupioni Silk, Yellow Dupioni Silk
+- **Lining:** Green Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
@@ -63,7 +63,7 @@ This is the part most tailors don’t do, and most customers don’t believe unt
 
 Before we cut into silk, we make you a cotton version of your suit to the measurements you send us, and we ship it to your door. You try it on at home. If anything needs adjusting, you tell us. Once the fit is right, we make your silk suit to the corrected pattern. The test suit is yours to keep.
 
-No other silk suit seller online does this. It is the single reason our international customers come back.
+Most silk suits sold online skip this step. It is a big part of why our international customers come back.
 
 ### His test suit, before we cut the silk
 
@@ -76,7 +76,7 @@ The Fabric
 ## 100% pure dupioni silk in 22 colors
 
 100% Pure Silk  
- Natural Lustre  
+ Natural Luster  
  22 Colors  
  Wedding-Grade  
  Photographs Well
@@ -109,11 +109,12 @@ Construction
 | Pockets | Slanted front pockets, two piped back pockets with button closure |
 | Waistband | Extended square-tab closure, grip-lined to hold your shirt in place |
 | Lining | Acetate-lined to the front knee |
-| Hems | Hand-stitched, handmade buttonholes |
+| Hem | Hand-stitched |
+| Buttonholes | Hand-finished |
 | Belt loops | 1.75 inch |
 | Extras | Suspender buttons available on request |
 
-Want a ticket pocket, double vent, peak lapel, or a different button count? Want to add a vest (waistcoat) with an additional charge to make it a three-piece? Add it to the order notes at checkout and we will confirm before we start.
+Want a ticket pocket, double vent, peak lapel, or a different button count? Want to add a vest (waistcoat) with an additional charge to make it a three-piece? Write it in the comment box on the measurement form and we will confirm before we start.
 
 ---
 
@@ -147,7 +148,7 @@ How Your Order Works
 
 Choose and submit
 
-Choose your silk color and lining, add measurements, mention any special notes on this page. Secure checkout through PayPal. Pay with your PayPal balance or any major credit or debit card through PayPal’s guest checkout, no PayPal account required.
+Choose your silk color and lining, add measurements, and write any special notes in the comment box on this page. Secure checkout through PayPal. Pay with your PayPal balance or any major credit or debit card through PayPal’s guest checkout, no PayPal account required.
 
 2
 
@@ -218,23 +219,23 @@ Questions & Answers
 
 ### How much does a custom silk suit cost?
 
-Our dupioni silk suits are $699 for a two-piece and $898 for a three-piece with waistcoat. The free test suit is included — no separate fitting fee.
+Our dupioni silk suits are $699 for a two-piece and $898 for a three-piece with waistcoat. The free test suit is included, with no separate fitting fee.
 
 ### Is this a real 100% silk suit?
 
 Yes. The fabric is 100% dupioni silk, not silk-blend, not polyester with a silk finish. The lining is acetate.
 
-### What if I want to return the suit??
+### What if I want to return the suit?
 
-Custom-made garments are not eligible for return or refund once production has begun. Fit concerns are resolved through our alteration services, https://baronboutique.com/alteration-return-refund/
+Custom-made garments are not eligible for return or refund once production has begun. Fit concerns are resolved through our alteration services, as explained in our [alteration, return and refund policy](https://baronboutique.com/alteration-return-refund/).
 
 ### Do I need a tailor to take my measurements?
 
-No. Every measurement field on this page has instructions, and most customers finish in about 15 minutes with a soft tape measure and a second person to help. Small errors are normal — that is what the free test suit is for. Nothing is cut in silk until you confirm the fit.
+No. Every measurement field on this page has instructions, and most customers finish in about 15 minutes with a soft tape measure and a second person to help. Small errors are normal, and that is what the free test suit is for. Nothing is cut in silk until you confirm the fit.
 
 ### How far in advance should I order a silk suit for a wedding?
 
-Order as early as you can before the wedding. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your date is closer, contact us before ordering — rush production is sometimes possible and we will tell you honestly whether your date is achievable.
+Order as early as you can before the wedding. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your date is closer, contact us before ordering. Rush production is sometimes possible, and we will tell you honestly whether your date is achievable.
 
 ### How long does a custom silk suit usually take to make and deliver?
 
@@ -258,28 +259,28 @@ Secure checkout through PayPal. You can pay with your PayPal balance or with any
 
 ### Is dupioni silk good for a wedding?
 
-Yes, it is one of the most common silks used for formal menswear. It has a subtle natural texture and a soft lustre that photographs well indoors and outdoors. Black, ivory, navy and burgundy are the most common wedding choices among our customers.
+Yes, it is one of the most common silks used for formal menswear. It has a subtle natural texture and a soft luster that photographs well indoors and outdoors. Black, ivory, navy and burgundy are the most common wedding choices among our customers.
 
 ### Can I add a vest or ticket pocket?
 
-Yes. Add any customizations (ticket pocket, peak lapels, double vent, three-piece with waistcoat at additional charge, suspender buttons, and so on) in the order notes at checkout or email us after the order and we will confirm before production.
+Yes. Write any customizations (ticket pocket, peak lapels, double vent, three-piece with waistcoat at additional charge, suspender buttons, and so on) in the comment box on the measurement form, or email us after the order, and we will confirm before production.
 
 ## Questions & Answers
 
 **Q:** How much does a custom silk suit cost?  
-**A:** Our dupioni silk suits are $699 for a two-piece and $898 for a three-piece with waistcoat. The free test suit is included — no separate fitting fee.
+**A:** Our dupioni silk suits are $699 for a two-piece and $898 for a three-piece with waistcoat. The free test suit is included, with no separate fitting fee.
 
 **Q:** Is this a real 100% silk suit?  
 **A:** Yes. The fabric is 100% dupioni silk, not silk-blend, not polyester with a silk finish. The lining is acetate.
 
-**Q:** What if I want to return the suit??  
-**A:** Custom-made garments are not eligible for return or refund once production has begun. Fit concerns are resolved through our alteration services, https://baronboutique.com/alteration-return-refund/
+**Q:** What if I want to return the suit?  
+**A:** Custom-made garments are not eligible for return or refund once production has begun. Fit concerns are resolved through our alteration services, as explained in our alteration, return and refund policy.
 
 **Q:** Do I need a tailor to take my measurements?  
-**A:** No. Every measurement field on this page has instructions, and most customers finish in about 15 minutes with a soft tape measure and a second person to help. Small errors are normal — that is what the free test suit is for. Nothing is cut in silk until you confirm the fit.
+**A:** No. Every measurement field on this page has instructions, and most customers finish in about 15 minutes with a soft tape measure and a second person to help. Small errors are normal, and that is what the free test suit is for. Nothing is cut in silk until you confirm the fit.
 
 **Q:** How far in advance should I order a silk suit for a wedding?  
-**A:** Order as early as you can before the wedding. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your date is closer, contact us before ordering — rush production is sometimes possible and we will tell you honestly whether your date is achievable.
+**A:** Order as early as you can before the wedding. Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If your date is closer, contact us before ordering. Rush production is sometimes possible, and we will tell you honestly whether your date is achievable.
 
 **Q:** How long does a custom silk suit usually take to make and deliver?  
 **A:** Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The test suit step adds a little time at the start but prevents far bigger delays at the end from fit corrections.
@@ -297,10 +298,10 @@ Yes. Add any customizations (ticket pocket, peak lapels, double vent, three-piec
 **A:** 22 colors including black, ivory, cream, navy, royal blue, burgundy, crimson, bottle green, sea green, orange, royal gold and silver. The full list is in the color selector on this page.
 
 **Q:** Is dupioni silk good for a wedding?  
-**A:** Yes, it is one of the most common silks used for formal menswear. It has a subtle natural texture and a soft lustre that photographs well indoors and outdoors. Black, ivory, navy and burgundy are the most common wedding choices among our customers.
+**A:** Yes, it is one of the most common silks used for formal menswear. It has a subtle natural texture and a soft luster that photographs well indoors and outdoors. Black, ivory, navy and burgundy are the most common wedding choices among our customers.
 
 **Q:** Can I add a vest or ticket pocket?  
-**A:** Yes. Add any customizations (ticket pocket, peak lapels, double vent, three-piece with waistcoat at additional charge, suspender buttons, and so on) in the order notes at checkout or email us after the order and we will confirm before production.
+**A:** Yes. Write any customizations (ticket pocket, peak lapels, double vent, three-piece with waistcoat at additional charge, suspender buttons, and so on) in the comment box on the measurement form, or email us after the order, and we will confirm before production.
 
 ## Customer Reviews
 

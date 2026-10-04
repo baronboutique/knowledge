@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "The Custom Wide-Leg Linen Pant"
-description: "This is your secret weapon for the 9-to-5 and beyond. Our Women's Wide Leg Linen Pants are designed for the modern professional who demands both style and comfort."
+title: "Women's Wide Leg Linen Pants, Lined to the Knee"
+description: "Wide leg linen pants for women in 100% linen, cut as real trousers with a flat front, belt loops, welt back pockets and a pressed crease, and made to your measurements."
 resource: https://baronboutique.com/womens-classic-linen-pants/
 tags: [women, pants, linen, summer, workwear, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/womens-classic-linen-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-07-28
+    last_modified: 2026-09-30
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
 ---
 
-# The Custom Wide-Leg Linen Pant
+# Women's Wide Leg Linen Pants, Lined to the Knee
 
 **SKU:** 2900010  
 **URL:** https://baronboutique.com/womens-classic-linen-pants/  
@@ -30,71 +30,225 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Linen Fabric:** Natural Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
-- **Lining Fabric:** Beige Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Natural Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
+- **Lining:** Beige Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
-This is your secret weapon for the 9-to-5 and beyond. Our Women's Wide Leg Linen Pants are designed for the modern professional who demands both style and comfort. The genius is in the custom-tailored drape, which ensures the breathable, relaxed linen looks as polished and commanding as a traditional suit trouser, solving the work-to-weekend dilemma in a single, elegant step.
+Wide leg linen pants for women in 100% linen, cut as real trousers with a flat front, belt loops, welt back pockets and a pressed crease, and made to your measurements. The front of each leg is lined to the knee in a satin lining you choose, so pale linen stays opaque and the wide leg swings instead of clinging. Choose from 18 linens and 34 lining colors, and try a free test pair before your linen is cut.
 
-## The Art of the Effortless Drape
+Wide Leg Linen Pants
 
-This is the antidote to restrictive summer style. A pair of wide-leg trousers that masterfully balances a relaxed, flowing silhouette with the polish of a perfect fit. We’ve taken the timeless wide-leg and crafted it from pure, breathable linen, creating the ultimate staple for chic, warm-weather dressing.
+## Wide Leg Linen Pants, Tailored and Lined to the Knee
 
-### The Soul of Summer: Pure Linen
+These are a wide leg trouser, not a palazzo. The front is flat, the waistband has belt loops, and a pressed crease runs down each leg. From the seat, the leg falls wide and straight to a hem that nearly touches the floor, so the linen moves when you walk and still looks like tailoring when you stand.
 
-The magic of these trousers is their exceptional fabric, chosen specifically for its performance and beauty in warm weather.
+What sets this pair apart is inside: the front of each leg is lined to the knee in a smooth satin lining, in a color you choose. They are made to your measurements in 100% linen, and before we cut your linen, we send you a free test pair to try on at home.
 
-- **100% Pure Linen:** Renowned for its natural breathability and moisture-wicking properties, linen keeps you cool and comfortable, even on the hottest days, while offering a beautiful, organic texture.
-- **A Palette of 18 Colors:** Choose from a wide range of 18 shades, from classic natural and off-white to rich burgundy and cornflower blue.
+Wide leg  
+ 100% linen  
+ Lined to the knee  
+ 34 lining colors  
+ 18 linens  
+ Free test pair first  
+ Made to your measurements
 
-### Engineered for a Flattering Flow
+---
 
-These aren’t just wide-leg pants; they are a study in proportion and drape, designed to elongate and flatter.
+Free Test Pair
 
-- **The Perfect Wide-Leg Cut:** A clean, flat front flows into a generous wide leg, creating a powerful, leg-lengthening silhouette that moves gracefully with you.
-- **Classic Trouser Details:** Features a zip fly with a durable horn button closure, practical slanted front pockets, and two elegant single-welt back pockets.
-- **A Smarter Waistband:** The interior of the waistband is enforced with a grip, a high-end detail that helps keep your shirts neatly tucked in all day.
+## A Free Test Pair Before We Cut Your Linen
 
-### The Secret to a Perfect Drape: Your Free Test Pants
+1
 
-The elegance of a wide-leg pant depends entirely on how it drapes from the waist and hips. We eliminate the risk of a poor fit by sending you a **free pair of test pants** first.
+Choose linen and lining
 
-1. **Receive Your Test Garment:** We mail you a test pair made in cotton to your exact initial measurements.
-2. **Confirm the Fit and Flow:** This is your chance to perfect the waist placement, the inseam length, and the width of the leg opening to ensure a flawless, elegant drape.
-3. **We Craft Your Masterpiece:** We apply your feedback to tailor the final linen pants for a silhouette that flows perfectly and is intentionally yours.
+Pick your linen and lining colors, enter your measurements on this page, and write your heel height and any changes, such as leg width, in the comment box.
 
-The test pants are yours to keep.
+2
 
-#### Caring For Your Linen
+We make your test pair
 
-For ultimate convenience, these linen pants are machine washable.
+We make a cotton test pair to your measurements and ship it to your door. It is yours to keep.
 
-#### Wide Leg Linen Pants Feature
+3
 
-- hand-tailored from 100% woven linen fabric
-- wide cut pants leg
-- zipper fly front with button closure waistband
-- five 1.75-inch tall belt loops on 1.5 inches tall waistband
-- slanted front pockets
-- plain front styling
-- two back pockets with a single welt pocket opening
-- hand made buttonholes
-- an acetate lined pants front till knee
-- a grip enforced waistband interior for better tuck-ins
-- skirt waistband lining
-- the leg-lengthening style in pants
-- 3 inches blind hem in the pants leg
-- hand-stitched pants leg blind hem
-- hand-carved brown horn buttons
-- stitched and reinforced pants buttons by hand
-- ample seam allowances for easy alteration
+You check the fit at home
+
+Wear it with the shoes you plan to wear. Check where the waist sits, how the leg falls from the seat, the width at the hem and the length, and send us your notes and the requested photos.
+
+4
+
+We make your final pair
+
+Your notes go into the pattern, and your pants are cut from your chosen linen and shipped worldwide with tracking.
+
+Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
+
+**Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine washable, or dry clean
+
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+
+---
+
+Lined to the Knee
+
+## Why These Linen Pants Are Lined to the Knee
+
+Most linen pants are unlined, and for a slim cut that is right. A wide leg is different: there is more cloth, it moves more, and it is often made in pale colors. A lining in the front of each leg, from the waist to just below the knee, fixes three common complaints.
+
+No show-through at the front
+
+Natural, Off White, White and the pale linens stay opaque across the front and thighs, where it matters, even in bright sun.
+
+The leg swings, not clings
+
+Linen can catch on bare legs. The smooth lining lets the wide leg slide and swing as you walk.
+
+Support where you sit
+
+The lining backs the linen across the lap and knees, where it takes the most strain, and helps it keep its shape through the day.
+
+The lower leg and the back are left unlined, so the pants stay light and cool. Choose your lining in the Lining Fabric selector above: 34 satins, from plain Beige and Off White to Navy, Plum and paisley prints. A lining close to the linen color is the quiet choice; a paisley or a bright satin is a private detail only you will know about. For the hottest weather, you can ask for them unlined in the comment box.
+
+---
+
+Width and Length
+
+## How Wide, and How Long?
+
+A wide leg looks right or wrong mostly because of two things: the width at the hem and the length. Both are set to you, and you check both on the free test pair.
+
+| Leg width | A wide trouser leg, as in the photos. For a fuller, palazzo-like leg or a slightly narrower one, write it in the comment box. |
+| --- | --- |
+| Length | A wide leg should be long: about half an inch off the floor at the back in the shoes you wear most. Tell us your heel height, flats, low heels or high heels, and try the test pair with those shoes. |
+| Rise | Taken from your measurements. For a high-waisted fit, ask in the comment box. |
+| Ankle length | Available on request if you prefer a cropped wide leg that shows the ankle. |
+
+Prefer a narrower line that falls straight from the knee? See our [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/), which are unlined for maximum airflow.
+
+---
+
+Natural and Tan
+
+## Natural, Khaki and Tan Linen, Plus 12 More
+
+The photos show Natural linen. Wide leg pants are often worn in the warm neutrals, so here they are up close. Pick your linen in the fabric selector above.
+
+Natural
+
+The warm oatmeal beige in the photos.
+
+Khaki
+
+A deeper sand, for khaki linen pants.
+
+Soft Tan
+
+A pale stone tan.
+
+Herringbone Natural
+
+Natural with a fine herringbone texture.
+
+Brown
+
+A warm tobacco brown.
+
+Off White
+
+A soft ivory, opaque at the front thanks to the lining.
+
+Also available: White, Black, Charcoal, Grey, Dark Blue, Blue, Light Blue, Cornflower, Turquoise, Lavender, Pink and Burgundy.
+
+---
+
+Full Spec
+
+## Full Specifications
+
+| Cloth | 100% woven linen, 18 colors |
+| --- | --- |
+| Leg | Wide leg with a pressed crease; fuller or narrower on request |
+| Front | Flat front, zip fly with button closure |
+| Waistband | 1.5-inch waistband with five 1.75-inch belt loops, grip-lined to keep tops tucked in, waistband lining |
+| Pockets | Two slanted front pockets, two single-welt back pockets |
+| Lining | Acetate satin, front lined to the knee, 34 colors; unlined or fully lined on request |
+| Seams | Ample seam allowances for future alteration |
+| Buttonholes | Hand-finished |
+| Buttons | Hand-stitched and reinforced |
+| Hem | 3-inch blind hem, hand-stitched |
+| Care | Machine wash cold on a gentle cycle and hang to dry, or dry clean; iron while slightly damp or steam |
+
+Want a different leg width, a high waist, an ankle length or another change? Write it in the comment box on the measurement form, or send your request through the “Ask a question about this piece” form below the Add to Cart button, and we will confirm before we start.
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About These Wide Leg Linen Pants
+
+### Are these wide leg linen pants lined?
+
+Yes. The front of each leg is lined to just below the knee in a satin lining, in any of 34 colors. The lower leg and the back are unlined so they stay cool. You can ask for them unlined or fully lined in the comment box.
+
+### Are light linen pants see-through?
+
+Unlined pale linen can be, in bright sun. On this pair the front lining keeps Natural, Off White, White and the other light linens opaque across the front and thighs.
+
+### What are these pants made of?
+
+100% woven linen, not a blend, with an acetate satin lining at the front to the knee.
+
+### How long should wide leg pants be?
+
+For a wide leg, about half an inch off the floor at the back in the shoes you wear most. Tell us your heel height, and check the length on the free test pair wearing those shoes.
+
+### Can I have them high-waisted or ankle length?
+
+Yes. Write “high waist” or “ankle length” in the comment box on the measurement form, and you will see the result on the free test pair before your linen is cut.
+
+### Can I make the leg wider, like palazzo pants?
+
+Yes. The standard is a wide trouser leg, as in the photos. For a fuller palazzo-like leg, or a slightly narrower one, tell us in the comment box.
+
+### Do you make khaki or tan linen pants?
+
+Yes. Choose Khaki, Soft Tan or Natural, the oatmeal beige in the photos, or Brown for a deeper tone. All are $239.
+
+### Are wide leg linen pants good for work?
+
+These are, because they are cut as trousers: a flat front, a zip fly, belt loops, welt back pockets and a pressed crease. With a tucked-in blouse, which the grip-lined waistband keeps in place, and a light jacket, they suit an office in summer.
+
+### What is the difference between these and your straight leg linen trousers?
+
+These are wider and lined to the knee. The [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/) are narrower from the knee down and unlined for maximum airflow. Both come in the same 18 linens.
+
+### How much do these wide leg linen pants cost, and can I wash them?
+
+They are $239 in any linen and lining color, including a free cotton test pair that is yours to keep. Machine wash cold on a gentle cycle and hang to dry, or dry clean if you prefer.
+
+### How long does it take to receive my pants, and do you ship internationally?
+
+Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship worldwide with tracking, so for summer, order as early as you can.
 
 ## Categories
 
 - Women › Pants
 
-**Related terms:** linen trousers for women, breathable work pants, vacation pants
+**Related terms:** wide leg linen pants, tailored wide leg linen pants, lined linen pants, khaki linen pants women, high waisted wide leg linen pants, linen pants for work
 
 ## Related
 

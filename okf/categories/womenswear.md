@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T18:52:36Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T18:52:36Z }
 ---
 
 # Women
@@ -88,7 +88,7 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 - [Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors](../products/womenswear/cashmere-wrap-scarf-womens-80-plus-colors.md)
 - [Featherlight Cashmere Scarf for Travel, Weddings & Events](../products/womenswear/womens-featherlight-cashmere-scarf.md)
 - [Unlined Linen Duster Coat](../products/womenswear/linen-dress-jacket-with-notch-collar.md)
-- [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
+- [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](../products/womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)
 
 **Related terms:** custom clothing for women, women's bespoke tailoring online, made-to-order womenswear, tailor made clothes for her, custom office wear women

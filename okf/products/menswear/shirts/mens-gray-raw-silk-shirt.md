@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # Grey Raw Silk Shirt - Short Sleeves
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Raw Silk Fabric:** Grey Raw Silk. Total 14 options available: Aqua Green Raw Silk, Blood Red Raw Silk, Brown Raw Silk, Gold Raw Silk, Grey Raw Silk, Hot Pink Raw Silk, Natural Raw Silk, Orange Raw Silk, Petrol Blue Raw Silk, Pink Raw Silk, Red Raw Silk, Steel Grey Raw Silk, Unprocessed Raw Silk, Yellow Raw Silk
+- **Fabric:** Grey Raw Silk. Total 14 options available: Aqua Green Raw Silk, Blood Red Raw Silk, Brown Raw Silk, Gold Raw Silk, Grey Raw Silk, Hot Pink Raw Silk, Natural Raw Silk, Orange Raw Silk, Petrol Blue Raw Silk, Pink Raw Silk, Red Raw Silk, Steel Grey Raw Silk, Unprocessed Raw Silk, Yellow Raw Silk
 
 ## Short Description
 

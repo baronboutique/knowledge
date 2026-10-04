@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # John Watson Black Shooting Jacket BBC Sherlock Holmes
@@ -32,7 +32,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Twill Cotton Heavy:** Black Twill Cotton. Total 5 options available: Black Twill Cotton, Green Twill Cotton, Khaki Twill Cotton, Navy Twill Cotton, Red Twill Cotton
+- **Fabric:** Black Twill Cotton. Total 5 options available: Black Twill Cotton, Green Twill Cotton, Khaki Twill Cotton, Navy Twill Cotton, Red Twill Cotton
 
 ## Short Description
 

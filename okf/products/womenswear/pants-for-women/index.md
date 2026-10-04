@@ -52,17 +52,17 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 
 ## Products
 
-- [The Custom Slim-Fit Bootcut Trouser](womens-iconic-wool-pants.md)
-- [The Custom Straight-Leg Linen Pant](womens-warm-weather-linen-pants.md)
-- [The Custom Velvet Skinny Pant](womens-velvet-pants.md)
-- [The Custom Wide-Leg Linen Pant](womens-classic-linen-pants.md)
-- [The Custom-Tailored Flare Trouser](womens-work-pants-in-sharkskin.md)
 - [The Essential Straight-Leg Formal Trouser](womens-menswear-inspired-pants.md)
-- [The Essential Wool Dress Trouser](womens-seasonless-pure-new-wool-pants.md)
 - [The Foundational Dress Trouser](womens-melange-dress-pants.md)
-- [The Modern Relaxed-Fit Work Trouser](womens-all-season-tropical-pants.md)
 - [The Modern Tapered-Leg Trouser](womens-fresco-wool-pants-for-all-season.md)
-- [The Warm-Weather Dress Trouser](womens-warm-weather-wool-pants.md)
+- [Women's Dress Pants with Back Pockets in Mohair Wool](womens-warm-weather-wool-pants.md)
+- [Women's Lined Wool Trousers in Super 160s Wool](womens-seasonless-pure-new-wool-pants.md)
+- [Women's Navy Tailored Flare Trousers in Sharkskin Wool](womens-work-pants-in-sharkskin.md)
+- [Women's Relaxed Fit Trousers in Super 140s Tropical Wool](womens-all-season-tropical-pants.md)
+- [Women's Slim Tailored Bootcut Trousers in Super 140s Wool](womens-iconic-wool-pants.md)
+- [Women's Straight Leg Linen Trousers in Pure Linen](womens-warm-weather-linen-pants.md)
+- [Women's Velvet Skinny Trousers in Stretch Velvet](womens-velvet-pants.md)
+- [Women's Wide Leg Linen Pants, Lined to the Knee](womens-classic-linen-pants.md)
 
 ## Related
 

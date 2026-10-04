@@ -61,7 +61,7 @@ Every adjustment is applied, then your coat is cut and hand-tailored in your cho
 - [Double Breasted Wool Coat Womens Mid Length](womens-double-breasted-wool-cashmere-coat.md)
 - [Navy Wool Cashmere Coat Womens Tailored Single Breasted](womens-classic-navy-topcoat.md)
 - [The Cobalt Blue Statement Coat](womens-cobalt-blue-wool-coat.md)
-- [The Victorian Winter Frock Coat](womens-victorian-winter-frock-coat.md)
+- [Women's Frock Coat, Victorian Winter Cut in Burgundy Wool](womens-victorian-winter-frock-coat.md)
 - [Womens Dress Coats Winter](womens-wool-dress-coat.md)
 - [Womens Long Dress Coat Oversized](womens-dropped-shoulders-coat.md)
 - [Womens Peacoat Wool Double Breasted](12th-quantum-coat-for-women.md)

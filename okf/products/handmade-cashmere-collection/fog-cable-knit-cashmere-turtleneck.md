@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # Fog Cable Knit Cashmere Turtleneck Sweater
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Knitwear Size:** M (8). Total 9 options available: 3XL (15), 4XL (16), L (10), M (8), S (6), XL (12), XS (4), XXL (14), XXS (0-2)
+- **Size:** M (8). Total 9 options available: 3XL (15), 4XL (16), L (10), M (8), S (6), XL (12), XS (4), XXL (14), XXS (0-2)
 
 ## Short Description
 

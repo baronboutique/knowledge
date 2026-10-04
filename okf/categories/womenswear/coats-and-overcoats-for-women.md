@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-27T18:52:36Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T18:52:36Z }
 ---
 
 # Coats & Overcoats
@@ -82,9 +82,9 @@ Every adjustment is applied, then your coat is cut and hand-tailored in your cho
 - [Double Breasted Wool Coat Womens Mid Length](../../products/womenswear/coats-and-overcoats-for-women/womens-double-breasted-wool-cashmere-coat.md)
 - [Navy Wool Cashmere Coat Womens Tailored Single Breasted](../../products/womenswear/coats-and-overcoats-for-women/womens-classic-navy-topcoat.md)
 - [The Cobalt Blue Statement Coat](../../products/womenswear/coats-and-overcoats-for-women/womens-cobalt-blue-wool-coat.md)
-- [The Victorian Winter Frock Coat](../../products/womenswear/coats-and-overcoats-for-women/womens-victorian-winter-frock-coat.md)
 - [Women's 12th Doctor Burgundy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctor-burgundy-velvet-coat-for-women.md)
 - [Women's Beige Frock Coat with Red Stripe](../../products/womenswear/screen-inspired-women/5th-doctor-red-piping-frock-coat-for-women.md)
+- [Women's Frock Coat, Victorian Winter Cut in Burgundy Wool](../../products/womenswear/coats-and-overcoats-for-women/womens-victorian-winter-frock-coat.md)
 - [Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa](../../products/womenswear/screen-inspired-women/womens-long-black-leather-coat.md)
 - [Women's Twelfth Doctor Black Velvet Frock Coat](../../products/womenswear/screen-inspired-women/12th-doctor-black-velvet-frock-coat-for-women.md)
 - [Women's Twelfth Doctor Navy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctors-navy-velvet-coat-for-women.md)

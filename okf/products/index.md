@@ -124,13 +124,13 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors](womenswear/cashmere-wrap-scarf-womens-80-plus-colors.md)
 - [Featherlight Cashmere Scarf for Travel, Weddings & Events](womenswear/womens-featherlight-cashmere-scarf.md)
 - [Unlined Linen Duster Coat](womenswear/linen-dress-jacket-with-notch-collar.md)
-- [Women's Off-White Pinstripe Double-Breasted Suit, Custom Made in Merino Wool](womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
+- [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)
 - [Coats & Overcoats](womenswear/coats-and-overcoats-for-women/index.md) — 8 products
 - [Shirts & Blouses](womenswear/shirts-for-women/index.md) — 11 products
 - [Suits & Blazers](womenswear/suits-blazers-for-women/index.md) — 12 products
-- [Pants](womenswear/pants-for-women/index.md) — 11 products
 - [Wedding Suits](womenswear/wedding-suits-for-women/index.md) — 3 products
+- [Pants](womenswear/pants-for-women/index.md) — 11 products
 - [Skirts](womenswear/skirts-for-women/index.md) — 10 products
 - [Tuxedos](womenswear/tuxedos-for-women/index.md) — 3 products
 

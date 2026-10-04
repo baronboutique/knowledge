@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # Men's Black Suit in Super 130s Worsted Wool
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Super 130s Wool Fabric:** Black - GFSC.130.202. Total 20 options available: Black - GFSC.130.202, Black and White Houndstooth - GFSC.130.170, Blue - GFSC.130.215, Blue Birdseye - GFSC.130.192, Blue Micro Check - GFSC.130.163, Charcoal - GFSC.130.415, Cream - GFSC.130.435, Dark Grey - GFSC.130.410, Dark Grey Micro Check - GFSC.130.162, Grey - GFSC.130.405, Grey Herringbone - GFSC.130.181, Grey Micro Check - GFSC.130.160, Ink Blue - GFSC.130.214, Light Grey - GFSC.130.400, Light Grey Herringbone - GFSC.130.180, Light Grey Prince of Wales with Blue Overcheck - GFSC.130.175, Navy - GFSC.130.450, Navy Micro Check - GFSC.130.164, Soft Beige - GFSC.130.445, Teal Green - GFSC.130.425
-- **Lining Fabric:** Black Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Black - GFSC.130.202. Total 20 options available: Black - GFSC.130.202, Black and White Houndstooth - GFSC.130.170, Blue - GFSC.130.215, Blue Birdseye - GFSC.130.192, Blue Micro Check - GFSC.130.163, Charcoal - GFSC.130.415, Cream - GFSC.130.435, Dark Grey - GFSC.130.410, Dark Grey Micro Check - GFSC.130.162, Grey - GFSC.130.405, Grey Herringbone - GFSC.130.181, Grey Micro Check - GFSC.130.160, Ink Blue - GFSC.130.214, Light Grey - GFSC.130.400, Light Grey Herringbone - GFSC.130.180, Light Grey Prince of Wales with Blue Overcheck - GFSC.130.175, Navy - GFSC.130.450, Navy Micro Check - GFSC.130.164, Soft Beige - GFSC.130.445, Teal Green - GFSC.130.425
+- **Lining:** Black Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

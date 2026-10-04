@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # Navy Twill Shirt
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Twill Cotton Fabric:** Navy Twill Cotton. Total 8 options available: Black Twill Cotton, Brown Twill Cotton, Burgundy Twill Cotton, Grey Twill Cotton, Light Blue Twill Cotton, Navy Twill Cotton, Red Twill Cotton, Royal Purple Twill Cotton
+- **Fabric:** Navy Twill Cotton. Total 8 options available: Black Twill Cotton, Brown Twill Cotton, Burgundy Twill Cotton, Grey Twill Cotton, Light Blue Twill Cotton, Navy Twill Cotton, Red Twill Cotton, Royal Purple Twill Cotton
 
 ## Short Description
 

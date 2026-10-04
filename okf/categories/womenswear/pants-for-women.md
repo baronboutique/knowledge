@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
 ---
 
 # Pants
@@ -72,18 +72,18 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 
 ## Products
 
-- [The Custom Slim-Fit Bootcut Trouser](../../products/womenswear/pants-for-women/womens-iconic-wool-pants.md)
-- [The Custom Straight-Leg Linen Pant](../../products/womenswear/pants-for-women/womens-warm-weather-linen-pants.md)
-- [The Custom Velvet Skinny Pant](../../products/womenswear/pants-for-women/womens-velvet-pants.md)
-- [The Custom Wide-Leg Linen Pant](../../products/womenswear/pants-for-women/womens-classic-linen-pants.md)
-- [The Custom-Tailored Flare Trouser](../../products/womenswear/pants-for-women/womens-work-pants-in-sharkskin.md)
 - [The Essential Straight-Leg Formal Trouser](../../products/womenswear/pants-for-women/womens-menswear-inspired-pants.md)
-- [The Essential Wool Dress Trouser](../../products/womenswear/pants-for-women/womens-seasonless-pure-new-wool-pants.md)
 - [The Foundational Dress Trouser](../../products/womenswear/pants-for-women/womens-melange-dress-pants.md)
-- [The Modern Relaxed-Fit Work Trouser](../../products/womenswear/pants-for-women/womens-all-season-tropical-pants.md)
 - [The Modern Tapered-Leg Trouser](../../products/womenswear/pants-for-women/womens-fresco-wool-pants-for-all-season.md)
-- [The Warm-Weather Dress Trouser](../../products/womenswear/pants-for-women/womens-warm-weather-wool-pants.md)
 - [Thirteenth Doctor Teal Wool Pants](../../products/womenswear/screen-inspired-women/13th-doctor-pants.md)
+- [Women's Dress Pants with Back Pockets in Mohair Wool](../../products/womenswear/pants-for-women/womens-warm-weather-wool-pants.md)
+- [Women's Lined Wool Trousers in Super 160s Wool](../../products/womenswear/pants-for-women/womens-seasonless-pure-new-wool-pants.md)
+- [Women's Navy Tailored Flare Trousers in Sharkskin Wool](../../products/womenswear/pants-for-women/womens-work-pants-in-sharkskin.md)
+- [Women's Relaxed Fit Trousers in Super 140s Tropical Wool](../../products/womenswear/pants-for-women/womens-all-season-tropical-pants.md)
+- [Women's Slim Tailored Bootcut Trousers in Super 140s Wool](../../products/womenswear/pants-for-women/womens-iconic-wool-pants.md)
+- [Women's Straight Leg Linen Trousers in Pure Linen](../../products/womenswear/pants-for-women/womens-warm-weather-linen-pants.md)
+- [Women's Velvet Skinny Trousers in Stretch Velvet](../../products/womenswear/pants-for-women/womens-velvet-pants.md)
+- [Women's Wide Leg Linen Pants, Lined to the Knee](../../products/womenswear/pants-for-women/womens-classic-linen-pants.md)
 
 **Related terms:** women's tailored trousers, custom dress pants for women, office pants, made-to-order trousers women, high waisted work pants
 

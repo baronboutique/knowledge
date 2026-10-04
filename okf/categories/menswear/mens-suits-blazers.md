@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # Suits & Blazers
@@ -103,7 +103,6 @@ Your finished suit ships from Dubai by trackable courier, Your test suit takes 3
 - [Cary Grant North By Northwest Inspired Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
 - [Cotton Linen Blazer Mens Patch Pocket Jacket](../../products/menswear/grooms-linen-suits-for-wedding/linen-blazer-with-patch-pocket-details.md)
 - [Custom Dinner Jacket](../../products/menswear/tuxedos/stylish-dinner-jacket.md)
-- [Grey Pinstripe Suit](../../products/menswear/mens-suits-blazers/gray-pinstripe-suit.md)
 - [Grey Tropical Wool Suit](../../products/menswear/mens-suits-blazers/mens-gray-tropical-wool-suit.md)
 - [James Bond Casino Royale Final Scene Inspired 3 Piece Suit](../../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
 - [Linen Wedding Suit for Grooms, Custom Made](../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
@@ -111,7 +110,9 @@ Your finished suit ships from Dubai by trackable courier, Your test suit takes 3
 - [Men's Black Suit in Super 130s Worsted Wool](../../products/menswear/mens-suits-blazers/mens-essential-black-suit.md)
 - [Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front](../../products/menswear/dinner-jackets/slim-fit-blue-velvet-jacket.md)
 - [Men's Chalk Stripe Suit, Custom Made in Super 120s Merino Wool-Cashmere](../../products/menswear/mens-suits-blazers/merino-wool-cashmere-three-season-chalk-stripes-suit.md)
+- [Men's Gray Pinstripe Suit in Merino Wool](../../products/menswear/mens-suits-blazers/gray-pinstripe-suit.md)
 - [Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels](../../products/menswear/tuxedos/mens-navy-herringbone-wool-tuxedo.md)
+- [Men's Navy Pinstripe Suit, Three-Piece in Worsted Wool](../../products/menswear/mens-suits-blazers/3pcs-navy-pinstripe-suit.md)
 - [Men's Pure New Wool Suit, Custom Made in Super 160s VBC Wool](../../products/menswear/mens-suits-blazers/pure-new-wool-suit-in-year-round-hues.md)
 - [Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors](../../products/menswear/grooms-linen-suits-for-wedding/2button-linen-jacket.md)
 - [Mens Burgundy Flannel Tuxedo](../../products/menswear/tuxedos/light-weight-all-season-wool-flannel-tuxedo-suit.md)
@@ -136,7 +137,6 @@ Your finished suit ships from Dubai by trackable courier, Your test suit takes 3
 - [The Essential Navy Blazer](../../products/menswear/mens-suits-blazers/essential-navy-blazer.md)
 - [The Grey Flannel Suit](../../products/menswear/mens-suits-blazers/iconic-hollywood-gray-flannel-suit.md)
 - [The Linen Ceremonial Suit](../../products/menswear/grooms-linen-suits-for-wedding/wedding-party-linen-suit.md)
-- [The Navy Pinstripe Three-Piece Suit](../../products/menswear/mens-suits-blazers/3pcs-navy-pinstripe-suit.md)
 - [The Peak Lapel Tuxedo](../../products/menswear/tuxedos/mens-navy-wool-tuxedo.md)
 - [The Pink Wool Blazer](../../products/menswear/mens-suits-blazers/pink-melange-blazer.md)
 - [The Unstructured Cotton Suit Slim Fit Custom Made](../../products/menswear/mens-suits-blazers/cotton-suit-unstructured.md)

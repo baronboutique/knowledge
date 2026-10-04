@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # The Tailored Oversized Linen Shirt
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Linen Cotton Blend Fabric:** Black Linen Cotton. Total 11 options available: Black Linen Cotton, Brown Linen Cotton, Dark Blue Linen Cotton, Gold Linen Cotton, Light Khaki Linen Cotton, Lilac Linen Cotton, Lime Linen Cotton, Off White Linen Cotton, Stone Grey Linen Cotton, Turquoise Linen Cotton, White Linen Cotton
+- **Fabric:** Black Linen Cotton. Total 11 options available: Black Linen Cotton, Brown Linen Cotton, Dark Blue Linen Cotton, Gold Linen Cotton, Light Khaki Linen Cotton, Lilac Linen Cotton, Lime Linen Cotton, Off White Linen Cotton, Stone Grey Linen Cotton, Turquoise Linen Cotton, White Linen Cotton
 
 ## Short Description
 

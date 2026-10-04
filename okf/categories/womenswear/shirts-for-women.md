@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-28T17:28:59Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-28T17:28:59Z }
 ---
 
 # Shirts & Blouses
@@ -77,10 +77,10 @@ Every adjustment is applied, then your shirt is cut and hand-tailored in your ch
 - [The Crepe Silk Shirt Dress](../../products/womenswear/shirts-for-women/womens-tie-waist-crepe-silk-tailored-blouse.md)
 - [The Double-Collar Tailored Shirt](../../products/womenswear/shirts-for-women/womens-double-collar-boutique-tailored-shirt.md)
 - [The Essential Black Tailored Shirt](../../products/womenswear/shirts-for-women/womens-basic-black-twill-cotton-shirt.md)
-- [The Perfect Women's Oxford Shirt](../../products/womenswear/shirts-for-women/womens-pink-oxford-cotton-shirt.md)
 - [The Sculpted Sleeveless Blouse](../../products/womenswear/shirts-for-women/womens-sleeveless-cotton-blouse.md)
 - [The Tailored Oversized Linen Shirt](../../products/womenswear/shirts-for-women/womens-oversized-by-design-linen-shirt.md)
 - [The Tailored Ruffle Collar Shirt](../../products/womenswear/shirts-for-women/womens-ruffle-egyptian-cotton-dress-shirt.md)
+- [Women's Pink Oxford Shirt, Button-Down Collar in Oxford Cotton](../../products/womenswear/shirts-for-women/womens-pink-oxford-cotton-shirt.md)
 - [Womens Fitted Shirt Long Sleeves](../../products/womenswear/shirts-for-women/womens-fitted-twill-cotton-shirt.md)
 
 **Related terms:** women's tailored shirts, custom blouses, fitted dress shirt women, silk work blouse, button down shirts for women

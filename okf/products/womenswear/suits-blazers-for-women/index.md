@@ -58,18 +58,18 @@ Every adjustment is applied, then your suit is cut and hand-tailored in your cho
 
 ## Products
 
-- [The Bespoke Women's Suit](womens-tailored-suit.md)
 - [The Bespoke Wool Flannel Suit Dress](wool-flannel-dress-suit.md)
 - [The Essential Black Pant Suit](womens-essential-black-pant-suit.md)
 - [The Fresco Performance Suit](womens-fresco-wool-suit.md)
 - [The High-Performance Mohair Suit](womens-mohair-wool-suit.md)
-- [The Leather-Trimmed Sharkskin Blazer](womens-sharkskin-jacket.md)
 - [The Performance Tropical Wool Suit](womens-performance-tropical-wool-pantsuit.md)
 - [The Sculpted Wool Blazer](womens-merino-wool-blazer.md)
 - [The Sharkskin Work Suit](womens-work-suit-in-sharkskin.md)
 - [The Statement Red Blazer](classic-wool-blazer-in-red.md)
+- [Women's Business Suit, Bespoke in Italian VBC Wool](womens-tailored-suit.md)
+- [Women's Custom Blazer in Sharkskin Wool](womens-sharkskin-jacket.md)
+- [Women's Custom Skirt Suit in Pinstripe Wool](womens-skirt-suit-in-stripes.md)
 - [Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend](womens-pinstripe-pant-suit.md)
-- [Womens Skirt Suit](womens-skirt-suit-in-stripes.md)
 
 ## Related
 

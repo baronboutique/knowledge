@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # The Pink Oxford Shirt
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Oxford Cotton Fabric:** Pink Oxford Cotton. Total 11 options available: Butter Oxford Cotton, Cornflower Oxford Cotton, Indigo Oxford Cotton, Light Blue Oxford Cotton, Light Brown Oxford Cotton, Pink Oxford Cotton, White and Burgundy Stripe Oxford Cotton, White and Crimson Stripe Oxford Cotton, White and Purple Stripe Oxford Cotton, White and Sky Blue Stripe Oxford Cotton, White Oxford Cotton
+- **Fabric:** Pink Oxford Cotton. Total 11 options available: Butter Oxford Cotton, Cornflower Oxford Cotton, Indigo Oxford Cotton, Light Blue Oxford Cotton, Light Brown Oxford Cotton, Pink Oxford Cotton, White and Burgundy Stripe Oxford Cotton, White and Crimson Stripe Oxford Cotton, White and Purple Stripe Oxford Cotton, White and Sky Blue Stripe Oxford Cotton, White Oxford Cotton
 
 ## Short Description
 

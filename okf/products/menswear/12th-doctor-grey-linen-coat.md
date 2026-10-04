@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # 12th Grey Linen Coat, Capaldi Series 10
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Slub Linen Fabric:** Grey ColNo 12. Total 18 options available: Black ColNo 09, Blue ColNo 13, Brick ColNo 48, Brown ColNo 62, Charcoal ColNo 36, Dark Tan ColNo 43, Forest Green ColNo 73, Gold ColNo 88T, Grey ColNo 12, Light Blue ColNo 87T, Light Grey ColNo 63, Natural ColNo 70, Navy ColNo 23, Off-White ColNo 68, Olive Green ColNo 28, Persian Blue ColNo 79, Red ColNo 78, White ColNo 08
-- **Lining Fabric:** Black Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Grey ColNo 12. Total 18 options available: Black ColNo 09, Blue ColNo 13, Brick ColNo 48, Brown ColNo 62, Charcoal ColNo 36, Dark Tan ColNo 43, Forest Green ColNo 73, Gold ColNo 88T, Grey ColNo 12, Light Blue ColNo 87T, Light Grey ColNo 63, Natural ColNo 70, Navy ColNo 23, Off-White ColNo 68, Olive Green ColNo 28, Persian Blue ColNo 79, Red ColNo 78, White ColNo 08
+- **Lining:** Black Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

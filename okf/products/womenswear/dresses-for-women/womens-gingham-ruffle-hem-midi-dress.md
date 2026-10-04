@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
 ---
 
 # Gingham Ruffle Hem Midi Dress
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Gingham Cotton Fabric:** Midnight Gingham. Total 9 options available: Admiral Gingham, Dear Sea Gingham, Emerald Gingham, Haze Gingham, Midnight Gingham, Scotch Gingham, Slate Gingham, Tiger Gingham, True Gingham
+- **Fabric:** Midnight Gingham. Total 9 options available: Admiral Gingham, Dear Sea Gingham, Emerald Gingham, Haze Gingham, Midnight Gingham, Scotch Gingham, Slate Gingham, Tiger Gingham, True Gingham
 
 ## Short Description
 
