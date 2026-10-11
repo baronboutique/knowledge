@@ -52,15 +52,15 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 
 ## Products
 
-- [The Essential Straight-Leg Formal Trouser](womens-menswear-inspired-pants.md)
-- [The Foundational Dress Trouser](womens-melange-dress-pants.md)
-- [The Modern Tapered-Leg Trouser](womens-fresco-wool-pants-for-all-season.md)
 - [Women's Dress Pants with Back Pockets in Mohair Wool](womens-warm-weather-wool-pants.md)
+- [Women's Formal Straight Leg Trousers in Wool and Cashmere](womens-menswear-inspired-pants.md)
+- [Women's Light Gray Tailored Trousers in Melange Tropical Wool](womens-melange-dress-pants.md)
 - [Women's Lined Wool Trousers in Super 160s Wool](womens-seasonless-pure-new-wool-pants.md)
 - [Women's Navy Tailored Flare Trousers in Sharkskin Wool](womens-work-pants-in-sharkskin.md)
 - [Women's Relaxed Fit Trousers in Super 140s Tropical Wool](womens-all-season-tropical-pants.md)
 - [Women's Slim Tailored Bootcut Trousers in Super 140s Wool](womens-iconic-wool-pants.md)
 - [Women's Straight Leg Linen Trousers in Pure Linen](womens-warm-weather-linen-pants.md)
+- [Women's Tapered Dress Pants in Fresco Wool, Ankle Length](womens-fresco-wool-pants-for-all-season.md)
 - [Women's Velvet Skinny Trousers in Stretch Velvet](womens-velvet-pants.md)
 - [Women's Wide Leg Linen Pants, Lined to the Knee](womens-classic-linen-pants.md)
 

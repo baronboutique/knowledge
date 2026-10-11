@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T11:08:12Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-21T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women’s Body Measuring Guide

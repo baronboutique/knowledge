@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-iconic-wool-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-30
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women's Slim Tailored Bootcut Trousers in Super 140s Wool
@@ -42,6 +42,8 @@ Tailored Bootcut Trousers
 ## Slim Tailored Bootcut Trousers, Set to Your Knee and Your Heels
 
 A bootcut works when two things are right: where the leg starts to open, and where the hem lands on your shoe. Too high and it looks like a flare; too short and the line is lost. Ready-made bootcut trousers set both for an average height and one heel, which is why so many look almost right.
+
+These are slim bootcut trousers for women, tailored bootcut pants with an elegant silhouette: slim through the hip and thigh, then a gentle flare from the knee that balances a heel. Bootcut trousers like these work as formal trousers for women at the office, or as bootcut slacks for a little more line than a straight leg. Some spell it boot cut trousers; it is the same shape.
 
 These are cut to your measurements in 9 oz Super 140s wool: slim through the hip and thigh, opening gently from the knee, and hemmed for the shoes you will wear. You see and adjust both points on a free test pair before your wool is cut.
 
@@ -89,7 +91,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -105,6 +107,8 @@ A bootcut is slim from the hip to the knee, then opens slightly so the hem is a 
 | Straight leg | The same width from the knee to the hem. Cleaner with flats and loafers. |
 
 Want the opening a little wider or narrower than ours? Write it in the comment box, and you will see the result on the test pair.
+
+Comparing shapes? Our [tailored flare trousers](https:///womens-work-pants-in-sharkskin/) open wider from the knee, and our [formal pants for women](https:///womens-menswear-inspired-pants/) fall straight from hip to hem.
 
 ---
 
@@ -228,7 +232,7 @@ Questions & Answers
 
 ## Questions About These Tailored Bootcut Trousers
 
-### How should tailored bootcut trousers fit?
+### How should tailored bootcut pants and trousers fit?
 
 Close through the hip and thigh without pulling, then opening gently from the knee so the hem is a little wider than the knee. The hem should cover most of your heel and sit about half an inch off the floor at the back. You check all of this on the free test pair.
 

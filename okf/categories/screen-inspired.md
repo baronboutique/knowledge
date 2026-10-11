@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Screen Inspired
@@ -103,13 +103,11 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, Your test 
 
 - [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired](../products/screen-inspired/1989-purple-coat-gotham-villain.md)
 - [5th Doctor Cosplay Beige Frock Coat](../products/screen-inspired/5th-doctor-red-piping-frock-coat.md)
-- [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../products/screen-inspired/dryden-vos-costumes-solo.md)
 - [Eleventh Doctor's "Snowmen" Frock Coat](../products/screen-inspired/eleventh-doctor-snowmen-frock-coat-replica.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](../products/screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
 - [Good Omens Season 02 Crowley Black Blazer](../products/screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [James Bond Casino Royale Final Scene Inspired 3 Piece Suit](../products/screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
 - [Newt Inspired British Herringbone Tweed Coat](../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
-- [Sacha Dhawan Master Coat Doctor Series 12](../products/screen-inspired/sacha-dhawan-master-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](../products/screen-inspired/smith-shetland-tweed-blazer-jacket.md)
 
 **Related terms:** movie replica clothing, screen accurate costumes, film inspired fashion, custom cosplay tailoring, TV show coats

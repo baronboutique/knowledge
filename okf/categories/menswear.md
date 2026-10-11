@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Men
@@ -147,7 +147,7 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Time Lord Frock Coat (Oxford Blue)](../products/menswear/time-lord-frock-coat-oxford-blue.md)
 - [Two Face Silk Neckties Handmade](../products/menswear/two-face-silk-neckties-handmade.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
-- [Western Frock Coat in Wool, Made to Measure](../products/menswear/mens-frock-coat.md)
+- [Western Frock Coat in Wool, Custom Made](../products/menswear/mens-frock-coat.md)
 
 **Related terms:** custom clothing for men, men's bespoke tailor online, made-to-order menswear, tailor made suits for men, men's custom formal wear
 

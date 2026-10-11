@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Theatrical Villain
@@ -86,7 +86,7 @@ Both the test garment and the final piece ship by FedEx, DHL, or UPS with full t
 - [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired](../../products/screen-inspired/1989-purple-coat-gotham-villain.md)
 - [1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired](../../products/screen-inspired/theatrical-villain-tailoring/1989-gotham-villain-purple-tailcoat.md)
 - [2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired](../../products/screen-inspired/theatrical-villain-tailoring/2008-purple-trench-coat-gotham-villain.md)
-- [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
+- [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../../products/screen-inspired/cinema-classics/dryden-vos-costumes-solo.md)
 - [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../products/screen-inspired/theatrical-villain-tailoring/2019-staircase-villain-burgundy-suit.md)
 - [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/screen-inspired/theatrical-villain-tailoring/mens-long-black-leather-coat.md)
 - [The Collateral Suit, Single-Button Light Grey Worsted Wool](../../products/menswear/mens-suits-blazers/collateral-suit-grey-worsted-wool.md)

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/fourth-doctor-12th-season-corduroy-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-04-22
+    last_modified: 2026-10-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # 4th Doctor Jacket Rust/Oxblood Corduroy Tom Baker Cosplay

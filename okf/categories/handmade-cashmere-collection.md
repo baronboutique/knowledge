@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Handcrafted Cashmere
@@ -99,7 +99,6 @@ Your cashmere ships from our workshop by trackable courier, gift-ready. Every pi
 - [Aquamarine Blue Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/aquamarine-blue-handwoven-cashmere-scarf-shawl.md)
 - [Cloud Stripe Spring Cashmere Scarf](../products/handmade-cashmere-collection/cloud-stripe-spring-cashmere-scarf.md)
 - [Emerald Green Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/emerald-green-handwoven-cashmere-scarf-shawl.md)
-- [Fog Cable Knit Cashmere Turtleneck Sweater](../products/handmade-cashmere-collection/fog-cable-knit-cashmere-turtleneck.md)
 - [Glen Plaid Cashmere Scarf – Tan & White Houndstooth Weave](../products/handmade-cashmere-collection/glen-plaid-cashmere-scarf-tan-white-houndstooth.md)
 - [Hand Felted Grey Cashmere Scarf Wrap](../products/handmade-cashmere-collection/hand-knitted-grey-cashmere-scarf-wrap.md)
 - [Hand Felted Light Salmon Pink Cashmere Scarf Wrap](../products/handmade-cashmere-collection/hand-knitted-light-salmon-pink-cashmere-scarf-wrap.md)
@@ -117,7 +116,6 @@ Your cashmere ships from our workshop by trackable courier, gift-ready. Every pi
 - [Nature-Printed Blue & White Cashmere Scarf](../products/handmade-cashmere-collection/nature-printed-blue-white-cashmere-scarf.md)
 - [Off-White Cashmere Scarf – Hand-Finished in Pearl Weave](../products/handmade-cashmere-collection/off-white-cashmere-scarf-pearl-weave.md)
 - [Ombre Cashmere Scarf Wrap Stole](../products/handmade-cashmere-collection/ombre-cashmere-scarf-wrap-stole-grey-red-two-tone.md)
-- [Orange Cashmere Dropped Shoulder Sweater](../products/handmade-cashmere-collection/orange-cashmere-dropped-shoulder-boxy-sweater.md)
 - [Orange Rust Ombre Tie-Dye Cashmere Scarf – Hand-Finished in Twill](../products/handmade-cashmere-collection/orange-rust-ombre-tie-dye-cashmere-scarf.md)
 - [Pastel Pink Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/pastel-pink-handwoven-cashmere-scarf-shawl.md)
 - [Red Houndstooth Cashmere Scarf – Hand-Finished in Diamond Weave](../products/handmade-cashmere-collection/red-houndstooth-cashmere-scarf.md)
@@ -125,7 +123,6 @@ Your cashmere ships from our workshop by trackable courier, gift-ready. Every pi
 - [Solar and Lunar Print Cashmere Loom Scarf](../products/handmade-cashmere-collection/solar-lunar-print-cashmere-loom-scarf.md)
 - [The Sunflower-Embroidered Baby Blue Cashmere Wrap](../products/handmade-cashmere-collection/baby-blue-sunflower-embroidered-cashmere-shawl.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/willow-green-handwoven-cashmere-scarf-shawl.md)
-- [Women's Rust Cashmere Turtleneck Sweater](../products/handmade-cashmere-collection/women-rust-cashmere-turtleneck-sweater.md)
 
 **Related terms:** handmade cashmere scarves, pashmina shawls, Grade A cashmere, Himalayan cashmere accessories, cashmere gift for her
 

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # House of Velvet
@@ -101,7 +101,7 @@ Your finished velvet piece ships from Dubai by trackable courier, Your test garm
 - [Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front](../../products/menswear/dinner-jackets/slim-fit-blue-velvet-jacket.md)
 - [Men's Navy Topcoat With Velvet Collar](../../products/menswear/velvet/mens-navy-flannel-topcoat.md)
 - [Mens Velvet Smoking Jacket Burgundy Frogging Button](../../products/menswear/dinner-jackets/mens-velvet-smoking-jacket.md)
-- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
+- [Pirate Frock Coat in Velvet, Custom Made](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 
 **Related terms:** mens velvet jacket, velvet smoking jacket, velvet dinner jacket, custom velvet coat, velvet frock coat

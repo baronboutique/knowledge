@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-01T20:01:45Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 Baron Boutique partners with boutique retailers, specialty stores, and online retailers worldwide, producing custom tailored menswear, womenswear, screen-inspired garments, and handwoven cashmere to order, under the retailer's own label or Baron Boutique's. Minimum order is 5 pieces per style for tailored garments and 6 pieces per style for cashmere and knitted accessories, the latter set by the minimum yarn purchase needed to dye a color. Tailored items are produced in 6 to 8 weeks and non-tailored items in 5 to 7 weeks, with transit quoted separately. Retail partners buy from a wholesale price list rather than a per-garment quote, on deposit and balance terms with the balance settled before final shipment. Samples are charged and are not refundable, because the sample piece stays with the retailer. A design created for one store is not sold to another retailer, though territories are not locked. Baron Boutique holds no inventory of its own; a partner may commission a run which Baron Boutique stores and ships piece by piece as orders arrive. Materials include superfine wool, wool-cashmere blends, silk blends, linen and linen blends, and 100% Grade A cashmere handwoven in Nepal with Azo-free dyes. Everything is made in Baron Boutique's own atelier in Kathmandu. Quotes are answered within 24 hours.

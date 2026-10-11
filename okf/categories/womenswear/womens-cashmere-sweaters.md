@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.22.1, at: 2026-09-01T20:05:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Sweaters
@@ -64,9 +64,9 @@ Your finished sweater ships by FedEx, DHL, or UPS with full tracking. Made-to-or
 
 ## Products
 
-- [Fog Cable Knit Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/fog-cable-knit-cashmere-turtleneck.md)
-- [Orange Cashmere Dropped Shoulder Sweater](../../products/handmade-cashmere-collection/orange-cashmere-dropped-shoulder-boxy-sweater.md)
-- [Women's Rust Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/women-rust-cashmere-turtleneck-sweater.md)
+- [Fog Cable Knit Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/fog-cable-knit-cashmere-turtleneck.md)
+- [Orange Cashmere Dropped Shoulder Sweater](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/orange-cashmere-dropped-shoulder-boxy-sweater.md)
+- [Women's Rust Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/women-rust-cashmere-turtleneck-sweater.md)
 
 **Related terms:** hand knitted cashmere sweaters, custom cashmere jumper, pure cashmere knitwear, women's turtleneck sweater
 

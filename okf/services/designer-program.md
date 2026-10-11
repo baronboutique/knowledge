@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 Baron Boutique's Designer Program produces garments for emerging and independent fashion designers with a minimum order of one piece. The single-piece minimum is deliberate: every other Baron Boutique program carries a minimum because production economics require it, and this one does not, so a designer testing an idea does not have to fund a production run to find out whether it works. A prototype is quoted per design and takes about 3 to 4 weeks. Small batches of 10 to 50 pieces take about 4 to 6 weeks and larger runs about 8 to 12 weeks. Patterns are cut from scratch and made up in calico first, so the shape can be corrected before the cloth is cut. Design consultation on feasibility, construction and materials is included. A non-disclosure agreement is signed on request at no cost before designs are shared. Materials include superfine wool, wool-cashmere blends, silk blends, linen and linen blends, and 100% Grade A cashmere, and designers may supply their own cloth. Everything is cut and sewn in Baron Boutique's own atelier in Kathmandu with nothing subcontracted, and export documentation and worldwide shipping are handled in house.

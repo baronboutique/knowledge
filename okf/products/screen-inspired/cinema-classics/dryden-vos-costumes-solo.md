@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/dryden-vos-costumes-solo/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-30
+    last_modified: 2026-10-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T08:30:27Z }
-generated: { by: baron-ai-knowledge-manager/1.23.1, at: 2026-09-27T08:30:27Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay
@@ -125,15 +125,16 @@ Dry-clean.
 
 ## Categories
 
-- Screen Inspired › Theatrical Villain
 - Screen Inspired › Cinema Classics
+- Screen Inspired › Theatrical Villain
 
 **Related terms:** Dryden Vos costume, Solo A Star Wars Story villain jacket, crime lord outfit, Star Wars cosplay jacket
 
 ## Related
 
-- [Screen Inspired Category](../../categories/screen-inspired.md)
-- [Products Index](../index.md)
-- [Company](../../company.md)
-- [How Bespoke Orders Work](../../guides/how-it-works.md)
-- [Screen-Inspired Collection](../../categories/screen-inspired.md)
+- [Cinema Classics Category](../../../categories/screen-inspired/cinema-classics.md)
+- [Cinema Classics Products](index.md)
+- [Products Index](../../index.md)
+- [Company](../../../company.md)
+- [How Bespoke Orders Work](../../../guides/how-it-works.md)
+- [Screen-Inspired Collection](../../../categories/screen-inspired.md)

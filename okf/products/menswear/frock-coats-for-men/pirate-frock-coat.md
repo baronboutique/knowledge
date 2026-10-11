@@ -1,6 +1,6 @@
 ---
 type: Product
-title: "Pirate Frock Coat in Velvet, Made to Measure"
+title: "Pirate Frock Coat in Velvet, Custom Made"
 description: "Every pirate frock coat sold online is a costume — polyester, S/M/L, warehouse-photographed, built to wear twice."
 resource: https://baronboutique.com/pirate-frock-coat/
 tags: [men, frock-coat, velvet, stand-up-collar, theatrical, renaissance, pirate-coat, wedding, cosplay, bespoke, made-to-order]
@@ -9,17 +9,18 @@ sources:
     resource: https://baronboutique.com/pirate-frock-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-27
+    last_modified: 2026-10-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-10-06T10:47:50Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
-# Pirate Frock Coat in Velvet, Made to Measure
+# Pirate Frock Coat in Velvet, Custom Made
 
 **SKU:** 1801015  
 **URL:** https://baronboutique.com/pirate-frock-coat/  
@@ -89,15 +90,15 @@ Also at This Wedding
 
 ## Dress the Whole Wedding, Not Just the Groom
 
-A pirate or Renaissance ceremony is a full production. The groom is the centerpiece, but the wedding party, the guests, and the people standing beside you are all part of what makes it read as an event rather than a dress-up occasion. These are four garments that belong at the same ceremony — each made to measure, each built for the occasion. If you are still deciding on your own attire, every one of them is a different expression of the same theatrical formality.
+A pirate or Renaissance ceremony is a full production. The groom is the centerpiece, but the wedding party, the guests, and the people standing beside you are all part of what makes it read as an event rather than a dress-up occasion. These are four garments that belong at the same ceremony — each made to customer’s measurements, each built for the occasion. If you are still deciding on your own attire, every one of them is a different expression of the same theatrical formality.
 
 [The Groom in a Cape Suit](https://baronboutique.com/destination-wedding-suit/)
 
-A floor-length ceremonial cape over a Mandarin-collar tunic and tailored trousers — a silhouette built entirely around the cape as the statement piece. Made to measure in fresco wool with a free test suit before the final garment is cut. [View this garment →](https://baronboutique.com/destination-wedding-suit/)
+A floor-length ceremonial cape over a Mandarin-collar tunic and tailored trousers — a silhouette built entirely around the cape as the statement piece. Made to your measurements in fresco wool with a free test suit before the final garment is cut. [View this garment →](https://baronboutique.com/destination-wedding-suit/)
 
 [The Wedding Party in Velvet](https://baronboutique.com/velvet-groomsmen-blazer-handmade-weddings/)
 
-A tailored velvet blazer for the groomsmen, ushers, and wedding party — coordinates with the groom’s velvet frock coat without replicating the silhouette. Handmade, made to measure, built for the same ceremony. [View this garment →](https://baronboutique.com/velvet-groomsmen-blazer-handmade-weddings/)
+A tailored velvet blazer for the groomsmen, ushers, and wedding party — coordinates with the groom’s velvet frock coat without replicating the silhouette. Handmade, made to wearer’s measurements, built for the same ceremony. [View this garment →](https://baronboutique.com/velvet-groomsmen-blazer-handmade-weddings/)
 
 [The Guest in a Frock Coat](https://baronboutique.com/mens-frock-coat/)
 

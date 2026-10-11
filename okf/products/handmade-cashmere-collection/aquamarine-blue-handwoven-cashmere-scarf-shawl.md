@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Aquamarine Blue Handwoven Cashmere Scarf Shawl"
-description: "Warmth, Without the Weight. Aquamarine Cashmere, Woven in Kathmandu. One Wrap. Wherever the Day Takes You."
+description: "A 40 x 80 inch light blue cashmere shawl, woven by hand in Kathmandu from 100% Grade A cashmere. Wide enough to wrap your whole body, light enough at about 70 grams to fold into a handbag."
 resource: https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/
 tags: [women, cashmere, scarf, shawl, wrap, handwoven, aquamarine, handmade, heirloom]
 sources:
@@ -9,14 +9,15 @@ sources:
     resource: https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-27
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T09:47:42Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T09:47:42Z }
+  - { by: human:baron-boutique, at: 2026-10-07T07:20:50Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Aquamarine Blue Handwoven Cashmere Scarf Shawl
@@ -34,111 +35,261 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Warmth, Without the Weight. Aquamarine Cashmere, Woven in Kathmandu. One Wrap. Wherever the Day Takes You. Slow Luxury, Made for You: Every piece is individually handwoven on traditional looms in our Kathmandu workshop rather than pulled off a warehouse shelf. Your piece is handmade to order and delivered within 2 to 3 weeks of your order. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
+A 40 x 80 inch light blue cashmere shawl, woven by hand in Kathmandu from 100% Grade A cashmere. Wide enough to wrap your whole body, light enough at about 70 grams to fold into a handbag. Handmade to order and delivered within 2 to 3 weeks, with free tracked shipping worldwide. 100% cashmere, 14 to 16 microns, no wool, viscose or acrylic 40 x 80 inches (1 m x 2 m), about 70 g (2.5 oz) Wear it as a full body wrap, evening shawl or neck scarf Fiber from the Tibetan Plateau, handwoven in Nepal Azo-free dyes
 
-## Yarn and Weight
+Aquamarine Blue Cashmere
 
-| Specification | Technical Detail | What It Means for You |
-| --- | --- | --- |
-| **Yarn Count** | 200/2 | Two ultra-fine threads twisted together to deliver exceptional durability and resistance to pilling without adding bulk or stiffness. |
-| **Fiber Fine-ness** | 14–16 microns | Grade-A softness that feels silky and weightless against delicate skin with zero scratchiness. |
-| **Staple Length** | 35–55mm | Long-staple fibers that keep their shape, shedding far less than standard high-street cashmere. |
-| **Total Weight** | 2.5 oz (70g) | Ultra-lightweight and compact—folds smaller than a t-shirt so you can easily carry it in your handbag for air travel or cooler evenings. |
+## A Light Blue Cashmere Shawl Big Enough to Wrap Your Whole Body
 
-## Luminous Handloom Texture
+The Aquamarine Blue Handwoven Cashmere Scarf Shawl is a 40 x 80 inch (1 m x 2 m) light blue cashmere shawl, woven by hand in Kathmandu from 100% Grade A cashmere and weighing about 70 grams (2.5 oz). It is made to order for you, not pulled from a shelf.
 
-A close-up view of our 200/2 yarn weave in serene Aquamarine Blue, showcasing the subtle, featherlight texture created on traditional handlooms in Kathmandu.
+Most light blue or aquamarine scarf listings sold as cashmere are either narrow neck scarves or blends with wool, viscose or acrylic. This one is neither. At its full width it covers your shoulders and arms like a blanket on a cold flight, and it still folds small enough for a handbag. The color is a light, clear blue with a soft hint of green, the shade of shallow sea water.
 
----
+100% cashmere  
+ 40 x 80 inches  
+ About 70 grams  
+ Handwoven in Nepal  
+ Free shipping worldwide
 
-## Sizing and Finishing
-
-| Feature | Specification | Value for You |
-| --- | --- | --- |
-| **Dimensions** | 40″ x 80″ (1m x 2m) | Generously oversized proportions offer full-body coverage, giving you the luxury of draping it as a full shawl or layering it as a scarf. |
-| **Silhouette** | Classic Rectangle | Versatile cut designed to effortlessly transition between an elegant evening wrap, an airy headscarf, or a casual neck loop. |
-| **Packability** | Ultra-Compact | Folds down compactly to slide into your tote or handbag, making it an essential layer for chilly flights and air-conditioned rooms. |
-| **Edge Finish** | Live Edge / Fringe | Features hand-finished loose ends that highlight the authentic loom texture and give the piece an effortless, artisanal drape. |
+**Price:** $259 **Size:** 40 x 80 in (1 m x 2 m) **Weight:** about 70 g (2.5 oz) **Fiber:** 100% Grade A cashmere, 14 to 16 microns **Delivery:** handmade to order, delivered within 2 to 3 weeks of your order **Shipping:** free, tracked, worldwide **Returns:** within 30 days of delivery, unworn
 
 ---
 
-### One Wrap. Wherever the Day Takes You.
+Ways to Wear
 
-Woven by hand in Kathmandu from fine Himalayan cashmere, this aquamarine wrap has the rare ease of something you can carry everywhere without ever feeling like you’re carrying it. Made for the hours between places: folded into your carry-on, wrapped around your shoulders on a long flight, or settled lightly over an evening outfit when the day turns into dinner.
+## One 40 x 80 Inch Wrap, Four Ways to Wear It
 
-Its color has the quiet clarity of water, while the handwoven cashmere gives it a softness that becomes more familiar with every wear. Substantial enough to be genuinely warm, yet light enough to fold into a small handbag without asking for attention.
+A full body shawl is only useful if it also works the rest of the time. Because this cashmere wrap shawl is a wide rectangle rather than a long, narrow scarf, it changes shape with one fold.
 
-## How to Style Your 40″ x 80″ Wrap
+The Full Body Wrap
 
-#### 1. The Travel Blanket Wrap
+Open this light blue cashmere wrap to the full 40 inch width and drape it across your shoulders and arms. This is the scarf body wrap, or full body scarf, people look for on long flights, in cold offices and at outdoor dinners.
 
-Unfold to its full 40″ x 80″ dimensions and drape broadly over your shoulders and arms for full-body warmth during chilly flights or air-conditioned lounges.
+The Evening Shawl
 
-#### 2. The Evening Shawl
+Fold it lengthwise and let it fall over one or both shoulders. It sits lightly over a dress, a silk blouse or a tailored jacket without adding bulk.
 
-Fold lengthwise and drape loosely over one or both shoulders over formalwear, cocktail dresses, or silk ensembles for an effortless, elegant layer.
+Over the Head
 
-#### 3. The Classic Neck Loop
+The open weave is light enough to wear over your hair for a ceremony, a place of worship, or sun and wind, and you can see through it.
 
-Gather along the width and wrap twice around your neck with loose fringed ends hanging in front to elevate everyday casual outfits with rich texture.
+The Classic Neck Loop
 
----
-
-## Handwoven by Master Artisans
-
-Every piece is individually crafted on wooden handlooms in our Kathmandu workshop. Our master weavers preserve centuries-old Himalayan textile traditions to bring you slow, authentic luxury.
+Gather it along the width and wrap it twice around your neck as a light blue neck scarf, fringed ends in front. Light blue near the face brightens white, cream, navy and gray.
 
 ---
 
-## Wash and Care Instructions
+Weddings & Gifts
 
-### Washing & Drying
+## A Light Blue Shawl for a Wedding, and a Gift That Needs No Size
 
-- Add a mild detergent or wool wash to cold or lukewarm water.
-- Soak the shawl for 8–12 minutes, then gently massage without wringing or stretching.
-- Rinse thoroughly with cool water and carefully squeeze out excess moisture.
-- Lay flat to dry on a towel away from direct sunlight; reshape while damp. Use a steamer or low-heat iron if needed.
+A light blue shawl for a wedding is one of the easiest ways to wear “something blue” on the day, and it keeps bare shoulders warm once the evening cools. Brides wear it over the dress for photos outdoors, bridesmaids can wear matching shawls, and guests wear it over a dress in white, cream, silver or navy.
 
-### Care & Storage
+As a gift it needs no sizing, and aquamarine is the March birthstone, which makes this shade a natural choice for a March birthday. For a matched pair, Aquamarine sits well beside our **[Indigo Blue cashmere shawl](https:///indigo-blue-handwoven-cashmere-scarf-shawl/)**, one light blue and one deep blue.
 
-- **Daily Use:** Hang in a well-ventilated area between wears to refresh the fibers naturally.
-- **Seasonal Storage:** Store in a cool, dry place alongside cedar chips or lavender sachets to protect the natural fibers.
+Have a wedding date? Tell us before you order through the “Ask a question about this piece” form below the Add to Cart button. Rush service is available on request at no extra cost, subject to workshop capacity, but we cannot promise a delivery date.
 
 ---
 
-## Aquamarine Blue Cashmere Scarf — Questions Answered
+The Cashmere
 
-### How long does an aquamarine blue cashmere scarf last?
+## What 14 to 16 Microns and 200/2 Yarn Mean in Your Hands
 
-A 100% Grade A cashmere scarf, worn regularly and washed correctly, lasts 15 to 20 years and softens rather than wears out over that time. The fiber is a protein structure, similar to human hair, that does not weaken with washing. Scarves that pill or thin out within a season or two are almost always blended with acrylic, viscose, or a lower cashmere grade. The aquamarine blue dye is set at the fiber stage before weaving, so color does not fade or affect how long the piece lasts.
+Cashmere quality comes down to four measurable things: how fine the fiber is, how long it is, how the yarn is spun, and how much cloth you get. Here is what each one means for this shawl.
 
-### Is this aquamarine cashmere scarf big enough to wear as a full body wrap?
+14 to 16 microns
 
-Yes. This scarf is 40 x 80 inches (1m x 2m), sized to work as a full-body wrap across the shoulders and arms, not just a narrow neck scarf. At 70 grams it stays light enough to fold into a handbag while still offering genuine full-body coverage, which is the size range shoppers usually mean when searching for a body wrap scarf or a full body shawl rather than a standard neck scarf.
+Fiber diameter is the main measure of softness. Under US labeling law, fiber sold as cashmere must average 19 microns or finer, and most merino wool falls between about 17 and 24. At 14 to 16 microns this shawl sits against bare skin without the prickle coarser wool can give.
 
-### Is this 100% cashmere or a blend?
+35 to 55 mm staple
 
-This is 100% pure Grade A cashmere, no wool, viscose, or acrylic added. The fiber is sourced from the Tibetan Plateau at 14 to 16 microns in diameter, spun to a 200/2 yarn count. Many scarves marketed as “cashmere” in this aquamarine blue shade are blended with cheaper fiber to hit a lower price point, which is why blended pieces feel coarser and pill faster.
+Staple length is how long each fiber is. Longer fibers have fewer loose ends to work their way out of the yarn, so the shawl sheds and pills less than short fiber cashmere.
 
-### What is the yarn count of this cashmere scarf?
+200/2 yarn
 
-This scarf is woven at a 200/2 yarn count, meaning two ultra-fine threads are twisted together before weaving. That construction is what gives genuine cashmere its resistance to pilling without adding bulk or stiffness. A lower yarn count in a similarly priced scarf usually signals a coarser, lower-grade fiber used to cut cost.
+Two very fine threads are twisted together before weaving. The twist makes the yarn stronger and smoother without making it thick, which is how a 70 gram shawl holds up to years of wear.
 
-### How do you wear a light blue cashmere wrap like this one?
+About 70 g for 40 x 80 in
 
-The most versatile way to wear this scarf is unfolded to its full 40 x 80 inch width as a travel blanket wrap across the shoulders and arms. Folded lengthwise, it drapes as an evening shawl over one or both shoulders for formalwear. Gathered along the width and wrapped twice around the neck, it becomes a classic neck loop for everyday wear. This cobalt-leaning aquamarine blue reads well against cream, white, navy, and neutral tones in any of these three styles.
+That is a lot of cloth for very little weight. Fine fibers trap a layer of still air, so the shawl feels warm on your shoulders yet folds smaller than a T-shirt.
 
-### Is this scarf available in other colors?
+---
 
-Yes. This aquamarine blue is one color in Baron Boutique’s handwoven cashmere scarf line, which also includes [Forest Green](https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/), [Emerald Green](https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/), [Black](https://baronboutique.com/handwoven-black-cashmere-scarf-shawl/), [Ivory](https://baronboutique.com/handwoven-ivory-cashmere-scarf-shawl/), and several other shades, all made from the same 100% Grade A cashmere at the same construction. For the widest color range, the [Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/) offers over 80 color options in the same fiber quality.
+Handwoven in Kathmandu
 
-### Is an aquamarine cashmere scarf a good gift?
+## How a Handwoven Cashmere Shawl Is Made, and Why It Takes 2 to 3 Weeks
 
-A cashmere scarf works well as a gift because it needs no sizing and suits both travel and formal occasions. This aquamarine blue shade pairs with the neutrals and cool tones most wardrobes already include, so it does not require knowing the recipient’s usual color palette. At $259, it sits in a price range where genuine cashmere is recognizable to the person receiving it, not a token gift.
+A handwoven cashmere shawl is woven thread by thread on a wooden handloom, with the weaver setting the tension by hand. That slower, looser handling is what gives this shawl its soft, open texture, which a fast machine loom pulling the yarn tight does not give. It is also why handwoven cashmere costs more than machine made.
 
-### How do I identify if this cashmere scarf is genuine?
+1
 
-Genuine cashmere passes a burn test, a ring test, and a feel test that blended or synthetic scarves fail. A fringe thread burned from real cashmere smells like burnt hair and turns to ash, while synthetic fiber melts and smells of plastic. The scarf’s fine weave allows it to pass through a finger ring when folded, and it feels warm to the touch before you put it on. For the complete test-by-test breakdown and how to check a scarf you already own, see our full guide on the [Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/) page.
+The fiber
+
+Grade A cashmere from the Tibetan Plateau is spun into a fine 200/2 yarn.
+
+2
+
+The loom
+
+One weaver works one shawl on a wooden handloom. Weaving alone takes about five days a piece.
+
+3
+
+Washing, dyeing and mending
+
+The cloth is washed, dyed in azo-free dyes and checked by hand, and any loose thread is mended before the fringe is finished.
+
+4
+
+To your door
+
+Your shawl is delivered within 2 to 3 weeks of your order, by free tracked courier anywhere in the world.
+
+---
+
+Real or Blend
+
+## How to Tell Real Cashmere From a Blend
+
+The label is the first test: real cashmere says 100% cashmere, and anything listing wool, viscose, modal, silk or acrylic is a blend. Many shawls sold as “pashmina” are blends, so read the fiber content, not the name. If you want to check a shawl at home, these are the honest tests and what each one can and cannot prove.
+
+| Burn test | The most reliable home test. Snip one thread from the fringe and burn it over a sink. Cashmere smells like burning hair and leaves a soft ash that crumbles. Acrylic and polyester melt into a hard bead and smell of plastic. Viscose smells like burning paper. |
+| --- | --- |
+| Feel | Real cashmere feels warm in your hand within a few seconds and soft against your neck. Synthetics often feel slippery or cool. |
+| Ring test | A fine shawl like this one can be pulled through a finger ring. It shows the cloth is fine and light, but a fine synthetic can pass too, so it does not prove fiber content on its own. |
+| Price | Handwoven 100% cashmere at 40 x 80 inches is rarely sold for the price of a fashion scarf. A very low price usually means a blend or a machine made piece. |
+
+---
+
+Full Spec
+
+## Aquamarine Cashmere Scarf Shawl, Full Specification
+
+| Color | Aquamarine blue, a light, clear blue with a soft hint of green |
+| --- | --- |
+| Fiber | 100% Grade A cashmere, no wool, viscose or acrylic |
+| Fiber source | Tibetan Plateau |
+| Fiber diameter | 14 to 16 microns |
+| Staple length | 35 to 55 mm |
+| Yarn | 200/2 |
+| Weave | Handwoven on a wooden handloom, light open weave |
+| Size | 40 x 80 inches (1 m x 2 m), classic rectangle |
+| Weight | About 70 g (2.5 oz) |
+| Ends | Hand-finished loose fringe |
+| Dye | Azo-free dyes |
+| Made | Handwoven in Nepal, made to order |
+| Delivery | Delivered within 2 to 3 weeks of your order |
+| Shipping | Free tracked courier worldwide; signature on delivery; no PO or APO/FPO boxes |
+| Returns | Within 30 days of delivery, unworn and in original condition; return shipping paid by the customer unless the fault is ours |
+| Care | Hand wash cold, lay flat to dry |
+
+---
+
+Care
+
+## How to Wash and Care for a Cashmere Shawl
+
+Hand washing is safe for this shawl and keeps it soft. It takes about fifteen minutes.
+
+1
+
+Soak
+
+Add a mild detergent or wool wash to cold or lukewarm water and soak the shawl for 8 to 12 minutes.
+
+2
+
+Press, never wring
+
+Gently squeeze the water through the cloth. Do not wring, twist or stretch it.
+
+3
+
+Rinse
+
+Rinse in cool water until clear, then press out the excess water.
+
+4
+
+Dry flat
+
+Lay it flat on a towel away from direct sun and reshape it while damp. A steamer or a low iron takes out creases.
+
+Between wears, hang it somewhere airy so the fiber can recover. For storage, keep it clean, dry and folded with cedar or lavender to deter moths.
+
+An open handwoven weave can catch on rings, bracelets, hook fastenings and bag clasps. If a thread pulls, ease it back into the weave from the other side with a blunt needle. Never cut it.
+
+---
+
+Other Colors
+
+## Other Blues and Colors in Handwoven Cashmere
+
+If you want a deeper blue, see our **[Indigo Blue](https:///indigo-blue-handwoven-cashmere-scarf-shawl/)** shawl or the **[Royal Blue wrap in diamond weave](https:///royal-blue-essential-wrap-in-diamond-weave-cashmere/)**. For a blue that leans green, see **[Light Teal Green](https:///light-teal-green-handwoven-cashmere-scarf-shawl/)**. For a soft neutral, see **[Ivory](https:///handwoven-ivory-cashmere-scarf-shawl/)**.
+
+Looking for a customized cashmere shawl in a blue that is not here? Our **[Featherlight Cashmere Scarf](https:///womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https:///handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Aquamarine Blue Cashmere Shawl
+
+### How big is the Aquamarine Blue cashmere shawl?
+
+It measures 40 x 80 inches (1 m x 2 m) and weighs about 70 grams (2.5 oz). That is wide enough to wrap your shoulders and arms like a blanket, and long enough to loop twice around your neck as a scarf.
+
+### Is this shawl 100% cashmere?
+
+Yes, it is 100% Grade A cashmere with no wool, viscose, silk or acrylic added. The fiber comes from the Tibetan Plateau, measures 14 to 16 microns and is spun into a 200/2 yarn before it is woven by hand.
+
+### How long does delivery take, and is shipping free?
+
+The shawl is handmade to order and delivered within 2 to 3 weeks of your order, with free tracked shipping worldwide. The courier asks for a signature, so a work address can be easier, and we cannot ship to PO boxes or APO/FPO addresses. Some countries charge import duties, which are paid by the customer.
+
+### Can I wear it as a full body shawl or body wrap scarf?
+
+Yes, a 40 x 80 inch shawl is the size people mean by a full body shawl or scarf body wrap. Opened to its full width as a body scarf wrap, it covers your shoulders, back and arms, which is why it works as a travel wrap on planes and in air-conditioned rooms.
+
+### What color is aquamarine blue?
+
+Aquamarine blue is a light, clear blue with a soft hint of green, close to the color of shallow sea water. You may know it as a light blue scarf, an aqua blue shawl or a pale blue cashmere scarf. It is lighter and softer than turquoise and much lighter than cobalt or royal blue.
+
+### Can I wear a light blue shawl to a wedding, or another blue shawl for a wedding?
+
+Yes, a light blue cashmere shawl suits a wedding as a bride’s “something blue”, as a matched bridesmaid wrap, or as a guest’s evening layer. Light blue does not compete with a white dress, and it keeps shoulders warm at outdoor ceremonies. If you have a date, ask us about rush service before you order.
+
+### What is the difference between pashmina and cashmere?
+
+Pashmina is the traditional name in Kashmir and Nepal for very fine cashmere, so the two words originally meant the same fiber. In shops today “pashmina” is often used for blends of cashmere with silk, viscose or acrylic, so the name alone tells you little. Check the label: this shawl is 100% cashmere.
+
+### Will a handwoven cashmere shawl snag or pill?
+
+It can snag, because a light open weave catches on rings, bracelets and hook fastenings, but it pills very little. The long staple fiber and twisted 200/2 yarn hold together well. If a thread pulls, ease it back from the other side with a blunt needle and never cut it.
+
+### Is it see-through?
+
+Yes, it is slightly sheer, especially held up to light, because it is an open handwoven weave in a pale color. Spread out, it looks like a light blue sheer scarf; worn folded or doubled over the shoulders it reads as a soft solid blue. Deeper colors show through less.
+
+### Is a 70 gram cashmere shawl warm enough for winter?
+
+It is warm for its weight, but on its own it is not a winter coat. It is right for cool evenings, flights, air conditioning and indoor events, and in winter it works well worn doubled or under a coat.
+
+### Who makes this shawl, and can I return it?
+
+Baron Boutique makes it, an independent tailoring house founded in 2000 that also makes handwoven cashmere. You can return it within 30 days of delivery if it is unworn and in its original condition, and we refund you within 14 days of receiving it. Return shipping is paid by the customer unless the fault is ours.
 
 ## Customer Reviews
 

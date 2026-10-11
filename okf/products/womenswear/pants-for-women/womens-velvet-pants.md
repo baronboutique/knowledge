@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-velvet-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-30
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women's Velvet Skinny Trousers in Stretch Velvet
@@ -87,7 +87,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold inside out on a gentle cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -184,6 +184,8 @@ How to Wear
 
 Velvet is the statement. Pair it with smooth, matte fabrics like silk, fine knits and cotton, and keep other textures and patterns quiet.
 
+Want the same tailored fit for daytime? Our [formal pants for women](https:///womens-menswear-inspired-pants/) are cut in wool and cashmere with a straight leg.
+
 ---
 
 Velvet Care
@@ -251,7 +253,7 @@ Steam them from a short distance, then brush lightly in the direction of the pil
 
 Yes. Turn them inside out, wash cold on a gentle cycle and hang them to dry, or dry clean them if you prefer. Do not tumble dry or iron the pile.
 
-### Are these like velvet skinny jeans?
+### Are these like women’s red velvet jeans or velvet skinny jeans?
 
 They have the slim leg, belt loops and patch back pockets people like about velvet jeans, but they are tailored trousers: a flat front, a clean waistband and a hand-stitched hem, cut to your measurements.
 

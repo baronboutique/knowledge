@@ -1,6 +1,6 @@
 ---
 type: Product
-title: "Western Frock Coat in Wool, Made to Measure"
+title: "Western Frock Coat in Wool, Custom Made"
 description: "Every western frock coat online is either a polyester costume or a standard suit jacket with \"western\" in the title."
 resource: https://baronboutique.com/mens-frock-coat/
 tags: [men, frock-coat, flannel, wool, victorian-style, wedding, formalwear, dress-coat, bespoke, made-to-order]
@@ -9,17 +9,18 @@ sources:
     resource: https://baronboutique.com/mens-frock-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-27
+    last_modified: 2026-10-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-10-06T10:45:13Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
-# Western Frock Coat in Wool, Made to Measure
+# Western Frock Coat in Wool, Custom Made
 
 **SKU:** 1801011  
 **URL:** https://baronboutique.com/mens-frock-coat/  
@@ -101,7 +102,7 @@ A mandarin-collar tunic, tailored trousers, and a floor-length silk-lined cape i
 
 [The Wedding Party in Velvet](https://baronboutique.com/velvet-groomsmen-blazer-handmade-weddings/)
 
-A tailored velvet blazer for the groomsmen and wedding party — a coordinated option that works with the groom’s wool frock coat without replicating the silhouette. Handmade, made to measure, built for the same ceremony. [View this garment →](https://baronboutique.com/velvet-groomsmen-blazer-handmade-weddings/)
+A tailored velvet blazer for the groomsmen and wedding party — a coordinated option that works with the groom’s wool frock coat without replicating the silhouette. Handmade, made to your measurements, built for the same ceremony. [View this garment →](https://baronboutique.com/velvet-groomsmen-blazer-handmade-weddings/)
 
 [The Groom at a Summer Outdoor Ceremony](https://baronboutique.com/mens-linen-frock-coat-summer-wedding/)
 

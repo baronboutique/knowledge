@@ -74,7 +74,7 @@ Your finished frock coat ships from Dubai by trackable courier, Your test coat t
 - [Fourth Doctor Horror Of Fang Baker Coat](fourth-doctor-baker-coat.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](mens-linen-frock-coat-summer-wedding.md)
 - [Men's Wool Flared Zip Tailcoat](mens-wool-flared-zip-tailcoat.md)
-- [Pirate Frock Coat in Velvet, Made to Measure](pirate-frock-coat.md)
+- [Pirate Frock Coat in Velvet, Custom Made](pirate-frock-coat.md)
 
 ## Related
 

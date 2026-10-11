@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-warm-weather-linen-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-30
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women's Straight Leg Linen Trousers in Pure Linen
@@ -41,6 +41,8 @@ Straight Leg Linen Trousers
 ## Straight Leg Linen Trousers That Look Tailored, Not Beachy
 
 Most linen trousers are cut loose, with drawstrings and elastic, because linen is sold as holiday wear. That is fine on a beach, but it looks undone at the office or a summer lunch. These are proper trousers in 100% linen: a flat front, a zip fly with a button closure, belt loops, slanted front pockets and two welt back pockets, with a straight leg that falls clean from the seat to the hem.
+
+These are women’s linen trousers with a straight leg, straight leg linen pants for women that keep a tailored line through a working day. They are straight pants for ladies who want linen that looks dressed rather than beachy, in black, brown and 16 more colors, so womens brown linen trousers are one choice among many.
 
 They are made to your measurements and unlined, so the linen breathes as it should. Before we cut your linen, we send you a free test pair to try on at home.
 
@@ -86,7 +88,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine washable, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -135,6 +137,8 @@ Linen is woven with a little air between the yarns, which is why it is cool. In 
 | Light linens | White, Off White, Light Blue, Lavender and Pink. If show-through concerns you, ask for the trousers lined to the knee or fully lined. |
 
 To add lining, write “lined to the knee” or “fully lined” in the comment box on the measurement form. A lining makes the trousers slightly warmer, so for very hot weather, unlined with skin-tone underwear is the cooler choice.
+
+Prefer a fuller leg, lined to the knee as standard? See our [wide leg linen pants](https:///womens-classic-linen-pants/). If linen creases more than you would like, our [tapered dress pants](https:///womens-fresco-wool-pants-for-all-season/) in open-weave fresco wool stay cool and recover from creases.
 
 ---
 

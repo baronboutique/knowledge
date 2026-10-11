@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-all-season-tropical-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-30
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women's Relaxed Fit Trousers in Super 140s Tropical Wool
@@ -42,6 +42,8 @@ Relaxed Fit Trousers
 ## Women’s Relaxed Fit Trousers in Tropical Wool
 
 Most relaxed fit pants get their ease by going up a size, so the waist gapes and the seat sags. These work the other way around: the waist is cut to your exact measurement, and the extra room goes only where you move, through the hip and thigh, before the leg falls straight to the hem.
+
+These are tropical wool trousers for women with a modern relaxed fit, relaxed workwear for women that still looks tailored. If you prefer the word, they are modern relaxed fit pants in tropical wool, tropical wool pants for women who want room to move without looking baggy.
 
 They are made to your measurements in 9 oz Super 140s tropical wool, a light, open-weave suiting cloth that lets air through, which makes them comfortable work trousers from a warm commute to a long day at a desk. Before we cut your wool, we send you a free test pair, so you decide how relaxed they should be.
 
@@ -88,7 +90,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -106,6 +108,8 @@ The difference between relaxed and sloppy is where the room goes. This is how th
 | Length | Set to the shoes you tell us, long enough to touch the top of the shoe without pooling. |
 
 Tuck in a blouse or a fine knit to show the fitted waist; the grip-lined waistband keeps it in place through the day. A jacket that ends at the hip keeps the proportions balanced.
+
+Prefer a straight leg? Our [light gray tailored trousers](https:///womens-melange-dress-pants/) are cut from the same 14 tropical wools. For very hot days, our [wide leg linen pants](https:///womens-classic-linen-pants/) keep the relaxed feel in pure linen.
 
 ---
 

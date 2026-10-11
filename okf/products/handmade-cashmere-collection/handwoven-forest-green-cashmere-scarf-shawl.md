@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Handwoven Forest Green Cashmere Scarf Shawl"
-description: "Most scarves marketed as forest green cashmere are wool or acrylic blends dyed to look richer than they are."
+description: "A green cashmere shawl in deep forest green, 40 x 80 inches, woven by hand in Kathmandu from 100% Grade A cashmere."
 resource: https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/
 tags: [women, cashmere, scarf, shawl, wrap, handwoven, forest-green, handmade, heirloom]
 sources:
@@ -9,14 +9,15 @@ sources:
     resource: https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-27
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T09:47:42Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T09:47:42Z }
+  - { by: human:baron-boutique, at: 2026-10-07T07:16:26Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Handwoven Forest Green Cashmere Scarf Shawl
@@ -34,111 +35,190 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Most scarves marketed as forest green cashmere are wool or acrylic blends dyed to look richer than they are. This one is 100% Grade A cashmere, handwoven in Kathmandu at a 200/2 yarn count, 40 x 80 inches and 70 grams. Genuine cashmere passes the burn test and the ring test, and it softens with every wash instead of pilling. $259, handmade to order and delivered within 2 to 3 weeks of your order. Crafted from 100% pure, allergen-free Grade A cashmere. Sustainably sourced from the Tibetan Plateau. Generously sized at 40"x80" (1m x 2m), perfect as a scarf or shawl. Handmade in Nepal using traditional handloom techniques. Dyed with Azo-free, eco-friendly colors.
+A green cashmere shawl in deep forest green, 40 x 80 inches, woven by hand in Kathmandu from 100% Grade A cashmere. A dark green that works with white, denim, camel and black, and that knots as a scarf or wraps as a stole. Handmade to order and delivered within 2 to 3 weeks, with free tracked shipping worldwide. 100% cashmere, 14 to 16 microns, no wool, viscose or acrylic 40 x 80 inches (1 m x 2 m), about 70 g (2.5 oz) Wear it knotted, draped, as a cape or as a stole Fiber from the Tibetan Plateau, handwoven in Nepal Azo-free dyes
 
-## Yarn and Weight
+Forest Green
 
-| Specification | Technical Detail | What It Means for You |
-| --- | --- | --- |
-| **Yarn Count** | 200/2 | Two ultra-fine threads twisted together to deliver exceptional durability and resistance to pilling without adding bulk or stiffness. |
-| **Fiber Fine-ness** | 14–16 microns | Grade-A softness that feels silky and weightless against delicate skin with zero scratchiness. |
-| **Staple Length** | 35–55mm | Long-staple fibers that keep their shape, shedding far less than standard high-street cashmere. |
-| **Total Weight** | 2.5 oz (70g) | Ultra-lightweight and compact—folds smaller than a t-shirt so you can easily carry it in your handbag for air travel or cooler evenings. |
+## A Green Cashmere Shawl in Forest Green, for Every Day and Elegant Evenings
 
-## Handloom Texture in Forest Green
+The Handwoven Forest Green Cashmere Scarf Shawl is a 40 x 80 inch (1 m x 2 m) green cashmere shawl in 100% Grade A cashmere, woven by hand in Kathmandu and weighing about 70 grams (2.5 oz). It is a dark green cashmere scarf and shawl, a true deep green the color of pine needles, and it is made to order for you.
 
-A close-up view of our 200/2 yarn weave in deep Forest Green, showing the fine, airy-spun texture created on traditional handlooms in Kathmandu.
+Dark green behaves almost like a neutral. It sits as easily on a white shirt or a cream sweater with jeans as it does over black tailoring, which is why it is the green to choose if you want one cashmere scarf to wear most days, yet it looks just as elegant wrapped as a stole over evening black. Each photo on this page shows it with something different.
 
----
+100% cashmere  
+ 40 x 80 inches  
+ Deep forest green  
+ Handwoven in Nepal  
+ Free shipping worldwide
 
-## Sizing and Finishing
-
-| Feature | Specification | Value for You |
-| --- | --- | --- |
-| **Dimensions** | 40″ x 80″ (1m x 2m) | Generously oversized proportions offer full-body coverage, giving you the luxury of draping it as a full shawl or layering it as a scarf. |
-| **Silhouette** | Classic Rectangle | Versatile cut designed to effortlessly transition between an elegant evening wrap, an airy headscarf, or a casual neck loop. |
-| **Packability** | Ultra-Compact | Folds down compactly to slide into your tote or handbag, making it an essential layer for chilly flights and air-conditioned rooms. |
-| **Edge Finish** | Live Edge / Fringe | Features hand-finished loose ends that highlight the authentic loom texture and give the piece an effortless, artisanal drape. |
+**Price:** $259 **Size:** 40 x 80 in (1 m x 2 m) **Weight:** about 70 g (2.5 oz) **Fiber:** 100% Grade A cashmere, 14 to 16 microns **Delivery:** handmade to order, delivered within 2 to 3 weeks of your order **Shipping:** free, tracked, worldwide **Returns:** within 30 days of delivery, unworn
 
 ---
 
-### One Wrap. Wherever the Day Takes You.
+What to Wear It With
 
-Woven by hand in Kathmandu from fine Himalayan cashmere, this forest green wrap has the rare ease of something you can carry everywhere without ever feeling like you’re carrying it. Made for the hours between places: folded into your carry-on, wrapped around your shoulders on a long flight, or settled lightly over an evening outfit when the day turns into dinner.
+## What Colors Go With a Forest Green Scarf
 
-Its color has the depth of a deep woodland green, while the handwoven cashmere gives it a softness that becomes more familiar with every wear. Substantial enough to be genuinely warm, yet light enough to fold into a small handbag without asking for attention.
+A dark green scarf pairs easily with the colors already in most wardrobes. These are the combinations in the photos, plus a few more that work.
 
-## How to Style Your 40″ x 80″ Wrap
-
-#### 1. The Travel Blanket Wrap
-
-Unfold to its full 40″ x 80″ dimensions and drape broadly over your shoulders and arms for full-body warmth during chilly flights or air-conditioned lounges.
-
-#### 2. The Evening Shawl
-
-Fold lengthwise and drape loosely over one or both shoulders over formalwear, cocktail dresses, or silk ensembles for an effortless, elegant layer.
-
-#### 3. The Classic Neck Loop
-
-Gather along the width and wrap twice around your neck with loose fringed ends hanging in front to elevate everyday casual outfits with rich texture.
+| White and cream | The cleanest contrast. A white shirt or a cream knit makes the green look richer and brighter. |
+| --- | --- |
+| Denim | Easy and relaxed. Mid-blue jeans and a deep green scarf are a pairing you can wear every weekend. |
+| Camel, beige, tan | Warm and natural, like a forest floor. Good over a camel coat or beige trousers. |
+| Black and charcoal | Adds color to dark tailoring without looking loud. A good choice for work. |
+| Navy | Two deep colors together, quiet and classic. Let the fringe and texture show. |
+| Burgundy and rust | Rich and warm. Keep the rest of the outfit simple when you wear two strong colors. |
 
 ---
 
-## Handwoven by Master Artisans
+How to Tie It
 
-Every piece is individually crafted on wooden handlooms in our Kathmandu workshop. Our master weavers preserve centuries-old Himalayan textile traditions to bring you slow, authentic luxury.
+## How to Wear a Long Cashmere Scarf: Four Ties, Step by Step
+
+At 40 x 80 inches this is wide enough to fold and long enough to knot. Here is how to wear a scarf this size: the four ways it is worn in the photos, with how to do each one.
+
+The Loose Drape
+
+Fold the scarf in half lengthwise. Place it around the back of your neck, bring one end over the opposite shoulder and let both ends fall loosely in front. Ten seconds, and it stays put.
+
+The Knotted Loop
+
+Gather the scarf narrow and hang it around your neck with one end longer. Wrap the long end once around, then tie both ends in a loose knot below the collarbone. The warmest way to wear it with a sweater.
+
+The Cape Wrap
+
+Open this green cashmere wrap to its full width. Drape it over both shoulders, then throw one end over the opposite shoulder so it falls down your back. It covers you like a light cape, or opened flat it becomes a full body shawl.
+
+The Elegant Stole
+
+Fold it in half lengthwise and wrap it around both shoulders like an elegant cashmere stole, with the fringed ends falling to one side. It sits over a vest, a dress or a jacket and leaves the arms free.
 
 ---
 
-## Wash and Care Instructions
+Which Green
 
-### Washing & Drying
+## Forest Green, Emerald or Light Teal: Which Green Cashmere Scarf?
 
-- Add a mild detergent or wool wash to cold or lukewarm water.
-- Soak the shawl for 8–12 minutes, then gently massage without wringing or stretching.
-- Rinse thoroughly with cool water and carefully squeeze out excess moisture.
-- Lay flat to dry on a towel away from direct sunlight; reshape while damp. Use a steamer or low-heat iron if needed.
+Forest green is the darkest of our greens and the most everyday. It leans slightly warm, toward pine, rather than blue. If you want a brighter jewel green for evening dresses, see our **[Emerald Green cashmere shawl](https:///emerald-green-handwoven-cashmere-scarf-shawl/)**, which has a cool blue undertone. For a lighter green, see **[Light Teal Green](https:///light-teal-green-handwoven-cashmere-scarf-shawl/)** or **[Willow Green](https:///willow-green-handwoven-cashmere-scarf-shawl/)**.
 
-### Care & Storage
-
-- **Daily Use:** Hang in a well-ventilated area between wears to refresh the fibers naturally.
-- **Seasonal Storage:** Store in a cool, dry place alongside cedar chips or lavender sachets to protect the natural fibers.
+Need a different shade of green? Our **[Featherlight Cashmere Scarf](https:///womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors. Or browse all **[handwoven cashmere scarves and shawls](https:///handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 
-## Forest Green Cashmere Scarf — Questions Answered
+The Cashmere
 
-### How long does a forest green cashmere scarf last?
+## Why a 70 Gram Cashmere Scarf Is Warm
 
-A 100% Grade A cashmere scarf, worn regularly and washed correctly, lasts 15 to 20 years and softens rather than wears out over that time. The fiber is a protein structure, similar to human hair, that does not weaken with washing. Scarves that pill or thin out within a season or two are almost always blended with acrylic, viscose, or a lower cashmere grade. The deep forest green dye is set at the fiber stage before weaving, so color does not fade or affect how long the piece lasts.
+Warmth in cashmere comes from fineness, not weight. Very fine fibers trap a layer of still air close to your skin, and still air is what keeps you warm. That is how a scarf this light can feel warm around your neck on a cold morning.
 
-### What size is this forest green cashmere scarf?
+| 14 to 16 microns | Under US labeling rules, cashmere must average 19 microns or finer. This fiber is finer still, so it feels soft rather than prickly against the neck. |
+| --- | --- |
+| 35 to 55 mm staple | Longer fibers hold in the yarn better, so the scarf pills and sheds less as it ages. |
+| 200/2 yarn | Two very fine threads twisted together give the scarf strength while keeping it soft enough to knot without bulk. |
+| About 70 g | Folds smaller than a T-shirt, so it fits in a tote or a coat pocket when you do not need it. |
 
-This scarf is 40 x 80 inches (1m x 2m), generously sized to work as a full-body wrap, an evening shawl folded over one shoulder, or a scarf looped twice around the neck. At 70 grams it is light enough to fold into a handbag but wide enough for genuine full-body coverage, which is the standard size range for a shawl-scarf hybrid rather than a narrow neck scarf.
+To check any scarf at home, see our **[guide to telling real cashmere from a blend](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
 
-### Is this 100% cashmere or a blend?
+---
 
-This is 100% pure Grade A cashmere, no wool, viscose, or acrylic added. The fiber is sourced from the Tibetan Plateau at 14 to 16 microns in diameter, spun to a 200/2 yarn count. Many scarves marketed as “cashmere” in this forest green shade are blended with cheaper fiber to hit a lower price point, which is why blended pieces feel coarser and pill faster.
+Handwoven in Kathmandu
 
-### What is the yarn count of this cashmere scarf?
+## Made on a Handloom, One Scarf at a Time
 
-This scarf is woven at a 200/2 yarn count, meaning two ultra-fine threads are twisted together before weaving. That construction is what gives genuine cashmere its resistance to pilling without adding bulk or stiffness. A lower yarn count in a similarly priced scarf usually signals a coarser, lower-grade fiber used to cut cost.
+Each scarf is woven by one weaver on a wooden handloom in our Kathmandu workshop, which takes about five days. After weaving it is washed, dyed forest green, checked and mended by hand, and finished with a loose fringe. Your scarf is made after you order and delivered within 2 to 3 weeks, by free tracked courier anywhere in the world.
 
-### How do you wear a forest green cashmere scarf?
+---
 
-The most versatile way to wear this scarf is unfolded to its full 40 x 80 inch width as a travel blanket wrap across the shoulders and arms. Folded lengthwise, it drapes as an evening shawl over one or both shoulders for formalwear. Gathered along the width and wrapped twice around the neck, it becomes a classic neck loop for everyday wear. The deep green reads well against cream, white, and neutral tones in any of these three styles.
+Full Spec
 
-### Is this scarf available in other colors?
+## Forest Green Cashmere Scarf Shawl, Specification
 
-Yes. This forest green is one color in Baron Boutique’s handwoven cashmere scarf line, which also includes [Emerald Green](https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/), [Black](https://baronboutique.com/handwoven-black-cashmere-scarf-shawl/), [Ivory](https://baronboutique.com/handwoven-ivory-cashmere-scarf-shawl/), and several other shades, all made from the same 100% Grade A cashmere at the same construction. For the widest color range, the [Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/) offers over 80 color options in the same fiber quality.
+| Color | Forest green, a deep pine green |
+| --- | --- |
+| Fiber | 100% Grade A cashmere, no wool, viscose or acrylic |
+| Fiber source | Tibetan Plateau |
+| Fiber diameter | 14 to 16 microns |
+| Staple length | 35 to 55 mm |
+| Yarn | 200/2 |
+| Weave | Handwoven on a wooden handloom, light open weave |
+| Size | 40 x 80 inches (1 m x 2 m), rectangle |
+| Weight | About 70 g (2.5 oz) |
+| Ends | Live edge with hand-finished loose fringe |
+| Dye | Azo-free dyes |
+| Made | Handwoven in Nepal, made to order |
+| Delivery | Delivered within 2 to 3 weeks of your order |
+| Shipping | Free tracked courier worldwide; signature on delivery; no PO or APO/FPO boxes |
+| Returns | Within 30 days of delivery, unworn and in original condition; return shipping paid by the customer unless the fault is ours |
 
-### Is a forest green cashmere scarf a good gift?
+---
 
-A cashmere scarf works well as a gift because it needs no sizing and suits both travel and formal occasions. Forest green in particular pairs with the neutrals and jewel tones most wardrobes already include, so it does not require knowing the recipient’s usual color palette. At $259, it sits in a price range where genuine cashmere is recognizable to the person receiving it, not a token gift.
+Care
 
-### How do I identify if this cashmere scarf is genuine?
+## Caring for an Everyday Cashmere Scarf
 
-Genuine cashmere passes a burn test, a ring test, and a feel test that blended or synthetic scarves fail. A fringe thread burned from real cashmere smells like burnt hair and turns to ash, while synthetic fiber melts and smells of plastic. The scarf’s fine weave allows it to pass through a finger ring when folded, and it feels warm to the touch before you put it on. For the complete test-by-test breakdown and how to check a scarf you already own, see our full guide on the [Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/) page.
+A scarf you wear most days needs washing more often than an occasion shawl. Hand wash it in cold or lukewarm water with a mild detergent or wool wash, soak for 8 to 12 minutes, press the water through without wringing, rinse in cool water and dry it flat on a towel out of direct sun. A steamer or low iron removes creases.
+
+New cashmere can release a few loose fibers in its first weeks of wear, and a dark green shows them more on light clothes. This settles with wear and the first wash. Between wears, hang it somewhere airy; for storage, fold it clean with cedar or lavender.
+
+The open weave can catch on bag straps, zips and jewelry. If a thread pulls, ease it back from the other side with a blunt needle. Never cut it.
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Forest Green Cashmere Scarf
+
+### What colors go with a forest green scarf?
+
+White, cream, denim, camel, black and navy all work with forest green, because dark green behaves almost like a neutral. For a stronger look, pair it with burgundy or rust and keep the rest simple.
+
+### How do you tie a long cashmere scarf?
+
+The quickest way is the loose drape: fold the scarf in half lengthwise, put it around your neck and throw one end over the opposite shoulder. For more warmth, wrap it once around your neck and tie the ends in a loose knot. To cover your shoulders, open it to its full width and wear it as a cape.
+
+### Is this a scarf or a shawl?
+
+It is both, because at 40 x 80 inches (1 m x 2 m) it is wide enough to wear as a forest green shawl and long enough to tie as a scarf. Folded lengthwise it becomes a 20 inch wide scarf, and opened it covers your shoulders and arms.
+
+### What is the difference between forest green and emerald green?
+
+Forest green is a darker, warmer green that leans toward pine, while emerald is a brighter jewel green with a cool blue undertone. Forest green suits everyday wear and dark tailoring; emerald suits evening dresses.
+
+### Is a 70 gram cashmere scarf warm?
+
+Yes, around the neck it is warm for its weight, because very fine cashmere fibers trap still air close to the skin. On its own it is not a coat, so on very cold days wear it knotted or under a coat collar.
+
+### Is it 100% cashmere?
+
+Yes, it is 100% Grade A cashmere from the Tibetan Plateau, with no wool, viscose or acrylic. The fiber measures 14 to 16 microns and is spun into a 200/2 yarn, then woven by hand in Nepal.
+
+### Why is my new cashmere scarf shedding a little?
+
+New cashmere often releases a few loose fibers in its first weeks, and it shows more on a dark color worn over light clothes. It settles with wear and the first gentle wash. Steady shedding that does not stop is more typical of short fiber cashmere.
+
+### Is this forest green scarf for women or men?
+
+Both. Women wear it as a shawl, stole or knotted scarf, and folded lengthwise it works as a long scarf for men too. Forest green sits well with a navy, gray or camel coat.
+
+### How long does delivery take, and is shipping free?
+
+It is handmade to order and delivered within 2 to 3 weeks of your order, with free tracked shipping worldwide. A signature is needed on delivery, we cannot ship to PO boxes or APO/FPO addresses, and any import duties are paid by the customer.
+
+### Can I return it?
+
+Yes, within 30 days of delivery if it is unworn and in its original condition, and we refund you within 14 days of receiving it. Return shipping is paid by the customer unless the fault is ours.
 
 ## Categories
 

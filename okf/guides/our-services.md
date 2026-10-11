@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-21T09:22:25Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 Six tailoring services, made to order for men & women. Bespoke with a fitting prototype, CMT, prototypes with no minimum, small batches from 5 pieces.

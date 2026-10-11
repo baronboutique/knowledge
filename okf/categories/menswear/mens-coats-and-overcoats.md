@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Coats & Overcoats
@@ -124,12 +124,12 @@ Your finished coat ships from Dubai by trackable courier, Your test coat takes 3
 - [Mens Fitted Peacoat Black Quantum Of Solace Ending](../../products/menswear/quantum-of-solace-peacoat.md)
 - [Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit](../../products/menswear/mens-wool-cashmere-topcoat-in-navy.md)
 - [Newt Inspired British Herringbone Tweed Coat](../../products/screen-inspired/newt-inspired-herringbone-tweed-coat.md)
-- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
-- [Sacha Dhawan Master Coat Doctor Series 12](../../products/screen-inspired/sacha-dhawan-master-coat.md)
+- [Pirate Frock Coat in Velvet, Custom Made](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
+- [Sacha Dhawan Master Coat Doctor Series 12](../../products/screen-inspired/doctor-collection/sacha-dhawan-master-coat.md)
 - [Sherlock Holmes Coat (2009 film)](../../products/menswear/mens-coats-and-overcoats/sherlock-holmes-frock-coat.md)
 - [The Matrix 4 Resurrections Keanu Reeves Neo Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-4-resurrections-neo-coat.md)
 - [Time Lord Frock Coat (Oxford Blue)](../../products/menswear/time-lord-frock-coat-oxford-blue.md)
-- [Western Frock Coat in Wool, Made to Measure](../../products/menswear/mens-frock-coat.md)
+- [Western Frock Coat in Wool, Custom Made](../../products/menswear/mens-frock-coat.md)
 
 **Related terms:** men's wool overcoats, custom winter coat, tailored topcoat, long coats for men, movie replica coats
 

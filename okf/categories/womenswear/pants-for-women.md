@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Pants
@@ -72,16 +72,16 @@ Every adjustment is applied, then your trousers are cut and hand-tailored in you
 
 ## Products
 
-- [The Essential Straight-Leg Formal Trouser](../../products/womenswear/pants-for-women/womens-menswear-inspired-pants.md)
-- [The Foundational Dress Trouser](../../products/womenswear/pants-for-women/womens-melange-dress-pants.md)
-- [The Modern Tapered-Leg Trouser](../../products/womenswear/pants-for-women/womens-fresco-wool-pants-for-all-season.md)
-- [Thirteenth Doctor Teal Wool Pants](../../products/womenswear/screen-inspired-women/13th-doctor-pants.md)
+- [Screen-Inspired Thirteenth Doctor Teal Cropped Pants](../../products/womenswear/screen-inspired-women/13th-doctor-pants.md)
 - [Women's Dress Pants with Back Pockets in Mohair Wool](../../products/womenswear/pants-for-women/womens-warm-weather-wool-pants.md)
+- [Women's Formal Straight Leg Trousers in Wool and Cashmere](../../products/womenswear/pants-for-women/womens-menswear-inspired-pants.md)
+- [Women's Light Gray Tailored Trousers in Melange Tropical Wool](../../products/womenswear/pants-for-women/womens-melange-dress-pants.md)
 - [Women's Lined Wool Trousers in Super 160s Wool](../../products/womenswear/pants-for-women/womens-seasonless-pure-new-wool-pants.md)
 - [Women's Navy Tailored Flare Trousers in Sharkskin Wool](../../products/womenswear/pants-for-women/womens-work-pants-in-sharkskin.md)
 - [Women's Relaxed Fit Trousers in Super 140s Tropical Wool](../../products/womenswear/pants-for-women/womens-all-season-tropical-pants.md)
 - [Women's Slim Tailored Bootcut Trousers in Super 140s Wool](../../products/womenswear/pants-for-women/womens-iconic-wool-pants.md)
 - [Women's Straight Leg Linen Trousers in Pure Linen](../../products/womenswear/pants-for-women/womens-warm-weather-linen-pants.md)
+- [Women's Tapered Dress Pants in Fresco Wool, Ankle Length](../../products/womenswear/pants-for-women/womens-fresco-wool-pants-for-all-season.md)
 - [Women's Velvet Skinny Trousers in Stretch Velvet](../../products/womenswear/pants-for-women/womens-velvet-pants.md)
 - [Women's Wide Leg Linen Pants, Lined to the Knee](../../products/womenswear/pants-for-women/womens-classic-linen-pants.md)
 

@@ -15,9 +15,9 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Shirts & Blouses](shirts-for-women/index.md) — 11 products
 - [Suits & Blazers](suits-blazers-for-women/index.md) — 12 products
 - [Wedding Suits](wedding-suits-for-women/index.md) — 3 products
-- [Pants](pants-for-women/index.md) — 11 products
 - [Skirts](skirts-for-women/index.md) — 10 products
 - [Tuxedos](tuxedos-for-women/index.md) — 3 products
+- [Pants](pants-for-women/index.md) — 11 products
 
 ## Related
 

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-warm-weather-wool-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-28
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women's Dress Pants with Back Pockets in Mohair Wool
@@ -37,9 +37,13 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 Most women's dress pants have no back pockets, or pockets stitched shut. These have two real back pockets that open all the way, plus slanted front pockets, in a straight-leg trouser cut to your measurements in a breathable mohair wool blend. Prefer flap or buttoned back pockets? Just ask in the comment box on the measurement form, at the same price. Before we cut the cloth, we send you a free test pair to try at home, and it is yours to keep.
 
+Real Back Pockets
+
 ## Women’s Dress Pants with Back Pockets That Actually Open
 
 Turn around a pair of women’s dress pants in most stores and you find one of two things: no back pockets at all, or a neat welt line that turns out to be stitched shut. Meanwhile the front pockets are too shallow for a phone. So your keys, cards and phone end up in a bag you did not want to carry to the meeting room.
+
+Searching for women’s dress pants with back flap pockets or welt pockets? These are professional pants for women with two real back pockets, and you choose the pocket style when you order. Ladies’ dress pants, dress slacks or dressy pants for women, whatever you call them, the pockets should work.
 
 These pants have two real back pockets. They are single-welt pockets, the clean, flat style used on tailored trousers, and they open all the way: a card, a key or a slim phone goes in and stays put. Add the two slanted front pockets and you have four pockets you can use, in a straight-leg dress trouser cut to your own measurements.
 
@@ -54,37 +58,11 @@ Two real back pockets
 
 ---
 
-## Choose Your Back Pocket: Welt, Flap or Buttoned
+Free Test Pair
 
-Because every pair is made for you, the back pockets are made the way you want them. Write your choice in the comment box on the measurement form and we cut it that way, at the same price.
+## Free Test Pair: Check the Pockets as Well as the Fit
 
-Welt Pocket (Standard)
-
-A single slim opening finished flat against the seat. The cleanest, most formal choice, and the one in the photos. It keeps the back of the trouser smooth under a jacket.
-
-Flap Pocket
-
-A fabric flap covers the opening. It adds a tailored detail to the back view and hides whatever is inside, so a card or key never shows its outline.
-
-Buttoned Pocket
-
-A button closes the pocket, so nothing slips out when you sit, bend or travel. The most secure choice if you carry a card or key in your back pocket.
-
----
-
-## Why Most Women’s Dress Pants Skip Back Pockets
-
-It is not an accident. A back pocket only lies flat when the trouser fits the seat well. On ready-made pants cut for one standard body, a real pocket on a tighter seat pulls open and shows, so many brands leave it out, or sew it shut so it keeps its shape on the rail. It also saves sewing time on every pair.
-
-When the trousers are cut to your seat and hip measurements, that problem goes away. The welt sits flat because the cloth around it is not under strain, and the pocket can be real. It is one of the quieter advantages of trousers made for one person rather than for a size.
-
----
-
-## The Mohair Wool Blend: Cool, Crisp and Slow to Crease
-
-The cloth is an 8oz Super 140s mohair wool blend in a plain weave. It is light and open, so air moves through it, which makes these a comfortable choice for warm offices, summer commutes and travel. Mohair is a springy fiber, so the trousers shake out creases from sitting better than most wool, and it gives the cloth a faint natural sheen.
-
-The front of the trousers is lined in acetate to the knee, so the leg drapes smoothly and slides over the skin. If wool irritates your skin, we can extend the lining all the way to the hem on request.
+Before we cut your mohair wool, we send you a complete test pair in cotton, made to your measurements. Sit down, walk, and put your phone and keys in the pockets you will actually use. Check the waist, the rise, the seat and the length, and whether you want the back pockets as welts, flaps or buttoned. Your notes go into the pattern before the final pair is cut, and the test pair is yours to keep.
 
 1
 
@@ -106,19 +84,57 @@ We make a cotton pair to your measurements and send it to you. You check the fit
 **We make your final pair**  
 Your notes go into the pattern and the trousers are cut in the mohair wool blend, with a hand-stitched blind hem, then shipped worldwide with tracking.
 
-**Price:** $239, same for every color and pocket style **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Dry clean only
-
----
-
-## Free Test Pair: Check the Pockets as Well as the Fit
-
-Before we cut your mohair wool, we send you a complete test pair in cotton, made to your measurements. Sit down, walk, and put your phone and keys in the pockets you will actually use. Check the waist, the rise, the seat and the length, and whether you want the back pockets as welts, flaps or buttoned. Your notes go into the pattern before the final pair is cut, and the test pair is yours to keep.
-
 Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 
-Not sure how to measure yourself? Our [women’s body measuring guide](https://baronboutique.com/womens-body-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+**Price:** $239, same for every color and pocket style **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
+
+Not sure how to measure yourself? Our [women’s body measuring guide](https:///womens-body-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
+
+Choose Your Pocket
+
+## Choose Your Back Pocket: Welt, Flap or Buttoned
+
+Because every pair is made for you, the back pockets are made the way you want them. Write your choice in the comment box on the measurement form and we cut it that way, at the same price.
+
+Welt Pocket (Standard)
+
+A single slim opening finished flat against the seat. The cleanest, most formal choice, and the one in the photos. It keeps the back of the trouser smooth under a jacket.
+
+Flap Pocket
+
+A fabric flap covers the opening. It adds a tailored detail to the back view and hides whatever is inside, so a card or key never shows its outline.
+
+Buttoned Pocket
+
+A button closes the pocket, so nothing slips out when you sit, bend or travel. The most secure choice if you carry a card or key in your back pocket.
+
+---
+
+Why Most Skip Them
+
+## Why Most Women’s Dress Pants Skip Back Pockets
+
+It is not an accident. A back pocket only lies flat when the trouser fits the seat well. On ready-made pants cut for one standard body, a real pocket on a tighter seat pulls open and shows, so many brands leave it out, or sew it shut so it keeps its shape on the rail. It also saves sewing time on every pair.
+
+When the trousers are cut to your seat and hip measurements, that problem goes away. The welt sits flat because the cloth around it is not under strain, and the pocket can be real. It is one of the quieter advantages of trousers made for one person rather than for a size.
+
+---
+
+The Mohair Wool
+
+## The Mohair Wool Blend: Cool, Crisp and Slow to Crease
+
+The cloth is an 8oz Super 140s mohair wool blend in a plain weave. It is light and open, so air moves through it, which makes these a comfortable choice for warm offices, summer commutes and travel. Mohair is a springy fiber, so the trousers shake out creases from sitting better than most wool, and it gives the cloth a faint natural sheen.
+
+The front of the trousers is lined in acetate to the knee, so the leg drapes smoothly and slides over the skin. If wool irritates your skin, we can extend the lining all the way to the hem on request.
+
+Want a finer wool for year-round wear, with your choice of lining? See our [lined wool trousers](https:///womens-seasonless-pure-new-wool-pants/). For a slimmer, ankle-length line in open-weave fresco wool, see our [tapered dress pants](https:///womens-fresco-wool-pants-for-all-season/).
+
+---
+
+Full Spec
 
 ## Full Specification
 
@@ -131,12 +147,14 @@ Not sure how to measure yourself? Our [women’s body measuring guide](https://b
 | Fly | Zip fly |
 | Front pockets | Slanted |
 | Back pockets | Two real single-welt pockets; flap or buttoned on request |
-| Lining | Acetate-lined to the front knee; to the hem on request |
+| Lining | Acetate-lined to the front knee; fully lined or unlined on request |
 | Hem | 3-inch hand-stitched blind hem |
 | Seam allowances | Ample, for future alteration |
-| Care | Dry clean only |
+| Care | Machine wash cold on a gentle wool cycle and hang to dry, or dry clean |
 
 ---
+
+vs. Off the Rack
 
 ## Custom vs. Off the Rack
 
@@ -152,6 +170,8 @@ Not sure how to measure yourself? Our [women’s body measuring guide](https://b
 
 ---
 
+About Baron
+
 ## About Baron Boutique
 
 Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
@@ -161,6 +181,8 @@ Today, Baron Boutique operates internationally from Dubai while all bespoke tail
 Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
 
 ---
+
+FAQ
 
 ## Questions About These Dress Pants with Back Pockets
 
@@ -199,6 +221,10 @@ Yes, a lightweight mohair wool blend is one of the most comfortable cloths for w
 ### Will mohair wool feel itchy?
 
 A fine Super 140s mohair wool blend feels smooth rather than scratchy, and the front of these trousers is lined to the knee. If your skin is sensitive to wool, ask for the lining to be extended to the hem and it will be lined all the way down.
+
+### What does the back of these dress pants look like?
+
+The back of these pants has two real back pockets, welt pockets as standard or flap pockets on request. Seen from the back side, the pant falls straight from the seat like a suit trouser, which is why they also work as formal pants for women and as suit pants with a matching jacket.
 
 ### How much do these dress pants cost?
 

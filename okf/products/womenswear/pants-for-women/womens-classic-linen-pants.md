@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-classic-linen-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-30
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women's Wide Leg Linen Pants, Lined to the Knee
@@ -42,6 +42,8 @@ Wide Leg Linen Pants
 ## Wide Leg Linen Pants, Tailored and Lined to the Knee
 
 These are a wide leg trouser, not a palazzo. The front is flat, the waistband has belt loops, and a pressed crease runs down each leg. From the seat, the leg falls wide and straight to a hem that nearly touches the floor, so the linen moves when you walk and still looks like tailoring when you stand.
+
+These are tailored linen pants for women: wide leg linen pants with real back pockets, a pressed crease and a front lined to the knee, in natural, khaki or tan linen and 12 more colors. You can have them as khaki linen pants for women or tan linen trousers, and as high waisted wide leg linen pants or at your natural waist.
 
 What sets this pair apart is inside: the front of each leg is lined to the knee in a smooth satin lining, in a color you choose. They are made to your measurements in 100% linen, and before we cut your linen, we send you a free test pair to try on at home.
 
@@ -87,7 +89,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine washable, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -125,7 +127,7 @@ A wide leg looks right or wrong mostly because of two things: the width at the h
 | Rise | Taken from your measurements. For a high-waisted fit, ask in the comment box. |
 | Ankle length | Available on request if you prefer a cropped wide leg that shows the ankle. |
 
-Prefer a narrower line that falls straight from the knee? See our [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/), which are unlined for maximum airflow.
+Prefer a narrower line that falls straight from the knee? See our [straight leg linen trousers](https:///womens-warm-weather-linen-pants/), which are unlined for maximum airflow. Want the same easy feel in wool? Our [tropical wool trousers](https:///womens-all-season-tropical-pants/) have a relaxed leg in 14 colors.
 
 ---
 
@@ -234,7 +236,7 @@ These are, because they are cut as trousers: a flat front, a zip fly, belt loops
 
 ### What is the difference between these and your straight leg linen trousers?
 
-These are wider and lined to the knee. The [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/) are narrower from the knee down and unlined for maximum airflow. Both come in the same 18 linens.
+These are wider and lined to the knee. The [straight leg linen trousers](https:///womens-warm-weather-linen-pants/) are narrower from the knee down and unlined for maximum airflow. Both come in the same 18 linens.
 
 ### How much do these wide leg linen pants cost, and can I wash them?
 

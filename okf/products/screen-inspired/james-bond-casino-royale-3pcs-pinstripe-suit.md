@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/james-bond-casino-royale-3pcs-pinstripe-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-10
+    last_modified: 2026-10-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # James Bond Casino Royale Final Scene Inspired 3 Piece Suit

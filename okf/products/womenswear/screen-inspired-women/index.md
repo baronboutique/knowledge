@@ -55,9 +55,9 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 ## Products
 
 - [Black Wizard Robe Womens Percival Graves Fantastic Beasts Cosplay](percival-graves-black-coat-for-women.md)
+- [Screen-Inspired Thirteenth Doctor Teal Cropped Pants](13th-doctor-pants.md)
 - [Tenth Doctor's Brown Pinstripe Suit](womens-10th-doctor-brown-with-blue-stripes-suit.md)
 - [The 7th Doctor's Utility Jacket](7th-doctor-jacket-for-women.md)
-- [Thirteenth Doctor Teal Wool Pants](13th-doctor-pants.md)
 - [Women's 12th Doctor Burgundy Velvet Coat](12th-doctor-burgundy-velvet-coat-for-women.md)
 - [Women's Beige Frock Coat with Red Stripe](5th-doctor-red-piping-frock-coat-for-women.md)
 - [Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa](womens-long-black-leather-coat.md)

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Cinema Classics
@@ -101,7 +101,7 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, Your test 
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](../../products/menswear/sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
 - [Cary Grant North By Northwest Inspired Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
 - [Count Dooku Cape and Tunic Star Wars](../../products/screen-inspired/cinema-classics/count-dooku-cape-and-tunic-from-star-wars.md)
-- [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../../products/screen-inspired/dryden-vos-costumes-solo.md)
+- [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](../../products/screen-inspired/cinema-classics/dryden-vos-costumes-solo.md)
 - [Fantastic Beasts Percival Graves Black Coat](../../products/screen-inspired/cinema-classics/percival-graves-black-coat.md)
 - [Good Omens Season 02 Crowley Black Blazer](../../products/screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [Hei Trench Coat from Darker Than Black, Custom Made in Wool](../../products/screen-inspired/cinema-classics/hei-trench-coat-darker-than-black.md)

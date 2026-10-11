@@ -50,7 +50,7 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Time Lord Frock Coat (Oxford Blue)](time-lord-frock-coat-oxford-blue.md)
 - [Two Face Silk Neckties Handmade](two-face-silk-neckties-handmade.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](velvet-groomsmen-blazer-handmade-weddings.md)
-- [Western Frock Coat in Wool, Made to Measure](mens-frock-coat.md)
+- [Western Frock Coat in Wool, Custom Made](mens-frock-coat.md)
 - [Real Silk Eventwear](mens-silk-suits-shirts-ties-scarves/index.md) — 6 products
 - [Suits & Blazers](mens-suits-blazers/index.md) — 20 products
 - [House of Velvet](velvet/index.md) — 2 products

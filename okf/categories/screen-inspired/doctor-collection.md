@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Doctor Collection
@@ -111,7 +111,7 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, Your test 
 - [Eleventh Doctor's "Snowmen" Frock Coat](../../products/screen-inspired/eleventh-doctor-snowmen-frock-coat-replica.md)
 - [Fourth Doctor Horror Of Fang Baker Coat](../../products/menswear/frock-coats-for-men/fourth-doctor-baker-coat.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](../../products/screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
-- [Sacha Dhawan Master Coat Doctor Series 12](../../products/screen-inspired/sacha-dhawan-master-coat.md)
+- [Sacha Dhawan Master Coat Doctor Series 12](../../products/screen-inspired/doctor-collection/sacha-dhawan-master-coat.md)
 - [Second Doctor Coat Black](../../products/screen-inspired/doctor-collection/second-doctor-black-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](../../products/screen-inspired/smith-shetland-tweed-blazer-jacket.md)
 - [Tennant Blue and Red Stripe Suit](../../products/screen-inspired/doctor-collection/tennant-blue-red-stripe-suit.md)

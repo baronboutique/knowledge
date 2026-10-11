@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T13:10:33Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-27T13:10:33Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Wedding Suits
@@ -96,11 +96,11 @@ Before any final cloth is cut, we build a test suit in a low-cost fabric to your
 - [Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels](../../products/menswear/tuxedos/mens-navy-herringbone-wool-tuxedo.md)
 - [Mens Burgundy Flannel Tuxedo](../../products/menswear/tuxedos/light-weight-all-season-wool-flannel-tuxedo-suit.md)
 - [One Button Notch Lapel Tuxedo](../../products/menswear/tuxedos/one-button-merino-wool-tuxedo.md)
-- [Pirate Frock Coat in Velvet, Made to Measure](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
+- [Pirate Frock Coat in Velvet, Custom Made](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
 - [Slate Blue Sharkskin Suit](../../products/menswear/wedding-suits/sharkskin-wedding-suit.md)
 - [The Linen Ceremonial Suit](../../products/menswear/grooms-linen-suits-for-wedding/wedding-party-linen-suit.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
-- [Western Frock Coat in Wool, Made to Measure](../../products/menswear/mens-frock-coat.md)
+- [Western Frock Coat in Wool, Custom Made](../../products/menswear/mens-frock-coat.md)
 
 **Related terms:** groom suits online, custom wedding suit for men, beach wedding attire men, tailored groom outfit, made-to-order wedding suit
 

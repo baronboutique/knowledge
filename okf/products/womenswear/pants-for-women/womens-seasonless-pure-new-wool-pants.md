@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-seasonless-pure-new-wool-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-30
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women's Lined Wool Trousers in Super 160s Wool
@@ -42,6 +42,8 @@ Lined Wool Trousers
 ## Women’s Lined Wool Trousers, Lined the Way You Need
 
 Most women’s wool trousers are sold one way: unlined, which can feel scratchy and cling to tights, or lined in a thick lining that makes them too warm for the office. The lining is rarely your choice. Here it is. These tailored wool trousers come lined to the knee as standard, and you can ask for them fully lined to the hem, or with no lining at all.
+
+These are ladies’ tailored wool trousers for everyday work: wool dress pants and wool dress trousers that read as business casual pants for women with a knit, or as tailored trousers for women with a matching jacket. Whatever women call them, dress slacks or tailored slacks, these are lightweight wool dress pants, or trousers if you prefer the word, in a 9 oz Super 160s cloth you can wear all year. They are fitted trousers for women, not tight ones: fitted dress pants and slim fit dress pants with a clean seat, elegant, dressy pants for women that work as professional pants, tailored office pants and lightweight work pants all day. Women’s tailored trousers like these are office wear first, and woolen trousers for women in a fine worsted cloth stay smooth through the day. If you prefer straight leg tailored trousers or straight leg office pants, women can order that cut too.
 
 The cloth is a smooth 9 oz Super 160s wool, 100% wool, in seven work colors. The cut is a flat-front trouser with a gently tapered leg, slanted front pockets and two back pockets, made to your measurements. Before we cut your wool, we send you a free test pair to try on at home.
 
@@ -87,7 +89,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -128,6 +130,8 @@ The Cloth
 Many trousers sold as wool are wool blends: wool mixed with polyester or viscose to cut the cost. Blends can be easier to care for, but they often shine sooner, pill at the thighs and feel warmer and less breathable. These trousers are 100% wool.
 
 The cloth is a 9 oz Super 160s worsted wool with a plain weave. That weight is light enough for heated offices and warm days, and the fine yarn gives it a smooth, soft hand and a clean drape that hangs straight from the hip. It is a seasonless cloth: you can wear it through most of the year, and full lining adds warmth when it is cold.
+
+Need back pockets you can use? Our [women’s dress pants with back pockets](https:///womens-warm-weather-wool-pants/) are cut in a lighter mohair wool blend. For a menswear-inspired straight leg, see our [formal pants for women](https:///womens-menswear-inspired-pants/).
 
 ---
 
@@ -235,11 +239,11 @@ The knee takes the most strain when you sit, and a lining there stops the wool f
 
 Most likely, yes. Super 160s is a very fine wool and feels smooth rather than scratchy. If your skin is sensitive, ask for the trousers to be fully lined, so only the lining touches your legs.
 
-### Are these wool blend trousers?
+### Are these women’s wool blend pants or wool blend tailored trousers?
 
 No. They are 100% wool, a 9 oz Super 160s worsted. Blends mix wool with polyester or viscose to lower the cost; pure wool breathes better, drapes more cleanly and is slower to shine.
 
-### Are these wool trousers machine washable?
+### Are these machine washable wool pants and washable wool trousers for women?
 
 Yes. Wash them cold on a gentle wool cycle and hang them to dry, or dry clean them if you prefer. Wash only when they need it: between wears, hang them by the hem or waistband and brush them, and fine wool recovers from creases overnight.
 
@@ -251,9 +255,21 @@ At 9 oz, the wool is light enough for heated offices and warm days. For a colder
 
 Yes. They are lined wool dress pants cut as a classic work trouser: flat front, slanted pockets, a grip-lined waistband that keeps blouses tucked in, and a tapered leg that works with heels or flats. Seven colors cover most office wardrobes.
 
-### Can I have a straight leg instead of a tapered leg?
+### Can women order these as straight leg dress pants or straight leg work pants instead of a tapered leg?
 
 Yes. Write “straight leg” or “wide leg” in the comment box on the measurement form and we will cut the leg that way. You can also ask for a higher or lower rise, or for pleats.
+
+### Are these lined wool dress pants good as women’s wool work pants?
+
+Yes, these lined wool dress pants are made for long working days. The lining to the knee stops the wool from clinging when you sit, and dark gray, navy and black are the easiest colors for women’s work pants and business casual dress codes. As wool work trousers they hold a crease and recover from sitting.
+
+### What is the difference between women’s slacks vs dress pants?
+
+There is no real difference in tailoring today. Slacks is the older, more casual word, and dress pants is the more formal one; both mean tailored trousers with a waistband, belt loops and a pressed leg, which is exactly what these are.
+
+### How do these compare with designer wool trousers?
+
+Compare the cloth before the label. Check the fiber content and the Super number on any designer wool trousers or designer wool pants: these are 100% Super 160s wool, lined, and cut to your measurements after a free test pair.
 
 ### How much do these lined wool trousers cost?
 

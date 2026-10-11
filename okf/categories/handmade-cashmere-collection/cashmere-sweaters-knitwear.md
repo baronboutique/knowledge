@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.18.1, at: 2026-08-28T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Cashmere Sweaters & Knitwear
@@ -52,10 +52,11 @@ Which cut suits how you wear it
 
 ## Products
 
-- [Fog Cable Knit Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/fog-cable-knit-cashmere-turtleneck.md)
-- [Orange Cashmere Dropped Shoulder Sweater](../../products/handmade-cashmere-collection/orange-cashmere-dropped-shoulder-boxy-sweater.md)
-- [Women's Rust Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/women-rust-cashmere-turtleneck-sweater.md)
+- [Fog Cable Knit Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/fog-cable-knit-cashmere-turtleneck.md)
+- [Orange Cashmere Dropped Shoulder Sweater](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/orange-cashmere-dropped-shoulder-boxy-sweater.md)
+- [Women's Rust Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/women-rust-cashmere-turtleneck-sweater.md)
 
 ## Related
 
 - [Handcrafted Cashmere Category Index](../handmade-cashmere-collection.md)
+- [Browse all Cashmere Sweaters & Knitwear products](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/index.md)

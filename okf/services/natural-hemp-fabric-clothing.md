@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-21T09:05:56Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-27T03:00:10Z }
-generated: { by: baron-ai-knowledge-manager/1.21.1, at: 2026-09-01T07:55:16Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 Baron Boutique produces 100% natural hemp fabric and hemp clothing from hemp grown between 1,500m and 3,000m in the Nepal Himalayas without pesticides, herbicides or synthetic fertilizers. Fabric is sold by the meter from a minimum of 10 meters in weights from 150gsm to 400gsm, in plain, twill and herringbone weaves plus custom patterns and hemp-linen blends. Hemp clothing is made to the customer's own measurements with no minimum, covering shirts, tunics, pants, jackets, outerwear, scarves, shawls and custom pieces such as suits, dresses and hemp T-shirts, for men and women. Private label garment production starts at 10 pieces per style with the brand's own labels, tags and packaging. Over 350 hand-dyed azo-free colors are available with Pantone matching. Hemp is a natural plant fiber, not a synthetic: it is roughly three times the tensile strength of cotton, biodegradable, naturally antimicrobial and hypoallergenic, sheds no microplastics, softens with every wash, and a well-made hemp garment lasts 20 years or more. Everything is handwoven and made in Nepal by artisan communities, many of them women-led cooperatives, and shipped worldwide with tracking.

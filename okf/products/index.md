@@ -50,7 +50,7 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Time Lord Frock Coat (Oxford Blue)](menswear/time-lord-frock-coat-oxford-blue.md)
 - [Two Face Silk Neckties Handmade](menswear/two-face-silk-neckties-handmade.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](menswear/velvet-groomsmen-blazer-handmade-weddings.md)
-- [Western Frock Coat in Wool, Made to Measure](menswear/mens-frock-coat.md)
+- [Western Frock Coat in Wool, Custom Made](menswear/mens-frock-coat.md)
 - [Real Silk Eventwear](menswear/mens-silk-suits-shirts-ties-scarves/index.md) — 6 products
 - [Suits & Blazers](menswear/mens-suits-blazers/index.md) — 20 products
 - [House of Velvet](menswear/velvet/index.md) — 2 products
@@ -66,19 +66,17 @@ All products are made to order by human tailors after an order is confirmed. No 
 
 ## [Screen Inspired](screen-inspired/index.md)
 
-- [Doctor Collection](screen-inspired/doctor-collection/index.md) — 8 products
+- [Doctor Collection](screen-inspired/doctor-collection/index.md) — 9 products
 - [1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired](screen-inspired/1989-purple-coat-gotham-villain.md)
 - [5th Doctor Cosplay Beige Frock Coat](screen-inspired/5th-doctor-red-piping-frock-coat.md)
-- [Dryden Vos Costume Solo: A Star Wars Story Inspired Cosplay](screen-inspired/dryden-vos-costumes-solo.md)
 - [Eleventh Doctor's "Snowmen" Frock Coat](screen-inspired/eleventh-doctor-snowmen-frock-coat-replica.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
 - [Good Omens Season 02 Crowley Black Blazer](screen-inspired/crowley-good-omens-s02-black-blazer.md)
 - [James Bond Casino Royale Final Scene Inspired 3 Piece Suit](screen-inspired/james-bond-casino-royale-3pcs-pinstripe-suit.md)
 - [Newt Inspired British Herringbone Tweed Coat](screen-inspired/newt-inspired-herringbone-tweed-coat.md)
-- [Sacha Dhawan Master Coat Doctor Series 12](screen-inspired/sacha-dhawan-master-coat.md)
 - [Smith Shetland Tweed Blazer,  W. Bill 100% Pure New Wool](screen-inspired/smith-shetland-tweed-blazer-jacket.md)
 - [Theatrical Villain](screen-inspired/theatrical-villain-tailoring/index.md) — 4 products
-- [Cinema Classics](screen-inspired/cinema-classics/index.md) — 13 products
+- [Cinema Classics](screen-inspired/cinema-classics/index.md) — 14 products
 - [Spy Tailoring](screen-inspired/spy-tailoring/index.md) — 7 products
 - [Victorian Detective](screen-inspired/victorian-detective/index.md) — 1 products
 - [Cyberpunk Trench Coats](screen-inspired/cyberpunk-trench-coats/index.md) — 6 products
@@ -88,7 +86,6 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Aquamarine Blue Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/aquamarine-blue-handwoven-cashmere-scarf-shawl.md)
 - [Cloud Stripe Spring Cashmere Scarf](handmade-cashmere-collection/cloud-stripe-spring-cashmere-scarf.md)
 - [Emerald Green Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/emerald-green-handwoven-cashmere-scarf-shawl.md)
-- [Fog Cable Knit Cashmere Turtleneck Sweater](handmade-cashmere-collection/fog-cable-knit-cashmere-turtleneck.md)
 - [Glen Plaid Cashmere Scarf – Tan & White Houndstooth Weave](handmade-cashmere-collection/glen-plaid-cashmere-scarf-tan-white-houndstooth.md)
 - [Hand Felted Grey Cashmere Scarf Wrap](handmade-cashmere-collection/hand-knitted-grey-cashmere-scarf-wrap.md)
 - [Hand Felted Light Salmon Pink Cashmere Scarf Wrap](handmade-cashmere-collection/hand-knitted-light-salmon-pink-cashmere-scarf-wrap.md)
@@ -106,7 +103,6 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Nature-Printed Blue & White Cashmere Scarf](handmade-cashmere-collection/nature-printed-blue-white-cashmere-scarf.md)
 - [Off-White Cashmere Scarf – Hand-Finished in Pearl Weave](handmade-cashmere-collection/off-white-cashmere-scarf-pearl-weave.md)
 - [Ombre Cashmere Scarf Wrap Stole](handmade-cashmere-collection/ombre-cashmere-scarf-wrap-stole-grey-red-two-tone.md)
-- [Orange Cashmere Dropped Shoulder Sweater](handmade-cashmere-collection/orange-cashmere-dropped-shoulder-boxy-sweater.md)
 - [Orange Rust Ombre Tie-Dye Cashmere Scarf – Hand-Finished in Twill](handmade-cashmere-collection/orange-rust-ombre-tie-dye-cashmere-scarf.md)
 - [Pastel Pink Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/pastel-pink-handwoven-cashmere-scarf-shawl.md)
 - [Red Houndstooth Cashmere Scarf – Hand-Finished in Diamond Weave](handmade-cashmere-collection/red-houndstooth-cashmere-scarf.md)
@@ -114,8 +110,8 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Solar and Lunar Print Cashmere Loom Scarf](handmade-cashmere-collection/solar-lunar-print-cashmere-loom-scarf.md)
 - [The Sunflower-Embroidered Baby Blue Cashmere Wrap](handmade-cashmere-collection/baby-blue-sunflower-embroidered-cashmere-shawl.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](handmade-cashmere-collection/willow-green-handwoven-cashmere-scarf-shawl.md)
-- [Women's Rust Cashmere Turtleneck Sweater](handmade-cashmere-collection/women-rust-cashmere-turtleneck-sweater.md)
 - [Handwoven Cashmere Scarves & Shawls](handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/index.md) — 3 products
+- [Cashmere Sweaters & Knitwear](handmade-cashmere-collection/cashmere-sweaters-knitwear/index.md) — 3 products
 
 ## [Women](womenswear/index.md)
 
@@ -130,7 +126,7 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Shirts & Blouses](womenswear/shirts-for-women/index.md) — 11 products
 - [Suits & Blazers](womenswear/suits-blazers-for-women/index.md) — 12 products
 - [Wedding Suits](womenswear/wedding-suits-for-women/index.md) — 3 products
-- [Pants](womenswear/pants-for-women/index.md) — 11 products
 - [Skirts](womenswear/skirts-for-women/index.md) — 10 products
 - [Tuxedos](womenswear/tuxedos-for-women/index.md) — 3 products
+- [Pants](womenswear/pants-for-women/index.md) — 11 products
 

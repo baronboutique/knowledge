@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-victorian-winter-frock-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-27
+    last_modified: 2026-10-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T15:32:50Z }
-  - { by: process:baron-catalog-watch, at: 2026-09-30T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-09-30T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women's Frock Coat, Victorian Winter Cut in Burgundy Wool

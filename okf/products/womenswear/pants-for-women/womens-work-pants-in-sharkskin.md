@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-work-pants-in-sharkskin/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-30
+    last_modified: 2026-10-07
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-01T03:00:02Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-01T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
 ---
 
 # Women's Navy Tailored Flare Trousers in Sharkskin Wool
@@ -42,6 +42,8 @@ Tailored Flare Trousers
 ## Navy Tailored Flare Trousers in Sharkskin Wool
 
 A flare looks polished or costume-like depending on two things: the cloth and the cut. In a soft, loose fabric it drifts toward the seventies. In a crisp suiting wool, fitted through the hip and thigh and opening from the knee, it reads as a sharp work trouser that lengthens the leg.
+
+These are women’s navy tailored trousers with a flare: navy blue flare pants in sharkskin wool, the tailored flares that look right at work. As tailor made trousers they are cut to your measurements, in navy blue or seven other colors, whether women call them trousers, pants or slacks. Navy is the dark blue of a classic suit, so these dark blue tailored trousers for women, navy dress pants or dark blue slacks if you prefer, read as smart navy tailored pants and navy blue bottoms at the office, and the tailored flare pants shape, which some call navy blue flared pants, adds length to the leg.
 
 These flare trousers are made to your measurements in Super 120s sharkskin wool, a suiting cloth with a quiet two-tone sheen, in navy, blues and grays. Before we cut your wool, we send you a free test pair to try on at home, so the flare opens where it suits you.
 
@@ -88,7 +90,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -122,7 +124,7 @@ Flare for Work
 | Jackets | A fitted jacket that ends at the hip keeps the proportions long. A cropped jacket works too; a very long, loose one hides the line. |
 | Colors | Navy, Black and Dark Grey are the most formal. Slate Blue, Grey and Light Grey are lighter and work well in summer. |
 
-Prefer a quieter opening? Our [tailored bootcut trousers](https://baronboutique.com/womens-iconic-wool-pants/) open more gently from the knee.
+Prefer a quieter opening? Our [tailored bootcut trousers](https:///womens-iconic-wool-pants/) open more gently from the knee. For a leg that falls straight from hip to hem, see our [formal pants for women](https:///womens-menswear-inspired-pants/).
 
 ---
 
@@ -224,9 +226,9 @@ Both are fitted through the thigh. A flare opens more widely from the knee; a bo
 
 Heels or block heels suit a flare, because the hem is meant to cover most of the shoe. Tell us your heel height so we can set the length, and check it on the free test pair wearing those shoes.
 
-### Do you make navy tailored trousers in other cuts?
+### Do you make navy tailored trousers for women in other cuts, like a bootcut or straight leg?
 
-Yes. These are cut with a flare, but you can ask for a bootcut or a straight leg in the same sharkskin in the comment box, and you will see the result on the test pair.
+Yes. These are cut with a flare, but you can ask for a bootcut or a straight leg in the same sharkskin in the comment box, and you will see the result on the test pair. For navy wide leg tailored trousers for women, or navy ankle length tailored trousers and ankle dress pants, write to us before you order and we will tell you honestly whether this sharkskin suits that cut.
 
 ### Are these trousers lined?
 
