@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:26:09Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
 ---
 
 # Light Teal Green Handwoven Cashmere Scarf Shawl
@@ -61,7 +61,7 @@ The Color
 
 Teal is a blue-green, darker and grayer than turquoise, which is brighter and bluer. This light teal scarf sits on the soft, muted side of teal: in daylight it reads as a gray-green with blue in it, and indoors it looks greener. If you were searching for a teal green scarf or a light green scarf, this is the nearest of our colors with a cool, misty tone rather than a bright one.
 
-If you want a brighter turquoise, our **[Aquamarine Blue cashmere shawl](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/)** is clearer and lighter. If you want a stronger green, see the greens below.
+If you want a brighter turquoise, our **[Aquamarine Blue cashmere shawl](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/)** is clearer and lighter. If you want a stronger green, see the greens below.
 
 ---
 
@@ -89,7 +89,7 @@ Our Greens
 
 ## Light Teal Green and Our Other Green Cashmere Scarves
 
-Light teal is the softest of our greens. For a deeper everyday green, see **[Forest Green](https:///handwoven-forest-green-cashmere-scarf-shawl/)**; for a bright jewel green for evening, **[Emerald Green](https:///emerald-green-handwoven-cashmere-scarf-shawl/)**; for a fresh spring green, **[Willow Green](https:///willow-green-handwoven-cashmere-scarf-shawl/)**. One client ordered Light Teal, Emerald and Willow Green together as a set of three greens. Our **[Featherlight Cashmere Scarf](https:///womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https:///handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+Light teal is the softest of our greens. For a deeper everyday green, see **[Forest Green](https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/)**; for a bright jewel green for evening, **[Emerald Green](https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/)**; for a fresh spring green, **[Willow Green](https://baronboutique.com/willow-green-handwoven-cashmere-scarf-shawl/)**. One client ordered Light Teal, Emerald and Willow Green together as a set of three greens. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 
@@ -105,7 +105,7 @@ Warmth in cashmere comes from fineness, not weight. Very fine fibers trap still 
 | 200/2 yarn | Two very fine threads twisted together give strength while keeping the scarf soft enough to knot without bulk. |
 | About 70 g | Folds small enough for a handbag when you do not need it. |
 
-A cashmere scarf close up should look soft and slightly hazy, not shiny and flat; a hard sheen often means synthetic fiber. Compared with a light green silk scarf, this is warmer and less slippery, so it stays where you put it. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
+A cashmere scarf close up should look soft and slightly hazy, not shiny and flat; a hard sheen often means synthetic fiber. Compared with a light green silk scarf, this is warmer and less slippery, so it stays where you put it. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
 
 ---
 

@@ -3,7 +3,7 @@ type: Product Category
 title: "Destination Wedding Suits"
 description: "Made-to-order wedding suits for grooms marrying abroad, cut for heat and travel in fresco wool and linen, including cape suits and statement coats."
 resource: https://baronboutique.com/menswear/wedding-suits/destination-wedding-suits/
-tags: [destination-wedding, wedding-suit, groom, cape-suit, fresco-wool, linen, statement-coat, bespoke, made-to-order]
+tags: [men, wedding-suit, destination-wedding, groom-suit, cape-suit, statement-coat, three-piece-suit, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/wedding-suits/destination-wedding-suits/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Destination Wedding Suits
@@ -96,7 +96,7 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 - [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../../products/screen-inspired/theatrical-villain-tailoring/mens-long-black-leather-coat.md)
 - [Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat](../../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat.md)
 
-**Related terms:** destination wedding suit, groom cape suit, beach wedding suit for men, summer wedding suit
+**Related terms:** destination wedding groom suit, cape suit for wedding, statement wedding coat, cinematic wedding suit
 
 ## Related
 

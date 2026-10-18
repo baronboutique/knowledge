@@ -7,6 +7,7 @@
 - [Natural Hemp Fabric & Clothing](natural-hemp-fabric-clothing.md): Baron Boutique produces 100% natural hemp fabric and hemp clothing from hemp grown between 1,500m and 3,000m in the Nepal Himalayas without pesticides, herbicides or synthetic fertilizers.
 - [Custom Corporate Gifts](custom-corporate-gifts.md): Baron Boutique produces branded corporate cashmere gifts to order: scarves, shawls, wraps and pashminas, hand-knitted beanies, gloves and socks, throws, and boxed gift sets.
 - [Our Services](our-services.md): Baron Boutique operates as a made-to-order tailoring house. Every garment is cut after it is ordered, to one person's measurements, in the fabric they chose, and no ready-made stock is held.
+- [Bespoke Silk Sleepwear, Robes and Dressing Gowns](bespoke-silk-sleepwear-robes-and-dressing-gowns.md): Baron Boutique drafts a pattern for each client and makes silk robes, dressing gowns and piped pajama sets for men and women in 100% mulberry silk charmeuse, 22 momme.
 
 ## Related
 

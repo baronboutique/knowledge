@@ -3,7 +3,7 @@ type: Product
 title: "The Heist Suit, Grey Sharkskin Single-Button Peak Lapel"
 description: "Custom-made grey sharkskin suit with the effortless, casino-floor cool of a modern heist film. Cut from Super 120s sharkskin wool that catches the light and resists wrinkles, it drapes beautifully and…"
 resource: https://baronboutique.com/grey-sharkskin-heist-suit/
-tags: [men, suit, retro-style, wool, rusty-ryan, oceans-eleven, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
+tags: [men, suit, sharkskin-wool, wool, grey, peak-lapel, single-breasted, vintage-style, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/grey-sharkskin-heist-suit/
@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # The Heist Suit, Grey Sharkskin Single-Button Peak Lapel
@@ -87,7 +87,7 @@ Dry clean only.
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Brad Pitt Oceans 11 suit, Rusty Ryan outfit, Vegas heist suit, retro camp collar suit
+**Related terms:** Brad Pitt Oceans 11 suit, Rusty Ryan outfit, Vegas heist suit, retro camp collar suit, Rusty tan suit Oceans 11, grey sharkskin heist suit, casino suit for men
 
 ## Related
 

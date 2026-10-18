@@ -3,7 +3,7 @@ type: Product Category
 title: "Tuxedos"
 description: "Made-to-order tuxedos in wool with peak, shawl, or notch lapels, cut to the wearer's measurements and owned rather than rented."
 resource: https://baronboutique.com/menswear/tuxedos/
-tags: [men, tuxedo, black-tie, dinner-suit, wedding-tuxedo, prom-tuxedo, shawl-lapel, peak-lapel, custom-tuxedo, bespoke, made-to-order]
+tags: [men, tuxedo, black-tie, dinner-suit, wedding-tuxedo, prom-tuxedo, shawl-lapel, peak-lapel, custom-tuxedo, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/tuxedos/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
 ---
 
 # Tuxedos
@@ -90,14 +90,14 @@ Your finished tuxedo ships from Dubai by trackable courier, Your test suit takes
 
 ## Products
 
-- [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
+- [Black Mohair Tuxedo, Made to Your Measurements](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
 - [Custom Dinner Jacket](../../products/menswear/tuxedos/stylish-dinner-jacket.md)
 - [Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels](../../products/menswear/tuxedos/mens-navy-herringbone-wool-tuxedo.md)
 - [Mens Burgundy Flannel Tuxedo](../../products/menswear/tuxedos/light-weight-all-season-wool-flannel-tuxedo-suit.md)
 - [One Button Notch Lapel Tuxedo](../../products/menswear/tuxedos/one-button-merino-wool-tuxedo.md)
 - [The Peak Lapel Tuxedo](../../products/menswear/tuxedos/mens-navy-wool-tuxedo.md)
 
-**Related terms:** custom tuxedos online, made-to-order tuxedo, wedding tux, colored tuxedos, slim fit tuxedo
+**Related terms:** custom tuxedos online, made to measure tuxedo, wedding tux, colored tuxedos, slim fit tuxedo
 
 ## Related
 

@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # The Sunflower-Embroidered Baby Blue Cashmere Wrap
@@ -70,7 +70,7 @@ The multilayer weave holds a gentle weight, ideal for cooler mornings or twiligh
 - Handcrafted Cashmere › Patterned Cashmere Scarves
 - Women › Accessories
 
-**Related terms:** flower embroidered shawl, light blue pashmina, sunflower stole, embroidered wedding wrap
+**Related terms:** flower embroidered shawl, light blue pashmina, sunflower stole, embroidered wedding wrap, embroidered scarf, floral cashmere scarf, light blue cashmere scarf, customized cashmere shawl blue
 
 ## Related
 

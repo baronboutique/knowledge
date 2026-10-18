@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Count Dooku Cape and Tunic Star Wars"
-description: "Embody the measured elegance and formidable power of a Sith Lord. This is the definitive, screen-accurate replica of Count Dooku's attire, meticulously custom-tailored to be a masterpiece of cosplay c…"
+description: "A screen-inspired Count Dooku cape and tunic, with the inspiration taken from Star Wars and both pieces tailored to your measurements."
 resource: https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/
 tags: [men, cape, tunic, count-dooku, star-wars, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
 ---
 
 # Count Dooku Cape and Tunic Star Wars
@@ -39,78 +39,213 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Embody the measured elegance and formidable power of a Sith Lord. This is the definitive, screen-accurate replica of Count Dooku's attire, meticulously custom-tailored to be a masterpiece of cosplay craftsmanship. Every detail is engineered to create a statement of sophisticated menace, making it the ultimate tribute to the iconic character.
+A screen-inspired Count Dooku cape and tunic, with the inspiration taken from Star Wars and both pieces tailored to your measurements. A floor-length chocolate brown cape in Super 130s fresco wool, lined in 100% silk satin and fastened with silver brooches on a chain, over a black gabardine wool tunic with a mandarin collar and hidden buttons. A free test outfit in cotton settles the fit first. Cape: Super 130s fresco wool, 13 colors, silk satin lining in 20 colors Tunic: Super 130s gabardine wool, 11 colors, canvas front, six hidden buttons Cape cut to your height; tunic cut to your measurements Free test outfit in cotton, yours to keep Baron's own design, not official or licensed
 
-## Embody the Legend: A Customer’s Final Result
+The Look
 
-This isn’t a studio shot. This is a real customer, showcasing the definitive result of our custom-tailoring process.
+## A Count Dooku Cape and Tunic, Screen-Inspired and Tailored to You
 
-Note the commanding drape of the Fresco wool cape and the sharp, clean lines of the tunic—a perfect fit that brings the character’s formidable presence to life. This is the screen-accurate masterpiece we will build for you.
+This is Baron Boutique’s own screen-inspired version of the Count Dooku outfit, with the inspiration taken from Star Wars: a floor-length cape in chocolate brown Super 130s fresco wool, lined in 100% silk satin and fastened with silver metallic brooches on a chain, worn over a black gabardine wool tunic with a high mandarin collar. Both pieces are cut to your measurements, and the price of $1,299 covers the cape and the tunic.
 
-## The Regalia of a Separatist Leader
+Most Count Dooku costumes sold online are polyester in standard sizes. This is tailored clothing: real wool, a silk lining, a canvas front in the tunic and a cape cut to your height, so it hangs the way the character’s cloak does on screen. We send you a free test outfit first, so the fit is settled before we cut the wool.
 
-More than a costume, this is the authentic silhouette of Count Dooku. Every detail has been obsessively recreated to capture the character’s aristocratic authority and formidable presence. This ensemble is offered as two distinct, master-crafted pieces.
+Screen-inspired  
+ Cape and tunic  
+ Super 130s wool  
+ Silk satin lining  
+ Free test outfit
 
-### The Cape of the Sith Lord
+**Price:** $1,299 for the cape and tunic **Cape:** Super 130s fresco wool, 13 colors, 100% silk satin lining in 20 colors **Tunic:** Super 130s gabardine wool, 11 colors **Test outfit:** free, yours to keep **Care:** dry clean
 
-The Count Dooku cape is the centerpiece of his power. Crafted from finely woven chocolate brown Fresco wool, it drapes with an elegance and fluid motion.
+---
 
-- **100% Silk Satin Lining**: A luxurious inner lining provides a flash of superior quality and comfort.
-- **Signature Fastening**: The cape is secured by hand-made, silver metallic brooches connected by a strong, elegant chain.
-- **Floor-Length Cut**: Tailored to your height for a screen-accurate, commanding profile.
+Free Test Outfit
 
-### The Tunic of Command
+## The Fit Is Settled Before We Cut the Wool
 
-Beneath the cape lies the uniform of a master duelist. The tunic is tailored from premium black Gabardine wool for a sharp, military-inspired fit.
+A floor-length cape and a fitted tunic only look right if the length, shoulders and collar are right for your body. So we make the whole outfit in cotton first.
 
-- **Layered Canvas Collar**: The high mandarin collar is constructed from layered canvas, providing the rigid, authoritative structure seen in the film.
-- **Concealed Closure**: A hidden 6-button front maintains the tunic’s clean, severe lines.
-- **Engineered for Movement**: Double rear vents ensure the tunic moves with you, never restricting your motion.
+1
 
-### Your Perfect Fit, Guaranteed: The Free Test Outfit
+**Choose your colors and enter your measurements**  
+ Pick the cape fabric, the cape lining, the tunic fabric and the tunic lining, then enter your measurements on the product page, including the cape length you want.
 
-A nobleman’s attire must be flawless. We eliminate the risk of ordering online by sending you a free test version of the outfit first.
+2
 
-1. **Receive Your Test Garment**: We mail you a test outfit made in cotton to your exact measurements.
-2. **Confirm Your Fit**: Try it on at home. You can then request any adjustments to the fit, style, or measurements.
-3. **We Craft the Final Garments**: We apply your feedback to tailor the final Fresco wool cape and Gabardine tunic for a perfect fit.
+**We make your free test outfit**  
+ A test cape and tunic in cotton take 3 to 4 weeks to make and arrive 5 to 10 days after dispatch by trackable courier.
 
-The test outfit is yours to keep.
+3
 
-Dry-clean.
+**You try it on at home**  
+ Check the cape length, the shoulders, the collar height and the tunic fit, and tell us any change, however small.
 
-#### Count Dooku Cape Features
+4
 
-- tailored from super 130s Fresco wool cloth in chocolate brown
-- hand-made by Baron Boutique
-- screen-accurate design
-- full length lined cloak with padded shoulders and detailed stitching
-- hand-made silver metallic brooches with chain for cloak fastening
-- silver metallic brooches secured with hand stitching
-- 100% silk satin lined high-class cape
+**We make the final cape and tunic**  
+ We apply every change, then make the final pieces in wool and silk in 3 to 4 weeks; they arrive 5 to 10 days after dispatch. The test outfit is yours to keep.
 
-#### Count Dooku Tunic Features
+---
 
-- tailored from super 130s worsted wool black in gabardine weave
-- hand-made by Baron Boutique
-- screen-accurate design
-- hand basted layer canvas front
-- a full-length tunic in 1.5 breasted style
-- 6 hidden buttons closure
-- mandarin collar
-- no exterior pockets
-- hand stitched minimal shoulder pads
-- hand pick-stitched details
-- hand-made buttonholes
-- tunic interior lined in black acetate
-- hand stitched armholes
-- 4 internal pockets
-- straight tunic front hem
-- plain sleeves cuff
-- hand made black horn buttons
-- stitched and reinforced tunic buttons by hand for everyday use
-- ample tunic seam allowances for future alteration
-- upper-thigh length
+A Customer
+
+## What It Looks Like on a Real Customer
+
+This is a customer’s own photo, not a studio shot: the chocolate brown fresco wool cape over the black tunic, seen full body, the Count Dooku full body look most people are after. The belt, trousers and Count Dooku boots in the photo are his own; we make the cape and the tunic.
+
+The Outfit
+
+Cape and tunic together, with the brooches and chain at the collar.
+
+Side View
+
+The cape falls straight to the floor and swings when you walk.
+
+Back View
+
+Seen from behind, the cape covers you from shoulder to hem.
+
+---
+
+The Cape
+
+## The Cape: Fresco Wool, Silk Lining, Silver Brooches
+
+The Count Dooku cape is the piece people search for most, and it is the piece that makes the look. Ours is cut from Super 130s fresco wool, an open, crisp weave that drapes heavily but breathes, in chocolate brown for the screen-inspired look. It is lined in 100% silk satin, has light shoulder padding so it sits square, and is cut floor length to your height.
+
+It fastens with two handmade silver metallic brooches joined by a chain, each hand-stitched to the cape. Cape or cloak? The character’s Count Dooku cloak is an open cape without a hood or sleeves, and that is what we make; the words count cape, sith cape and Sith lord cape all describe this same open, collarless shape. As a Star Wars cloak it is one of the plainest and most elegant of all the Star Wars capes and Star Wars cloaks, which is why it reads as aristocratic rather than armored.
+
+---
+
+The Tunic
+
+## The Tunic: Black Gabardine Wool, Mandarin Collar
+
+Front
+
+A clean front with six hidden buttons and no outside pockets.
+
+Side
+
+Upper-thigh length with a straight hem.
+
+Back
+
+Double rear vents, so it moves when you sit or duel.
+
+Under the cape, the tunic is the Count Dooku suit in all but name: a 1.5-breasted black tunic in Super 130s gabardine worsted wool. The high mandarin collar is built on layered canvas so it stands up, the body is built on a canvas front for shape, and six hidden buttons keep the line clean and severe. It has double rear vents, three interior pockets, hand-finished buttonholes and buttons that are hand-stitched and reinforced, and it is lined inside.
+
+If you searched for a Star Wars tunic or a tunic in the Star Wars style, this is a tailored tunic rather than a cosplay tunic in costume fabric. We leave extra seam allowance inside, so it can be let out later.
+
+---
+
+Colors
+
+## Colors for the Cape, the Tunic and the Linings
+
+| Cape fabric | 13 Super 130s fresco wool colors. Chocolate brown is the screen-inspired choice. |
+| --- | --- |
+| Cape lining | 20 colors of 100% silk satin. |
+| Tunic fabric | 11 Super 130s gabardine wool colors. Black is the screen-inspired choice. |
+| Tunic lining | 30 satin linings, plain and paisley. |
+
+Count Dooku outfits in the films keep to one pairing, a dark brown cape over a black tunic, so for the screen-inspired look choose chocolate brown over black. Change the colors and the same cape and tunic become your own count outfit, from a black cape over a gray tunic to a red-lined navy one for a different character or an original design.
+
+---
+
+Cosplay
+
+## Count Dooku Cosplay, Done as Tailoring
+
+Count Dooku cosplay is about posture as much as clothes. The Dooku signature look is an upright aristocrat in a long, dark cape: the elegant Sith rather than the armored one. In Count Dooku elegant Sith portraits the cape falls straight from the shoulders, and in a Count Dooku elegant pose it opens just enough to show the tunic. A Dooku aristocratic Sith look needs a collar that stands and a cape that does not crumple, and a Count Dooku severe expression only works if the clothes are just as severe. A cape that is too short or a collar that folds over spoils it, which is why the fit matters more here than in most cosplay. A tailored cape holds its line when you stand still, so the Count Dooku style reads in photos at a convention or an event.
+
+Dooku cosplay and Count Dooku costumes usually come as a polyester robe and cape in standard sizes. If you want a Star Wars Count Dooku costume that is really clothing, made to last and to be worn again, these Count Dooku clothes are built the way a suit is built. We do not make the belt, the boots or the lightsaber hilt.
+
+Count Dooku and Star Wars are trademarks of Lucasfilm Ltd. This cape and tunic are Baron Boutique’s own screen-inspired design, with inspiration taken from Star Wars. They are not official, not licensed, and not endorsed by Lucasfilm or The Walt Disney Company.
+
+---
+
+Full Spec
+
+## Count Dooku Inspired Cape and Tunic, Specification
+
+| Cape fabric | Super 130s fresco wool, chocolate brown or 12 other colors |
+| --- | --- |
+| Cape lining | 100% silk satin, 20 colors |
+| Cape length | Floor length, cut to your height |
+| Cape fastening | Two handmade silver metallic brooches with a chain, hand-stitched |
+| Cape shoulders | Lightly padded |
+| Tunic fabric | Super 130s worsted wool in a gabardine weave, black or 10 other colors |
+| Tunic style | 1.5-breasted, six hidden buttons, mandarin collar on layered canvas |
+| Tunic construction | Canvas front, minimal shoulder pads, hand-finished buttonholes, buttons hand-stitched and reinforced |
+| Tunic details | Double rear vents, three interior pockets, no exterior pockets, plain sleeve cuffs, straight front hem |
+| Tunic length | Upper thigh |
+| Tunic lining | Lined, 30 satin options |
+| Made | Custom made to your measurements |
+| Test outfit | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test outfit, 3 to 4 weeks for the final cape and tunic |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean only |
+
+Care: dry clean only. Hang the cape on a wide, shaped hanger so the shoulders keep their line, and give it room in the wardrobe so the wool does not crease.
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Count Dooku Cape and Tunic
+
+### Is this an official Count Dooku costume?
+
+No, it is Baron Boutique’s own screen-inspired design, with inspiration taken from Count Dooku in Star Wars. It is not official or licensed, and it is tailored clothing rather than a party costume.
+
+### What is the Count Dooku cape made of?
+
+It is Super 130s fresco wool, chocolate brown for the screen-inspired look, lined in 100% silk satin. It fastens with two handmade silver metallic brooches joined by a chain.
+
+### Is it a cape or a cloak?
+
+It is an open, floor-length cape without a hood or sleeves, which is what most people mean by a Count Dooku cloak. We cut the length to your height.
+
+### What does the $1,299 include?
+
+It includes the cape and the tunic, both custom made to your measurements, and the free test outfit in cotton. The belt, trousers and boots are not included.
+
+### What is Count Dooku’s outfit, piece by piece?
+
+A dark brown floor-length cape with a chain fastening, worn over a black high-collared tunic, with a belt, dark trousers and tall boots. We make the cape and the tunic.
+
+### How does the free test outfit work?
+
+We make the cape and tunic in cotton to your measurements, you try them at home and tell us any change, and then we make the final pieces in wool and silk. The test outfit is yours to keep.
+
+### How long does it take?
+
+The test outfit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final cape and tunic take another 3 to 4 weeks and arrive 5 to 10 days after dispatch, so order as early as you can before an event.
+
+### Can I choose other colors?
+
+Yes, the cape comes in 13 fresco wool colors with 20 silk satin linings, and the tunic in 11 gabardine wool colors with 30 linings. Chocolate brown over black is the screen-inspired combination.
+
+### Can I change details, such as the cape length?
+
+Yes, enter the cape length on the measurement form and write any other change in its comment box. For anything else, use the Ask a question about this piece form below Add to Cart.
+
+### How do I care for it?
+
+Dry clean only, and not often. Hang the cape on a wide, shaped hanger and brush the wool after wearing.
 
 ## Customer Reviews
 
@@ -123,7 +258,7 @@ If you want a cloak that is not available elsewhere, you can buy it here!! Baron
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Count Dooku costume, Star Wars Sith cape, Christopher Lee outfit, Jedi tunic and cape
+**Related terms:** Count Dooku costume, Star Wars Sith cape, Christopher Lee outfit, Jedi tunic and cape, Count Dooku cosplay, Count Dooku cape, Count Dooku outfit
 
 ## Related
 

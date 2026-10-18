@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # James Bond No Time To Die Beige Corduroy Suit
@@ -114,7 +114,7 @@ Dry-clean.
 - Screen Inspired › Spy Tailoring
 - Men › Wedding Suits › Destination Wedding Suits
 
-**Related terms:** Daniel Craig corduroy suit, Bond Matera suit, 007 casual suit, tan corduroy two piece suit
+**Related terms:** Daniel Craig corduroy suit, Bond Matera suit, 007 casual suit, tan corduroy two piece suit, James Bond beige suit, Daniel Craig tan suit
 
 ## Related
 

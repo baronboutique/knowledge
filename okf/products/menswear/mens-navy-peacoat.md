@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-13T12:47:16Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere
@@ -307,7 +307,7 @@ Dry clean only. With reasonable care, an 18-ounce wool-cashmere peacoat will hol
 
 - Men › Coats & Overcoats
 
-**Related terms:** navy pea coat, sailor coat, naval coat, short wool coat, winter overcoat
+**Related terms:** navy pea coat, sailor coat, naval coat, short wool coat, winter overcoat, custom peacoat
 
 ## Related
 

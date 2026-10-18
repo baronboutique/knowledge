@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Pink Oxford Shirt, Button-Down Collar in Oxford Cotton
@@ -246,7 +246,7 @@ Your test shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispat
 
 - Women › Shirts & Blouses
 
-**Related terms:** pink oxford shirt women, women's button-down shirt that doesn't gape at the bust, pink button down shirt women, oxford vs poplin shirt, how to wear an oxford shirt women, custom women's shirt
+**Related terms:** pink button down, oxford shirt for women, soft color work shirt
 
 ## Related
 

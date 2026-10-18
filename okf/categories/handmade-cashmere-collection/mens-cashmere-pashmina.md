@@ -3,7 +3,7 @@ type: Product Category
 title: "Men's Cashmere & Pashmina"
 description: "Pure Himalayan Pashmina and Men's Cashmere Scarves Two different things, often sold as one. Our men's scarves are 100% Grade A cashmere at 22 × 72 inches in over 80 colors — a width we settled on by testing it under coat collars we had made ourselves. The pashmina shawl is the finer undercoat of the Changthangi goat, hand-spun at 200/2 and woven over five days at 36 × 80 inches, in 90 colors at one price."
 resource: https://baronboutique.com/handmade-cashmere-collection/mens-cashmere-pashmina/
-tags: [mens-cashmere-pashmina, mens, cashmere, pashmina, bespoke, made-to-order, baron-boutique]
+tags: [men, cashmere, pashmina, scarves, shawls, himalayan, handwoven, handmade, heirloom]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/handmade-cashmere-collection/mens-cashmere-pashmina/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Men's Cashmere & Pashmina
@@ -68,6 +68,8 @@ One weaver, one loom, one piece at a time in our Kathmandu workshop, finished wi
 - [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](../../products/menswear/mens-pashmina-shawl-handwoven.md)
 - [Mens 100% Cashmere Scarf 22×72 Inches Long Soft Non-Irritating 80+ Colors](../../products/menswear/mens-100-cashmere-scarf-soft-non-irritating.md)
 - [Mens Cashmere Scarf Neck Wrap Extra Long Formal & Urban Style 80+ Colors](../../products/menswear/mens-cashmere-scarf-neck-wrap-extra-long-formal-urbanstyle.md)
+
+**Related terms:** men's pashmina shawl, pure pashmina scarf, men's cashmere wrap, Himalayan pashmina for men
 
 ## Related
 

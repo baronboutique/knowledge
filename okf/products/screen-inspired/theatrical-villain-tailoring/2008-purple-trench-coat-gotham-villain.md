@@ -3,7 +3,7 @@ type: Product
 title: "2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired"
 description: "Purple single-breasted overcoat in 100% Melton wool with triple rear vents, five-button flared cuffs, and a hidden orange acetate lining, recreated from the 2008 cinematic villain's coat."
 resource: https://baronboutique.com/2008-purple-trench-coat-gotham-villain/
-tags: [men, coat, trench-coat, melton-wool, purple, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
+tags: [men, coat, trench-coat, melton-wool, purple, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/2008-purple-trench-coat-gotham-villain/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-11T09:48:11Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # 2008 Purple Melton Overcoat, The Anarchist's Long Coat, The Joker Inspired
@@ -264,7 +264,7 @@ Wonderful coat I received the coat the other day, and I must say, you guys did a
 - Men › Wedding Suits › Destination Wedding Suits
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Heath Ledger Joker coat, purple trench coat, Dark Knight costume coat
+**Related terms:** Heath Ledger Joker coat, purple trench coat, Dark Knight costume coat, joker trench coat, 2008 Joker trench coat replica
 
 ## Related
 

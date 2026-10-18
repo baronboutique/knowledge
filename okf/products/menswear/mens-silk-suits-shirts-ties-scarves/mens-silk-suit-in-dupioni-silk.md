@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-silk-suit-in-dupioni-silk/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements
@@ -330,7 +330,7 @@ Great suit with great service First time order with BB and very satisfied. Their
 - Men › Real Silk Eventwear
 - Men › Suits & Blazers
 
-**Related terms:** silk wedding suit for men, raw silk suit, dupioni suit, shantung suit, groom silk suit
+**Related terms:** silk wedding suit for men, raw silk suit, dupioni suit, shantung suit, groom silk suit, mens silk suit, silk suit mens, silk suits for men
 
 ## Related
 

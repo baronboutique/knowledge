@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's Navy Pinstripe Suit, Three-Piece in Worsted Wool
@@ -309,7 +309,7 @@ very positive The staff took great care to see that the suit fit right. It came 
 
 - Men › Suits & Blazers
 
-**Related terms:** men's navy pinstripe suit, navy pinstripe three piece suit, pinstripe vs chalk stripe, types of suit stripes, waistcoat covering trouser waistband, navy pinstripe suit wedding
+**Related terms:** three piece pinstripe suit, navy striped suit with vest, banker suit three piece, power suit with waistcoat, 1920s style suit, Devil Wears Prada pinstripe suit
 
 ## Related
 

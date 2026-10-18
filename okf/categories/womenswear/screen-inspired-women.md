@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
 ---
 
 # Screen Inspired
@@ -74,19 +74,19 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 
 ## Products
 
-- [Black Wizard Robe Womens Percival Graves Fantastic Beasts Cosplay](../../products/womenswear/screen-inspired-women/percival-graves-black-coat-for-women.md)
 - [Screen-Inspired Thirteenth Doctor Teal Cropped Pants](../../products/womenswear/screen-inspired-women/13th-doctor-pants.md)
 - [Tenth Doctor's Brown Pinstripe Suit](../../products/womenswear/screen-inspired-women/womens-10th-doctor-brown-with-blue-stripes-suit.md)
 - [The 7th Doctor's Utility Jacket](../../products/womenswear/screen-inspired-women/7th-doctor-jacket-for-women.md)
+- [Women's 12th Doctor Black Velvet Frock Coat](../../products/womenswear/screen-inspired-women/12th-doctor-black-velvet-frock-coat-for-women.md)
+- [Women's 12th Doctor Blue Coat With Red Lining](../../products/womenswear/screen-inspired-women/12th-doctor-wool-coat-for-women.md)
 - [Women's 12th Doctor Burgundy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctor-burgundy-velvet-coat-for-women.md)
-- [Women's Beige Frock Coat with Red Stripe](../../products/womenswear/screen-inspired-women/5th-doctor-red-piping-frock-coat-for-women.md)
+- [Women's 12th Doctor Navy Velvet Coat, Burgundy Lining](../../products/womenswear/screen-inspired-women/12th-doctors-navy-velvet-coat-for-women.md)
+- [Women's Beige Frock Coat With Red Piping](../../products/womenswear/screen-inspired-women/5th-doctor-red-piping-frock-coat-for-women.md)
+- [Women's Black Wizard Robe, Percival Graves Inspired](../../products/womenswear/screen-inspired-women/percival-graves-black-coat-for-women.md)
 - [Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa](../../products/womenswear/screen-inspired-women/womens-long-black-leather-coat.md)
-- [Women's Twelfth Doctor Black Velvet Frock Coat](../../products/womenswear/screen-inspired-women/12th-doctor-black-velvet-frock-coat-for-women.md)
-- [Women's Twelfth Doctor Navy Velvet Coat](../../products/womenswear/screen-inspired-women/12th-doctors-navy-velvet-coat-for-women.md)
-- [Womens Blue Coat 12th Doctor Peter Capaldi](../../products/womenswear/screen-inspired-women/12th-doctor-wool-coat-for-women.md)
-- [Womens Double Breasted Short Peacoat Quantum Of Solace](../../products/womenswear/screen-inspired-women/womens-quantum-of-solace-peacoat.md)
-- [Womens Long Coat Black Trench Matrix Style](../../products/womenswear/screen-inspired-women/the-matrix-revolutions-coat-for-women.md)
-- [Womens Navy Coat James Bond Spectre](../../products/womenswear/screen-inspired-women/womens-mid-thigh-coat-spectre.md)
+- [Women's Long Black Trench Coat, Matrix Inspired](../../products/womenswear/screen-inspired-women/the-matrix-revolutions-coat-for-women.md)
+- [Women's Navy Overcoat With Velvet Collar, Spectre Inspired](../../products/womenswear/screen-inspired-women/womens-mid-thigh-coat-spectre.md)
+- [Women's Short Peacoat, Quantum of Solace Inspired](../../products/womenswear/screen-inspired-women/womens-quantum-of-solace-peacoat.md)
 
 **Related terms:** women's cosplay coats, movie costumes for women, female Doctor Who cosplay, screen accurate women's coats
 

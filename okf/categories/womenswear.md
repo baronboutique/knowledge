@@ -3,7 +3,7 @@ type: Product Category
 title: "Women"
 description: "Bespoke womenswear cut from an individual pattern after each order, covering suits, dresses, formalwear, outerwear, and accessories."
 resource: https://baronboutique.com/womenswear/
-tags: [women, womenswear, custom-suits, tailored-clothing, workwear, dresses, coats, skirts, bespoke, made-to-order]
+tags: [women, womenswear, custom-suits, tailored-clothing, workwear, dresses, coats, skirts, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womenswear/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Women
@@ -91,7 +91,7 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 - [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](../products/womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)
 
-**Related terms:** custom clothing for women, women's bespoke tailoring online, made-to-order womenswear, tailor made clothes for her, custom office wear women
+**Related terms:** custom clothing for women, women's bespoke tailoring online, made to measure womenswear, tailor made clothes for her, custom office wear women
 
 ## Related
 

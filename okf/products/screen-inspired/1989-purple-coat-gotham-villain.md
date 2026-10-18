@@ -3,7 +3,7 @@ type: Product
 title: "1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired"
 description: "Purple double-breasted overcoat in heavyweight Melton wool with a velvet collar, recreated from the 1989 cinematic villain's long coat."
 resource: https://baronboutique.com/1989-purple-coat-gotham-villain/
-tags: [men, coat, overcoat, melton-wool, wool, purple, joker, theatrical-villain, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+tags: [men, coat, overcoat, melton-wool, wool, purple, double-breasted, peak-lapel, theatrical-villain, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/1989-purple-coat-gotham-villain/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T04:43:12Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # 1989 Gotham Villain Double-Breasted Purple Melton Wool Coat, Joker Inspired
@@ -259,7 +259,7 @@ Amazing coat, couldn’t be happier. Initially had reservations ordering from ou
 - Screen Inspired › Theatrical Villain
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Jack Nicholson purple coat, Batman 1989 Joker costume, Gotham villain overcoat, purple gangster coat
+**Related terms:** Jack Nicholson purple coat, Batman 1989 Joker costume, Gotham villain overcoat, purple gangster coat, Jack Nicholson Joker costume, 1989 Joker overcoat replica, purple double-breasted villain coat, Crime Prince purple coat
 
 ## Related
 

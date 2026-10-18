@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T17:12:39Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool
@@ -270,7 +270,7 @@ Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 - Women › Suits & Blazers
 - Women › Wedding Suits
 
-**Related terms:** white pinstripe suit women, cream pinstripe pantsuit, ivory power suit women, bridal trouser suit, wide leg pinstripe suit
+**Related terms:** cream pinstripe pantsuit, Zendaya Met Gala style suit, ivory power suit women, bridal trouser suit, wide leg pinstripe suit, white pinstripe suit, womens double breasted pinstripe suit, white pinstripe suit women
 
 ## Related
 

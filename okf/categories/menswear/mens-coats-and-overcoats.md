@@ -3,7 +3,7 @@ type: Product Category
 title: "Coats & Overcoats"
 description: "Made-to-order overcoats, topcoats, peacoats, and car coats in wool and cashmere, cut to the wearer's shoulders and chosen length."
 resource: https://baronboutique.com/menswear/mens-coats-and-overcoats/
-tags: [men, coats, overcoat, topcoat, peacoat, car-coat, trench-coat, winter-coat, wool-coat, custom-coat, bespoke, made-to-order]
+tags: [men, coats, overcoat, topcoat, peacoat, car-coat, trench-coat, winter-coat, wool-coat, custom-coat, made-to-measure, bespoke]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/mens-coats-and-overcoats/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Coats & Overcoats
@@ -131,7 +131,7 @@ Your finished coat ships from Dubai by trackable courier, Your test coat takes 3
 - [Time Lord Frock Coat (Oxford Blue)](../../products/menswear/time-lord-frock-coat-oxford-blue.md)
 - [Western Frock Coat in Wool, Custom Made](../../products/menswear/mens-frock-coat.md)
 
-**Related terms:** men's wool overcoats, custom winter coat, tailored topcoat, long coats for men, movie replica coats
+**Related terms:** men's wool overcoats, custom winter coat, tailored topcoat, long coats for men, movie replica coats, frock coat
 
 ## Related
 

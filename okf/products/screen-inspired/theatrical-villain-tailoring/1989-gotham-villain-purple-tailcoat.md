@@ -3,7 +3,7 @@ type: Product
 title: "1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired"
 description: "Most purple Joker pieces on the market are the long overcoat. This is not that. This is the formal evening tailcoat — double-breasted look, wide peak lapels, theatrical tails, tuxedo-inspired construc…"
 resource: https://baronboutique.com/1989-gotham-villain-purple-tailcoat/
-tags: [men, tailcoat, evening-coat, purple, double-breasted, peak-lapel, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
+tags: [men, tailcoat, evening-coat, purple, double-breasted, peak-lapel, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/1989-gotham-villain-purple-tailcoat/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-11T09:43:58Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # 1989 Purple Evening Tailcoat, The Showman's Tails, The Joker Inspired
@@ -279,7 +279,7 @@ Commissioned Baron Boutique to create this Tail Coat and I couldn’t be happier
 - Men › Wedding Suits › Destination Wedding Suits
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Jack Nicholson Joker coat, purple tailcoat costume, Batman 1989 Joker outfit, Joker formal tails, villain evening coat
+**Related terms:** Jack Nicholson Joker coat, purple tailcoat costume, Batman 1989 Joker outfit, Joker formal tails, villain evening coat, 1989 villain formal tailcoat
 
 ## Related
 

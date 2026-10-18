@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels
@@ -93,7 +93,7 @@ The groomsmen at my wedding wore these jackets and looked extraordinary!
 - Men › House of Velvet
 - Men › Suits & Blazers
 
-**Related terms:** burgundy smoking jacket, wine velvet dinner jacket, holiday party blazer, maroon tuxedo jacket, festive evening jacket
+**Related terms:** burgundy smoking jacket, wine velvet dinner jacket, holiday party blazer, maroon tuxedo jacket, festive evening jacket, burgundy velvet suit jacket, burgundy velvet jacket mens
 
 ## Related
 

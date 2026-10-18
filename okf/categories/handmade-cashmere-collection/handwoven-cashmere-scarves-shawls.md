@@ -3,7 +3,7 @@ type: Product Category
 title: "Handwoven Cashmere Scarves & Shawls"
 description: "Solid-Color Cashmere Shawls, Handwoven in Nepal Solid color, one weaver, one loom, roughly five days a piece. Sized 28 × 80, 36 × 80 and 40 × 80 inches — widths chosen the way we would choose a lapel, because how a shawl sits over a shoulder or under a coat collar is a question of proportion, not preference. 14–16 micron Grade A Himalayan fiber, hand-spun, azo-free dyes."
 resource: https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/
-tags: [handwoven-cashmere-scarves-shawls, handwoven, cashmere, scarves, shawls, bespoke, made-to-order, baron-boutique]
+tags: [women, cashmere, scarves, shawls, wraps, solid-color, handwoven, himalayan, handmade, heirloom]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Handwoven Cashmere Scarves & Shawls
@@ -85,6 +85,8 @@ The selvedge is left as a natural live edge rather than cut and overlocked, and 
 - [Pastel Pink Handwoven Cashmere Scarf Shawl](../../products/handmade-cashmere-collection/pastel-pink-handwoven-cashmere-scarf-shawl.md)
 - [Royal Blue Essential Wrap in Diamond Weave Cashmere](../../products/handmade-cashmere-collection/royal-blue-essential-wrap-in-diamond-weave-cashmere.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](../../products/handmade-cashmere-collection/willow-green-handwoven-cashmere-scarf-shawl.md)
+
+**Related terms:** solid color pashmina, handwoven cashmere shawl Nepal, Grade A cashmere scarf, handloomed cashmere wrap
 
 ## Related
 

@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Cary Grant North By Northwest Inspired Suit
@@ -254,7 +254,7 @@ Fantastic! Brilliant service. Fast dispatch of both try-on suit and actual finis
 - Screen Inspired › Cinema Classics
 - Men › Suits & Blazers
 
-**Related terms:** North by Northwest suit, grey glen check suit, Prince of Wales check suit, best suit in film history
+**Related terms:** North by Northwest suit, grey glen check suit, Prince of Wales check suit, best suit in film history, Cary Grant North by Northwest suit, Cary Grant grey suit
 
 ## Related
 

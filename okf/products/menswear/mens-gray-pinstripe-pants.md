@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-gray-pinstripe-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool
@@ -70,7 +70,7 @@ The fabric weight is 9 ounces – light enough for year-round wear in a climate-
 | Hem | Hand-stitched; cuffed leg opening |
 | Seam allowances | Ample for future alteration |
 | Measurements | Entered on this product page |
-| Care | Dry clean only |
+| Care | Dry clean recommended, or machine wash cold on a gentle wool cycle and hang to dry |
 
 ## Who These Trousers Are For
 
@@ -134,7 +134,7 @@ Super 150s wool, cut to your corrected pattern. Hand-carved horn buttons. Handma
 
 Your finished trousers ship via a trackable courier. Delivery is 5 to 10 days after dispatch. We ship to the USA, UK, Canada, Australia, Germany, France, the Netherlands, Singapore, Japan, and worldwide.
 
-**Starting price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Care:** Dry clean only
+**Starting price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Care:** Dry clean recommended; machine washable
 
 ## Baron vs. Off the Rack
 
@@ -208,7 +208,7 @@ Nigel’s wardrobe in The Devil Wears Prada is defined by flat-front grey pinstr
 
 - Men › Pants
 
-**Related terms:** pinstripe trousers, banker pants, gray striped slacks
+**Related terms:** pinstripe trousers, banker pants, gray striped slacks, Devil Wears Prada pinstripe pants, tailored fit pinstripe pants, grey pinstripe pants, Nigel Devil Wears Prada pants
 
 ## Related
 

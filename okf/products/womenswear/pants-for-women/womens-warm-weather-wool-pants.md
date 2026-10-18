@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Dress Pants with Back Pockets in Mohair Wool
@@ -88,7 +88,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239, same for every color and pocket style **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s body measuring guide](https:///womens-body-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s body measuring guide](https://baronboutique.com/womens-body-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -130,7 +130,7 @@ The cloth is an 8oz Super 140s mohair wool blend in a plain weave. It is light a
 
 The front of the trousers is lined in acetate to the knee, so the leg drapes smoothly and slides over the skin. If wool irritates your skin, we can extend the lining all the way to the hem on request.
 
-Want a finer wool for year-round wear, with your choice of lining? See our [lined wool trousers](https:///womens-seasonless-pure-new-wool-pants/). For a slimmer, ankle-length line in open-weave fresco wool, see our [tapered dress pants](https:///womens-fresco-wool-pants-for-all-season/).
+Want a finer wool for year-round wear, with your choice of lining? See our [lined wool trousers](https://baronboutique.com/womens-seasonless-pure-new-wool-pants/). For a slimmer, ankle-length line in open-weave fresco wool, see our [tapered dress pants](https://baronboutique.com/womens-fresco-wool-pants-for-all-season/).
 
 ---
 
@@ -238,7 +238,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** women's dress pants with back pockets, dress pants with real pockets, flap back pocket trousers women, summer wool trousers, mohair wool pants
+**Related terms:** summer wool trousers, cool wearing pants, warm climate work pants, women's dress pants with back pockets
 
 ## Related
 

@@ -3,7 +3,7 @@ type: Product Category
 title: "Vests"
 description: "Made-to-order waistcoats in wool, linen, and velvet, cut to the wearer's measurements to complete a three-piece suit or to wear alone."
 resource: https://baronboutique.com/menswear/vests/
-tags: [men, vest, waistcoat, three-piece, wedding-vest, linen-vest, wool-vest, custom-vest, bespoke, made-to-order]
+tags: [men, vest, waistcoat, three-piece, wedding-vest, linen-vest, wool-vest, custom-vest, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/vests/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Vests

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Doctor Collection
@@ -117,7 +117,7 @@ Your finished garment ships by FedEx, DHL, or UPS with full tracking, Your test 
 - [Tennant Blue and Red Stripe Suit](../../products/screen-inspired/doctor-collection/tennant-blue-red-stripe-suit.md)
 - [Tennant Brown and Blue Stripe Suit](../../products/screen-inspired/doctor-collection/doctor-brown-with-blue-stripe-suit.md)
 
-**Related terms:** Doctor Who coats, Time Lord costume, Capaldi coat, Tennant suit, 4th Doctor coat, Doctor Who cosplay clothing
+**Related terms:** Doctor Who coats, Time Lord costume, Capaldi coat, Tennant suit, 4th Doctor coat, Doctor Who cosplay clothing, doctor who jacket, dr who jacket, Doctor Who suit, doctor suit
 
 ## Related
 

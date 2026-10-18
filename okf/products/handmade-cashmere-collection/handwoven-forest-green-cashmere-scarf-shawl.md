@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-12
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:16:26Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
 ---
 
 # Handwoven Forest Green Cashmere Scarf Shawl
@@ -99,9 +99,9 @@ Which Green
 
 ## Forest Green, Emerald or Light Teal: Which Green Cashmere Scarf?
 
-Forest green is the darkest of our greens and the most everyday. It leans slightly warm, toward pine, rather than blue. If you want a brighter jewel green for evening dresses, see our **[Emerald Green cashmere shawl](https:///emerald-green-handwoven-cashmere-scarf-shawl/)**, which has a cool blue undertone. For a lighter green, see **[Light Teal Green](https:///light-teal-green-handwoven-cashmere-scarf-shawl/)** or **[Willow Green](https:///willow-green-handwoven-cashmere-scarf-shawl/)**.
+Forest green is the darkest of our greens and the most everyday. It leans slightly warm, toward pine, rather than blue. If you want a brighter jewel green for evening dresses, see our **[Emerald Green cashmere shawl](https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/)**, which has a cool blue undertone. For a lighter green, see **[Light Teal Green](https://baronboutique.com/light-teal-green-handwoven-cashmere-scarf-shawl/)** or **[Willow Green](https://baronboutique.com/willow-green-handwoven-cashmere-scarf-shawl/)**.
 
-Need a different shade of green? Our **[Featherlight Cashmere Scarf](https:///womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors. Or browse all **[handwoven cashmere scarves and shawls](https:///handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+Need a different shade of green? Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors. Or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 
@@ -117,7 +117,7 @@ Warmth in cashmere comes from fineness, not weight. Very fine fibers trap a laye
 | 200/2 yarn | Two very fine threads twisted together give the scarf strength while keeping it soft enough to knot without bulk. |
 | About 70 g | Folds smaller than a T-shirt, so it fits in a tote or a coat pocket when you do not need it. |
 
-To check any scarf at home, see our **[guide to telling real cashmere from a blend](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
+To check any scarf at home, see our **[guide to telling real cashmere from a blend](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
 
 ---
 

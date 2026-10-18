@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Linen Wedding Suit for Grooms, Custom Made
@@ -265,7 +265,7 @@ Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 - Men › Wedding Suits › Linen Wedding Suits
 - Men › Suits & Blazers
 
-**Related terms:** groom linen suit, destination wedding suit for men, natural summer wedding suit
+**Related terms:** groom linen suit, destination wedding suit for men, natural summer wedding suit, linen wedding suits for groom, mens linen suits for weddings
 
 ## Related
 

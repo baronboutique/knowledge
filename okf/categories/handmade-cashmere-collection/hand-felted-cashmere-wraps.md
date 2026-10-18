@@ -3,7 +3,7 @@ type: Product Category
 title: "Hand Felted Cashmere Wraps"
 description: "Cashmere Wraps, Hand-Knitted and Then Felted Two crafts in one piece. Each wrap is hand-knitted from Grade A Himalayan cashmere, deliberately larger than its finished size, then worked by hand with warm water and pressure until the stitches close. What comes out behaves like a good coating cloth — it holds a shape rather than draping — which is the same reason we reach for melton in a winter overcoat. No loom, no machinery, and no way to repeat a piece exactly."
 resource: https://baronboutique.com/handmade-cashmere-collection/hand-felted-cashmere-wraps/
-tags: [hand-felted-cashmere-wraps, hand, felted, cashmere, wraps, bespoke, made-to-order, baron-boutique]
+tags: [women, cashmere, wraps, scarves, hand-felted, hand-knitted, himalayan, handmade, heirloom]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/handmade-cashmere-collection/hand-felted-cashmere-wraps/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Hand Felted Cashmere Wraps
@@ -74,6 +74,8 @@ This is the whole skill. Too little and it is simply a knitted wrap; too far and
 - [Hand Felted Light Salmon Pink Cashmere Scarf Wrap](../../products/handmade-cashmere-collection/hand-knitted-light-salmon-pink-cashmere-scarf-wrap.md)
 - [Hand Felted Pink Cashmere Scarf Wrap](../../products/handmade-cashmere-collection/hand-knitted-pink-cashmere-scarf-wrap.md)
 - [Hand Felted Red Cashmere Scarf Wrap](../../products/handmade-cashmere-collection/hand-knitted-red-cashmere-scarf-wrap.md)
+
+**Related terms:** felted cashmere scarf, hand felted wrap, structured cashmere wrap, felted pashmina
 
 ## Related
 

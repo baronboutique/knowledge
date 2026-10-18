@@ -75,7 +75,7 @@ Every adjustment is applied, then your suit is cut in your chosen linen and colo
 
 ## Products
 
-- [Blue Linen Suit for Men, Made to Measure](linen-suits-for-men.md)
+- [Blue Linen Suit for Men, Made to Your Measurements](linen-suits-for-men.md)
 - [Cotton Linen Blazer Mens Patch Pocket Jacket](linen-blazer-with-patch-pocket-details.md)
 - [Linen Wedding Suit for Grooms, Custom Made](grooms-linen-suit-for-wedding.md)
 - [Men's Unlined Linen Jacket, Unstructured 2-Button in 18 Colors](2button-linen-jacket.md)

@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made
@@ -234,7 +234,7 @@ We ship worldwide by trackable courier. We recommend ordering as early as you ca
 - Men › Shirts
 - Men › Real Silk Eventwear
 
-**Related terms:** real silk button up, charmeuse shirt men, natural silk shirt custom, groom silk shirt
+**Related terms:** real silk button up, charmeuse shirt men, natural silk shirt custom, groom silk shirt, satin mens shirt
 
 ## Related
 

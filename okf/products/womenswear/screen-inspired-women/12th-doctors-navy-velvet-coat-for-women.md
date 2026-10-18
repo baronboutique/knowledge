@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Women's Twelfth Doctor Navy Velvet Coat"
-description: "Women's Twelfth Doctor Navy Velvet Coat to make you look good in your character. Engage with your imagination and take a break from your real life."
+title: "Women's 12th Doctor Navy Velvet Coat, Burgundy Lining"
+description: "A women's navy velvet coat, screen-inspired with inspiration taken from the Twelfth Doctor in Doctor Who: three buttons, notch lapels, five-button working cuffs and a burgundy lining."
 resource: https://baronboutique.com/12th-doctors-navy-velvet-coat-for-women/
 tags: [women, coat, velvet, navy, doctor-who, twelfth-doctor, capaldi, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/12th-doctors-navy-velvet-coat-for-women/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
-# Women's Twelfth Doctor Navy Velvet Coat
+# Women's 12th Doctor Navy Velvet Coat, Burgundy Lining
 
 **SKU:** 7000013  
 **URL:** https://baronboutique.com/12th-doctors-navy-velvet-coat-for-women/  
@@ -35,69 +35,175 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Women's Twelfth Doctor Navy Velvet Coat to make you look good in your character. Engage with your imagination and take a break from your real life. Finely crafted navy velvet coat for ladies from premium quality poly-cotton blend velvet cloth and hand-cut to ensure a perfect fit. Women's 12th Doctor navy velvet coat maintains a classic Capaldi look. Create the character you want to pretend in this twelfth velvet coat.
+A women's navy velvet coat, screen-inspired with inspiration taken from the Twelfth Doctor in Doctor Who: three buttons, notch lapels, five-button working cuffs and a burgundy lining. Velvet shows every tight spot as a shiny mark, so every coat is cut to your measurements with a canvas front and fitted first in a free test coat. Poly-cotton velvet, navy by default Burgundy lining by default, or any lining you choose Five-button working cuffs, two inside breast pockets Mid-thigh length, or any length you ask for Free test coat in cotton, yours to keep
 
-## The Uniform of a Cosmic Minimalist
+The Coat
 
-This is the understated power of the 12th Doctor’s wardrobe, custom-tailored for you. More than a simple coat, this is the sharp, versatile silhouette of a Time Lord who means business. We have engineered the definitive replica of the Doctor’s navy velvet coat, perfect for screen-accurate cosplay or as a uniquely sophisticated everyday statement piece.
+## A Women’s Navy Velvet Coat Fitted So the Velvet Never Shows It
 
-### A Study in Cosmic Contrast
+Velvet keeps a record. Wherever a coat is too tight, the pile is pressed flat every time you move, and within weeks a shiny line appears across the back or under the arms that never brushes out. In wool a small fitting mistake is a small mistake; in velvet it becomes a permanent mark.
 
-The quiet power of this coat lies in its luxurious fabric and secret, signature details, creating a look that is both iconic and effortlessly cool.
+This women’s navy velvet coat is our own screen-inspired version of the Twelfth Doctor’s navy velvet coat in Doctor Who: three buttons, notch lapels, five-button working cuffs and a burgundy lining. It is cut to your measurements with a canvas front, and the free test coat is where any tight spot is found and fixed before the velvet is cut.
 
-- **Premium Navy Velvet:** Crafted from a high-quality poly-cotton blend velvet that offers a luxurious feel, a beautiful drape, and the durability needed for all your adventures.
-- **The Secret Burgundy Lining:** Features a full acetate lining in the Doctor’s signature, screen-accurate burgundy, providing a rich, hidden flash of color that is quintessentially him.
-- **A Palette of 8 Colors:** While navy is the classic choice for this variant, you can select from a curated range of 8 rich colors to create your own unique incarnation.
+Navy velvet  
+ Burgundy lining  
+ Working cuffs  
+ Mid-thigh  
+ Free test coat
 
-### Engineered for Time & Space
+**Price:** $529 **Cloth:** poly-cotton velvet, navy by default **Lining:** burgundy by default, chosen in the selector **Length:** mid-thigh **Test coat:** free, yours to keep **Care:** dry clean
 
-This coat is defined by the unique, screen-accurate details that capture the essence of the 12th Doctor’s pragmatic and powerful style.
+---
 
-- - **Screen-Accurate Cut:** From the medium-width notch lapels to the clean, 3-button single-breasted front, every detail is meticulously recreated.
-  - **Maximum Utility:** This coat is surprisingly practical, featuring two external pockets and a remarkable **four internal breast pockets**—more than enough room for a sonic screwdriver and anything else you might need.
+Free Test Coat
 
-–
+## The Test Coat Finds the Tight Spots First
 
-- **The Signature Cuff:** The five-button working sleeve cuffs are a direct nod to the Doctor’s unique tailoring preferences.
-- **Canvas Front Construction:** A canvas front provides essential structure to the chest and lapels, ensuring a sharp, tailored silhouette that never looks flimsy.
+A client who ordered a navy velvet coat from us wrote in a review that the test garment was close but not right: the back was tight and the armholes too fitted. Photos came back to us, we changed the pattern, and the final coat fit, in the client’s words, like a second skin. That is the job of the cotton test coat, and on velvet it matters more than on any other cloth.
 
-### Your Perfect Fit, Guaranteed: The Free Test Coat
+1
 
-Even a Time Lord needs a coat that fits perfectly. We eliminate the risk and anxiety of ordering online by sending you a **free test coat** first.
+**Choose your cloth and lining, then enter your measurements**  
+ Pick your cloth color and satin lining in the selector, then enter your measurements on the product page, with the length you want. Any style change goes in the comment box on the measurement form.
 
-1. **Receive Your Test Garment:** We mail you a test coat made in cotton to your exact initial measurements and style choices.
-2. **Confirm Your Fit:** Try it on at home. You can then request any adjustments to the fit, size, or styling details.
-3. **We Craft Your Final Masterpiece:** We apply your feedback to tailor the final velvet coat for a perfect, screen-accurate fit.
+2
 
-The test coat is yours to keep.
+**We make your free test coat**  
+ A test coat in cotton, cut to your measurements, takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch by trackable courier.
 
-#### Caring For Your Velvet
+3
 
-To maintain the rich texture and color of your velvet, we recommend dry-cleaning only.
+**You try it on at home**  
+ Check the shoulders, the sleeve length, the button point and the length over the clothes you will wear underneath, and tell us any change, however small.
 
-#### Women’s Twelfth Doctor Navy Velvet Coat Features
+4
 
-- tailored from premium quality poly-cotton blend velvet cloth
-- hand-made by Baron Boutique
-- screen-accurate design
-- canvas front protection
-- single-breasted style
-- 3 button velvet coat fastening
-- handmade buttonholes
-- medium notch lapels width (2.75 inches to 3.75 inches)
-- topstitched coat details
-- edged-lined coat interior in acetate
-- 2 exterior diagonal pockets
-- two internal breast pockets
-- hand-stitched armholes
-- center back vent
-- straight coat hem
-- 5 buttons working sleeves cuff
-- kissing sleeve buttons stance
-- hand-made black horn buttons
-- stitched and reinforced coat buttons by hand for everyday use
-- ample coat seam allowances for future alteration
-- mid-thigh length
+**We make the final coat**  
+ We apply every change, then make the final coat in navy velvet in 3 to 4 weeks; it arrives 5 to 10 days after dispatch. The test coat is yours to keep.
+
+---
+
+Velvet Remembers
+
+## Where Velvet Shows a Bad Fit
+
+| Across the back | A tight back crushes the pile between the shoulder blades when you reach forward. |
+| --- | --- |
+| Under the arms | Armholes cut too high rub the velvet flat on every step. |
+| At the button | A front that pulls leaves a shiny X around the button. |
+| At the elbow | Sleeves cut too narrow crush the pile inside the elbow every time you bend your arm. |
+
+Look at the back view: the pile lies smooth from shoulder to hem because the coat is not pulling anywhere. That is what the test coat is checked for.
+
+---
+
+Inside
+
+## The Burgundy Lining and the Pocket for a Sonic
+
+Lining
+
+The burgundy lining shows the moment the coat opens.
+
+Pocket
+
+Two inside breast pockets, deep enough for a sonic prop.
+
+Outside, the coat is quiet: deep navy velvet, three buttons, notch lapels and two diagonal pockets. Inside it is burgundy, which flashes every time the front swings open. The five-button working cuffs really unbutton.
+
+Prefer the 12th Doctor red velvet coat? See our **[women’s 12th Doctor burgundy velvet coat](https://baronboutique.com/12th-doctor-burgundy-velvet-coat-for-women/)**, the same cut in burgundy with a red lining.
+
+---
+
+Wearing It
+
+## 12th Doctor Outfits, and Every Other Day
+
+For a full 12th Doctor outfit, wear it over a waistcoat, a dark shirt and black trousers with boots, as in the photos. Away from conventions, the same velvet coat goes over a black turtleneck and jeans, or over a dress for an evening out, and nobody needs to know where the idea came from.
+
+Some people search for it as a 12th Doctor jacket, a twelfth Doctor coat or simply a 12th Doctor coat; at mid-thigh it is a coat, long enough to cover a jacket. Any length can be cut, and other velvets, such as black, green or burgundy, are in the selector.
+
+---
+
+Full Spec
+
+## Women’s 12th Doctor Navy Velvet Coat, Specification
+
+| Cloth | Poly-cotton velvet; navy by default, other velvets in the selector |
+| --- | --- |
+| Lining | Burgundy by default; other satin linings in the selector |
+| Front | Single-breasted, three buttons |
+| Lapels | Medium notch lapels, 2.75 to 3.75 inches, topstitched |
+| Construction | Canvas front, hand-stitched armholes, hand-finished buttonholes |
+| Pockets | Two diagonal hip pockets, two inside breast pockets |
+| Back | Center vent |
+| Cuffs | Five-button working cuffs, kissing buttons |
+| Buttons | Black horn, hand-stitched and reinforced |
+| Length | Mid-thigh; any length on request |
+| Test coat | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean only; steam, never press |
+
+This coat is our own screen-inspired design, with inspiration taken from the Twelfth Doctor in Doctor Who. It is not official or licensed.
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Women’s Navy Velvet Coat
+
+### Is this the 12th Doctor’s coat from Doctor Who?
+
+No, it is our own screen-inspired women’s version, with inspiration taken from the Twelfth Doctor’s navy velvet coat. It is not official or licensed.
+
+### Why does fit matter more in velvet?
+
+Because velvet pile crushes wherever the coat is tight, leaving shiny marks that do not brush out. The free test coat finds tight spots before the velvet is cut.
+
+### What color is the lining?
+
+Burgundy by default. Any other satin lining can be chosen in the selector.
+
+### Is there a 12th Doctor velvet coat in red?
+
+Yes, our women’s 12th Doctor burgundy velvet coat is the same cut in burgundy velvet with a red lining.
+
+### Are the cuff buttons real?
+
+Yes, all five buttons on each cuff work and can be undone.
+
+### Is there room for a sonic prop?
+
+Yes, there are two inside breast pockets, deep enough for one.
+
+### How does the free test coat work?
+
+We make the coat in cotton to your measurements, you try it at home and send us photos or notes, and then we cut the velvet. The test coat is yours to keep.
+
+### How long does it take?
+
+The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+
+### Can I change details, such as the length?
+
+Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+
+### How do I care for velvet?
+
+Dry clean only, and not often. Hang it with space around it so the pile is not crushed, and steam rather than press.
 
 ## Customer Reviews
 

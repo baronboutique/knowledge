@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Navy Tailored Flare Trousers in Sharkskin Wool
@@ -90,7 +90,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -124,7 +124,7 @@ Flare for Work
 | Jackets | A fitted jacket that ends at the hip keeps the proportions long. A cropped jacket works too; a very long, loose one hides the line. |
 | Colors | Navy, Black and Dark Grey are the most formal. Slate Blue, Grey and Light Grey are lighter and work well in summer. |
 
-Prefer a quieter opening? Our [tailored bootcut trousers](https:///womens-iconic-wool-pants/) open more gently from the knee. For a leg that falls straight from hip to hem, see our [formal pants for women](https:///womens-menswear-inspired-pants/).
+Prefer a quieter opening? Our [tailored bootcut trousers](https://baronboutique.com/womens-iconic-wool-pants/) open more gently from the knee. For a leg that falls straight from hip to hem, see our [formal pants for women](https://baronboutique.com/womens-menswear-inspired-pants/).
 
 ---
 
@@ -254,7 +254,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** navy tailored trousers women, navy flare trousers, tailored flare pants women, sharkskin wool trousers, flare trousers for work, how to wear flared trousers to the office
+**Related terms:** sharkskin trousers for women, iridescent work pants, office slacks
 
 ## Related
 

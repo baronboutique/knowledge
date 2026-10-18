@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # 6 Button Double Breasted Suit, Custom Made in Super 120s Wool
@@ -261,7 +261,7 @@ Fits wonderfully, the test suit really put my mind at ease. Excellent craftsmans
 
 - Men › Suits & Blazers
 
-**Related terms:** DB suit, six button double breasted suit, power suit for men, classic business suit
+**Related terms:** DB suit, six button double breasted suit, power suit for men, classic business suit, tailored double breasted suit, 6 button suit
 
 ## Related
 

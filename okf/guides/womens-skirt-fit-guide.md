@@ -3,7 +3,7 @@ type: Guide
 title: "Skirt Fit Guide"
 description: "Find your perfect skirt fit—Slim, Standard, or Relaxed. Baron Boutique's women's guide helps you choose the best custom garment for your style."
 resource: https://baronboutique.com/womens-skirt-fit-guide/
-tags: [women, skirt, fit-guide, sizing, pencil-skirt-fit, guide]
+tags: [women, skirt, fit-guide, sizing, pencil-skirt-fit, made-to-measure, guide]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womens-skirt-fit-guide/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T13:37:52Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Skirt Fit Guide

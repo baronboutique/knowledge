@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Keanu Reeves Trench Coat The Matrix Revolutions
@@ -105,7 +105,7 @@ I waited quite some time before pulling the trigger on this, but decided it was 
 - Screen Inspired › Cyberpunk Trench Coats
 - Men › Coats & Overcoats
 
-**Related terms:** Neo Revolutions coat, Matrix 3 trench coat, black priest coat, Keanu Reeves long coat
+**Related terms:** Neo Revolutions coat, Matrix 3 trench coat, black priest coat, Keanu Reeves long coat, Keanu Reeves trench coat
 
 ## Related
 

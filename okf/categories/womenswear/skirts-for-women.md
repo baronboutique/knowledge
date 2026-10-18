@@ -3,7 +3,7 @@ type: Product Category
 title: "Skirts"
 description: "Made-to-order pencil, pleated, and stripe skirts cut to the wearer's waist, hip, and length for work and occasion wear."
 resource: https://baronboutique.com/womenswear/skirts-for-women/
-tags: [women, skirts, pencil-skirt, work-skirt, wool-skirt, kick-pleat, custom-skirt, bespoke, made-to-order]
+tags: [women, skirts, pencil-skirt, work-skirt, wool-skirt, kick-pleat, custom-skirt, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womenswear/skirts-for-women/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Skirts
@@ -82,7 +82,7 @@ Every adjustment is applied, then your skirt is cut and hand-tailored in your ch
 - [The Vitale Barberis Canonico Pencil Skirt](../../products/womenswear/skirts-for-women/womens-wool-breeze-skirt.md)
 - [Women's Kick Pleat Pencil Skirt in Italian Wool](../../products/womenswear/skirts-for-women/womens-kick-pleat-smart-skirt.md)
 
-**Related terms:** tailored pencil skirts, custom skirts online, office skirts, made-to-order skirt, wool skirts for work
+**Related terms:** tailored pencil skirts, custom skirts online, office skirts, made to measure skirt, wool skirts for work
 
 ## Related
 

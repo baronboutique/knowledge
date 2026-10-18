@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T15:14:06Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Business Suit, Bespoke in Italian VBC Wool
@@ -250,7 +250,7 @@ Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Suits & Blazers
 
-**Related terms:** custom women's suit, tailored two-piece for her, interview suit, business suit for women
+**Related terms:** custom women's suit, tailored two-piece for her, interview suit, business suit for women, tailor made women business suit, bespoke womens suit, womens tailored suits
 
 ## Related
 

@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # James Bond Casino Royale Final Scene Inspired 3 Piece Suit
@@ -152,7 +152,7 @@ Great suit with great fit Bought this 3pcs suit in navy and it fits perfectly an
 - Men › Suits & Blazers
 - Screen Inspired › Spy Tailoring
 
-**Related terms:** Bond Casino Royale suit, Daniel Craig pinstripe three piece, 007 poker scene suit
+**Related terms:** Bond Casino Royale suit, Daniel Craig pinstripe three piece, 007 poker scene suit, James Bond 3 piece Casino Royale suit
 
 ## Related
 

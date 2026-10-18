@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:25:32Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
 ---
 
 # Off-White Cashmere Scarf – Hand-Finished in Pearl Weave
@@ -99,7 +99,7 @@ Off white is softer than pure white and cooler than cream. It sits with black, n
 | Navy and gray | Quiet and classic for work. |
 | Denim and white | Relaxed, as in the shawl photo. |
 
-Looking for off white scarves in fashion terms? This off white scarf color is natural and slightly warm, so a cashmere scarf in a neutral outfit, in neutral tones or in a neutral aesthetic looks soft rather than stark. If you want a white cashmere wrap, this natural off white is softer on the skin than pure white. If you want a lighter, sheer version, see our **[Ivory handwoven cashmere shawl](https:///handwoven-ivory-cashmere-scarf-shawl/)**. Compared with an off white wool scarf, cashmere is finer and softer at the neck, and far less likely to itch.
+Looking for off white scarves in fashion terms? This off white scarf color is natural and slightly warm, so a cashmere scarf in a neutral outfit, in neutral tones or in a neutral aesthetic looks soft rather than stark. If you want a white cashmere wrap, this natural off white is softer on the skin than pure white. If you want a lighter, sheer version, see our **[Ivory handwoven cashmere shawl](https://baronboutique.com/handwoven-ivory-cashmere-scarf-shawl/)**. Compared with an off white wool scarf, cashmere is finer and softer at the neck, and far less likely to itch.
 
 ---
 
@@ -114,7 +114,7 @@ Weight and Yarn
 
 How to read a yarn count: the first number is how fine each thread is (higher means finer), the second is how many threads are twisted together. A 200/2 yarn is very fine, so it weaves a sheer scarf; a 26/2 yarn is much thicker, so it weaves a dense, warm one. All three use the same 14 to 16 micron cashmere fiber.
 
-For a sheer handwoven scarf in a color, see our **[handwoven cashmere scarves and shawls](https:///handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**; for a regular-weight wrap, the **[Royal Blue Essential Wrap](https:///royal-blue-essential-wrap-in-diamond-weave-cashmere/)**.
+For a sheer handwoven scarf in a color, see our **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**; for a regular-weight wrap, the **[Royal Blue Essential Wrap](https://baronboutique.com/royal-blue-essential-wrap-in-diamond-weave-cashmere/)**.
 
 ---
 
@@ -129,7 +129,7 @@ A cashmere fiber close up shows why the scarf feels soft. Each fiber is 14 to 16
 | 35 to 55 mm staple | Longer fibers hold in the yarn better, so the scarf pills and sheds less. |
 | 26/2 yarn | Two thick threads twisted together give the dense, warm pearl texture. |
 
-In cashmere wool fibers macro images, real cashmere looks fine and slightly hazy, and cashmere fibers macro shots of blends show thicker, straighter wool or shiny synthetic strands mixed in. A cashmere pashmina scarf close up texture should look the same as this: soft, matte and fine. In a macro photo of cashmere fabric, each fiber shows a fine, wavy texture and the fibers look soft and slightly hazy. In the same macro, the cashmere yarn texture is fuzzy rather than smooth. A wool scarf close up texture looks coarser, with thicker, straighter fibers. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
+In cashmere wool fibers macro images, real cashmere looks fine and slightly hazy, and cashmere fibers macro shots of blends show thicker, straighter wool or shiny synthetic strands mixed in. A cashmere pashmina scarf close up texture should look the same as this: soft, matte and fine. In a macro photo of cashmere fabric, each fiber shows a fine, wavy texture and the fibers look soft and slightly hazy. In the same macro, the cashmere yarn texture is fuzzy rather than smooth. A wool scarf close up texture looks coarser, with thicker, straighter fibers. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
 
 ---
 

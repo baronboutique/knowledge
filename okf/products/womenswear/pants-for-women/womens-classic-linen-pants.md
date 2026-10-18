@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Wide Leg Linen Pants, Lined to the Knee
@@ -89,7 +89,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine washable, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -127,7 +127,7 @@ A wide leg looks right or wrong mostly because of two things: the width at the h
 | Rise | Taken from your measurements. For a high-waisted fit, ask in the comment box. |
 | Ankle length | Available on request if you prefer a cropped wide leg that shows the ankle. |
 
-Prefer a narrower line that falls straight from the knee? See our [straight leg linen trousers](https:///womens-warm-weather-linen-pants/), which are unlined for maximum airflow. Want the same easy feel in wool? Our [tropical wool trousers](https:///womens-all-season-tropical-pants/) have a relaxed leg in 14 colors.
+Prefer a narrower line that falls straight from the knee? See our [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/), which are unlined for maximum airflow. Want the same easy feel in wool? Our [tropical wool trousers](https://baronboutique.com/womens-all-season-tropical-pants/) have a relaxed leg in 14 colors.
 
 ---
 
@@ -236,7 +236,7 @@ These are, because they are cut as trousers: a flat front, a zip fly, belt loops
 
 ### What is the difference between these and your straight leg linen trousers?
 
-These are wider and lined to the knee. The [straight leg linen trousers](https:///womens-warm-weather-linen-pants/) are narrower from the knee down and unlined for maximum airflow. Both come in the same 18 linens.
+These are wider and lined to the knee. The [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/) are narrower from the knee down and unlined for maximum airflow. Both come in the same 18 linens.
 
 ### How much do these wide leg linen pants cost, and can I wash them?
 
@@ -250,7 +250,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** wide leg linen pants, tailored wide leg linen pants, lined linen pants, khaki linen pants women, high waisted wide leg linen pants, linen pants for work
+**Related terms:** linen trousers for women, breathable work pants, vacation pants
 
 ## Related
 

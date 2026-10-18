@@ -3,7 +3,7 @@ type: Product Category
 title: "Suits & Blazers"
 description: "Made-to-order suits and blazers drafted for a woman's figure, in wool, silk, and linen, from pinstripe pant suits to sculpted single blazers."
 resource: https://baronboutique.com/womenswear/suits-blazers-for-women/
-tags: [women, suits, blazers, pant-suit, skirt-suit, power-suit, workwear, business-suit, custom-suit, bespoke, made-to-order]
+tags: [women, suits, blazers, pant-suit, skirt-suit, power-suit, workwear, business-suit, custom-suit, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womenswear/suits-blazers-for-women/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
 ---
 
 # Suits & Blazers
@@ -96,11 +96,11 @@ Every adjustment is applied, then your suit is cut and hand-tailored in your cho
 - [Women's Business Suit, Bespoke in Italian VBC Wool](../../products/womenswear/suits-blazers-for-women/womens-tailored-suit.md)
 - [Women's Custom Blazer in Sharkskin Wool](../../products/womenswear/suits-blazers-for-women/womens-sharkskin-jacket.md)
 - [Women's Custom Skirt Suit in Pinstripe Wool](../../products/womenswear/suits-blazers-for-women/womens-skirt-suit-in-stripes.md)
+- [Women's Fitted Wool Coat in Flannel, Double Darts](../../products/womenswear/coats-and-overcoats-for-women/womens-long-winter-coat.md)
 - [Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend](../../products/womenswear/suits-blazers-for-women/womens-pinstripe-pant-suit.md)
 - [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](../../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
-- [Womens Tailored Fitted Coat](../../products/womenswear/coats-and-overcoats-for-women/womens-long-winter-coat.md)
 
-**Related terms:** women's custom suits, made-to-order suit for women, ladies business suits, tailored pant suits, interview suit women
+**Related terms:** women's custom suits, made to measure suit for women, ladies business suits, tailored pant suits, interview suit women, custom sport coats for women, custom blazer for women, womens tailored suits, mohair suit, female tailored suits
 
 ## Related
 

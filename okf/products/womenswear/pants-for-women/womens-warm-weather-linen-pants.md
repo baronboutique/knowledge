@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Straight Leg Linen Trousers in Pure Linen
@@ -88,7 +88,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine washable, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -138,7 +138,7 @@ Linen is woven with a little air between the yarns, which is why it is cool. In 
 
 To add lining, write “lined to the knee” or “fully lined” in the comment box on the measurement form. A lining makes the trousers slightly warmer, so for very hot weather, unlined with skin-tone underwear is the cooler choice.
 
-Prefer a fuller leg, lined to the knee as standard? See our [wide leg linen pants](https:///womens-classic-linen-pants/). If linen creases more than you would like, our [tapered dress pants](https:///womens-fresco-wool-pants-for-all-season/) in open-weave fresco wool stay cool and recover from creases.
+Prefer a fuller leg, lined to the knee as standard? See our [wide leg linen pants](https://baronboutique.com/womens-classic-linen-pants/). If linen creases more than you would like, our [tapered dress pants](https://baronboutique.com/womens-fresco-wool-pants-for-all-season/) in open-weave fresco wool stay cool and recover from creases.
 
 ---
 
@@ -307,7 +307,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** straight leg linen trousers, tailored linen trousers, linen work trousers, white linen trousers, brown linen trousers, linen pants that don't wrinkle
+**Related terms:** hot weather trousers, linen slacks, resort pants, straight leg linen trousers
 
 ## Related
 

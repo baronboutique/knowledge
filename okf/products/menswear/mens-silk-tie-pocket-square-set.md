@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Mens Silk Tie & Pocket Square Set Handmade
@@ -87,7 +87,7 @@ The best way to store silk pocket squares is a plastic container. Fold your silk
 - Men › Real Silk Eventwear
 - Men › Accessories
 
-**Related terms:** matching tie and hankie, tie pocket square combo, wedding tie set, groomsmen gift set
+**Related terms:** matching tie and hankie, tie pocket square combo, wedding tie set, groomsmen gift set, silver tie and pocket square
 
 ## Related
 

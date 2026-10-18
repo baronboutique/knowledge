@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's Blue Velvet Dinner Jacket, Custom Made with Canvas Front
@@ -217,7 +217,7 @@ I can't emphasize enough how pleased I am with the garment and especially the se
 - Men › House of Velvet
 - Men › Suits & Blazers
 
-**Related terms:** blue velvet dinner jacket, royal blue smoking jacket, prom jacket velvet, festive party blazer, midnight blue evening jacket
+**Related terms:** blue velvet dinner jacket, royal blue smoking jacket, prom jacket velvet, festive party blazer, midnight blue evening jacket, men's blue velvet dinner jacket
 
 ## Related
 

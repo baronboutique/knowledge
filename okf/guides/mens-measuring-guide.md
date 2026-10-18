@@ -3,7 +3,7 @@ type: Guide
 title: "Men’s Measuring Guide"
 description: "Ensure your custom garment fits flawlessly. Our men's measurement guide provides step-by-step tutorials on measuring everything."
 resource: https://baronboutique.com/mens-measuring-guide/
-tags: [men, measuring-guide, body-measurements, how-to-measure, suit-measurements, guide]
+tags: [men, measuring-guide, body-measurements, how-to-measure, suit-measurements, made-to-measure, guide]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/mens-measuring-guide/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T13:04:36Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Men’s Measuring Guide

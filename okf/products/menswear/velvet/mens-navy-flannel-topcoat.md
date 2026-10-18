@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-13T13:20:02Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's Navy Topcoat With Velvet Collar
@@ -81,7 +81,7 @@ Dry clean.
 - Men › House of Velvet
 - Men › Coats & Overcoats
 
-**Related terms:** navy overcoat, flannel winter coat, dark blue city coat, warm tailored overcoat, custom navy long coat
+**Related terms:** navy overcoat, flannel winter coat, dark blue city coat, warm tailored overcoat, custom navy long coat, navy blue overcoat mens
 
 ## Related
 

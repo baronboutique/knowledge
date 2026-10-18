@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Formal Straight Leg Trousers in Wool and Cashmere
@@ -90,7 +90,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -107,7 +107,7 @@ The details come from a man’s suit trouser; the pattern is drawn for a woman�
 | Flat front | No pleats, so the front lies smooth under a tucked-in shirt; the grip-lined waistband keeps the shirt in place. |
 | Shaped for you | The waist, seat and hip are cut to your measurements, which is where men’s-style trousers usually go wrong on women. |
 
-Prefer a different line? Our [tailored bootcut trousers](https:///womens-iconic-wool-pants/) open gently from the knee, and our [tailored flare trousers](https:///womens-work-pants-in-sharkskin/) open wider. For evening, our [velvet skinny trousers](https:///womens-velvet-pants/) are the dressier choice.
+Prefer a different line? Our [tailored bootcut trousers](https://baronboutique.com/womens-iconic-wool-pants/) open gently from the knee, and our [tailored flare trousers](https://baronboutique.com/womens-work-pants-in-sharkskin/) open wider. For evening, our [velvet skinny trousers](https://baronboutique.com/womens-velvet-pants/) are the dressier choice.
 
 ---
 
@@ -255,7 +255,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** formal pants for women, formal trousers for women, straight leg formal trousers women, menswear-inspired trousers, formal slacks for women
+**Related terms:** boyfriend trousers, masculine cut pants for women, borrowed from the boys tailoring
 
 ## Related
 

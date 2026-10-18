@@ -3,7 +3,7 @@ type: Product Category
 title: "Men"
 description: "Bespoke menswear cut from an individual pattern after each order, covering suits, formalwear, outerwear, shirts, and accessories."
 resource: https://baronboutique.com/menswear/
-tags: [men, menswear, custom-suits, tailored-clothing, formalwear, wedding-attire, coats, shirts, pants, bespoke, made-to-order]
+tags: [men, menswear, custom-suits, tailored-clothing, formalwear, wedding-attire, coats, shirts, pants, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Men
@@ -149,7 +149,7 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 - [Western Frock Coat in Wool, Custom Made](../products/menswear/mens-frock-coat.md)
 
-**Related terms:** custom clothing for men, men's bespoke tailor online, made-to-order menswear, tailor made suits for men, men's custom formal wear
+**Related terms:** custom clothing for men, men's bespoke tailor online, made to measure menswear, tailor made suits for men, men's custom formal wear
 
 ## Related
 

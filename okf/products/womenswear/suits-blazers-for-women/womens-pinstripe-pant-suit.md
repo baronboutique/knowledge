@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-22T18:48:54Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend
@@ -229,7 +229,7 @@ The ten pinstripe options on the product page are the standard range. If you hav
 
 - Women › Suits & Blazers
 
-**Related terms:** pinstripe trouser suit for women, banker stripe pantsuit, power suit with stripes, boardroom suit for her, custom striped suit ladies
+**Related terms:** pinstripe trouser suit for women, banker stripe pantsuit, power suit with stripes, boardroom suit for her, custom striped suit ladies, pinstripe suit women, women's pinstripe suit, womens pinstripe suit, pinstripe suit for women
 
 ## Related
 

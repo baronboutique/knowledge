@@ -3,7 +3,7 @@ type: Product
 title: "The Minority Jacket, Minimalist Band-Collar Black Leather"
 description: "The Minority jacket: a hand-made black leather jacket with clean, minimalist lines and a near-future edge."
 resource: https://baronboutique.com/minority-band-collar-leather-jacket/
-tags: [men, jacket, leather, minority-report, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+tags: [men, jacket, leather, black, band-collar, minimalist, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/minority-band-collar-leather-jacket/
@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # The Minority Jacket, Minimalist Band-Collar Black Leather
@@ -79,7 +79,7 @@ I have ordered numerous jackets from Baron - all great. The minority report is t
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Tom Cruise Minority Report jacket, John Anderton leather jacket, sci-fi leather jacket
+**Related terms:** Tom Cruise Minority Report jacket, John Anderton leather jacket, sci-fi leather jacket, minimalist leather jacket, futuristic band collar jacket, near-future style jacket men
 
 ## Related
 

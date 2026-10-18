@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-13T13:20:11Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Long Grey Wool Herringbone Overcoat, Made to Your Length
@@ -83,7 +83,7 @@ Dry clean.
 
 - Men › Coats & Overcoats
 
-**Related terms:** light gray overcoat, herringbone winter coat, gray tweed style topcoat, business overcoat custom, textured wool long coat
+**Related terms:** light gray overcoat, herringbone winter coat, gray tweed style topcoat, business overcoat custom, textured wool long coat, custom made overcoat
 
 ## Related
 

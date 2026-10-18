@@ -3,7 +3,7 @@ type: Guide
 title: "Women’s Skirt Measuring Guide"
 description: "Step-by-step guide on how to measure for a woman's skirt. Learn to measure waist, hips, & skirt length with clear images & easy instructions."
 resource: https://baronboutique.com/womens-skirt-measuring-guide/
-tags: [women, measuring-guide, body-measurements, how-to-measure, dress-measurements, made-to-measure, guide]
+tags: [women, skirt, measuring-guide, body-measurements, how-to-measure, made-to-measure, guide]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womens-skirt-measuring-guide/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T13:04:15Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Women’s Skirt Measuring Guide
@@ -172,7 +172,7 @@ That is exactly why we send a free test garment. Give us your best measurements,
 
 **Measurements taken?** Browse [women’s skirtss](/womenswear/skirts-for-women/), or [message us](/contact-baron/) with your numbers and any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
-**Related terms:** how to measure for a dress, women's measurement guide, bust waist hip measurements, measure yourself for tailoring
+**Related terms:** how to measure for a skirt, women's skirt measurement guide, skirt measuring instructions
 
 ## Related
 

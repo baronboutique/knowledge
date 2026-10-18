@@ -3,7 +3,7 @@ type: Product
 title: "Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit"
 description: "Burgundy three-piece suit in Melton wool with a contrasting gold waistcoat, recreated from the 2019 cinematic villain's staircase scene."
 resource: https://baronboutique.com/2019-staircase-villain-burgundy-suit/
-tags: [men, three-piece-suit, waistcoat, melton-wool, burgundy, joker, arthur-fleck, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
+tags: [men, three-piece-suit, waistcoat, melton-wool, burgundy, gold, peak-lapel, single-breasted, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/2019-staircase-villain-burgundy-suit/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-11T09:46:43Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit
@@ -248,7 +248,7 @@ Excellent service and product. I am very happy with the service I got here. The 
 - Men › Wedding Suits › Destination Wedding Suits
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Joker 2019 costume, Joaquin Phoenix Joker suit, red Joker suit, staircase scene suit, villain suit
+**Related terms:** Joker 2019 costume, Joaquin Phoenix Joker suit, red Joker suit, staircase scene suit, villain suit, 2019 staircase suit replica, burgundy three-piece villain suit
 
 ## Related
 

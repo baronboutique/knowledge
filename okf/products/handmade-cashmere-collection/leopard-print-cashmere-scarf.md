@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Hand-Finished Leopard Print Cashmere Scarf
@@ -68,7 +68,7 @@ Inspired by twilight prowls across golden grasslands, this leopard print twill s
 - Handcrafted Cashmere › Patterned Cashmere Scarves
 - Women › Accessories
 
-**Related terms:** cheetah print shawl, animal print pashmina, leopard stole, statement print muffler
+**Related terms:** cheetah print shawl, animal print pashmina, leopard stole, statement print muffler, cashmere leopard print scarf
 
 ## Related
 

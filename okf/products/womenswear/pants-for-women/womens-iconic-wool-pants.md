@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Slim Tailored Bootcut Trousers in Super 140s Wool
@@ -91,7 +91,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -108,7 +108,7 @@ A bootcut is slim from the hip to the knee, then opens slightly so the hem is a 
 
 Want the opening a little wider or narrower than ours? Write it in the comment box, and you will see the result on the test pair.
 
-Comparing shapes? Our [tailored flare trousers](https:///womens-work-pants-in-sharkskin/) open wider from the knee, and our [formal pants for women](https:///womens-menswear-inspired-pants/) fall straight from hip to hem.
+Comparing shapes? Our [tailored flare trousers](https://baronboutique.com/womens-work-pants-in-sharkskin/) open wider from the knee, and our [formal pants for women](https://baronboutique.com/womens-menswear-inspired-pants/) fall straight from hip to hem.
 
 ---
 
@@ -280,7 +280,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** tailored bootcut trousers women, slim bootcut trousers, bootcut wool trousers, bootcut vs flare trousers, how long should bootcut pants be, bootcut trousers with heels
+**Related terms:** signature wool trousers, timeless dress pants, staple work trousers
 
 ## Related
 

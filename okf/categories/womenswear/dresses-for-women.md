@@ -3,7 +3,7 @@ type: Product Category
 title: "Dresses"
 description: "Made-to-order dresses in wool flannel, crepe silk, and other cloths, cut to the wearer's measurements for work, evening, and occasion."
 resource: https://baronboutique.com/womenswear/dresses-for-women/
-tags: [women, dresses, sheath-dress, shift-dress, wrap-dress, maxi-dress, work-dress, wool-dress, silk-dress, custom-dress, bespoke, made-to-order]
+tags: [women, dresses, sheath-dress, shift-dress, wrap-dress, maxi-dress, work-dress, wool-dress, silk-dress, custom-dress, made-to-measure, bespoke]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womenswear/dresses-for-women/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Dresses
@@ -86,7 +86,7 @@ Every adjustment is applied, then your dress is cut and hand-tailored in your ch
 - [V-Neck Women's Sheath Dress](../../products/womenswear/dresses-for-women/wool-flannel-sheath-dress.md)
 - [White Piped Trim Sheath Dress A-Line V-Neck](../../products/womenswear/dresses-for-women/womens-piped-sheath-dress.md)
 
-**Related terms:** custom made dresses, tailored work dresses, made-to-order dress, silk dresses online, office dresses
+**Related terms:** custom made dresses, tailored work dresses, made to measure dress, silk dresses online, office dresses
 
 ## Related
 

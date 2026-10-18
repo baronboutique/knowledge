@@ -58,14 +58,14 @@ Every adjustment is applied, then your coat is cut and hand-tailored in your cho
 
 ## Products
 
-- [Double Breasted Wool Coat Womens Mid Length](womens-double-breasted-wool-cashmere-coat.md)
-- [Navy Wool Cashmere Coat Womens Tailored Single Breasted](womens-classic-navy-topcoat.md)
-- [The Cobalt Blue Statement Coat](womens-cobalt-blue-wool-coat.md)
+- [Women's Cobalt Blue Wool Coat](womens-cobalt-blue-wool-coat.md)
+- [Women's Double-Breasted Wool Cashmere Coat, Low Button](womens-double-breasted-wool-cashmere-coat.md)
+- [Women's Fitted Wool Coat in Flannel, Double Darts](womens-long-winter-coat.md)
 - [Women's Frock Coat, Victorian Winter Cut in Burgundy Wool](womens-victorian-winter-frock-coat.md)
-- [Womens Dress Coats Winter](womens-wool-dress-coat.md)
-- [Womens Long Dress Coat Oversized](womens-dropped-shoulders-coat.md)
-- [Womens Peacoat Wool Double Breasted](12th-quantum-coat-for-women.md)
-- [Womens Tailored Fitted Coat](womens-long-winter-coat.md)
+- [Women's Navy Wool Cashmere Coat, Tailored Single-Breasted](womens-classic-navy-topcoat.md)
+- [Women's Oversized Wool Cashmere Coat, Drop Shoulder](womens-dropped-shoulders-coat.md)
+- [Women's Winter Dress Coat in Melton Wool](womens-wool-dress-coat.md)
+- [Women's Wool Pea Coat, Double-Breasted](womens-pea-coat.md)
 
 ## Related
 

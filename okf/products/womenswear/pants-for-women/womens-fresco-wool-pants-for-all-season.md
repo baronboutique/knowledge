@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Tapered Dress Pants in Fresco Wool, Ankle Length
@@ -90,7 +90,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -112,7 +112,7 @@ Holds the line
 
 The crisp hand keeps the taper clean from knee to ankle instead of folding into the soft wrinkles a lighter cloth would show.
 
-Choosing a cloth for hot weather? Our [straight leg linen trousers](https:///womens-warm-weather-linen-pants/) are the most breathable choice, and our [women’s dress pants with back pockets](https:///womens-warm-weather-wool-pants/) come in a mohair wool blend that is cool and slow to crease, with two real back pockets.
+Choosing a cloth for hot weather? Our [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/) are the most breathable choice, and our [women’s dress pants with back pockets](https://baronboutique.com/womens-warm-weather-wool-pants/) come in a mohair wool blend that is cool and slow to crease, with two real back pockets.
 
 ---
 
@@ -250,7 +250,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** tapered dress pants women, fresco wool trousers, mid rise dress pants women, ankle length work trousers, travel work pants
+**Related terms:** fresco trousers, crease resistant pants, travel work pants
 
 ## Related
 

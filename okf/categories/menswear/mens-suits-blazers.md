@@ -3,7 +3,7 @@ type: Product Category
 title: "Suits & Blazers"
 description: "Made-to-order suits and blazers cut from an individual pattern in wool, silk, mohair, and linen, from two-piece business suits to unstructured blazers."
 resource: https://baronboutique.com/menswear/mens-suits-blazers/
-tags: [men, suits, blazers, two-piece-suit, three-piece-suit, sport-coat, business-suit, wedding-suit, custom-suit, bespoke, made-to-order]
+tags: [men, suits, blazers, two-piece-suit, three-piece-suit, sport-coat, business-suit, wedding-suit, custom-suit, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/mens-suits-blazers/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
 ---
 
 # Suits & Blazers
@@ -96,9 +96,9 @@ Your finished suit ships from Dubai by trackable courier, Your test suit takes 3
 - [2 Button Silk and Wool Suit](../../products/menswear/mens-silk-suits-shirts-ties-scarves/2button-silk-and-wool-suit.md)
 - [2 Button Solid Navy Wool Suit](../../products/menswear/mens-suits-blazers/2-button-solid-navy-wool-suit.md)
 - [6 Button Double Breasted Suit, Custom Made in Super 120s Wool](../../products/menswear/mens-suits-blazers/mens-double-breasted-suit.md)
-- [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
+- [Black Mohair Tuxedo, Made to Your Measurements](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
 - [Black Velvet Shawl Collar Tuxedo Jacket](../../products/menswear/dinner-jackets/slim-fit-black-velvet-jacket.md)
-- [Blue Linen Suit for Men, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
+- [Blue Linen Suit for Men, Made to Your Measurements](../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
 - [Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels](../../products/menswear/dinner-jackets/slim-fit-burgundy-velvet-jacket.md)
 - [Cary Grant North By Northwest Inspired Suit](../../products/screen-inspired/cinema-classics/cary-grants-north-by-northwest-suit.md)
 - [Cotton Linen Blazer Mens Patch Pocket Jacket](../../products/menswear/grooms-linen-suits-for-wedding/linen-blazer-with-patch-pocket-details.md)
@@ -145,7 +145,7 @@ Your finished suit ships from Dubai by trackable courier, Your test suit takes 3
 - [Vintage Sharkskin Suit](../../products/menswear/mens-suits-blazers/versatile-all-purpose-suit-in-vintage-sharkskin.md)
 - [White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors](../../products/menswear/grooms-linen-suits-for-wedding/white-linen-suit-with-vest.md)
 
-**Related terms:** custom suits for men, made-to-order suit online, tailor made blazer, men's suit shop online, bespoke business suits
+**Related terms:** custom suits for men, made to measure suit online, tailor made blazer, men's suit shop online, bespoke business suits, silk suits for men, tropical wool suit
 
 ## Related
 

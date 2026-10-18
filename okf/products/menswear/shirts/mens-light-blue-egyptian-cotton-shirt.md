@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Egyptian Cotton Dress Shirts
@@ -209,7 +209,7 @@ Your test shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispat
 
 - Men › Shirts
 
-**Related terms:** Giza cotton shirt, high thread count shirt, light blue office shirt, custom fitted formal shirt, breathable fine cotton shirt
+**Related terms:** Giza cotton shirt, high thread count shirt, light blue office shirt, custom fitted formal shirt, breathable fine cotton shirt, Egyptian cotton dress shirt, Egyptian cotton shirts for men, 220 thread Egyptian cotton shirt, egyptian cotton shirt
 
 ## Related
 

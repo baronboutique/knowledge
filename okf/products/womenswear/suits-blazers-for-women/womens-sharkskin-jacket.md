@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T16:04:53Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Custom Blazer in Sharkskin Wool
@@ -242,7 +242,7 @@ Your test blazer takes 3 to 4 weeks to make and arrives 5 to 10 days after dispa
 
 - Women › Suits & Blazers
 
-**Related terms:** sharkskin blazer for women, iridescent gray jacket, two tone weave blazer, ladies tailored suit jacket, shimmering office blazer
+**Related terms:** sharkskin blazer for women, iridescent gray jacket, two tone weave blazer, ladies tailored suit jacket, shimmering office blazer, leather-trimmed sharkskin blazer
 
 ## Related
 

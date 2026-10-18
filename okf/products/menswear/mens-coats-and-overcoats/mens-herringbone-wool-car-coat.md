@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Herringbone Car Coat in Tweed Wool
@@ -114,7 +114,7 @@ Dry-clean only. With proper maintenance, a hand-tailored herringbone tweed overc
 
 - Men › Coats & Overcoats
 
-**Related terms:** herringbone overcoat, tweed driving coat, three quarter length coat, short wool overcoat for men, custom gentleman's coat
+**Related terms:** herringbone overcoat, tweed driving coat, three quarter length coat, short wool overcoat for men, custom gentleman's coat, wool car coat mens, tweed car coat
 
 ## Related
 

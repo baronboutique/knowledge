@@ -3,7 +3,7 @@ type: Service
 title: "Our Services"
 description: "Baron Boutique operates as a made-to-order tailoring house. Every garment is cut after it is ordered, to one person's measurements, in the fabric they chose, and no ready-made stock is held. Bespoke tailoring includes a hand-cut pattern and a fitting prototype. Garments made to your measurements use a pattern built from scratch with a free test fit and post-delivery alteration support at no extra cost. Cut, make and trim covers client-supplied designs, patterns or fabric. Prototype development has no minimum. Small-batch production starts at 5 pieces per style. Alterations are accepted on garments bought anywhere, with the client covering shipping in both directions. Everything is made in the company's own atelier in Kathmandu and shipped worldwide through FedEx, DHL or UPS with tracking. Timelines are quoted per project rather than published, because they depend on complexity, material availability and how quickly measurements are returned."
 resource: https://baronboutique.com/our-services/
-tags: [our-services, bespoke-tailoring, cmt, prototype-development, small-batch-production, alterations, guide]
+tags: [our-services, bespoke-tailoring, made-to-measure, cmt, prototype-development, small-batch-production, alterations, guide]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/our-services/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-21T09:22:25Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 Baron Boutique operates as a made-to-order tailoring house. Every garment is cut after it is ordered, to one person's measurements, in the fabric they chose, and no ready-made stock is held. Bespoke tailoring includes a hand-cut pattern and a fitting prototype. Garments made to your measurements use a pattern built from scratch with a free test fit and post-delivery alteration support at no extra cost. Cut, make and trim covers client-supplied designs, patterns or fabric. Prototype development has no minimum. Small-batch production starts at 5 pieces per style. Alterations are accepted on garments bought anywhere, with the client covering shipping in both directions. Everything is made in the company's own atelier in Kathmandu and shipped worldwide through FedEx, DHL or UPS with tracking. Timelines are quoted per project rather than published, because they depend on complexity, material availability and how quickly measurements are returned.
@@ -254,7 +254,7 @@ Yes. We have photographs of garments made for clients worldwide through our onli
 
 In our own atelier in Kathmandu, by our own tailors. Nothing is subcontracted, so if a quality problem appears it is ours to fix and there is no third party for either of us to chase.
 
-**Related terms:** tailoring services list, custom clothing services, what is CMT manufacturing, bespoke vs made-to-order
+**Related terms:** tailoring services list, custom clothing services, what is CMT manufacturing, bespoke vs made to measure
 
 ## Related
 

@@ -70,7 +70,7 @@ Your finished tuxedo ships from Dubai by trackable courier, Your test suit takes
 
 ## Products
 
-- [Black Mohair Tuxedo, Made to Measure](essential-black-mohair-wool-tuxedo-2-button.md)
+- [Black Mohair Tuxedo, Made to Your Measurements](essential-black-mohair-wool-tuxedo-2-button.md)
 - [Custom Dinner Jacket](stylish-dinner-jacket.md)
 - [Men's Navy Herringbone Tuxedo with Black Satin Peak Lapels](mens-navy-herringbone-wool-tuxedo.md)
 - [Mens Burgundy Flannel Tuxedo](light-weight-all-season-wool-flannel-tuxedo-suit.md)

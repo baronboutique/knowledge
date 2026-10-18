@@ -3,7 +3,7 @@ type: Guide
 title: "How It Works — Ordering Process"
 description: "Step-by-step guide to placing a bespoke order at Baron Boutique, from product selection through test garment fitting to final delivery."
 resource: https://baronboutique.com/how-it-works/
-tags: [how-it-works, ordering-process, test-garment, toile, measurements, bespoke-process, made-to-order, guide]
+tags: [how-it-works, ordering-process, test-garment, toile, measurements, bespoke-process, made-to-order, made-to-measure, guide]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/how-it-works/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T09:28:03Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # How It Works — Ordering Process
@@ -124,7 +124,7 @@ Rush service is available upon request at no additional cost, subject to product
 **Q:** Who actually makes my garment, and where?  
 **A:** Human tailors in our own workroom in Kathmandu, Nepal, where the house has been operating since 2000, with operations extending to Dubai. Nothing is subcontracted to a factory and nothing is cut before you order it. That is also why the lead times on this page are what they are.
 
-**Related terms:** how does made-to-order work, custom tailoring process online, free test garment, how to order a bespoke suit online, online tailor process
+**Related terms:** how does made to measure work, custom tailoring process online, free test garment, how to order a bespoke suit online, online tailor process
 
 ## Related
 

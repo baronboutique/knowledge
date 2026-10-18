@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Velvet Skinny Trousers in Stretch Velvet
@@ -87,7 +87,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold inside out on a gentle cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -184,7 +184,7 @@ How to Wear
 
 Velvet is the statement. Pair it with smooth, matte fabrics like silk, fine knits and cotton, and keep other textures and patterns quiet.
 
-Want the same tailored fit for daytime? Our [formal pants for women](https:///womens-menswear-inspired-pants/) are cut in wool and cashmere with a straight leg.
+Want the same tailored fit for daytime? Our [formal pants for women](https://baronboutique.com/womens-menswear-inspired-pants/) are cut in wool and cashmere with a straight leg.
 
 ---
 
@@ -285,7 +285,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** red velvet pants women, red velvet skinny pants, skinny velvet pants, velvet trousers that don't bag at the knee, how to remove crush marks from velvet, velvet jeans alternative, velvet trousers for work
+**Related terms:** velvet trousers for women, party pants, holiday velvet pants, velvet solace pants
 
 ## Related
 

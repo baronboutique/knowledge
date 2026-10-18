@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:22:19Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
 ---
 
 # Bright Pink Handwoven Cashmere Scarf Shawl
@@ -103,12 +103,12 @@ Which Pink
 
 ## Bright, Salmon or Pastel: Which Pink Cashmere Scarf?
 
-| Salmon Pink | A warm pink with orange in it, close to coral and peach. Soft with cream, beige and camel. See the **[Salmon Pink cashmere scarf](https:///handwoven-salmon-pink-cashmere-scarf-shawl/)**. |
+| Salmon Pink | A warm pink with orange in it, close to coral and peach. Soft with cream, beige and camel. See the **[Salmon Pink cashmere scarf](https://baronboutique.com/handwoven-salmon-pink-cashmere-scarf-shawl/)**. |
 | --- | --- |
 | Bright Pink (this scarf) | A hot pink, close to fuchsia. A statement color over black, white or cream. |
-| Pastel Pink | A soft orchid pink with a lilac cast. Gentle and elegant, good for spring and evenings. See the **[Pastel Pink cashmere scarf](https:///pastel-pink-handwoven-cashmere-scarf-shawl/)**. |
+| Pastel Pink | A soft orchid pink with a lilac cast. Gentle and elegant, good for spring and evenings. See the **[Pastel Pink cashmere scarf](https://baronboutique.com/pastel-pink-handwoven-cashmere-scarf-shawl/)**. |
 
-Wearing a pink dress and looking for a shawl to match? Our **[Emerald Green cashmere shawl](https:///emerald-green-handwoven-cashmere-scarf-shawl/)** page explains which colors work over pink. Our **[Featherlight Cashmere Scarf](https:///womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https:///handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+Wearing a pink dress and looking for a shawl to match? Our **[Emerald Green cashmere shawl](https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/)** page explains which colors work over pink. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 
@@ -124,7 +124,7 @@ Warmth in cashmere comes from fineness, not weight. Very fine fibers trap still 
 | 200/2 yarn | Two very fine threads twisted together give strength while keeping the scarf soft enough to knot without bulk. |
 | About 70 g | Folds small enough for a handbag when you do not need it. |
 
-When you compare a pink scarf, cashmere or blend, check the label for 100% cashmere: many bright scarves are acrylic or viscose blends dyed to the same color. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
+When you compare a pink scarf, cashmere or blend, check the label for 100% cashmere: many bright scarves are acrylic or viscose blends dyed to the same color. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
 
 ---
 

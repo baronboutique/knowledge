@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # 12th Doctor Blue Coat with Red Lining
@@ -90,7 +90,7 @@ I recently came into possession of some lovely Screen accurate Fabrics for a 12t
 - Men › Coats & Overcoats
 - Screen Inspired › Doctor Collection
 
-**Related terms:** Capaldi blue coat with red lining, 12th Doctor crombie coat, Doctor Who wool coat
+**Related terms:** Capaldi blue coat with red lining, 12th Doctor crombie coat, Doctor Who wool coat, twelfth doctor coat
 
 ## Related
 

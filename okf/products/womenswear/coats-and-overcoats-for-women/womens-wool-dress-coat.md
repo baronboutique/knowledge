@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Womens Dress Coats Winter"
-description: "Womens dress coats winter tops the list when talking about timeless and classic wool coats. Our womens dress coats for winter is elegantly tailored and polished to go with any outfit."
+title: "Women's Winter Dress Coat in Melton Wool"
+description: "A women's winter dress coat that frames the dress instead of swallowing it: knee length, in dense 450 to 500 gsm Melton wool, with a shirt collar, a belted back and a kick pleat that lets the skirt mo…"
 resource: https://baronboutique.com/womens-wool-dress-coat/
 tags: [women, coat, overcoat, wool, winter-coat, formalwear, bespoke, made-to-order]
 sources:
@@ -9,22 +9,23 @@ sources:
     resource: https://baronboutique.com/womens-wool-dress-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: human:baron-boutique, at: 2026-10-14T10:09:18Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
-# Womens Dress Coats Winter
+# Women's Winter Dress Coat in Melton Wool
 
 **SKU:** 3400006  
 **URL:** https://baronboutique.com/womens-wool-dress-coat/  
 **Type:** bespoke (made to order)  
-**Price:** USD 529.00 (verify current price on product page)  
+**Price:** USD 599.00 (verify current price on product page)  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
@@ -35,63 +36,165 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Womens dress coats winter tops the list when talking about timeless and classic wool coats. Our womens dress coats for winter is elegantly tailored and polished to go with any outfit. The Melton wool dress coat keeps you warm and stylish in winter. These single-breasted womens dress coats fall at mid-thigh making it the perfect choice to pair with jeans and boots, or with a long pencil skirt. Slip it on over your dress for a classy evening look.
+A women's winter dress coat that frames the dress instead of swallowing it: knee length, in dense 450 to 500 gsm Melton wool, with a shirt collar, a belted back and a kick pleat that lets the skirt move. Cut to your measurements with a canvas front, and checked first in a free test coat over your own dresses. 100% Melton wool, gold yellow as photographed Shirt collar, four-button front, on-seam pockets Belted back and center kick pleat Knee length, or any length you ask for Free test coat in cotton, yours to keep
 
-## The Winter Coat, Perfected & Personalized
+The Coat
 
-This is the last winter dress coat you will ever need. It is a timeless staple, reimagined with a flawless, custom fit tailored exclusively for you. We combine classic, elegant design with the warmth of substantial Melton wool to create a coat that is not just a layer, but the centerpiece of your winter wardrobe.
+## A Women’s Winter Dress Coat That Frames the Dress Instead of Hiding It
 
-### The Luxury of Substantial Wool
+You chose the dress carefully. Then winter arrives and a shapeless coat swallows it whole, bunches over the hips and stops two inches above the hem. This women’s dress coat is cut to do the opposite: to frame the dress instead of hiding it. It is a knee-length winter dress coat in dense Melton wool, with a shirt collar, a belted back that draws in the waist and a kick pleat that lets the skirt underneath move.
 
-The beauty of this coat begins with its exceptional material. It is engineered for warmth, structure, and a lifetime of wear.
+Every one is cut to your measurements with a canvas front, and checked first in a free test coat over the dress you plan to wear with it.
 
-- **100% Melton Wool:** Crafted from a dense Melton wool, it offers superior warmth and a beautiful, structured drape that resists wind and cold.
-- **Fully Lined Interior:** A smooth acetate lining allows the coat to glide effortlessly over your clothing, ensuring comfort and easy layering.
-- **A Palette of 13 Colors:** Choose from a curated selection of elegant colors—from timeless neutrals like camel and charcoal to rich jewel tones like burgundy and teal.
+Melton wool dress coat  
+ 450 to 500 gsm  
+ Belted back  
+ Knee length  
+ Free test coat
 
-### A Masterpiece of Bespoke Tailoring
+**Price:** $599 **Cloth:** 100% Melton wool, about 450 to 500 gsm **Lining:** satin, chosen in the selector **Length:** knee length **Test coat:** free, yours to keep **Care:** dry clean
 
-This coat is defined by the high-end details typically reserved for bespoke tailoring, ensuring a look of unparalleled quality.
+---
 
-- **Hand-Basted Full Canvas Front:** The hallmark of superior construction, a full canvas front provides warmth and structure, allowing the coat to mold perfectly to your body over time.
-- **Hand-Carved Horn Buttons:** Each button is a unique piece of natural horn, hand-stitched for durability and adding a touch of classic, luxurious detail.
-- **Elegant Belted Back:** A beautifully integrated belt detail at the back allows you to cinch the waist, creating a flattering, bespoke silhouette.
-- **Functional Details:** Features a classic shirt-style collar, discreet on-seam hip pockets, two internal pockets, and a deep center kick vent for unrestricted movement.
+Free Test Coat
 
-### Your Perfect Fit, Guaranteed: The Free Test Coat
+## Fitted Over the Dress You Will Actually Wear
 
-A coat this beautiful must fit perfectly. We eliminate the risk and anxiety of ordering online by sending you a **free test coat** first.
+A dress coat has to fit over a dress, not over a T-shirt in a fitting room. Wear your fullest skirt and your slimmest dress when the cotton test coat arrives, and check where the hem falls against each.
 
-1. **Receive Your Test Garment:** We mail you a test coat made in cotton to your exact initial measurements and style choices.
-2. **Confirm Your Fit:** Try it on at home. You can then request any adjustments to the fit, size, or styling details.
-3. **We Craft Your Final Masterpiece:** We apply your feedback to tailor the final Melton wool coat for a perfect, personalized fit.
+1
 
-The test coat is yours to keep.
+**Choose your cloth and lining, then enter your measurements**  
+ Pick your cloth color and satin lining in the selector, then enter your measurements on the product page, with the length you want. Any style change goes in the comment box on the measurement form.
 
-#### Caring For Your Wool
+2
 
-To maintain its beauty and structure, we recommend dry-cleaning only.
+**We make your free test coat**  
+ A test coat in cotton, cut to your measurements, takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch by trackable courier.
 
-#### Women’s Dress Coats For Winter Features
+3
 
-- hand-tailored from 100% Melton wool fabric
-- hand basted full canvas front coat
-- single-breasted style
-- 4 button front fastening with shirt style collar
-- hand stitched minimal shoulder pads
-- belted back dress coat for a bespoke look
-- on-seam hip pockets
-- hand made buttonholes
-- dress coat interior lined in acetate
-- hand stitched armholes
-- two internal pockets
-- center back kick pleat
-- straight coat front hem
-- plain sleeves cuff
-- hand made black horn buttons
-- stitched and reinforced coat buttons by hand
-- ample coat seam allowances for future alteration
-- knee length
+**You try it on at home**  
+ Check the shoulders, the sleeve length, the button point and the length over the clothes you will wear underneath, and tell us any change, however small.
+
+4
+
+**We make the final coat**  
+ We apply every change, then make the final coat in Melton wool in 3 to 4 weeks; it arrives 5 to 10 days after dispatch. The test coat is yours to keep.
+
+---
+
+Over a Dress
+
+## Why Most Winter Coats Hide the Dress
+
+Plenty of coats sold as women’s winter dress coats are cut straight and loose to fit any body, so they stand away from the waist and make every dress underneath look the same. A good dress coat for women does three things differently:
+
+| It follows the waist | The belted back draws the coat in at the waist, so the line of the dress continues under the coat. |
+| --- | --- |
+| It lies flat at the hips | The pockets sit in the side seams, not on top of them, so nothing bulges over the hips. |
+| It covers the hem | Knee length covers a knee-length dress. For a long winter coat dress look, enter a longer length on the measurement form. |
+
+That is the difference between ladies dress coats and ordinary coats. If you searched for long dress coats for ladies, any length can be cut; for a midi dress, ask for a coat that ends just below its hem.
+
+---
+
+The Back
+
+## The Back of the Coat Is Where It Earns Its Name
+
+Look at the back of the coat: a half belt across the waist and, below it, a deep inverted kick pleat. The belt shapes; the pleat opens when you walk, climb stairs or sit, so the coat never pulls tight over the skirt. The side view shows how the hem falls straight from the hip.
+
+---
+
+The Melton
+
+## Melton: A Wool Coat Dress Weight That Stops Wind
+
+Melton is a dense wool cloth that is milled after weaving, so the surface closes up, feels smooth and stops the wind instead of letting it through the gaps between the threads. Ours weighs about 450 to 500 gsm, a true winter coat weight.
+
+That makes it one of those cozy winter Melton coats that are still slim: warm because the cloth is dense, not because it is thick, so a wool dress coat in Melton does not add bulk over a dress. The coat in the photos is our gold yellow Melton, which reads as an orange wool coat for women in some light; clients who want something quieter usually choose camel, charcoal, navy or black.
+
+For a different winter dress coat shape, see our **[cobalt blue wool coat](https://baronboutique.com/womens-cobalt-blue-wool-coat/)** with a reverse lapel, or the double-breasted **[women’s peacoat](https://baronboutique.com/womens-pea-coat/)**.
+
+---
+
+Full Spec
+
+## Women’s Winter Dress Coat, Specification
+
+| Cloth | 100% Melton wool, about 450 to 500 gsm |
+| --- | --- |
+| Lining | Satin, chosen in the selector |
+| Front | Single-breasted, four buttons, shirt-style collar |
+| Construction | Canvas front, minimal shoulder pads, hand-stitched armholes, hand-finished buttonholes |
+| Pockets | On-seam hip pockets, two interior pockets |
+| Back | Belted back, center kick pleat |
+| Cuffs | Plain sleeve cuffs |
+| Buttons | Black horn, hand-stitched and reinforced |
+| Length | Knee length; any length on request |
+| Test coat | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean only |
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Women’s Winter Dress Coat
+
+### What is a dress coat?
+
+A dress coat is a tailored coat cut to be worn over a dress or suit: shaped at the waist, smooth at the hips and long enough to cover the hem. This one is knee length with a belted back.
+
+### Will it fit over a full skirt?
+
+Yes, the kick pleat at the back opens over a fuller skirt. Wear your fullest skirt to check it in the test coat.
+
+### How warm is a Melton dress coat?
+
+Very warm for its weight, because Melton is milled until the surface closes and stops wind. Ours is about 450 to 500 gsm, a true winter weight.
+
+### What colors does it come in?
+
+Melton colors include camel, charcoal, navy, black, burgundy red, teal and the gold yellow in the photos. The selector shows every cloth and satin lining on offer.
+
+### Can I have it longer?
+
+Yes, enter a longer length on the measurement form, for example just below a midi dress.
+
+### Where are the pockets?
+
+They sit in the side seams, so they do not bulge over the hips, and there are two interior pockets.
+
+### How does the free test coat work?
+
+We make the coat in cotton to your measurements, you try it at home over your dresses and tell us any change, and then we cut the Melton. The test coat is yours to keep.
+
+### How long does it take?
+
+The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+
+### Can I change details, such as the length?
+
+Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+
+### How do I care for it?
+
+Dry clean only, and not often. Brush the Melton after wearing and hang it on a shaped hanger.
 
 ## Categories
 

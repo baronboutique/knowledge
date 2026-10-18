@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Handcrafted Cashmere
@@ -124,7 +124,7 @@ Your cashmere ships from our workshop by trackable courier, gift-ready. Every pi
 - [The Sunflower-Embroidered Baby Blue Cashmere Wrap](../products/handmade-cashmere-collection/baby-blue-sunflower-embroidered-cashmere-shawl.md)
 - [Willow Green Handwoven Cashmere Scarf Shawl](../products/handmade-cashmere-collection/willow-green-handwoven-cashmere-scarf-shawl.md)
 
-**Related terms:** handmade cashmere scarves, pashmina shawls, Grade A cashmere, Himalayan cashmere accessories, cashmere gift for her
+**Related terms:** handmade cashmere scarves, pashmina shawls, Grade A cashmere, Himalayan cashmere accessories, cashmere gift for her, handmade cashmere shawls, beautiful cashmere scarf
 
 ## Related
 

@@ -3,7 +3,7 @@ type: Product Category
 title: "Wedding Suits"
 description: "Made-to-order wedding suits and tuxedos drafted for a woman's figure, for brides, guests, and mothers of the bride and groom."
 resource: https://baronboutique.com/womenswear/wedding-suits-for-women/
-tags: [women, wedding-suit, bridal-suit, bride-pantsuit, destination-wedding, custom-suit, bespoke, made-to-order]
+tags: [women, wedding-suit, bridal-suit, bride-pantsuit, destination-wedding, custom-suit, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womenswear/wedding-suits-for-women/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Wedding Suits
@@ -86,7 +86,7 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 - [The Wool & Silk Blend Suit](../../products/womenswear/wedding-suits-for-women/boutique-tailored-silk-and-wool-suit.md)
 - [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](../../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 
-**Related terms:** bridal pant suit, women's wedding suits, modern bride suit, courthouse wedding outfit, tailored bridal separates
+**Related terms:** bridal pant suit, women's wedding suits, modern bride suit, courthouse wedding outfit, tailored bridal separates, womens bridal suits, women's evening suits for weddings
 
 ## Related
 

@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Black Dress With Leather Trim Sleeveless Zipper Back
@@ -91,7 +91,7 @@ Due to the combination of fine wool and genuine leather, we recommend profession
 
 - Women › Dresses
 
-**Related terms:** little black dress tailored, custom black dress, timeless black dress, office to evening dress
+**Related terms:** little black dress tailored, custom black dress, timeless black dress, office to evening dress, black dress with leather trim
 
 ## Related
 

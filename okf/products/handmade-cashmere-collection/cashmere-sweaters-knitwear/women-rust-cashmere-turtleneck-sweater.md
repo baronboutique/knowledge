@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Rust Cashmere Turtleneck Sweater
@@ -107,7 +107,7 @@ Layer this rust turtleneck sweater women’s styles under tailored blazers for p
 - Handcrafted Cashmere › Cashmere Sweaters & Knitwear
 - Women › Sweaters
 
-**Related terms:** burnt orange roll neck jumper, terracotta polo neck sweater, Nepal knit turtleneck, autumn cashmere jumper
+**Related terms:** burnt orange roll neck jumper, terracotta polo neck sweater, Nepal knit turtleneck, autumn cashmere jumper, rust colored turtleneck, womens rust sweater, rust sweater, rust colored sweater
 
 ## Related
 

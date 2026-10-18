@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Cyberpunk Trench Coats
@@ -92,7 +92,7 @@ Your completed coat ships by trackable courier. Your test coat takes 3 to 4 week
 - [The Matrix 4 Resurrections Keanu Reeves Neo Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-4-resurrections-neo-coat.md)
 - [White Long Coat Matrix Reloaded Neo Style Coat](../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat-in-white.md)
 
-**Related terms:** Matrix trench coat, Neo coat replica, cyberpunk long coat, black duster coat, sci-fi trench coats
+**Related terms:** Matrix trench coat, Neo coat replica, cyberpunk long coat, black duster coat, sci-fi trench coats, matrix coat, neo trench coat, neo matrix outfit, matrix jacket, neo matrix coat, matrix robe, matrix style trench coat
 
 ## Related
 

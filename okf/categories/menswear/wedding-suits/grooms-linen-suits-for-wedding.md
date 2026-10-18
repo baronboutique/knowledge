@@ -3,7 +3,7 @@ type: Product Category
 title: "Linen Wedding Suits"
 description: "Made-to-order linen wedding suits for grooms in 100% linen across 18 colors, as two-piece, three-piece, or frock coat, for beach and summer ceremonies."
 resource: https://baronboutique.com/menswear/wedding-suits/grooms-linen-suits-for-wedding/
-tags: [linen, wedding-suit, groom, groomsmen, beach-wedding, summer-wedding, three-piece, frock-coat, bespoke, made-to-order]
+tags: [men, wedding-suit, linen-suit, groom-suit, linen, summer-wedding, two-piece-suit, three-piece-suit, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/wedding-suits/grooms-linen-suits-for-wedding/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
 ---
 
 # Linen Wedding Suits
@@ -95,7 +95,7 @@ Every adjustment is applied, then your suit is cut in your chosen linen and colo
 
 ## Products
 
-- [Blue Linen Suit for Men, Made to Measure](../../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
+- [Blue Linen Suit for Men, Made to Your Measurements](../../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
 - [Cotton Linen Blazer Mens Patch Pocket Jacket](../../../products/menswear/grooms-linen-suits-for-wedding/linen-blazer-with-patch-pocket-details.md)
 - [James Bond Linen Suit The World Is Not Enough](../../../products/screen-inspired/spy-tailoring/james-bond-linen-suit-from-the-world-is-not-enough.md)
 - [Linen Wedding Suit for Grooms, Custom Made](../../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
@@ -104,7 +104,7 @@ Every adjustment is applied, then your suit is cut in your chosen linen and colo
 - [The Linen Ceremonial Suit](../../../products/menswear/grooms-linen-suits-for-wedding/wedding-party-linen-suit.md)
 - [White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors](../../../products/menswear/grooms-linen-suits-for-wedding/white-linen-suit-with-vest.md)
 
-**Related terms:** linen wedding suit, grooms linen suit, beach wedding suit, summer groom suit
+**Related terms:** linen wedding suit for groom, beach wedding suit, summer groom linen suit, linen frock coat wedding, mens linen suits for weddings, mens linen suit wedding, linen suit wedding
 
 ## Related
 

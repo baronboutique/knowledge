@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-12
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:20:50Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Aquamarine Blue Handwoven Cashmere Scarf Shawl
@@ -85,7 +85,7 @@ Weddings & Gifts
 
 A light blue shawl for a wedding is one of the easiest ways to wear “something blue” on the day, and it keeps bare shoulders warm once the evening cools. Brides wear it over the dress for photos outdoors, bridesmaids can wear matching shawls, and guests wear it over a dress in white, cream, silver or navy.
 
-As a gift it needs no sizing, and aquamarine is the March birthstone, which makes this shade a natural choice for a March birthday. For a matched pair, Aquamarine sits well beside our **[Indigo Blue cashmere shawl](https:///indigo-blue-handwoven-cashmere-scarf-shawl/)**, one light blue and one deep blue.
+As a gift it needs no sizing, and aquamarine is the March birthstone, which makes this shade a natural choice for a March birthday. For a matched pair, Aquamarine sits well beside our **[Indigo Blue cashmere shawl](https://baronboutique.com/indigo-blue-handwoven-cashmere-scarf-shawl/)**, one light blue and one deep blue.
 
 Have a wedding date? Tell us before you order through the “Ask a question about this piece” form below the Add to Cart button. Rush service is available on request at no extra cost, subject to workshop capacity, but we cannot promise a delivery date.
 
@@ -225,9 +225,9 @@ Other Colors
 
 ## Other Blues and Colors in Handwoven Cashmere
 
-If you want a deeper blue, see our **[Indigo Blue](https:///indigo-blue-handwoven-cashmere-scarf-shawl/)** shawl or the **[Royal Blue wrap in diamond weave](https:///royal-blue-essential-wrap-in-diamond-weave-cashmere/)**. For a blue that leans green, see **[Light Teal Green](https:///light-teal-green-handwoven-cashmere-scarf-shawl/)**. For a soft neutral, see **[Ivory](https:///handwoven-ivory-cashmere-scarf-shawl/)**.
+If you want a deeper blue, see our **[Indigo Blue](https://baronboutique.com/indigo-blue-handwoven-cashmere-scarf-shawl/)** shawl or the **[Royal Blue wrap in diamond weave](https://baronboutique.com/royal-blue-essential-wrap-in-diamond-weave-cashmere/)**. For a blue that leans green, see **[Light Teal Green](https://baronboutique.com/light-teal-green-handwoven-cashmere-scarf-shawl/)**. For a soft neutral, see **[Ivory](https://baronboutique.com/handwoven-ivory-cashmere-scarf-shawl/)**.
 
-Looking for a customized cashmere shawl in a blue that is not here? Our **[Featherlight Cashmere Scarf](https:///womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https:///handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+Looking for a customized cashmere shawl in a blue that is not here? Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 
@@ -306,7 +306,7 @@ The scarf is beautifully made and just the right size and length. The cashmere f
 - Handcrafted Cashmere › Handwoven Cashmere Scarves & Shawls
 - Women › Accessories
 
-**Related terms:** turquoise pashmina, sea blue stole, aqua shawl, ocean blue wrap
+**Related terms:** turquoise pashmina, sea blue stole, aqua shawl, ocean blue wrap, scarf body wrap
 
 ## Related
 

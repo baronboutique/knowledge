@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Neo Leather Trench Coat Matrix 2
@@ -88,7 +88,7 @@ Your purchase of a Matrix 2 Neo leather trench coat includes a complimentary tes
 
 - Screen Inspired › Cyberpunk Trench Coats
 
-**Related terms:** leather Neo coat, Matrix leather duster, full length leather trench
+**Related terms:** leather Neo coat, Matrix leather duster, full length leather trench, matrix leather trench coat, trinity matrix trench coat
 
 ## Related
 

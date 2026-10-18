@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # The Performance Tropical Wool Suit
@@ -112,7 +112,7 @@ To preserve the performance and structure of your tropical wool suit, we recomme
 
 - Women › Suits & Blazers
 
-**Related terms:** lightweight summer suit for women, breathable travel pantsuit, hot weather business suit, custom ladies trouser suit, cool wearing suit for work trips
+**Related terms:** lightweight summer suit for women, breathable travel pantsuit, hot weather business suit, custom ladies trouser suit, cool wearing suit for work trips, tropical wool suit women, wool suit women
 
 ## Related
 

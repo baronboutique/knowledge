@@ -3,7 +3,7 @@ type: Product Category
 title: "House of Velvet"
 description: "Made-to-order velvet jackets and coats in premium velvet on a canvas front, from dinner jackets and smoking jackets to dramatic frock coats."
 resource: https://baronboutique.com/menswear/velvet/
-tags: [velvet, mens-velvet, dinner-jacket, smoking-jacket, frock-coat, evening-wear, bespoke, made-to-order]
+tags: [men, velvet, blazer, dinner-jacket, smoking-jacket, black-tie, formalwear, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/velvet/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # House of Velvet
@@ -104,7 +104,7 @@ Your finished velvet piece ships from Dubai by trackable courier, Your test garm
 - [Pirate Frock Coat in Velvet, Custom Made](../../products/menswear/frock-coats-for-men/pirate-frock-coat.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 
-**Related terms:** mens velvet jacket, velvet smoking jacket, velvet dinner jacket, custom velvet coat, velvet frock coat
+**Related terms:** men's velvet jacket, custom velvet blazer, velvet smoking jacket, velvet dinner jacket for men
 
 ## Related
 

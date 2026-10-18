@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors
@@ -78,7 +78,7 @@ Dry-clean or hand-wash in cold water with a mild silk-friendly detergent.
 - Men › Real Silk Eventwear
 - Men › Accessories
 
-**Related terms:** pilot silk scarf, white silk evening scarf, vintage aviator scarf, tuxedo scarf
+**Related terms:** pilot silk scarf, white silk evening scarf, vintage aviator scarf, tuxedo scarf, neck stole, silk aviator scarf
 
 ## Related
 

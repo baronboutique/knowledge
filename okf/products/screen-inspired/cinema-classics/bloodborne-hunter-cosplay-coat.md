@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Hunter Coat Bloodborne Cosplay
@@ -96,7 +96,7 @@ Fantastic The process in constructing this coat with Baron Boutique was grand, t
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Bloodborne hunter garb, Yharnam hunter coat, video game cosplay coat, gothic victorian hunter outfit, gaming convention costume
+**Related terms:** Bloodborne hunter garb, Yharnam hunter coat, video game cosplay coat, gothic victorian hunter outfit, gaming convention costume, Bloodborne hunter coat
 
 ## Related
 

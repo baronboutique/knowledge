@@ -3,7 +3,7 @@ type: Product
 title: "Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa"
 description: "A fitted women's long black leather coat in full-grain cow Nappa, cut with a figure-defining princess-seam back rather than hanging off the body."
 resource: https://baronboutique.com/womens-long-black-leather-coat/
-tags: [women, coat, trench-coat, leather, purple, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
+tags: [women, coat, long-coat, leather, black, peak-lapel, theatrical-villain, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womens-long-black-leather-coat/
@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa
@@ -233,7 +233,7 @@ Yes. We ship worldwide by trackable courier. Both the test coat and the final le
 - Women › Screen Inspired
 - Women › Coats & Overcoats
 
-**Related terms:** women's Joker coat, purple leather trench for her, female Joker costume coat
+**Related terms:** villain style leather coat for women, long black leather coat women, dramatic leather coat women, princess-seam leather coat, women's Joker coat
 
 ## Related
 

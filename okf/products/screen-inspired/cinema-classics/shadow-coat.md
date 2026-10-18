@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Shadow Coat Costume from Alec Baldwin's "The Shadow"
@@ -160,7 +160,7 @@ You Will Know What Evil Lurks in Men’s Hearts Raj and the BB team worked with 
 
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Alec Baldwin Shadow coat, 1994 The Shadow costume coat, pulp hero long coat
+**Related terms:** Alec Baldwin Shadow coat, 1994 The Shadow costume coat, pulp hero long coat, The Shadow cosplay
 
 ## Related
 

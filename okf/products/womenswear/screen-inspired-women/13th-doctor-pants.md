@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Screen-Inspired Thirteenth Doctor Teal Cropped Pants
@@ -88,7 +88,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -140,7 +140,7 @@ Lined to the knee
 
 The front of each leg is lined to just below the knee in the lining color you choose.
 
-Like the cloth? Our [women’s dress pants with back pockets](https:///womens-warm-weather-wool-pants/) are cut from the same mohair wool blend, in a full-length straight leg for everyday wear.
+Like the cloth? Our [women’s dress pants with back pockets](https://baronboutique.com/womens-warm-weather-wool-pants/) are cut from the same mohair wool blend, in a full-length straight leg for everyday wear.
 
 ---
 
@@ -185,7 +185,7 @@ Full Spec
 
 Want a different crop length, a slimmer leg or another change? Write it in the comment box on the measurement form, or send your request through the “Ask a question about this piece” form below the Add to Cart button, and we will confirm before we start.
 
-Making a matching look for someone else? We also make [Thirteenth Doctor pants for men](https:///13th-doctor-pants-for-men/).
+Making a matching look for someone else? We also make [Thirteenth Doctor pants for men](https://baronboutique.com/13th-doctor-pants-for-men/).
 
 A screen-inspired recreation designed and made by Baron Boutique from screen references. It is not an official or licensed product and is not affiliated with or endorsed by the show’s producers.
 
@@ -272,7 +272,7 @@ Great fit. Great service I am very happy with my fully lined Doctor Who pants. T
 - Women › Screen Inspired
 - Women › Pants
 
-**Related terms:** 13th Doctor pants, Thirteenth Doctor trousers, Doctor Who pants for women, teal cropped trousers, Thirteenth Doctor cosplay
+**Related terms:** Jodie Whittaker pants, 13th Doctor culottes, teal cosplay trousers, Doctor Who pants for women
 
 ## Related
 

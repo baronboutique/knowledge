@@ -3,21 +3,21 @@ type: Product
 title: "The Collateral Suit, Single-Button Light Grey Worsted Wool"
 description: "Men's single-button light grey Collateral suit in Super 140s worsted wool, with narrow notch lapels, flapless piped pockets, and beltless side-tab trousers, recreated from the screen reference."
 resource: https://baronboutique.com/collateral-suit-grey-worsted-wool/
-tags: [men, suit, gray, tropical-wool, wool, collateral, cinema-classics, screen-inspired, replica, bespoke, made-to-order]
+tags: [men, suit, grey, worsted-wool, wool, notch-lapel, single-breasted, collateral, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/collateral-suit-grey-worsted-wool/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T09:36:07Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # The Collateral Suit, Single-Button Light Grey Worsted Wool
@@ -267,7 +267,7 @@ Walk-in customer greeted with Nepalese hospitality Raj and all the guys at Baron
 - Screen Inspired › Theatrical Villain
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Vincent Collateral suit, Tom Cruise gray suit, hitman movie suit, sharp gray two-piece
+**Related terms:** Vincent Collateral suit, Tom Cruise gray suit, hitman movie suit, sharp gray two-piece, Tom Cruise suit, Tom Cruise Collateral suit, grey worsted wool Collateral suit
 
 ## Related
 

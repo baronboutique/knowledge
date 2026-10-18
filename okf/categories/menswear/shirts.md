@@ -3,7 +3,7 @@ type: Product Category
 title: "Shirts"
 description: "Made-to-order dress shirts in Egyptian cotton, raw silk, and satin silk, cut to the wearer's neck and body rather than to a collar size."
 resource: https://baronboutique.com/menswear/shirts/
-tags: [men, shirts, dress-shirt, silk-shirt, cotton-shirt, egyptian-cotton, custom-shirt, bespoke, made-to-order]
+tags: [men, shirts, dress-shirt, silk-shirt, cotton-shirt, egyptian-cotton, custom-shirt, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/shirts/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Shirts
@@ -100,7 +100,7 @@ Your finished shirt ships from Dubai by trackable courier. If anything about the
 - [The Raw Silk Shirt](../../products/menswear/shirts/mens-gold-raw-silk-shirt.md)
 - [The Tailored Linen Shirts](../../products/menswear/shirts/tailored-linen-shirts.md)
 
-**Related terms:** custom dress shirts, tailored shirts online, men's silk shirts, made-to-order shirt, fitted formal shirts
+**Related terms:** custom dress shirts, tailored shirts online, men's silk shirts, made to measure shirt, fitted formal shirts, dress shirts for men, luxury mens dress shirts, high end dress shirts, 220 thread egyptian cotton shirt
 
 ## Related
 

@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Women's Beige Frock Coat with Red Stripe"
-description: "Women's fifth Doctor inspired red stripe beige frock coat transforms your appearance and personality. Doctor’s 5th incarnation for women cosplayers that conveyed action and eccentricity."
+title: "Women's Beige Frock Coat With Red Piping"
+description: "A women's frock coat inspired by the Fifth Doctor in Doctor Who: beige Super 140s worsted wool with red piping along the edges, lapels and pockets."
 resource: https://baronboutique.com/5th-doctor-red-piping-frock-coat-for-women/
 tags: [women, frock-coat, tropical-wool, wool, cream, red-piping, doctor-who, fifth-doctor, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/5th-doctor-red-piping-frock-coat-for-women/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
-# Women's Beige Frock Coat with Red Stripe
+# Women's Beige Frock Coat With Red Piping
 
 **SKU:** 7000010  
 **URL:** https://baronboutique.com/5th-doctor-red-piping-frock-coat-for-women/  
@@ -35,66 +35,175 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Women's fifth Doctor inspired red stripe beige frock coat transforms your appearance and personality. Doctor’s 5th incarnation for women cosplayers that conveyed action and eccentricity. The beige frock coat features a red stripe along the coat edge. If you are a female and love cosplay, then you will love our 5th Doctor frock coat.
+A women's frock coat inspired by the Fifth Doctor in Doctor Who: beige Super 140s worsted wool with red piping along the edges, lapels and pockets. Screen-inspired, cut to your measurements with a canvas front and a knee-length frock coat hem. A free test coat in cotton settles the fit before the wool is cut. 100% Super 140s worsted wool, tropical weight Red piping along the coat edge, lapels and pocket flaps Two-button single-breasted front, knee length Satin lining in the color you choose Free test coat in cotton, yours to keep
 
-#### Women’s Fifth Doctor Inspired Test Coat – Fit and Style Evaluation
+The Coat
 
-## The Uniform of a Gentleman Adventurer
+## A Women’s Frock Coat With Red Piping, Inspired by the Fifth Doctor
 
-This is the silhouette of classic English charm and dashing intellect, meticulously re-engineered for a woman’s form. It is more than a coat; it’s a statement of timeless style, ready for any adventure in time and space. We have crafted the definitive replica of the Fifth Doctor’s iconic frock coat, custom-tailored for a perfect fit.
+Red piping forgives nothing. One wavering line along a lapel and a beige coat stops looking like the Fifth Doctor and starts looking like fancy dress. This is our women’s frock coat inspired by the Fifth Doctor in Doctor Who: a screen-inspired beige frock coat with red piping traced along the edges, cut to your measurements in a lightweight Super 140s worsted wool.
 
-### The Cricketer’s Cloth
+It is a women’s frock coat built as tailoring rather than a costume: a canvas front, a two-button single-breasted front, notch lapels and a knee-length frock coat hem. Before we cut the wool, you try the whole coat in cotton at home, and the photos below show that test coat being tried on.
 
-The soul of this coat lies in its classic material and color, chosen for an authentic, screen-accurate appearance that is both distinguished and versatile.
+Screen-inspired  
+ Beige with red piping  
+ Super 140s wool  
+ Knee length  
+ Free test coat
 
-- **Premium Wool-Blend:** Tailored from a high-quality wool-blend fabric that provides a crisp, elegant drape and year-round comfort.
-- **Classic Beige:** The signature light beige color serves as the perfect canvas for the coat’s most iconic details.
+**Price:** $559 **Cloth:** 100% Super 140s worsted wool, tropical weight, beige by default **Lining:** satin, chosen in the selector **Length:** knee length **Test coat:** free, yours to keep **Care:** dry clean
 
-### Defined by Dashing Details
+---
 
-This coat is instantly recognizable due to the unique, screen-accurate details that capture the essence of the Fifth Doctor’s youthful, debonair style.
+Free Test Coat
 
-- **Signature Red Piping:** Crisp, razor-sharp red piping meticulously edges the collar, lapels, and pockets, providing the coat’s quintessential, eye-catching detail.
-- **Classic Frock Coat Cut:** Features a clean, two-button single-breasted front, classic notch lapels, and the traditional frock coat length for a sharp silhouette.
-- **A Pocket for Everything:** True to the original, this coat is remarkably practical, featuring **six pockets** for all your essentials and sonic screwdrivers.
+## What the Test Coat Looks Like
 
-### Your Perfect Fit, Guaranteed: The Free Test Coat
+These three photos show the cotton test coat for this design being tried on, before the final wool is cut. This is where the length, the button point and the line of the piping are checked against a real body, not against a size chart.
 
-Even a Time Lord requires a perfect fit. We eliminate the risk and anxiety of ordering online by sending you a **free test coat** first.
+1
 
-1. **Receive Your Test Garment:** We mail you a test coat made in cotton to your exact initial measurements and style choices.
-2. **Confirm Your Fit:** Try it on at home. You can then request any adjustments to the fit, size, or styling details.
-3. **We Craft Your Final Masterpiece:** We apply your feedback to tailor the final wool-blend frock coat for a perfect, screen-accurate fit.
+**Choose your cloth and lining, then enter your measurements**  
+ Pick your cloth color and satin lining in the selector, then enter your measurements on the product page, with the length you want. Any style change goes in the comment box on the measurement form.
 
-The test coat is yours to keep.
+2
 
-#### Caring For Your Coat
+**We make your free test coat**  
+ A test coat in cotton, cut to your measurements, takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch by trackable courier.
 
-To maintain its beauty and structure, we recommend dry-cleaning only.
+3
 
-#### Women’s Beige Frock Coat with Red Stripe Features
+**You try it on at home**  
+ Check the shoulders, the sleeve length, the button point and the length over the clothes you will wear underneath, and tell us any change, however small.
 
-- tailored from super 140s 100% worsted wool cloth
-- hand-made by Baron Boutique
-- screen-accurate design
-- canvas front construction
-- single-breasted style
-- 2 button frock coat fastening
-- hand made buttonholes
-- medium notch lapels width (2.75 inches to 3.75 inches)
-- an acetate lined coat interior
-- 2 exterior pockets with flap
-- four internal pockets
-- red stripe along the coat edge
-- hand stitched armholes
-- center back vent
-- straight frock coat hem
-- 3 buttons vented sleeves cuff
-- spaced sleeve buttons stance
-- hand-made brown horn buttons
-- stitched and reinforced coat buttons by hand
-- ample coat seam allowances for future alteration
-- knee length
+4
+
+**We make the final coat**  
+ We apply every change, then make the final coat in Super 140s worsted wool with red piping in 3 to 4 weeks; it arrives 5 to 10 days after dispatch. The test coat is yours to keep.
+
+---
+
+The Red Piping
+
+## Red Piping, Not a Red Frock Coat
+
+This is not a red frock coat. The red is a fine piping that edges the coat, the lapels and the pocket flaps; the coat itself is beige. Because piping follows every curve of the edge, it shows any wobble in the cut. That is why the test coat comes first: the edges are set before the piping goes on.
+
+Side
+
+The knee-length frock coat hem and the straight front edge.
+
+Back
+
+A center vent, so the frock coat back moves when you walk or sit.
+
+---
+
+What Is a Frock Coat
+
+## What Is a Frock Coat, and What It Is Not
+
+A frock coat is a fitted coat that falls to around the knee, with a front edge that runs straight down rather than cutting away like a tailcoat. A women’s frock coat follows the waist and then flares slightly over the hips, which is what makes it look tailored rather than boxy. You will also see it written as frockcoat or frock-coat; it is the same garment, and frock coats date from the nineteenth century.
+
+In parts of South Asia, a frock means a dress, so searches like frock with overcoat for ladies, overcoat for frock women or coat frock for women are usually looking for a coat to wear over a dress. A frock coat is something else: the coat is the garment. If you want a coat to wear over a frock, a long frock with coat on top, see our **[women’s dress coat](https://baronboutique.com/womens-wool-dress-coat/)**, which is cut to sit over a dress.
+
+For a long frock coat in a darker cloth, see our **[women’s Victorian winter frock coat](https://baronboutique.com/womens-victorian-winter-frock-coat/)**.
+
+---
+
+The Cloth
+
+## Super 140s Worsted at Tropical Weight
+
+The cloth is 100% Super 140s worsted wool, woven light, at what tailors call tropical weight. It wears cool indoors and under convention lights, drapes cleanly at knee length, and holds a crisp edge for the piping. Beige is the screen-inspired color; other colors come in the same cloth.
+
+| Beige | The screen-inspired choice for the 5th Doctor coat, for anyone after a Doctor Who Fifth Doctor costume look in real tailoring. |
+| --- | --- |
+| Other colors | Other tropical weight colors, from white and tan to navy and black. |
+| Piping | Red, along the coat edge, lapels and pocket flaps. |
+
+---
+
+Full Spec
+
+## Women’s 5th Doctor Inspired Frock Coat, Specification
+
+| Cloth | 100% Super 140s worsted wool, tropical weight; beige by default |
+| --- | --- |
+| Lining | Satin, chosen in the selector |
+| Front | Single-breasted, two buttons |
+| Lapels | Medium notch lapels, 2.75 to 3.75 inches |
+| Edges | Red piping along the coat edge, lapels and pocket flaps |
+| Construction | Canvas front, hand-stitched armholes, hand-finished buttonholes |
+| Pockets | Two outside pockets with flaps, two interior pockets |
+| Cuffs | Three-button vented cuffs |
+| Buttons | Brown horn, hand-stitched and reinforced |
+| Back | Center vent |
+| Length | Knee length; any length on request |
+| Test coat | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean only |
+
+This coat is our own screen-inspired design, inspired by the Fifth Doctor in Doctor Who. It is not official or licensed.
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Women’s 5th Doctor Frock Coat
+
+### What is a frock coat?
+
+A frock coat is a fitted coat that falls to around the knee with a straight front edge. A women’s frock coat follows the waist and flares slightly over the hips.
+
+### Is this the Fifth Doctor’s coat from Doctor Who?
+
+No, it is our own screen-inspired women’s version, inspired by the Fifth Doctor’s beige coat with red piping. It is not official or licensed.
+
+### Is the coat red?
+
+No, the coat is beige and the red is a fine piping along the edges, lapels and pocket flaps.
+
+### What is the cloth?
+
+It is 100% Super 140s worsted wool woven at tropical weight, light and cool to wear. Beige is the default, and the other colors are in the selector.
+
+### Is a frock coat the same as a coat to wear over a frock?
+
+No, a frock coat is the coat itself. If you want a coat to wear over a dress, see our women’s dress coat.
+
+### How many pockets does it have?
+
+It has two outside pockets with flaps and two interior pockets.
+
+### How does the free test coat work?
+
+We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the wool and add the piping. The test coat is yours to keep.
+
+### How long does it take?
+
+The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+
+### Can I change details, such as the length?
+
+Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+
+### How do I care for it?
+
+Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger.
 
 ## Categories
 

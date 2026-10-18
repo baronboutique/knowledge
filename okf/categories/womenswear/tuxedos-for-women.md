@@ -3,7 +3,7 @@ type: Product Category
 title: "Tuxedos"
 description: "Made-to-order tuxedos drafted from scratch for a woman's shoulders, bust, and waist rather than resized from a man's pattern."
 resource: https://baronboutique.com/womenswear/tuxedos-for-women/
-tags: [women, tuxedo, tuxedo-suit, black-tie, evening-wear, velvet-jacket, custom-tuxedo, bespoke, made-to-order]
+tags: [women, tuxedo, tuxedo-suit, black-tie, evening-wear, velvet-jacket, custom-tuxedo, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womenswear/tuxedos-for-women/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Tuxedos
@@ -74,7 +74,7 @@ Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cl
 - [The Women's Bespoke Tuxedo](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
 - [The Women's Tuxedo Suit](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
 
-**Related terms:** women's tuxedo suit, ladies tux, black tie outfit for women, velvet tuxedo jacket women, femme tuxedo
+**Related terms:** women's tuxedo suit, ladies tux, black tie outfit for women, velvet tuxedo jacket women, femme tuxedo, tuxedo for women, womens tuxedo
 
 ## Related
 

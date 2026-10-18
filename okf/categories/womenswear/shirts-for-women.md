@@ -3,7 +3,7 @@ type: Product Category
 title: "Shirts & Blouses"
 description: "Made-to-order shirts and blouses in Egyptian cotton, oxford, twill, and crepe silk, cut across the shoulders, bust, and waist."
 resource: https://baronboutique.com/womenswear/shirts-for-women/
-tags: [women, shirts, blouses, dress-shirt, silk-blouse, cotton-shirt, workwear, custom-shirt, bespoke, made-to-order]
+tags: [women, shirts, blouses, dress-shirt, silk-blouse, cotton-shirt, workwear, custom-shirt, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womenswear/shirts-for-women/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Shirts & Blouses

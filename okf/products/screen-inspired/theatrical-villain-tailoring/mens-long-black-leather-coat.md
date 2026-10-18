@@ -3,7 +3,7 @@ type: Product
 title: "Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa"
 description: "A dramatic men's long black leather coat with the sweep of a theatrical villain's coat, cut in full-grain cow Nappa for people who want the silhouette permanently, not for one event."
 resource: https://baronboutique.com/mens-long-black-leather-coat/
-tags: [men, coat, trench-coat, leather, purple, joker, theatrical-villain, screen-inspired, replica, cosplay, bespoke, made-to-order]
+tags: [men, coat, long-coat, leather, black, peak-lapel, theatrical-villain, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/mens-long-black-leather-coat/
@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa
@@ -227,7 +227,7 @@ Worth It! I ordered the black leather version of the Barons Joker Coat. I had it
 - Men › Coats & Overcoats
 - Screen Inspired › Cinema Classics
 
-**Related terms:** leather Joker trench coat, purple leather coat, Dark Knight Joker leather coat
+**Related terms:** villain style leather coat, long black leather coat men, dramatic leather trench coat, full-grain leather duster coat, leather Joker trench coat
 
 ## Related
 

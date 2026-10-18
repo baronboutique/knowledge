@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Womens Blue Coat 12th Doctor Peter Capaldi"
-description: "Trendsetting womens blue coat replica from 12th Doctor inspired by Peter Capaldi style. Perfect fitting and amazing women's blue coat with a red lining in mid-thigh length."
+title: "Women's 12th Doctor Blue Coat With Red Lining"
+description: "A women's 12th Doctor blue coat built to be worn every week, not twice a year. Screen-inspired, with inspiration taken from the Twelfth Doctor in Doctor Who: soft Super 120s wool flannel in deep blue,…"
 resource: https://baronboutique.com/12th-doctor-wool-coat-for-women/
 tags: [women, coat, flannel, wool, navy, doctor-who, twelfth-doctor, capaldi, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/12th-doctor-wool-coat-for-women/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
-# Womens Blue Coat 12th Doctor Peter Capaldi
+# Women's 12th Doctor Blue Coat With Red Lining
 
 **SKU:** 7000011  
 **URL:** https://baronboutique.com/12th-doctor-wool-coat-for-women/  
@@ -35,64 +35,173 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Trendsetting womens blue coat replica from 12th Doctor inspired by Peter Capaldi style. Perfect fitting and amazing women's blue coat with a red lining in mid-thigh length. The 12th Doctor blue coat ideal for everyday use and warm enough for a light winter.
+A women's 12th Doctor blue coat built to be worn every week, not twice a year. Screen-inspired, with inspiration taken from the Twelfth Doctor in Doctor Who: soft Super 120s wool flannel in deep blue, three buttons, five-button working cuffs and a red lining that only shows when it opens. Cut to your measurements and fitted first in a free test coat. 100% Super 120s wool flannel, blue by default Red lining by default, or any lining you choose Three buttons, notch lapels, diagonal pockets Mid-thigh length, or any length you ask for Free test coat in cotton, yours to keep
 
-## The Uniform of a Rebel Intellectual
+The Coat
 
-This is the silhouette of sharp wit and cosmic authority, meticulously re-engineered for a woman’s form. It is more than a coat; it’s a statement. We have crafted the definitive replica of the 12th Doctor’s iconic blue coat from premium wool flannel, creating a masterpiece of minimalist power and timeless style.
+## A Women’s 12th Doctor Blue Coat You Can Wear Every Week
 
-### The Fabric of Time & Space
+Many screen-inspired coats live in a closet and come out twice a year. At $529, a coat worn twice a year costs about $265 a wear in its first year. Worn twice a week for six months of cool weather, the same coat costs about $10 a wear, and it keeps getting cheaper every year after that.
 
-The soul of this coat lies in its exceptional material, chosen for its luxurious feel and authentic, screen-accurate appearance.
+This women’s 12th Doctor blue coat is built to be worn every week. It is our own screen-inspired version of the Twelfth Doctor’s blue coat with red lining in Doctor Who, made in soft Super 120s wool flannel that reads as a plain, well-cut blue coat on a Monday morning. Only the red lining gives the idea away. It is cut to your measurements with a canvas front and fitted first in a free test coat.
 
-- **Super 120s’ Wool Flannel:** Incredibly soft yet durable, this premium wool provides a beautiful, elegant drape and comfortable warmth without unnecessary bulk.
-- **A Palette of 10 Colors:** While deep blue is the signature color, you can select from a curated range of 10 distinct shades to create your own unique incarnation.
+Super 120s flannel  
+ Red lining  
+ Working cuffs  
+ Mid-thigh  
+ Free test coat
 
-### The Signature of a Time Lord
+**Price:** $529 **Cloth:** Super 120s wool flannel, blue by default **Lining:** red by default, chosen in the selector **Length:** mid-thigh **Test coat:** free, yours to keep **Care:** dry clean
 
-This coat is defined by the clean lines and secret details that capture the essence of the 12th Doctor’s sharp, understated style.
+---
 
-- **The Secret Red Lining:** Features a full acetate lining in the Doctor’s signature, screen-accurate red—a brilliant flash of rebellious color against the deep blue exterior.
-- **Clean, Sharp Silhouette:** A clean, single-breasted front with three hand-stitched black horn buttons creates an authoritative line, while a deep center vent ensures fluid, elegant movement.
-- **Classic Tailoring:** From the medium-width notch lapels to the functional pockets, every detail is expertly tailored for a sharp, professional finish.
+Free Test Coat
 
-### Your Perfect Fit, Guaranteed: The Free Test Coat
+## A Coat for Every Week Has to Fit Over Everything
 
-Even a Time Lord demands a perfect fit. We eliminate the risk and anxiety of ordering online by sending you a **free test coat** first.
+A coat you wear to work, to dinner and to a convention has to fit over a shirt, a sweater and a waistcoat. In the cotton test coat, made to your measurements, check it over the thickest layer you plan to wear, then tell us what to change before the flannel is cut.
 
-1. **Receive Your Test Garment:** We mail you a test coat made in cotton to your exact initial measurements and style choices.
-2. **Confirm Your Fit:** Try it on at home. You can then request any adjustments to the fit, size, or styling details.
-3. **We Craft Your Final Masterpiece:** We apply your feedback to tailor the final Super 120s’ wool flannel coat for a perfect, screen-accurate fit.
+1
 
-The test coat is yours to keep.
+**Choose your cloth and lining, then enter your measurements**  
+ Pick your cloth color and satin lining in the selector, then enter your measurements on the product page, with the length you want. Any style change goes in the comment box on the measurement form.
 
-#### Caring For Your Wool
+2
 
-To maintain its beauty and structure, we recommend dry-cleaning only.
+**We make your free test coat**  
+ A test coat in cotton, cut to your measurements, takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch by trackable courier.
 
-#### Women’s 12th Doctor Blue Coat Features
+3
 
-- tailored from super 120s 100% wool flannel cloth
-- hand-made by Baron Boutique
-- screen-accurate design
-- canvas front construction
-- single-breasted style
-- 3 button fastening
-- hand made buttonholes
-- medium notch lapels width (2.75 inches to 3.75 inches)
-- 1 left lapel hole
-- edged lined coat interior in red acetate
-- 2 exterior diagonal pockets
-- two internal breast pockets
-- hand stitched armholes
-- center back vent
-- straight coat hem
-- 5 buttons working sleeves cuff
-- kissing sleeve buttons stance
-- hand-made black horn buttons
-- stitched and reinforced coat buttons by hand for everyday use
-- ample coat seam allowances for future alteration
-- mid-thigh length
+**You try it on at home**  
+ Check the shoulders, the sleeve length, the button point and the length over the clothes you will wear underneath, and tell us any change, however small.
+
+4
+
+**We make the final coat**  
+ We apply every change, then make the final coat in wool flannel in 3 to 4 weeks; it arrives 5 to 10 days after dispatch. The test coat is yours to keep.
+
+---
+
+Worn Every Week
+
+## A 12th Doctor Coat That Does Not Look Like One
+
+Buttoned up, it is a three-button, mid-thigh coat in deep blue flannel with notch lapels and diagonal pockets: smart enough for an office, quiet enough for every day. Open it and the red lining shows, which is the detail fans recognize.
+
+| Monday | Over a white shirt and gray trousers to work. |
+| --- | --- |
+| Weekend | Over a sweater and jeans. |
+| Evening | Over a black dress, with the red lining showing as it opens. |
+| Convention | Over a waistcoat and dark shirt for the full screen-inspired look. |
+
+---
+
+The Flannel
+
+## Why Super 120s Wool Flannel
+
+Lining
+
+The red lining shows when the coat opens.
+
+Cuff
+
+Five-button working cuffs.
+
+Flannel is wool brushed after weaving, which gives it a soft, matte surface and a little warmth trapped in the nap. Super 120s describes a fine wool fiber, so the cloth is soft without being flimsy. It is warm enough for a light winter and comfortable in spring and autumn, and it does not shine with wear the way smooth worsted can.
+
+---
+
+Make It Yours
+
+## Change the Cloth, the Collar or the Length
+
+One client ordered this coat in a different fabric with a velvet collar; we made both, adjusted the fit from photos of the test garment, and the client left a five-star review. Requests like that go in the comment box on the measurement form.
+
+If you searched our site for the 12th Doctor blue coat with red lining in a women’s cut, this is it. For velvet instead of flannel, see our **[women’s navy velvet coat](https://baronboutique.com/12th-doctors-navy-velvet-coat-for-women/)** or the **[women’s 12th Doctor burgundy velvet coat](https://baronboutique.com/12th-doctor-burgundy-velvet-coat-for-women/)**.
+
+---
+
+Full Spec
+
+## Women’s 12th Doctor Blue Coat, Specification
+
+| Cloth | 100% Super 120s wool flannel; blue by default, other flannels in the selector |
+| --- | --- |
+| Lining | Red by default; other satin linings in the selector |
+| Front | Single-breasted, three buttons |
+| Lapels | Medium notch lapels, 2.75 to 3.75 inches, buttonhole on the left lapel |
+| Construction | Canvas front, hand-stitched armholes, hand-finished buttonholes |
+| Pockets | Two diagonal hip pockets, two inside breast pockets |
+| Back | Center vent |
+| Cuffs | Five-button working cuffs, kissing buttons |
+| Buttons | Black horn, hand-stitched and reinforced |
+| Length | Mid-thigh; any length on request |
+| Test coat | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean only |
+
+This coat is our own screen-inspired design, with inspiration taken from the Twelfth Doctor in Doctor Who. It is not official or licensed.
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Women’s 12th Doctor Blue Coat
+
+### Is this the 12th Doctor’s coat from Doctor Who?
+
+No, it is our own screen-inspired women’s version of the Twelfth Doctor’s blue coat with red lining. It is not official or licensed.
+
+### Can I wear it every day?
+
+Yes. In blue flannel with the lining closed, it reads as a plain tailored coat, and the flannel does not shine with wear.
+
+### How warm is it?
+
+Warm enough for a light winter, and comfortable in spring and autumn. For a colder climate, wear a sweater under it; size for that in the test coat.
+
+### Can I change the fabric or add a velvet collar?
+
+Yes. Write it in the comment box on the measurement form, or ask through the form below Add to Cart.
+
+### What color is the lining?
+
+Red by default. Any other satin lining can be chosen in the selector.
+
+### Is it the same as the men’s 12th Doctor blue coat?
+
+It is inspired by the same coat but cut as a women’s coat, then fitted to your measurements in the test coat.
+
+### How does the free test coat work?
+
+We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the flannel. The test coat is yours to keep.
+
+### How long does it take?
+
+The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+
+### Can I change details, such as the length?
+
+Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+
+### How do I care for it?
+
+Dry clean only, and not often. Brush the flannel after wearing and hang it on a shaped hanger.
 
 ## Customer Reviews
 

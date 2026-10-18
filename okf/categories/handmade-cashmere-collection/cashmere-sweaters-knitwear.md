@@ -3,7 +3,7 @@ type: Product Category
 title: "Cashmere Sweaters & Knitwear"
 description: "Hand-Knitted Cashmere Sweaters, Made to Order in Kathmandu Knitted to order in the same workshop as the scarves, from the same Grade A Himalayan fiber. Three shapes, and the real difference between them is where the shoulder sits — the same decision we make on every jacket. Cashmere has almost no recovery, so a sweater worn tight stretches rather than springing back. These are cut with that in mind."
 resource: https://baronboutique.com/handmade-cashmere-collection/cashmere-sweaters-knitwear/
-tags: [cashmere-sweaters-knitwear, cashmere, sweaters, knitwear, bespoke, made-to-order, baron-boutique]
+tags: [cashmere, sweaters, knitwear, turtleneck, pullover, hand-knitted, himalayan, made-to-order, heirloom]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/handmade-cashmere-collection/cashmere-sweaters-knitwear/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Cashmere Sweaters & Knitwear
@@ -55,6 +55,8 @@ Which cut suits how you wear it
 - [Fog Cable Knit Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/fog-cable-knit-cashmere-turtleneck.md)
 - [Orange Cashmere Dropped Shoulder Sweater](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/orange-cashmere-dropped-shoulder-boxy-sweater.md)
 - [Women's Rust Cashmere Turtleneck Sweater](../../products/handmade-cashmere-collection/cashmere-sweaters-knitwear/women-rust-cashmere-turtleneck-sweater.md)
+
+**Related terms:** hand knitted cashmere sweater, custom cashmere jumper, Nepal cashmere knitwear, made to order cashmere sweater
 
 ## Related
 

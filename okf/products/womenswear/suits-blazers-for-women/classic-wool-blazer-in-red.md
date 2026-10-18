@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # The Statement Red Blazer
@@ -97,7 +97,7 @@ I am very happy with my red wool blazer! It fits beautifully, the fabric is of g
 
 - Women › Suits & Blazers
 
-**Related terms:** red blazer for women, scarlet wool jacket, statement blazer, crimson sport coat for her, tailored red jacket custom
+**Related terms:** red blazer for women, scarlet wool jacket, statement blazer, crimson sport coat for her, tailored red jacket custom, red wool blazer
 
 ## Related
 

@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:17:10Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Indigo Blue Handwoven Cashmere Scarf Shawl
@@ -63,7 +63,7 @@ Indigo sits between blue and violet. Navy is darker and closer to black. In dayl
 
 Indigo here is the name of the color, not the dye. The cashmere is dyed with Azo-free dyes after weaving, not with plant indigo.
 
-For a lighter blue, see our **[Aquamarine Blue cashmere shawl](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/)**; for a brighter one, the **[Royal Blue Essential Wrap](https:///royal-blue-essential-wrap-in-diamond-weave-cashmere/)**. Our **[Featherlight Cashmere Scarf](https:///womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https:///handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+For a lighter blue, see our **[Aquamarine Blue cashmere shawl](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/)**; for a brighter one, the **[Royal Blue Essential Wrap](https://baronboutique.com/royal-blue-essential-wrap-in-diamond-weave-cashmere/)**. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 
@@ -111,9 +111,9 @@ As a Gift
 
 ## A Cashmere Gift for Her, for Him, or for a Team
 
-Indigo is a safe color to give when you do not know someone’s wardrobe, and the scarf comes in one size, so there is nothing to guess. It is wide enough for a woman to wear as a shawl and, folded, long enough to wear as a man’s scarf. Paired with our **[Aquamarine Blue cashmere shawl](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/)**, it makes a his-and-hers set in two blues.
+Indigo is a safe color to give when you do not know someone’s wardrobe, and the scarf comes in one size, so there is nothing to guess. It is wide enough for a woman to wear as a shawl and, folded, long enough to wear as a man’s scarf. Paired with our **[Aquamarine Blue cashmere shawl](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/)**, it makes a his-and-hers set in two blues.
 
-Looking for a customized cashmere shawl in blue? We embroider initials, a name, a date or a logo on request. Whether a design suits this fine open weave depends on the design, so email us first and we will reply with a quote and a stitch proof. Personalized pieces are custom-made and cannot be returned. For several pieces, see **[personalized cashmere gifts](https:///custom-cashmere-gifts/)** and **[custom corporate gifts](https:///custom-corporate-gifts/)**.
+Looking for a customized cashmere shawl in blue? We embroider initials, a name, a date or a logo on request. Whether a design suits this fine open weave depends on the design, so email us first and we will reply with a quote and a stitch proof. Personalized pieces are custom-made and cannot be returned. For several pieces, see **[personalized cashmere gifts](https://baronboutique.com/custom-cashmere-gifts/)** and **[custom corporate gifts](https://baronboutique.com/custom-corporate-gifts/)**.
 
 ---
 
@@ -129,7 +129,7 @@ Warmth in cashmere comes from fineness, not weight. Very fine fibers trap still 
 | 200/2 yarn | Two very fine threads twisted together give strength while keeping the scarf soft enough to knot without bulk. |
 | About 70 g | Folds small enough for a handbag when you do not need it. |
 
-Searching for a cashmere pashmina scarf draped like this? Pashmina is the traditional name for very fine cashmere, but shops today often use it for blends, so check the label: this one is 100% cashmere. Compared with a blue silk scarf, which is elegant but cool, cashmere is warmer and softer at the neck. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
+Searching for a cashmere pashmina scarf draped like this? Pashmina is the traditional name for very fine cashmere, but shops today often use it for blends, so check the label: this one is 100% cashmere. Compared with a blue silk scarf, which is elegant but cool, cashmere is warmer and softer at the neck. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
 
 ---
 
@@ -241,7 +241,7 @@ Yes, within 30 days of delivery if it is unworn and in its original condition, a
 - Handcrafted Cashmere › Handwoven Cashmere Scarves & Shawls
 - Women › Accessories
 
-**Related terms:** navy pashmina, deep blue stole, denim blue shawl, midnight blue wrap
+**Related terms:** navy pashmina, deep blue stole, denim blue shawl, midnight blue wrap, customized cashmere shawl blue
 
 ## Related
 

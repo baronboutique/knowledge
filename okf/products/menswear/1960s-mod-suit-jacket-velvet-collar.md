@@ -3,7 +3,7 @@ type: Product
 title: "1960s Mod Four-Button Suit with Velvet Collar"
 description: "A sharp 1960s mod suit, custom made to your measurements in 100% wool with a signature velvet collar and a clean four-button front."
 resource: https://baronboutique.com/1960s-mod-suit-jacket-velvet-collar/
-tags: [men, jacket, blazer, collarless, black, cinema-classics, screen-inspired, replica, cosplay, bespoke, made-to-order]
+tags: [men, blazer, wool, velvet-collar, notch-lapel, single-breasted, 1960s-style, vintage-style, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/1960s-mod-suit-jacket-velvet-collar/
@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # 1960s Mod Four-Button Suit with Velvet Collar
@@ -74,7 +74,7 @@ Dry clean only.
 - Men › Suits & Blazers
 - Screen Inspired › Cinema Classics
 
-**Related terms:** Beatles collarless suit jacket, 1964 Beatlemania jacket, mod band jacket, John Lennon suit jacket, British invasion suit
+**Related terms:** Beatles collarless suit jacket, 1964 Beatlemania jacket, mod band jacket, John Lennon suit jacket, British invasion suit, Beatles suit, Beatles jacket, 1960s mod jacket, velvet collar blazer
 
 ## Related
 

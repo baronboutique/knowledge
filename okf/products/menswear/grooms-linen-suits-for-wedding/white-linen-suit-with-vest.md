@@ -9,14 +9,15 @@ sources:
     resource: https://baronboutique.com/white-linen-suit-with-vest/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: human:baron-boutique, at: 2026-10-14T05:17:19Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # White Linen Suit With Vest, Custom Made Three-Piece in 18 Colors
@@ -221,11 +222,11 @@ Questions & Answers
 
 ### Why is a white linen suit with vest harder to get right off the rack than a regular suit?
 
-Three reasons compound on each other. First, white fabric is merciless — there is no dark color to minimize the visual impact of a shoulder that sits wide or a chest that pulls. Second, linen amplifies fit issues because its drape is entirely dependent on how the garment was cut; unlike structured wool, linen has nothing internal to compensate for a bad fit. Third, the vest in a three-piece must fit a different part of your body than the jacket — your torso length, your chest-to-waist ratio, your shoulder width — and off-the-rack sets are sized as one unit. The result is almost always a vest that is visibly wrong even when the jacket looks acceptable.
+Because white shows every flaw, linen has no structure to hide a poor cut, and a vest must fit a different part of your body than the jacket. Three reasons compound on each other. First, white fabric is merciless — there is no dark color to minimize the visual impact of a shoulder that sits wide or a chest that pulls. Second, linen amplifies fit issues because its drape is entirely dependent on how the garment was cut; unlike structured wool, linen has nothing internal to compensate for a bad fit. Third, the vest in a three-piece must fit a different part of your body than the jacket — your torso length, your chest-to-waist ratio, your shoulder width — and off-the-rack sets are sized as one unit. The result is almost always a vest that is visibly wrong even when the jacket looks acceptable.
 
 ### How does the free test suit work for a three-piece?
 
-When you place your order, you enter your measurements on the product page. We build a complete three-piece test suit — jacket, vest, and trousers — in a plain fabric and ship it by trackable courier. You try on all three pieces at home. You check each one: jacket chest and shoulders, vest button stance and back fit, trouser waist and break. You tell us anything that needs adjusting — even small details like a quarter-inch on the trouser hem or a centimeter on the vest length. We apply every change before cutting your linen. The test suit is yours to keep once your commission is complete.
+We build a full three-piece test suit in plain fabric, you try it on at home, and only then do we cut your linen. When you place your order, you enter your measurements on the product page. We build a complete three-piece test suit — jacket, vest, and trousers — in a plain fabric and ship it by trackable courier. You try on all three pieces at home. You check each one: jacket chest and shoulders, vest button stance and back fit, trouser waist and break. You tell us anything that needs adjusting — even small details like a quarter-inch on the trouser hem or a centimeter on the vest length. We apply every change before cutting your linen. The test suit is yours to keep once your commission is complete.
 
 ### Is this suit available in colors other than white?
 
@@ -260,7 +261,7 @@ Yes. If you want a two-piece white linen suit — jacket and trousers only — w
 - Men › Wedding Suits › Linen Wedding Suits
 - Men › Suits & Blazers
 
-**Related terms:** white linen three piece suit, tropical wedding suit, Gatsby style summer suit
+**Related terms:** white linen three piece suit, tropical wedding suit, Gatsby style summer suit, linen three-piece suit
 
 ## Related
 

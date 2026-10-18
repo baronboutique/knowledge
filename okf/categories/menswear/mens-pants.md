@@ -3,7 +3,7 @@ type: Product Category
 title: "Pants"
 description: "Made-to-order trousers in wool, flannel, linen, mohair, and silk, cut from the wearer's rise, seat, and leg rather than a waist size."
 resource: https://baronboutique.com/menswear/mens-pants/
-tags: [men, pants, trousers, dress-pants, wool-pants, linen-pants, flat-front, slim-fit, custom-pants, bespoke, made-to-order]
+tags: [men, pants, trousers, dress-pants, wool-pants, linen-pants, flat-front, slim-fit, custom-pants, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/mens-pants/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Pants
@@ -113,7 +113,7 @@ Your finished trousers ship from Dubai by trackable courier, Your test garment t
 - [The Essential Grey Wool Dress Pants](../../products/menswear/mens-pants/mens-pure-new-wool-gray-suit-pants.md)
 - [Wool Mohair Dress Pants](../../products/menswear/mens-pants/slim-fit-mohair-wool-pants.md)
 
-**Related terms:** custom dress pants, tailored trousers online, made-to-order pants, men's wool slacks, high rise trousers
+**Related terms:** custom dress pants, tailored trousers online, made to measure pants, men's wool slacks, high rise trousers, bespoke pants, bespoke trousers, custom formal trousers for men
 
 ## Related
 

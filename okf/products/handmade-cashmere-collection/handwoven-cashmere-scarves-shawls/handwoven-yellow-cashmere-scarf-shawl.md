@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:21:43Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
 ---
 
 # Handwoven Yellow Cashmere Scarf Shawl
@@ -103,7 +103,7 @@ Other Colors
 
 ## Not Sure About Yellow?
 
-If you want the same scarf in a quieter color, see our **[Black cashmere shawl](https:///handwoven-black-cashmere-scarf-shawl/)**, **[Ivory cashmere shawl](https:///handwoven-ivory-cashmere-scarf-shawl/)** or **[Aquamarine Blue cashmere shawl](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/)**. Our **[Featherlight Cashmere Scarf](https:///womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https:///handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+If you want the same scarf in a quieter color, see our **[Black cashmere shawl](https://baronboutique.com/handwoven-black-cashmere-scarf-shawl/)**, **[Ivory cashmere shawl](https://baronboutique.com/handwoven-ivory-cashmere-scarf-shawl/)** or **[Aquamarine Blue cashmere shawl](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/)**. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 
@@ -119,7 +119,7 @@ Warmth in cashmere comes from fineness, not weight. Very fine fibers trap still 
 | 200/2 yarn | Two very fine threads twisted together give strength while keeping the scarf soft enough to knot without bulk. |
 | About 70 g | Folds small enough for a handbag when you do not need it. |
 
-Looking for a cashmere pashmina scarf draped like this? Pashmina is the traditional name for very fine cashmere, but shops today often use it for blends, so check the label: this one is 100% cashmere. Compared with a silk scarf, elegant drape is the one thing they share; cashmere is the warmer of the two. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
+Looking for a cashmere pashmina scarf draped like this? Pashmina is the traditional name for very fine cashmere, but shops today often use it for blends, so check the label: this one is 100% cashmere. Compared with a silk scarf, elegant drape is the one thing they share; cashmere is the warmer of the two. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
 
 ---
 

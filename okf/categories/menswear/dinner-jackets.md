@@ -3,7 +3,7 @@ type: Product Category
 title: "Dinner Jackets"
 description: "Made-to-order dinner jackets in velvet, silk, and patterned cloth, cut to the wearer's measurements as an alternative to a standard black tuxedo."
 resource: https://baronboutique.com/menswear/dinner-jackets/
-tags: [men, dinner-jacket, tuxedo-jacket, smoking-jacket, velvet-jacket, shawl-collar, black-tie, evening-wear, bespoke, made-to-order]
+tags: [men, dinner-jacket, tuxedo-jacket, smoking-jacket, velvet-jacket, shawl-collar, black-tie, evening-wear, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/dinner-jackets/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
 ---
 
 # Dinner Jackets
@@ -88,7 +88,7 @@ Every adjustment is applied, then your jacket is cut on a canvas front with sati
 ## Products
 
 - [11th Doctor Inspired White Pool Party Tuxedo Jacket](../../products/screen-inspired/doctor-collection/11th-doctor-tuxedo-jacket.md)
-- [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
+- [Black Mohair Tuxedo, Made to Your Measurements](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
 - [Black Velvet Shawl Collar Tuxedo Jacket](../../products/menswear/dinner-jackets/slim-fit-black-velvet-jacket.md)
 - [Burgundy Velvet Dinner Jacket With Black Silk Satin Peak Lapels](../../products/menswear/dinner-jackets/slim-fit-burgundy-velvet-jacket.md)
 - [Custom Dinner Jacket](../../products/menswear/tuxedos/stylish-dinner-jacket.md)

@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Men's Linen Frock Coat Summer Wedding Tailored Dress Coat"
-description: "Most men's frock coats online are Halloween costumes in polyester. If you want the real garment — 100% linen, full canvas front, hand-carved horn buttons, made to your exact measurements — this is the…"
+description: "Most men's frock coats online are Halloween costumes in polyester. If you want the real garment, in 100% linen with a canvas front and hand-carved horn buttons, made to your exact measurements, this i…"
 resource: https://baronboutique.com/mens-linen-frock-coat-summer-wedding/
 tags: [men, frock-coat, linen, summer-wedding, wedding, canvas-front, horn-buttons, dress-coat, victorian-style, bespoke, made-to-order]
 sources:
@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-linen-frock-coat-summer-wedding/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's Linen Frock Coat Summer Wedding Tailored Dress Coat
@@ -36,7 +36,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Most men's frock coats online are Halloween costumes in polyester. If you want the real garment — 100% linen, full canvas front, hand-carved horn buttons, made to your exact measurements — this is the one that isn't a costume. Before we cut the linen, we send you a free test frock coat to confirm the fit at home.
+Most men's frock coats online are Halloween costumes in polyester. If you want the real garment, in 100% linen with a canvas front and hand-carved horn buttons, made to your exact measurements, this is the one that isn't a costume. Before we cut the linen, we send you a free test frock coat to confirm the fit at home.
 
 ---
 
@@ -80,7 +80,7 @@ Wool at a summer garden wedding or an outdoor ceremony in the heat is a mistake 
 
 The collector who found everything available is a costume
 
-You’ve looked. The frock coats on Amazon and eBay are theatrical props in sizes that don’t fit anyone. You want the garment, not the approximation of it. Canvas front, horn buttons, proper lining, made to measure — that’s this.
+You’ve looked. The frock coats on Amazon and eBay are theatrical props in sizes that don’t fit anyone. You want the garment, not the approximation of it. Canvas front, horn buttons, proper lining, made to your measurements. That is this coat.
 
 The man who doesn’t know yet that he needs a new silhouette
 
@@ -92,7 +92,7 @@ Also at This Wedding
 
 ## Dress the Whole Wedding, Not Just the Groom
 
-An outdoor summer ceremony is dressed from the ground up. The groom sets the register, but the wedding party, the guests, and the people standing beside you all contribute to what the day looks like in photographs. These are four garments built for the same occasion — warm-weather formal, made to measure, each with a different silhouette. If you are still choosing your own attire for a garden, vineyard, or outdoor wedding, each of these is an equally worthy starting point.
+An outdoor summer ceremony is dressed from the ground up. The groom sets the register, but the wedding party, the guests, and the people standing beside you all contribute to what the day looks like in photographs. These are four garments built for the same occasion: warm-weather formal, made to your measurements, each with a different silhouette. If you are still choosing your own attire for a garden, vineyard, or outdoor wedding, each of these is an equally worthy starting point.
 
 [The Velvet Frock Coat](https://baronboutique.com/pirate-frock-coat/)
 
@@ -146,7 +146,7 @@ Ships via trackable courier worldwide. You receive tracking from dispatch. Order
 **We’re here if anything needs attention**  
 If a seam needs letting out or a button needs reinforcing after years, contact us. We’ve been doing this for over 25 years and we answer our emails.
 
-**Production:** 3 to 4 weeks per stage from measurement confirmation **Delivery:** 5 to 10 days after dispatch via trackable courier **Test coat:** Included at no charge
+**Production:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat **Delivery:** 5 to 10 days after dispatch via trackable courier **Test coat:** Included at no charge
 
 ---
 
@@ -244,7 +244,7 @@ Men’s Linen Frock Coat
  Summer Wedding Coat  
  Tailored Frock Coat  
  Linen Dress Coat  
- Made to Measure  
+ Custom Made  
  Canvas Front  
  Bespoke Frock Coat  
  Wedding Dress Coat
@@ -255,7 +255,7 @@ Men’s Linen Frock Coat
 - Men › Wedding Suits › Linen Wedding Suits
 - Men › Coats & Overcoats
 
-**Related terms:** linen dress coat, summer wedding coat, Victorian wedding coat, morning coat alternative, groom frock coat
+**Related terms:** linen dress coat, summer wedding coat, Victorian wedding coat, morning coat alternative, groom frock coat, mens frock coat
 
 ## Related
 

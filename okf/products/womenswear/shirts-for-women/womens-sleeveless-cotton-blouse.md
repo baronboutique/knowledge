@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # The Sculpted Sleeveless Blouse
@@ -90,7 +90,7 @@ For ultimate convenience, this blouse is machine washable.
 
 - Women › Shirts & Blouses
 
-**Related terms:** sleeveless shell top, cotton summer blouse, layering blouse
+**Related terms:** sleeveless shell top, cotton summer blouse, layering blouse, sculpted sleeveless blouse
 
 ## Related
 

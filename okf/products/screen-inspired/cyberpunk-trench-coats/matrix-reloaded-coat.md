@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat
@@ -240,7 +240,7 @@ There’s no other word to use except, the “ One” This coat is tailored perf
 - Screen Inspired › Cyberpunk Trench Coats
 - Men › Wedding Suits › Destination Wedding Suits
 
-**Related terms:** Neo trench coat, Matrix priest coat, Keanu Reeves coat, cyberpunk long coat, duster coat
+**Related terms:** Neo trench coat, Matrix priest coat, Keanu Reeves coat, cyberpunk long coat, duster coat, Matrix jacket, matrix coat, neo jacket, neo outfit
 
 ## Related
 

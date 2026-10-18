@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Light Gray Tailored Trousers in Melange Tropical Wool
@@ -90,7 +90,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -112,7 +112,7 @@ A light wool that recovers
 
 9 oz Super 140s tropical wool breathes in warm weather, and its natural spring lets creases from sitting drop out when the trousers hang overnight.
 
-Want more room through the hip and thigh? Our [tropical wool trousers](https:///womens-all-season-tropical-pants/) come in the same 14 cloths with a relaxed fit. For a dressier straight leg with a touch of cashmere, see our [formal pants for women](https:///womens-menswear-inspired-pants/).
+Want more room through the hip and thigh? Our [tropical wool trousers](https://baronboutique.com/womens-all-season-tropical-pants/) come in the same 14 cloths with a relaxed fit. For a dressier straight leg with a touch of cashmere, see our [formal pants for women](https://baronboutique.com/womens-menswear-inspired-pants/).
 
 ---
 
@@ -254,7 +254,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** light gray tailored trousers women, light gray slacks women, women's slacks, gray melange trousers, straight leg wool trousers
+**Related terms:** heathered trousers, gray melange pants for women, textured dress pants
 
 ## Related
 

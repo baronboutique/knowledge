@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's Twill Dress Shirts
@@ -74,7 +74,7 @@ Machine wash.
 
 - Men › Shirts
 
-**Related terms:** light blue office shirt, custom fitted dress shirt, blue twill work shirt, tailored shirt for suits, sky blue formal shirt
+**Related terms:** light blue office shirt, custom fitted dress shirt, blue twill work shirt, tailored shirt for suits, sky blue formal shirt, mens twill dress shirt
 
 ## Related
 

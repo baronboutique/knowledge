@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # The Unstructured Cotton Suit Slim Fit Custom Made
@@ -173,7 +173,7 @@ The upgraded cotton chino is currently available in 18 colors, including navy, b
 
 - Men › Suits & Blazers
 
-**Related terms:** unlined cotton suit, casual summer suit, soft shoulder suit
+**Related terms:** unlined cotton suit, casual summer suit, soft shoulder suit, unstructured suit, slim fit cotton suit
 
 ## Related
 

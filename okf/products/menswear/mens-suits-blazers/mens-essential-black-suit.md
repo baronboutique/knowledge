@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Men's Black Suit in Super 130s Worsted Wool
@@ -235,7 +235,7 @@ I bought two suits Really beautiful and great quality suit. The slim fit was per
 
 - Men › Suits & Blazers
 
-**Related terms:** black business suit, funeral suit, interview suit black, all purpose black suit, custom black two piece
+**Related terms:** black business suit, funeral suit, interview suit black, all purpose black suit, custom black two piece, men's super 130s worsted wool suit
 
 ## Related
 

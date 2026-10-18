@@ -3,7 +3,7 @@ type: Product Category
 title: "Frock Coats"
 description: "Made-to-order frock coats in wool and velvet with a true waist seam and full skirt, for weddings, stage, historical dress, and collectors."
 resource: https://baronboutique.com/menswear/frock-coats-for-men/
-tags: [men, frock-coat, victorian-style, dress-coat, tailcoat, morning-coat, steampunk, wedding, cosplay, bespoke, made-to-order]
+tags: [men, frock-coat, victorian-style, dress-coat, tailcoat, morning-coat, steampunk, wedding, cosplay, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/frock-coats-for-men/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Frock Coats
@@ -103,7 +103,7 @@ Your finished frock coat ships from Dubai by trackable courier, Your test coat t
 - [Time Lord Frock Coat (Oxford Blue)](../../products/menswear/time-lord-frock-coat-oxford-blue.md)
 - [Western Frock Coat in Wool, Custom Made](../../products/menswear/mens-frock-coat.md)
 
-**Related terms:** Victorian frock coat, men's long dress coat, steampunk coat, gothic wedding coat, custom frock coat
+**Related terms:** Victorian frock coat, men's long dress coat, steampunk coat, gothic wedding coat, custom frock coat, mens frock coat, modern frock coat, modern frock coat mens, mens frock coat uk, frock coat suit
 
 ## Related
 

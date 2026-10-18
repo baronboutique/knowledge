@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # 12th Doctor Maroon Red Velvet Coat
@@ -92,7 +92,7 @@ Excellent coat i liked how it turned out and great attention to detail highly re
 - Men › Coats & Overcoats
 - Screen Inspired › Doctor Collection
 
-**Related terms:** Capaldi burgundy coat, 12th Doctor maroon velvet coat, Doctor Who velvet coat, crombie style coat
+**Related terms:** Capaldi burgundy coat, 12th Doctor maroon velvet coat, Doctor Who velvet coat, crombie style coat, 12th doctor velvet coat
 
 ## Related
 

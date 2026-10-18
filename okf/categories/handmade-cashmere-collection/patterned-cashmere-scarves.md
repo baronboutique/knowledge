@@ -3,7 +3,7 @@ type: Product Category
 title: "Patterned Cashmere Scarves"
 description: "Suiting Patterns, Woven and Printed in Cashmere Glen plaid, houndstooth, tartan and check are suiting patterns before they are scarf patterns — we have been cutting them into jackets for twenty-five years. Here they are woven into cashmere in twill, diamond and pearl structures, alongside hand-printed leopard, nature and celestial designs. All 100% Grade A Himalayan cashmere."
 resource: https://baronboutique.com/handmade-cashmere-collection/patterned-cashmere-scarves/
-tags: [patterned-cashmere-scarves, patterned, cashmere, scarves, bespoke, made-to-order, baron-boutique]
+tags: [women, cashmere, scarves, patterned, plaid, houndstooth, tartan, printed, himalayan, handmade, heirloom]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/handmade-cashmere-collection/patterned-cashmere-scarves/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Patterned Cashmere Scarves
@@ -67,6 +67,8 @@ Three weave structures and one print method
 - [Red Houndstooth Cashmere Scarf – Hand-Finished in Diamond Weave](../../products/handmade-cashmere-collection/red-houndstooth-cashmere-scarf.md)
 - [Solar and Lunar Print Cashmere Loom Scarf](../../products/handmade-cashmere-collection/solar-lunar-print-cashmere-loom-scarf.md)
 - [The Sunflower-Embroidered Baby Blue Cashmere Wrap](../../products/handmade-cashmere-collection/baby-blue-sunflower-embroidered-cashmere-shawl.md)
+
+**Related terms:** plaid cashmere scarf, printed cashmere shawl, leopard print pashmina, tartan cashmere wrap
 
 ## Related
 

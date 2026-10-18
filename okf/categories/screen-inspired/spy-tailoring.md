@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Spy Tailoring
@@ -91,7 +91,7 @@ Try on the test garment and note anything that needs adjusting — jacket length
 - [Mens Fitted Peacoat Black Quantum Of Solace Ending](../../products/menswear/quantum-of-solace-peacoat.md)
 - [Silk Nehru Jacket James Bond Dr. No](../../products/screen-inspired/spy-tailoring/dr-no-silk-jacket.md)
 
-**Related terms:** James Bond suits, 007 style clothing, Daniel Craig suit replica, Bond coat, spy movie outfits
+**Related terms:** James Bond suits, 007 style clothing, Daniel Craig suit replica, Bond coat, spy movie outfits, james bond linen suit
 
 ## Related
 

@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-27T14:13:23Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 Baron Boutique offers a bespoke cashmere gifting service for life's most meaningful occasions, including weddings, corporate milestones, baby showers, and personal celebrations. Each piece is handwoven in Nepal by artisan partners using the world’s finest cashmere. We offer fully personalized options, including Pantone-matched colors, custom monograms, delicate scent infusions, and eco-friendly luxury packaging, with flexible minimums starting at just 6 pieces per style.
@@ -393,7 +393,7 @@ Also in the Collection
  [Cashmere Sweaters & Knitwear](/handmade-cashmere-collection/cashmere-sweaters-knitwear/) ·  
  [Corporate Gifts](/custom-corporate-gifts/) ·
 
-**Related terms:** personalized cashmere gifts, corporate gifting cashmere, monogrammed scarf, wedding party gifts, bespoke gift service
+**Related terms:** personalized cashmere gifts, corporate gifting cashmere, monogrammed scarf, wedding party gifts, bespoke gift service, custom cashmere scarf, personalized cashmere scarf, customized cashmere shawl blue, custom cashmere knit scarf
 
 ## Related
 

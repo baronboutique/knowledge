@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # 12th Doctor Who Series 9 Coat
@@ -166,7 +166,7 @@ Perfect really Yeah so I've owned this for a few months now and have been using 
 - Men › Coats & Overcoats
 - Screen Inspired › Doctor Collection
 
-**Related terms:** Peter Capaldi coat, 12th Doctor crombie coat, Doctor Who series 9 coat, Time Lord overcoat
+**Related terms:** Peter Capaldi coat, 12th Doctor crombie coat, Doctor Who series 9 coat, Time Lord overcoat, twelfth doctor coat, 12th doctor outfit
 
 ## Related
 

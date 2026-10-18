@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:25:12Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
 ---
 
 # Royal Blue Essential Wrap in Diamond Weave Cashmere
@@ -88,9 +88,9 @@ The Color
 | Royal blue (this wrap) | A bright, clear medium blue. Strong without being neon. |
 | --- | --- |
 | Cobalt blue | Similar, a little greener and more electric. If you searched for a cobalt blue cashmere scarf or a bright blue cashmere scarf, royal blue is the nearest we make. |
-| Indigo | Darker, with a violet cast; see our **[Indigo Blue cashmere shawl](https:///indigo-blue-handwoven-cashmere-scarf-shawl/)**. |
+| Indigo | Darker, with a violet cast; see our **[Indigo Blue cashmere shawl](https://baronboutique.com/indigo-blue-handwoven-cashmere-scarf-shawl/)**. |
 | Navy | Darker still, close to black. |
-| Light blue | For a pale blue, see our **[Aquamarine Blue cashmere shawl](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/)**. |
+| Light blue | For a pale blue, see our **[Aquamarine Blue cashmere shawl](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/)**. |
 
 Compared with a royal blue silk scarf, a silk scarf in royal blue, or a royal blue satin scarf, this cashmere one has the same strong color with a soft, matte surface, and it is warm. In royal blue silk scarf fashion the color shines; in cashmere it glows softly. A royal blue wool scarf in ordinary wool would be heavier and scratchier at the same warmth. Blue cashmere, in a royal blue cashmere fabric this fine, holds its color well and drapes softly.
 
@@ -117,7 +117,7 @@ The Fiber Up Close
 
 A cashmere fiber macro shows why it feels soft: each fiber is 14 to 16 microns across, several times finer than a typical human hair, and naturally crimped. In cashmere wool fibers macro photos, real cashmere looks fine and slightly hazy; in a cashmere wool fiber macro of a blend, you see thicker, straighter wool or shiny synthetic strands.
 
-In a fine cashmere fibers macro like the yarn above, the cashmere fibers macro detail shows a soft halo around each thread. A cashmere yarn macro or cashmere yarn texture macro should look fuzzy, not glossy. In a cashmere fiber texture macro, the fiber looks wavy and fine. Seen as a cashmere scarf close up, the fabric detail is soft and matte, and a cashmere pashmina scarf close up texture looks the same when it is real cashmere. A cashmere wool texture macro or a cashmere fabric fibers macro of the woven cloth shows the same soft haze. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https:///aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
+In a fine cashmere fibers macro like the yarn above, the cashmere fibers macro detail shows a soft halo around each thread. A cashmere yarn macro or cashmere yarn texture macro should look fuzzy, not glossy. In a cashmere fiber texture macro, the fiber looks wavy and fine. Seen as a cashmere scarf close up, the fabric detail is soft and matte, and a cashmere pashmina scarf close up texture looks the same when it is real cashmere. A cashmere wool texture macro or a cashmere fabric fibers macro of the woven cloth shows the same soft haze. To test any scarf at home, see our **[guide to telling real cashmere from a blend](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/#bb-real)**.
 
 | 14 to 16 microns | Under US labeling rules, cashmere must average 19 microns or finer. This fiber is finer still. |
 | --- | --- |
@@ -130,7 +130,7 @@ Customized
 
 ## A Customized Cashmere Shawl in Blue
 
-Looking for a customized cashmere shawl in blue? We embroider initials, a name, a date or a logo on request, and whether a design suits this weave depends on the design, so email us first for a quote and a stitch proof. Personalized pieces are custom-made and cannot be returned. For several pieces, see **[personalized cashmere gifts](https:///custom-cashmere-gifts/)** and **[custom corporate gifts](https:///custom-corporate-gifts/)**.
+Looking for a customized cashmere shawl in blue? We embroider initials, a name, a date or a logo on request, and whether a design suits this weave depends on the design, so email us first for a quote and a stitch proof. Personalized pieces are custom-made and cannot be returned. For several pieces, see **[personalized cashmere gifts](https://baronboutique.com/custom-cashmere-gifts/)** and **[custom corporate gifts](https://baronboutique.com/custom-corporate-gifts/)**.
 
 ---
 

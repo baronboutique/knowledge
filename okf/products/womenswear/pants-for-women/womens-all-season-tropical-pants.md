@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Relaxed Fit Trousers in Super 140s Tropical Wool
@@ -90,7 +90,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -109,7 +109,7 @@ The difference between relaxed and sloppy is where the room goes. This is how th
 
 Tuck in a blouse or a fine knit to show the fitted waist; the grip-lined waistband keeps it in place through the day. A jacket that ends at the hip keeps the proportions balanced.
 
-Prefer a straight leg? Our [light gray tailored trousers](https:///womens-melange-dress-pants/) are cut from the same 14 tropical wools. For very hot days, our [wide leg linen pants](https:///womens-classic-linen-pants/) keep the relaxed feel in pure linen.
+Prefer a straight leg? Our [light gray tailored trousers](https://baronboutique.com/womens-melange-dress-pants/) are cut from the same 14 tropical wools. For very hot days, our [wide leg linen pants](https://baronboutique.com/womens-classic-linen-pants/) keep the relaxed feel in pure linen.
 
 ---
 
@@ -257,7 +257,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** relaxed fit trousers women, tropical wool trousers, breathable work pants, lightweight wool trousers, relaxed work pants
+**Related terms:** travel trousers, four season pants, breathable dress pants
 
 ## Related
 

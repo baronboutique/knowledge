@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/destination-wedding-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Destination Wedding Suit with Cape, Custom Made in Fresco Wool
@@ -102,7 +102,7 @@ Also at This Wedding
 
 ## Dress the Whole Wedding, Not Just the Groom
 
-A destination wedding is not just a suit — it is a coordinated visual statement that lives in photographs for decades. The groom makes the first decision. The wedding party, the guests, and everyone standing beside you build on it. These are four garments that belong at the same occasion — made to measure, built for ceremony, each carrying a different silhouette. If you have not yet committed to your own attire, every one of these is designed to be the garment people remember.
+A destination wedding is not just a suit — it is a coordinated visual statement that lives in photographs for decades. The groom makes the first decision. The wedding party, the guests, and everyone standing beside you build on it. These are four garments that belong at the same occasion, made to your measurements, built for ceremony, each carrying a different silhouette. If you have not yet committed to your own attire, every one of these is designed to be the garment people remember.
 
 [The Groom in a Velvet Frock Coat](https://baronboutique.com/pirate-frock-coat/)
 
@@ -118,7 +118,7 @@ A Super 120s wool flannel tuxedo in burgundy — for the groom whose destination
 
 [The Wedding Party in a Classic Tuxedo](https://baronboutique.com/mens-navy-herringbone-wool-tuxedo/)
 
-A navy herringbone wool tuxedo for groomsmen and guests who want to complement the groom’s statement piece with something formally precise — a different visual register, equally made to measure. [View this garment →](https://baronboutique.com/mens-navy-herringbone-wool-tuxedo/)
+A navy herringbone wool tuxedo for groomsmen and guests who want to complement the groom’s statement piece with something formally precise: a different visual register, equally made to your measurements. [View this garment →](https://baronboutique.com/mens-navy-herringbone-wool-tuxedo/)
 
 ---
 
@@ -259,7 +259,7 @@ The most accurate and high quality Count Dooku tunic and pants you could ask for
 
 - Men › Wedding Suits › Destination Wedding Suits
 
-**Related terms:** cape wedding suit, groom cape outfit, mandarin collar wedding suit, destination wedding attire
+**Related terms:** cape wedding suit, groom cape outfit, mandarin collar wedding suit, destination wedding attire, wedding suit with cape, suit with cape, wedding cape groom, wedding cape men, wedding suit cape, suits with capes
 
 ## Related
 

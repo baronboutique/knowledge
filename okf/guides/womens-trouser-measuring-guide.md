@@ -3,7 +3,7 @@ type: Guide
 title: "Women’s Trouser Measuring Guide"
 description: "Step-by-step guide on how to measure for a woman's trousers. Learn to measure waist, trouser length, & more with clear images & easy instructions."
 resource: https://baronboutique.com/womens-trouser-measuring-guide/
-tags: [women, measuring-guide, body-measurements, how-to-measure, dress-measurements, made-to-measure, guide]
+tags: [women, pants, trousers, measuring-guide, body-measurements, how-to-measure, made-to-measure, guide]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/womens-trouser-measuring-guide/
@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T12:59:25Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
 ---
 
 # Women’s Trouser Measuring Guide
@@ -184,7 +184,7 @@ That is exactly why we send a free test garment. Give us your best measurements,
 
 **Measurements taken?** Browse [women’s pants](/womenswear/pants-for-women/), or [message us](/contact-baron/) with your numbers and any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
-**Related terms:** how to measure for a dress, women's measurement guide, bust waist hip measurements, measure yourself for tailoring
+**Related terms:** how to measure for women's trousers, trouser measurement guide, pants measuring instructions
 
 ## Related
 

@@ -3,7 +3,7 @@ type: Product Category
 title: "Wedding Suits"
 description: "Made-to-order wedding suits for grooms, cut from an individual pattern, including three-piece, linen, and destination-wedding tailoring."
 resource: https://baronboutique.com/menswear/wedding-suits/
-tags: [men, wedding-suit, groom-suit, groomsmen, linen-suit, silk-suit, summer-wedding, destination-wedding, bespoke, made-to-order]
+tags: [men, wedding-suit, groom-suit, groomsmen, linen-suit, silk-suit, summer-wedding, destination-wedding, cape, made-to-measure, bespoke, made-to-order]
 sources:
   - id: canonical-page
     resource: https://baronboutique.com/menswear/wedding-suits/
@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
 ---
 
 # Wedding Suits
@@ -88,8 +88,8 @@ Before any final cloth is cut, we build a test suit in a low-cost fabric to your
 
 ## Products
 
-- [Black Mohair Tuxedo, Made to Measure](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
-- [Blue Linen Suit for Men, Made to Measure](../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
+- [Black Mohair Tuxedo, Made to Your Measurements](../../products/menswear/tuxedos/essential-black-mohair-wool-tuxedo-2-button.md)
+- [Blue Linen Suit for Men, Made to Your Measurements](../../products/menswear/grooms-linen-suits-for-wedding/linen-suits-for-men.md)
 - [Destination Wedding Suit with Cape, Custom Made in Fresco Wool](../../products/menswear/destination-wedding-suits/destination-wedding-suit.md)
 - [Linen Wedding Suit for Grooms, Custom Made](../../products/menswear/grooms-linen-suits-for-wedding/grooms-linen-suit-for-wedding.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/frock-coats-for-men/mens-linen-frock-coat-summer-wedding.md)
@@ -102,7 +102,7 @@ Before any final cloth is cut, we build a test suit in a low-cost fabric to your
 - [Velvet Groomsmen Blazer – Handmade for Weddings](../../products/menswear/velvet-groomsmen-blazer-handmade-weddings.md)
 - [Western Frock Coat in Wool, Custom Made](../../products/menswear/mens-frock-coat.md)
 
-**Related terms:** groom suits online, custom wedding suit for men, beach wedding attire men, tailored groom outfit, made-to-order wedding suit
+**Related terms:** groom suits online, custom wedding suit for men, beach wedding attire men, tailored groom outfit, made to measure wedding suit, wedding suit with cape, mens wedding cape, wedding tuxedo with cape, mens wedding suit with cape, wedding cape men, tailored wedding suits, suits with capes, wedding costume for men, mens suit with cape, suit cape, tuxedo with cape, suits with capes for men, wedding suits for groom, custom wedding suits for groom, groom suit with cape
 
 ## Related
 

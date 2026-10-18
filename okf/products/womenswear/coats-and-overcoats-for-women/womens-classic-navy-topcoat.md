@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Navy Wool Cashmere Coat Womens Tailored Single Breasted"
-description: "Meet the hardest-working coat in your wardrobe. Custom-tailored from a luxurious wool-cashmere blend, this timeless single-breasted coat offers unparalleled warmth and effortless elegance."
+title: "Women's Navy Wool Cashmere Coat, Tailored Single-Breasted"
+description: "A women's navy wool cashmere coat for every morning of every winter: knee length, single-breasted and cut to your measurements in 95% wool and 5% cashmere with a canvas front."
 resource: https://baronboutique.com/womens-classic-navy-topcoat/
 tags: [women, topcoat, overcoat, wool-cashmere, navy, winter-coat, workwear, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/womens-classic-navy-topcoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-14
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
-# Navy Wool Cashmere Coat Womens Tailored Single Breasted
+# Women's Navy Wool Cashmere Coat, Tailored Single-Breasted
 
 **SKU:** 3400002  
 **URL:** https://baronboutique.com/womens-classic-navy-topcoat/  
@@ -35,64 +35,171 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Meet the hardest-working coat in your wardrobe. Custom-tailored from a luxurious wool-cashmere blend, this timeless single-breasted coat offers unparalleled warmth and effortless elegance. It is the one essential piece that instantly elevates everything you wear.
+A women's navy wool cashmere coat for every morning of every winter: knee length, single-breasted and cut to your measurements in 95% wool and 5% cashmere with a canvas front. Navy outlasts black, the blend outlasts pure cashmere, and a free test coat in cotton settles the fit first. 95% wool, 5% cashmere, navy by default Three-button front, notch lapels, chest pocket Knee length; slim, standard or relaxed fit Satin lining in your color, black horn buttons Free test coat in cotton, yours to keep
 
-## The Cornerstone of Elegance
+The Coat
 
-This is the one coat every woman needs in her wardrobe—the definition of timeless style and quiet confidence, now perfected with a custom fit. We’ve taken the classic single-breasted silhouette and elevated it with a luxurious wool-cashmere blend and bespoke-level tailoring, creating the ultimate staple piece for any occasion.
+## A Women’s Navy Wool Cashmere Coat for Six Hundred Mornings
 
-### A Luxurious Alliance of Wool & Cashmere
+Wear a winter coat most days from November to March and you put it on around six hundred times in five winters, over a suit, a dress and jeans. If it fights with even one of them, it goes back in the wardrobe. This is a women’s navy wool cashmere coat built to agree with all of them: a knee-length, single-breasted tailored coat in 95% wool and 5% cashmere, cut to your measurements with a canvas front.
 
-The soul of this coat lies in its exquisite fabric, chosen for its perfect balance of softness, warmth, and structure.
+It is the classic navy coat, women’s tailoring at its plainest: three buttons, notch lapels, a chest pocket and a center vent. No trend detail to date it, and every measurement checked first in a free test coat.
 
-- **Luxe Wool-Cashmere Blend:** Tailored from a beautiful fabric blend of **95% wool and 5% cashmere**, offering the durable warmth and structure of wool with the exceptional softness of cashmere.
-- **A Palette of Classic Neutrals:** Choose from 6 versatile, sophisticated shades including classic navy, camel, charcoal, and black—designed to complement your entire wardrobe for years to come.
+Navy wool cashmere  
+ 95% wool, 5% cashmere  
+ Knee length  
+ Canvas front  
+ Free test coat
 
-### The Art of Classic Tailoring
+**Price:** $829 **Cloth:** 95% wool, 5% cashmere, navy by default **Lining:** satin, chosen in the selector **Length:** knee length **Test coat:** free, yours to keep **Care:** dry clean
 
-This coat is defined by the high-end construction that ensures a sharp, elegant silhouette and a lifetime of wear.
+---
 
-- **Timeless Single-Breasted Cut:** The eternally stylish **3-button, single-breasted front** offers unmatched versatility, pairing perfectly with everything from business suits to formal dresses.
-- **Full Canvas Construction:** The hallmark of superior tailoring, a **full canvas front** provides warmth and structure, allowing the coat to mold perfectly to your body over time.
-- **Fully Lined for Comfort:** A complete interior lining ensures the coat glides effortlessly over your clothing, providing easy layering and a smooth, comfortable feel.
+Free Test Coat
 
-### Your Perfect Fit, Guaranteed: The Free Test Coat
+## Six Hundred Mornings Start With One Fitting
 
-A coat this essential must fit perfectly. We eliminate the risk and anxiety of ordering online by sending you a **free test coat** first.
+A coat worn over everything has to be fitted over everything. In the cotton test coat you check it over your thickest knit and your slimmest dress, choose a slim, standard or relaxed fit, and tell us the sleeve and hem length you want.
 
-1. **Receive Your Test Garment:** We mail you a test coat made in cotton to your exact initial measurements and preferred fit (e.g., slim, standard fit, or relaxed).
-2. **Confirm Your Fit:** Try it on at home. You can then request any adjustments to the fit, size, or styling details.
-3. **We Craft Your Final Masterpiece:** We apply your feedback to tailor the final wool-cashmere blend coat for a perfect, personalized fit.
+1
 
-The test coat is yours to keep.
+**Choose your cloth and lining, then enter your measurements**  
+ Pick your cloth color and satin lining in the selector, then enter your measurements on the product page, with the length you want. Any style change goes in the comment box on the measurement form.
 
-#### Caring For Your Coat
+2
 
-To maintain its beauty and structure, we recommend dry-cleaning only.
+**We make your free test coat**  
+ A test coat in cotton, cut to your measurements, takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch by trackable courier.
 
-#### Navy Wool Cashmere Coat Women’s Feature
+3
 
-- tailored from 95% wool and 5% cashmere blend fabric in plain cloth
-- hand basted full canvas front coat
-- single-breasted style
-- 3 buttons coat fastening
-- hand stitched minimal shoulder pads
-- medium width notch lapels (2.5 inches to 3 inches)
-- grey under collar felt
-- chest welt pocket
-- horizontal hip pockets with flap
-- hand made buttonholes
-- fully-lined in acetate
-- hand stitched armholes
-- two internal pockets
-- center back vent
-- straight coat front hem
-- 3 buttons vented sleeve cuffs
-- kissing sleeve buttons stance
-- hand made black horn buttons
-- stitched and reinforced coat buttons by hand
-- ample coat seam allowances for future alteration
-- knee length
+**You try it on at home**  
+ Check the shoulders, the sleeve length, the button point and the length over the clothes you will wear underneath, and tell us any change, however small.
+
+4
+
+**We make the final coat**  
+ We apply every change, then make the final coat in navy wool cashmere in 3 to 4 weeks; it arrives 5 to 10 days after dispatch. The test coat is yours to keep.
+
+---
+
+How Much Cashmere
+
+## How Much Cashmere Should a Coat Have?
+
+This coat is 95% wool and 5% cashmere, and we say so plainly, because many coats sold as a navy cashmere coat are mostly wool too. The 5% cashmere softens the hand and the drape; the wool takes the wear at the cuffs, pockets and collar, where a 100% cashmere overcoat would rub thin first. For a coat you will wear every day, this blend lasts longer. Many women wear a navy cashmere overcoat over a suit jacket, and this one goes on without pulling, because the fit is set in the test coat.
+
+| Wool cashmere coat (this one) | 95% wool, 5% cashmere. Soft, warm, hard-wearing, holds a tailored shape. |
+| --- | --- |
+| 100% cashmere overcoat | Softer still, but wears faster at the edges and creases more easily. |
+| Plain wool coat | Hard-wearing, but firmer and less soft against the neck. |
+
+If you searched for a cashmere coat, women’s sizes in navy, or a navy cashmere coat for ladies, this is that coat, described honestly. For a double-breasted wool and cashmere coat, see our **[women’s double-breasted wool cashmere coat](https://baronboutique.com/womens-double-breasted-wool-cashmere-coat/)**.
+
+---
+
+Why Navy
+
+## Why a Navy Blue Long Coat for Women Outlasts Black
+
+Black shows every speck of lint and every fade; navy hides both and looks richer in daylight. A navy long coat also goes with brown shoes and black shoes alike, which black does less easily. That is why a long navy wool coat for women is the one we usually suggest as a first good coat.
+
+The navy is deep and slightly blue, so this is a navy blue cashmere coat rather than a black one in disguise. It also comes in other wool cashmere colors, such as black, camel and charcoal.
+
+---
+
+What to Wear
+
+## Navy Blue Coat Outfits for Women
+
+| Over a suit | Gray or charcoal suiting under a navy tailored wool coat is the classic work outfit. |
+| --- | --- |
+| Over a dress | Knee length covers most day dresses; choose a longer hem on the measurement form for midi dresses. |
+| With jeans | Navy over denim and a white shirt is the easiest weekend navy blue coat outfit. |
+| With camel or cream | A camel scarf or cream knit lifts the navy for winter evenings. |
+
+Is it a blazer? No. This is not a women’s navy cashmere blazer; it is a knee-length coat, cut long enough to cover a blazer or a suit jacket underneath. For a slim fit navy wool and cashmere coat, choose slim in the test coat and it will close neatly over a jacket.
+
+---
+
+Full Spec
+
+## Women’s Navy Wool Cashmere Coat, Specification
+
+| Cloth | 95% wool, 5% cashmere, plain weave; navy by default |
+| --- | --- |
+| Lining | Satin, chosen in the selector |
+| Front | Single-breasted, three buttons |
+| Lapels | Medium notch lapels, 2.5 to 3 inches, gray felt under collar |
+| Construction | Canvas front, minimal shoulder pads, hand-stitched armholes, hand-finished buttonholes |
+| Pockets | Chest welt pocket, hip pockets with flaps, two interior pockets |
+| Cuffs | Three-button vented cuffs |
+| Buttons | Black horn, hand-stitched and reinforced |
+| Back | Center vent |
+| Length | Knee length; any length on request |
+| Fit | Slim, standard or relaxed, set in the test coat |
+| Test coat | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean only |
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Navy Wool Cashmere Coat
+
+### Is this a 100% cashmere coat?
+
+No, it is 95% wool and 5% cashmere. The cashmere softens the cloth and the wool makes it hard-wearing at the cuffs and pockets.
+
+### Why not 100% cashmere?
+
+A 100% cashmere overcoat is softer but wears thin faster at the edges and creases more. For a coat worn every day, a wool cashmere blend lasts longer.
+
+### How long is the coat?
+
+It is knee length as standard. Enter a longer length on the measurement form if you want a long navy wool coat to the calf.
+
+### Is navy a better first coat than black?
+
+In our experience, for most clients, yes, because navy hides lint and fading and goes with both black and brown shoes. Black is offered too.
+
+### What colors does it come in?
+
+Navy by default, and other wool cashmere colors such as black, camel and charcoal. The selector shows every cloth and satin lining on offer.
+
+### Can I have a slim fit?
+
+Yes, choose slim, standard or relaxed, and check it in the test coat over the clothes you wear underneath.
+
+### How does the free test coat work?
+
+We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the wool cashmere. The test coat is yours to keep.
+
+### How long does it take?
+
+The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+
+### Can I change details, such as the length?
+
+Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+
+### How do I care for it?
+
+Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger.
 
 ## Categories
 

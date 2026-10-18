@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 ---
 
 # Women's Lined Wool Trousers in Super 160s Wool
@@ -89,7 +89,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 **Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
 
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https:///womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https:///womens-trouser-fit-guide/) shows how trousers should fit.
+Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
 
 ---
 
@@ -131,7 +131,7 @@ Many trousers sold as wool are wool blends: wool mixed with polyester or viscose
 
 The cloth is a 9 oz Super 160s worsted wool with a plain weave. That weight is light enough for heated offices and warm days, and the fine yarn gives it a smooth, soft hand and a clean drape that hangs straight from the hip. It is a seasonless cloth: you can wear it through most of the year, and full lining adds warmth when it is cold.
 
-Need back pockets you can use? Our [women’s dress pants with back pockets](https:///womens-warm-weather-wool-pants/) are cut in a lighter mohair wool blend. For a menswear-inspired straight leg, see our [formal pants for women](https:///womens-menswear-inspired-pants/).
+Need back pockets you can use? Our [women’s dress pants with back pockets](https://baronboutique.com/womens-warm-weather-wool-pants/) are cut in a lighter mohair wool blend. For a menswear-inspired straight leg, see our [formal pants for women](https://baronboutique.com/womens-menswear-inspired-pants/).
 
 ---
 
@@ -283,7 +283,7 @@ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatc
 
 - Women › Pants
 
-**Related terms:** women's wool trousers lined, lined wool dress pants, fully lined wool trousers, wool trousers for sensitive skin, 100% wool trousers not blend, tailored wool trousers women, women's tailored work pants
+**Related terms:** year round wool trousers, classic work pants, four season trousers
 
 ## Related
 
