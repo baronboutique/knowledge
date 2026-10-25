@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-pea-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-14T10:09:29Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Wool Pea Coat, Double-Breasted
@@ -182,35 +182,43 @@ The shoulder seam should sit at the edge of your shoulder, the double-breasted f
 
 ### How warm is this peacoat?
 
-Very warm, because it is dense Melton wool of about 450 to 500 gsm, double layered across the chest. The buttoned neck tab closes the collar against wind.
+Very warm, because it is dense Melton wool of about 450 to 500 gsm, double layered across the chest. The buttoned neck tab closes the collar against wind, and the half belt keeps the back from filling with air.
 
 ### Is it a lightweight peacoat?
 
-No, it is a winter weight. A lighter cloth can be requested in the comment box on the measurement form.
+No, it is a winter weight. A lighter cloth can be requested in the comment box of the measurement form, or by email with your order number.
 
-### What length is it?
+### What length should a women’s peacoat be?
 
-It is mid-thigh, often called a 3/4 length peacoat. Enter a different length on the measurement form if you want it longer or shorter.
+Between the hip and mid-thigh. This one is mid-thigh, often called a 3/4 length peacoat, which covers a longer sweater and suits most heights. Petite women often choose a little shorter; enter the length you want on the measurement form.
 
 ### Does it come in turquoise or teal?
 
-Yes, the photos show turquoise Melton, and teal is also offered in the same Melton.
+Yes. The photos show turquoise Melton, and teal is offered in the same Melton, along with classic navy, black and charcoal.
 
 ### What is the difference between a pea coat and a peacoat?
 
 None, they are the same coat spelled two ways. Women’s peacoats are usually cut shorter and more fitted than men’s.
 
-### How does the free test coat work?
+### What do I wear with a turquoise peacoat?
 
-We make the coat in cotton to your measurements, you try it at home over a sweater and tell us any change, and then we cut the Melton. The test coat is yours to keep.
+Navy, black, white and camel all work. Dark jeans and a cream knit make it an everyday coat; with a black dress it becomes an evening one.
 
-### How long does it take?
+### Can I change the buttons or remove the belt?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Yes. Write it in the comment box of the measurement form, or email us with your order number. Different buttons, no half belt or a longer hem are all possible.
 
-### Can I change details, such as the length?
+### How do I measure without a tailor nearby?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+A helper makes it easier. On your own, measure bust, natural waist and hips, then a coat that fits you well over a sweater; we can guide you by video call or WhatsApp.
+
+### Can I see the Melton first?
+
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 3400005 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the peacoat take?
+
+We make the cotton test coat in 3 to 4 weeks, and it arrives 5 to 10 days after dispatch. After you approve the fit, the Melton peacoat takes 3 to 4 weeks more and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 

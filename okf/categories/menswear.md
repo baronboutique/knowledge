@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Men
@@ -125,7 +125,6 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](../products/menswear/mens-glen-plaid-cashmere-scarf-tan-white.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](../products/menswear/mens-gray-pinstripe-pants.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](../products/menswear/mens-navy-peacoat.md)
-- [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](../products/menswear/mens-pashmina-shawl-handwoven.md)
 - [Men's Tailored Linen Pants](../products/menswear/tailored-fit-dark-blue-linen-pants.md)
 - [Mens 100% Cashmere Scarf 22×72 Inches Long Soft Non-Irritating 80+ Colors](../products/menswear/mens-100-cashmere-scarf-soft-non-irritating.md)
 - [Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors](../products/menswear/mens-aviator-silk-neck-scarf.md)

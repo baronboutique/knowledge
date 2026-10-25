@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/our-services/
     title: "Our Services"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-21
+    last_modified: 2026-10-19
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-21T09:22:25Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: human:baron-boutique, at: 2026-10-19T08:22:07Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-19T08:36:49Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-19T08:36:49Z }
 ---
 
 Baron Boutique operates as a made-to-order tailoring house. Every garment is cut after it is ordered, to one person's measurements, in the fabric they chose, and no ready-made stock is held. Bespoke tailoring includes a hand-cut pattern and a fitting prototype. Garments made to your measurements use a pattern built from scratch with a free test fit and post-delivery alteration support at no extra cost. Cut, make and trim covers client-supplied designs, patterns or fabric. Prototype development has no minimum. Small-batch production starts at 5 pieces per style. Alterations are accepted on garments bought anywhere, with the client covering shipping in both directions. Everything is made in the company's own atelier in Kathmandu and shipped worldwide through FedEx, DHL or UPS with tracking. Timelines are quoted per project rather than published, because they depend on complexity, material availability and how quickly measurements are returned.
@@ -87,6 +87,7 @@ Request Bespoke Consultation
 
 - Professionals who want the fit without the fitting appointments
 - Grooms and groomsmen
+- Anyone after silk pajamas, a robe or a dressing gown that fits, through our [bespoke silk sleepwear](https://baronboutique.com/bespoke-silk-sleepwear-robes/) service
 - Cosplayers working to a deadline
 - Retailers ordering for a named customer
 
@@ -158,8 +159,9 @@ Begin Your Prototype Request
 - Brands that would rather not overproduce
 - Startups that need hands-on production support
 
-If you are scaling past this, our [private label program](https://baronboutique.com/private-label/) takes it from 10 pieces per style with your own labels fitted in production, and our [retail partnerships](https://baronboutique.com/retailers-wholesale-program/) program supplies boutiques at wholesale.  
- Inquire About a Production Run
+If you are scaling past this, our [private label program](https://baronboutique.com/private-label/) takes it from 10 pieces per style with your own labels fitted in production, and our [retail partnerships](https://baronboutique.com/retailers-wholesale-program/) program supplies boutiques at wholesale.
+
+Inquire About a Production Run
 
 ## Alteration Services
 
@@ -180,8 +182,9 @@ If you are scaling past this, our [private label program](https://baronboutique.
 - Brides, grooms and guests revisiting formalwear
 - Long-time customers keeping favorite pieces going
 
-Alteration requests are assessed on garment construction and feasibility, and pricing depends on the complexity of the work. You cover shipping in both directions. Send it back and we will take care of the rest.  
- Request an Alteration
+Alteration requests are assessed on garment construction and feasibility, and pricing depends on the complexity of the work. You cover shipping in both directions. Send it back and we will take care of the rest.
+
+Request an Alteration
 
 ## What We Will and Will Not Promise
 

@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:19:23Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Emerald Green Handwoven Cashmere Scarf Shawl
@@ -174,7 +174,7 @@ Other Greens
 
 For a darker, deeper green, see **[Forest Green](https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/)**. For a lighter green that leans blue, see **[Light Teal Green](https://baronboutique.com/light-teal-green-handwoven-cashmere-scarf-shawl/)**, and for a soft green, **[Willow Green](https://baronboutique.com/willow-green-handwoven-cashmere-scarf-shawl/)**. One client ordered Emerald, Light Teal Green and Willow Green together.
 
-If you need a green that is not here, our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** comes in more than 80 colors at a similar weight. You can also browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+If you need a green that is not here, our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** comes in a wide range of colors at a similar weight. You can also browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 

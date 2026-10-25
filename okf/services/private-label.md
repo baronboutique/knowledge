@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/private-label/
     title: "Private Label"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-23
+    last_modified: 2026-10-19
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-09-23T16:24:56Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: human:baron-boutique, at: 2026-10-19T05:51:09Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-19T08:36:49Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-19T08:36:49Z }
 ---
 
 Baron Boutique produces cashmere knitwear, handwoven cashmere accessories and tailored garments for established fashion brands under the brand's own label. Every knitted piece is 100% Grade A cashmere or a cashmere blend with silk, cotton or merino; the company does not knit in cotton, acrylic or general yarns. Knitwear covers sweaters, cardigans, belted robes and longline knitted layers for men and women, with women's knitwear the larger part of the line. Yarn dyeing as well as piece dyeing makes stripes and color blocking possible. Handwoven accessories cover scarves, shawls, stoles and throws in over 350 hand-dyed azo-free colors with Pantone matching. Minimum order is 6 pieces per style per color for cashmere knitwear and accessories and 10 pieces per style for tailored garments. A tailored sample takes about 3 to 4 weeks. Production runs about 5 to 7 weeks for cashmere and 6 to 8 weeks for tailoring, counted from sample approval. Repeat orders of an established style carry no minimum and can be a single piece. Orders run on a deposit and balance basis. A design developed for one private label client is not sold to another. Everything is made in the company's own atelier in Kathmandu, with nothing subcontracted, and shipped worldwide with export documentation handled.

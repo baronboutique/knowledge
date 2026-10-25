@@ -9,14 +9,15 @@ sources:
     resource: https://baronboutique.com/orange-cashmere-dropped-shoulder-boxy-sweater/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-20
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-10-20T08:10:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Orange Cashmere Dropped Shoulder Sweater

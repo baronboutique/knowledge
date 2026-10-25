@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Accessories
@@ -77,7 +77,7 @@ Your accessories ship from Dubai by trackable courier. Every piece, including pe
 
 - [Hand Finished Silk Pocket Squares](../../products/menswear/silk-pocket-squares-handmade.md)
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](../../products/menswear/mens-glen-plaid-cashmere-scarf-tan-white.md)
-- [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](../../products/menswear/mens-pashmina-shawl-handwoven.md)
+- [Men's Pashmina Shawl, 100% Himalayan Pashmina, Handwoven](../../products/menswear/mens-accessories/mens-pashmina-shawl-handwoven.md)
 - [Mens 100% Cashmere Scarf 22×72 Inches Long Soft Non-Irritating 80+ Colors](../../products/menswear/mens-100-cashmere-scarf-soft-non-irritating.md)
 - [Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors](../../products/menswear/mens-aviator-silk-neck-scarf.md)
 - [Mens Cashmere Scarf Neck Wrap Extra Long Formal & Urban Style 80+ Colors](../../products/menswear/mens-cashmere-scarf-neck-wrap-extra-long-formal-urbanstyle.md)
@@ -90,3 +90,4 @@ Your accessories ship from Dubai by trackable courier. Every piece, including pe
 ## Related
 
 - [Men Category Index](../menswear.md)
+- [Browse all Accessories products](../../products/menswear/mens-accessories/index.md)

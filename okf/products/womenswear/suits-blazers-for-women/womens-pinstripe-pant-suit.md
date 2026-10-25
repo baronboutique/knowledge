@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend"
-description: "New Collection New Fabric Collection — Now Available We've expanded our pinstripe merino wool selection with a new fabric range."
+description: "New pinstripe collection now available: finer stripes and deeper colors, from dark navy to off-white. A women's pinstripe suit cut to your measurements in Super 130s merino wool with 2% cashmere: a tw…"
 resource: https://baronboutique.com/womens-pinstripe-pant-suit/
 tags: [women, suit, pant-suit, pants, pinstripe, workwear, formalwear, bespoke, made-to-order]
 sources:
@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-pinstripe-pant-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-22T18:48:54Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend
@@ -36,150 +36,146 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-New Collection New Fabric Collection — Now Available We've expanded our pinstripe merino wool selection with a new fabric range. The collection is finer in hand, sharper in stripe definition, and richer in color depth — offering cleaner drape, stronger structure, and a surface that holds its appearance wear after wear. Now available in 10 pinstripe colorways from boardroom navy to off-white. Most women's pinstripe suits are built from men's patterns scaled down, and it shows. The shoulders sit wide, the trouser breaks at the wrong point, and the pinstripe runs slightly off because the seams were never placed for your body. Baron builds this suit to your measurements in a Super 130s merino-cashmere blend, with canvas front construction and rounded peak lapels. We send a free test suit first. You approve the fit. Then we cut the final.
+New pinstripe collection now available: finer stripes and deeper colors, from dark navy to off-white. A women's pinstripe suit cut to your measurements in Super 130s merino wool with 2% cashmere: a two-button jacket with rounded peak lapels over straight-leg trousers, with the stripes matched at the seams. You try a free cotton test suit first, so the stripes run true. 98% merino wool, 2% cashmere, Super 130s Pinstripe and chalk stripe options Two-button jacket, ventless back Straight-leg flat front trousers Free test suit in cotton, yours to keep
 
-## Women’s Pinstripe Suit: The Moment Is Now, and the Fit Has to Be Yours
+The Suit
 
-Most sellers of women’s pinstripe suits offer the same promise: made to measure, tailored to your measurements, custom fit. The finished garment is where those claims are tested. A suit can look correct in a photograph and still be wrong through the shoulders, waist, or trouser rise. By then, the cloth has already been cut. Our approach is different: establish the fit first, then proceed to the final garment.
+## A Women’s Pinstripe Suit Where the Stripes Run True
 
-A woman’s pinstripe suit requires more than reducing the dimensions of a men’s pattern. The shoulder line, chest, waist, hip, trouser rise, and lapel placement all need to work together on a woman’s proportions. When they do not, the suit can feel restrictive in one area and shapeless in another, while the trousers sit incorrectly and the lapels shift with movement. The result is a suit that wears like an adaptation rather than a garment made for you.
+A pinstripe suit for women is the least forgiving suit to buy off the rack. The stripes are straight lines, and the moment a jacket pulls across the bust or a trouser twists over the hip, the lines bend and everyone can see it. Most women’s pinstripe suits are cut from scaled-down men’s patterns, so the shoulders sit wide and the stripe never lines up where the seams meet.
 
-Baron builds this suit to your measurements in a Super 130s merino and cashmere blend, with a canvas front, rounded peak lapels, and a trouser cut designed for a woman’s frame. Before we cut the final cloth, we send you a free test suit. You try it on, tell us what needs adjusting, and the final suit is cut to the corrected pattern. The pinstripe lands where it should. The shoulders sit correctly. The suit works.
+This women’s pinstripe suit is cut to your measurements in a Super 130s cloth of 98% merino wool and 2% cashmere: a two-button jacket with rounded peak lapels over straight-leg, flat-front trousers. You try a free cotton test suit at home first, and the pinstripe is cut only once the fit is right.
 
-Women’s pinstripe suit  
- Super 130s merino-cashmere blend  
- Canvas front construction  
+Merino and cashmere  
+ Super 130s  
  Rounded peak lapels  
- Free test suit included  
- 10 pinstripe options
+ Straight-leg trousers  
+ Free test suit
+
+**Price:** $699 for jacket and trousers **Cloth:** Super 130s, 98% merino wool and 2% cashmere **Stripes:** matched at the seams **Lining:** jacket fully lined, chosen in the selector **Fit:** slim, standard or relaxed **Test suit:** free, yours to keep
 
 ---
 
-## Free Test Suit: The Fit Has to Be Exact Before We Touch the Final Cloth
+Free Test Suit
 
-A pinstripe has no tolerance for a bad fit. The vertical lines of the stripe run the full length of the jacket and trouser, and any error in the shoulder seam, chest, or trouser rise is visible in the stripe itself. You cannot hide it. Off-the-rack pinstripes sit crooked on most women because the suit was never cut for their proportions. A stripe that runs true tells you the suit was made correctly.
+## Why the Stripes Need the Fit First
 
-Before we cut your final suit, we make a complete test suit in cotton to your initial measurements, jacket and trousers, and ship it to you via trackable courier. You try it on. You check the shoulder line, the lapel roll, the trouser break, the waist suppression. You send us your notes. We correct everything in the pattern, then cut your final suit in the merino-cashmere blend. The test suit is yours to keep. No return required.
+On a plain cloth, a little tension across the back or a fold under the seat is hard to see. On a pinstripe it bends the stripes, so the fit has to be right before the cloth is cut. The corrections we make most often on women’s suits are at the bust, the back and the shoulders, which are rarely shaped the same front and back, and in the trousers, where a smaller seat leaves folds and a fuller back hip pulls the stripe sideways. We keep the buttons close enough that the front never gapes.
 
-This is how a pinstripe suit gets made correctly. The stripe tells the truth about the fit, and we want it to tell the right story.
-
----
-
-## Three Ways to Wear It
-
-The Full Two-Piece
-
-Jacket and matching trousers together, with a silk camisole or fitted turtleneck underneath. This is the power read, the one that makes a room recalibrate when you walk in. Dark gray or navy for boardroom weight. Light gray for a slightly softer authority. Black for events that call for something unambiguous.
-
-The Jacket as a Blazer
-
-The pinstripe jacket worn over a different trouser, wide-leg trousers in cream or camel, or tailored dark denim. This breaks the formality of the full suit while keeping the structure. The rounded peak lapel reads as intentional and fashion-literate rather than strictly corporate. Works for fashion-industry events, editorial shoots, or anywhere the full two-piece would be too much.
-
-The Trouser as a Statement Bottom
-
-The pinstripe trousers alone, paired with a fine-gauge knit or a tailored shirt. The trousers carry the authority of the full suit without the jacket’s formality. This is the most wearable configuration for everyday professional settings, the pinstripe is present without being a declaration. Add the jacket when the day demands it.
-
----
-
-## Who This Suit Is For
-
-The Woman Who Has Never Found a Pinstripe That Fits
-
-You have tried the high-street options and owned a few. They always fit somewhere and not somewhere else, the jacket sits right in the chest but the shoulders are too wide, or the trousers fit at the waist but break at the wrong point on your shoe. You have worn them anyway, knowing the fit is approximate. This suit is built around your measurements, not a size chart. The fit is not approximate.
-
-The Woman Who Dresses for the Room She Wants to Command
-
-You understand that how you are dressed affects how you are read before you speak. You want a suit that does work for you, not one that you have to overcome. The canvas front means this jacket molds to your body over time rather than holding its shape against you. Within a few months of wearing it, it fits better than the day it arrived. Most women have never experienced this in a suit, because most women’s suits are not built this way.
-
-The Woman Inspired by the Moment
-
-The Devil Wears Prada 2 put pinstripe suits back on every fashion radar this month. You want the suit, not a fast-fashion version that approximates it. The Jean Paul Gaultier Andy Sachs wore is vintage and inaccessible. This suit is bespoke, built to your measurements, in a wool-cashmere blend that would read correctly in any editorial context. The moment is now. The suit should match it.
-
-The Woman Who Wears Tall
-
-Standard sizing was not designed for you. The trouser break is never right. The jacket sleeve hits a few inches short. Petite sizing overcorrects in the other direction. This suit is made to your measurements, your inseam, your sleeve length, your rise. The pinstripe lands proportionally on your frame. If you are tall, you know immediately when a garment was built for someone else. This one is built for you.
-
----
-
-## How Your Pinstripe Suit Is Made
+Sometimes the cleanest correction would change the style, such as an extra dart through the stripes. When that happens we tell you, and you choose between the fit that follows your body exactly and the look in the photos exactly.
 
 1
 
-**Choose your pinstripe and enter your measurements**  
- Select from 10 pinstripe combinations directly on the product page. Enter your measurements, bust, waist, hip, shoulder width, sleeve length, trouser inseam, rise. No emails, no back-and-forth.
+**Choose your stripe**  
+ Pick the pinstripe and the lining in the selector, then your fit and measurements, with the trouser length for the shoes you wear most.
 
 2
 
-**We build and send your free test suit**  
- A complete test suit in cotton, jacket and trousers, is made to your measurements and shipped via trackable courier. The full pattern including lapels, darted front, and trouser cut is in the test.
+**The cotton suit comes first**  
+ Jacket and trousers are cut in cotton to your measurements in 3 to 4 weeks and reach you 5 to 10 days after dispatch.
 
 3
 
-**You try it and tell us what to adjust**  
- Wear it. Check the shoulder line, the lapel roll, the trouser break, the waist. Most clients send two to four adjustment notes. The stripe pattern in the test cloth shows you exactly how the final suit will hang.
+**Stand in front of a mirror**  
+ Check that the center back seam hangs straight, that the jacket closes over the bust without pulling, and that the trouser creases fall straight to the shoe: on the final suit, those are the lines the stripes will follow.
 
 4
 
-**We cut your final suit**  
- Every adjustment is applied to the pattern. The jacket and trousers are cut and sewn in the Super 130s merino-cashmere blend, canvas front, hand-finished buttonholes, acetate lining throughout.
-
-5
-
-**Your suit ships worldwide**  
- The finished two-piece ships via trackable courier. The test suit is yours to keep.
-
-6
-
-**We answer if anything needs attention**  
- We are reachable by email and we reply. Our customers come back because the fit is right and we answer emails. Every garment is made by a tailor whose name we know.
-
-**Starting price:** $699 **Colors:** 10 pinstripe options **Care:** Dry clean only
+**The pinstripe is cut**  
+ Your corrections are made, the stripes are matched at the seams, and the suit takes 3 to 4 weeks; it arrives 5 to 10 days after it ships. The cotton suit is yours to keep.
 
 ---
 
-## Full Specification
+Pinstripe or Chalk Stripe
 
-| Fabric | Super 130s, 98% fine merino wool, 2% cashmere |
+## Pinstripe vs Chalk Stripe: Which Women’s Pinstripe Suit Is Yours
+
+| Pinstripe | A fine, sharp line woven into the cloth, close together. It reads as precise and lengthening: the classic pin stripe suit for women at work. |
 | --- | --- |
-| Pinstripe options | 10 stripe options |
-| Jacket construction | Canvas front |
-| Jacket silhouette | Single-breasted, two-button, high stance, vent-less back |
-| Jacket lapels | Medium-width rounded peak lapels, 2.5 to 3 inches |
-| Jacket front | Darted front for bespoke shaping |
-| Jacket pockets | Horizontal hip pockets with flap |
-| Jacket lining | Fully lined in acetate |
-| Interior pockets | Two |
-| Jacket hem | Closed rounded front hem |
-| Sleeve cuffs | Plain non-vented cuffs |
-| Armholes | Hand-stitched |
-| Buttonholes | Hand-finished buttonholes |
-| Buttons | Black horn buttons, stitched and reinforced by hand |
-| Trouser cut | Straight leg, flat front |
-| Trouser fly | Zip fly, button waistband closure |
-| Trouser pockets | Slanted front pockets, plain back |
-| Trouser lining | Acetate-lined to the front knee |
-| Trouser waistband | Grip-reinforced waistband, cotton-lined interior, 1.75-inch belt loops |
-| Trouser hem | 3-inch blind hem, hand-stitched |
-| Seam allowances | Ample throughout for future alteration |
-| Allergy option | Full trouser lining to hem available on request for wool sensitivity |
+| Chalk stripe | A wider, softer line, like a stroke of tailor’s chalk, set further apart. Bolder and a little more relaxed. |
+| Double chalk stripe | Two stripes running together, often in a second color, for a suit that is noticed. |
+| Stripe spacing | Narrow spacing looks quieter and more formal; wider spacing reads as a fashion statement. |
+
+The slimming effect of a pinstripe suit comes from the stripes: they draw the eye up and down, so a striped suit for women looks longer and leaner, and a women’s striped suit cut to your measurements keeps those lines straight. A striped business suit, or a striped pant suit for women, only works when the stripes do not bend. Both chalk stripe and pinstripe options are in the selector, from a dark navy pinstripe for the boardroom to an off-white pinstripe for summer. The stripes are matched at the side seams and the back seam, so they run straight across the suit.
+
+---
+
+The Cloths
+
+## The Pinstripe Collection, Up Close
+
+New for this season: a finer pinstripe collection with sharper stripes and deeper colors. These are close-up photos of the actual cloth. Choose your stripe in the selector; here are four of the options on offer.
+
+Dark Gray Pinstripe
+
+The most versatile women’s business suit color, close to the suit in the photos.
+
+Dark Navy Pinstripe
+
+The classic boardroom pinstripe.
+
+Black Pinstripe
+
+A black pinstripe suit for women, formal and sharp: the black and white pinstripe suit for women, or a black and white striped suit for women in a bolder chalk stripe.
+
+Navy Double Chalk Stripe
+
+Navy with a red and white double stripe, for a bolder power suit.
+
+---
+
+The Cut
+
+## A Two-Button Jacket and Straight-Leg Trousers
+
+| Rounded peak lapels | A softer take on the peak lapel; the points are curved rather than sharp. |
+| --- | --- |
+| Two buttons, high stance | Buttons set a little higher than usual for a long, clean front. |
+| Ventless back | A smooth back panel, so the stripes run unbroken from collar to hem. |
+| Straight-leg, flat-front trousers | A long, straight line from the hip to the floor, with belt loops and slanted front pockets. |
+
+Looking for a women’s tailored pinstripe suit, a bespoke pinstripe suit or a pin stripe pant suit among custom tailored women’s suits and women’s wool suits? For a fitted pinstripe suit, women choose slim in the selector, and the test suit shows how close it can sit. For a cream pinstripe double-breasted suit, see our **[women’s white pinstripe suit](https://baronboutique.com/womens-off-white-pinstripe-double-breasted-suit/)**; for a skirt, our **[pinstripe skirt suit](https://baronboutique.com/womens-skirt-suit-in-stripes/)**.
+
+---
+
+How to Wear It
+
+## A Pinstripe Pantsuit for Work, and Beyond
+
+| As a business suit | One of the women’s pinstripe business suits for daily wear, worn with a white shirt or a fine knit: the formal business pantsuit for interviews and boardrooms. |
+| --- | --- |
+| As a power suit | With a silk camisole and heels, the pinstripe pantsuit for women becomes evening wear. |
+| The jacket alone | Over jeans or a plain dress; the stripe keeps it sharp. |
+| The trousers alone | With a sweater for a quieter day at the office. |
+
+Among women’s business suits, the pinstripe is the classic, and women in business suits have worn it for decades because vertical lines read as order. This is a tailor made women’s business suit: with a white shirt it is the women’s business formal pantsuit for interviews, sometimes called a women’s business pant suit, and in a bolder stripe it becomes a business power suit. Many women’s business pant suits are sold as separates in standard sizes; here both pieces are cut together.
+
+A charcoal gray women’s business suit in pinstripe is the most formal; a charcoal gray women’s pantsuit with a fine knit is softer; a black pinstripe suit, women find, works for both office and evening; a navy pinstripe sits in between. As a women’s professional suit, it is a pinstripe outfit for women that does not need to change for the evening.
+
+---
+
+Full Spec
+
+## Women’s Pinstripe Suit, Specification
+
+| Cloth | Super 130s, 98% merino wool and 2% cashmere, pinstripe or chalk stripe; stripe in the selector |
+| --- | --- |
+| Jacket | Single-breasted, two buttons, high stance, rounded peak lapels 2.5 to 3 inches, closed rounded front hem |
+| Jacket construction | Canvas front basted by hand, darted front, armholes set by hand, buttonholes finished by hand, full lining |
+| Pockets | Horizontal hip pockets with flaps, two interior pockets |
+| Back and cuffs | Ventless back; plain cuffs |
+| Buttons | Black horn, hand-stitched and reinforced |
+| Trousers | Straight leg, flat front, zip fly, button waistband, slanted front pockets, plain back, belt loops 1.75 inches tall |
+| Trouser finish | Front lined to the knee, or to the hem if wool bothers your skin; grip waistband lined in cotton; 3 inch blind hem by hand |
+| Fit | Slim, standard or relaxed, then refined on the test suit |
+| Test suit | Free, cotton jacket and trousers, yours to keep |
+| Production | 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
 | Care | Dry clean only |
 
 ---
 
-## Bespoke vs. Off the Rack
-
-| | Off the Rack | Baron Boutique |
-| --- | --- | --- |
-| Fit | Scaled from menswear patterns, shoulders wide, trouser rise approximate | Built to your measurements, refined through the free test suit |
-| Fit guarantee | None, returns only | Free test suit confirms fit before the final cloth is cut |
-| Pinstripe accuracy | Stripe runs crooked if seam placement is off, and it usually is | Stripe runs true because the seam placement is correct for your body |
-| Construction | Fused interlining, stiff from day one, ages poorly | Canvas front, molds to your body over time, improves with wear |
-| Lapels | Standard notch or generic peak | Rounded peak, rare in women’s tailoring, deliberately feminine and authoritative |
-| Buttonholes | Machine-cut | Hand-finished buttonholes |
-| Fabric | Polyester blend or low-grade wool | Super 130s merino-cashmere blend, drapes, breathes, holds a crease |
-| Tall and petite sizing | Standard lengths only | Every measurement is yours, inseam, rise, sleeve length, all exact |
-
----
+About Baron
 
 ## About Baron Boutique
 
@@ -191,39 +187,69 @@ Our customers come back because the fit is right and we answer emails. Every gar
 
 ---
 
+Questions & Answers
+
 ## Questions About the Women’s Pinstripe Suit
 
-### Why do most women’s pinstripe suits never fit correctly?
+### What is the cloth of this pinstripe suit?
 
-Most women’s suits, including pinstripe suits, are based on scaled-down versions of men’s suit patterns. The shoulder width, trouser rise, and jacket waist suppression are derived from male proportions rather than designed around a woman’s body. The result is a jacket that fits somewhere but not everywhere, wide in the back, narrow through the waist, or with a sleeve that falls at the wrong point. A pinstripe makes this worse because the vertical line runs true when the seams are in the right place and crooked when they are not. Building the suit to your specific measurements is the only way to fix this.
+A Super 130s cloth of 98% merino wool and 2% cashmere, woven with a pinstripe or a chalk stripe. Choose the stripe in the selector.
 
-### What is a canvas front and why does it matter in a women’s suit?
+### What is the difference between a pinstripe and a chalk stripe?
 
-A canvas front is a layer of woven horsehair canvas hand-stitched between the jacket’s outer fabric and lining, rather than being glued in place with a fused interlining. In a fused jacket, the front is stiff and holds a fixed shape that may or may not align with your body. In a canvas-front jacket, the canvas floats and gradually molds to your chest and torso over the first few months of wearing. The jacket becomes more yours the more you wear it. Canvas front construction is rare in women’s tailoring at any price point. The difference is visible and tactile once you know what to feel for.
+A pinstripe is a fine, sharp line; a chalk stripe is wider and softer, like a line drawn with tailor’s chalk. Pinstripes read crisper and more formal, chalk stripes softer and more relaxed.
 
-### What are the 10 pinstripe options?
+### How do I wear a pinstripe suit as a woman?
 
-Navy chalk stripe bold, light grey pinstripe medium, medium grey pinstripe medium, dark grey pinstripe medium, light navy pinstripe medium, dark navy pinstripe medium, black pinstripe medium, off-white pinstripe medium, navy blue stripe bold, navy red double chalk stripe, and grey brown double chalk stripe. The price is the same for all ten. Dark grey is the most versatile, formal enough for any professional context, distinctive enough to read as a deliberate choice rather than default suiting. Navy reads as slightly less severe and works well for creative industries. Black is the most graphic and the most editorial. Light gray is the quietest of the ten and the most appropriate for warmer settings.
+Let the stripe be the only pattern. Charcoal or navy with a plain blouse is the classic office look; black pinstripe with a silk camisole and heels works in the evening. The shoulders must sit at your own shoulder line, because a stripe shows every pull.
 
-### Can I order the jacket and trousers separately in different sizes?
+### Will the stripes line up at the seams?
 
-Because both pieces are made to your measurements rather than a size, there is no concept of different sizes for top and bottom. The jacket is built for your shoulders and chest. The trousers are built for your waist, hip, and inseam. They are cut from the same cloth for visual consistency. If you want to discuss ordering just one piece, contact us before ordering.
+Yes. The stripes are matched at the side and back seams when the suit is cut, and the test suit makes sure the jacket does not pull them out of line.
 
-### I am sensitive to wool. Can I still order this suit?
+### Is a pinstripe suit right for a petite or tall woman?
 
-Yes. Super 130s merino is a fine, soft wool that most people with wool sensitivity can wear comfortably. If you want extra protection, a full trouser lining extending to the hem rather than to the knee is available on request at no additional charge. A complimentary allergy-protection service is also available on request. Contact us when you order to arrange this.
+Yes. The vertical stripe lengthens the body, which helps a petite figure, and on a tall woman a chalk stripe keeps the scale in proportion. Because the suit is cut to your measurements, the jacket length and button point suit your height.
 
-### How long does the full process take?
+### I am sensitive to wool. Can I still wear this suit?
 
-Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a specific event or deadline, tell us when you order and we will confirm whether the timeline is workable.
+Usually, yes. The jacket is fully lined, so the wool only touches you at the collar and cuffs, and the trouser lining can run all the way to the hem instead of stopping at the knee; ask for it in the comment box. Merino is also one of the finest and softest wools.
 
-### Do you ship internationally?
+### Which fit should I choose?
 
-Yes. Both the test suit and the final suit ship worldwide via trackable courier. Delivery times vary by destination.
+Slim gives a close, fitted line, standard a classic business fit, and relaxed more room to move. Most women choose standard; the test suit shows the result and we adjust from there.
 
-### Can I have the suit made in a different fabric or color?
+### Can I change the lapels, buttons or trouser leg?
 
-The ten pinstripe options on the product page are the standard range. If you have a specific fabric or color in mind, contact us before ordering and we can discuss whether it is available and any effect on pricing or lead time.
+Yes. List the change in the comment box of the measurement form, or email us with your order number. A notch lapel, one button, or a wide or flared leg are all possible.
+
+### Is it a business suit or a fashion suit?
+
+Both. In dark gray or navy it is a classic business suit; in black or ivory it reads as a fashion piece.
+
+### Can I order the jacket and trousers separately?
+
+Ask through the Ask a question about this piece form below Add to Cart. We will tell you what is possible for the stripe you want.
+
+### Can I see the stripes before I order?
+
+Yes. Stripes are hard to judge on a screen, so our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 2600009 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### Is there a purple pinstripe?
+
+A purple pinstripe is not among the stripes in the selector for this women’s suit. A plum or purple satin lining is available, which gives a flash of color when the jacket opens.
+
+### Can I add a vest or have a pinstripe suit dress?
+
+If you want a women’s pinstripe suit with a vest, or a pinstripe suit dress, ask through the Ask a question about this piece form below Add to Cart. We will tell you what can be made in the stripe you choose.
+
+### How long will the pinstripe suit take?
+
+The cotton test suit takes 3 to 4 weeks to make and is delivered 5 to 10 days after dispatch. The pinstripe suit then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
+
+### How do I care for it?
+
+Brush it after wearing, hang it on a shaped hanger and dry clean rarely. Pressing too often flattens the cloth.
 
 ## Categories
 

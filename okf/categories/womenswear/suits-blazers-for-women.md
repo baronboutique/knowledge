@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-21T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-21T03:00:04Z }
 ---
 
 # Suits & Blazers
@@ -78,27 +78,27 @@ Every adjustment is applied, then your suit is cut and hand-tailored in your cho
 
 ## Products
 
-- [The Bespoke Wool Flannel Suit Dress](../../products/womenswear/suits-blazers-for-women/wool-flannel-dress-suit.md)
-- [The Dupioni Silk Blazer](../../products/womenswear/wedding-suits-for-women/womens-dupioni-silk-jacket.md)
-- [The Essential Black Pant Suit](../../products/womenswear/suits-blazers-for-women/womens-essential-black-pant-suit.md)
-- [The Fresco Performance Suit](../../products/womenswear/suits-blazers-for-women/womens-fresco-wool-suit.md)
-- [The High-Performance Mohair Suit](../../products/womenswear/suits-blazers-for-women/womens-mohair-wool-suit.md)
-- [The Modern Bride's Wedding Suit](../../products/womenswear/wedding-suits-for-women/womens-tan-wedding-suit.md)
-- [The Performance Tropical Wool Suit](../../products/womenswear/suits-blazers-for-women/womens-performance-tropical-wool-pantsuit.md)
-- [The Sculpted Wool Blazer](../../products/womenswear/suits-blazers-for-women/womens-merino-wool-blazer.md)
-- [The Sharkskin Work Suit](../../products/womenswear/suits-blazers-for-women/womens-work-suit-in-sharkskin.md)
-- [The Statement Red Blazer](../../products/womenswear/suits-blazers-for-women/classic-wool-blazer-in-red.md)
-- [The Velvet Tuxedo Jacket](../../products/womenswear/tuxedos-for-women/womens-tailored-velvet-tuxedo-jacket.md)
-- [The Women's Bespoke Tuxedo](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
-- [The Women's Tuxedo Suit](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
-- [The Wool & Silk Blend Suit](../../products/womenswear/wedding-suits-for-women/boutique-tailored-silk-and-wool-suit.md)
-- [Unlined Linen Duster Coat](../../products/womenswear/linen-dress-jacket-with-notch-collar.md)
-- [Women's Business Suit, Bespoke in Italian VBC Wool](../../products/womenswear/suits-blazers-for-women/womens-tailored-suit.md)
-- [Women's Custom Blazer in Sharkskin Wool](../../products/womenswear/suits-blazers-for-women/womens-sharkskin-jacket.md)
+- [Women's Bespoke Tuxedo, Menswear-Inspired With Satin Peak Lapels](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
+- [Women's Black Pant Suit in Merino and Cashmere, Two-Button](../../products/womenswear/suits-blazers-for-women/womens-essential-black-pant-suit.md)
+- [Women's Business Suit, Tailor Made in Super 160s Wool](../../products/womenswear/suits-blazers-for-women/womens-tailored-suit.md)
 - [Women's Custom Skirt Suit in Pinstripe Wool](../../products/womenswear/suits-blazers-for-women/womens-skirt-suit-in-stripes.md)
+- [Women's Dupioni Silk Blazer, Inset Peak Lapels](../../products/womenswear/wedding-suits-for-women/womens-dupioni-silk-jacket.md)
 - [Women's Fitted Wool Coat in Flannel, Double Darts](../../products/womenswear/coats-and-overcoats-for-women/womens-long-winter-coat.md)
+- [Women's Fresco Performance Suit, Wool Blend, Single Button](../../products/womenswear/suits-blazers-for-women/womens-fresco-wool-suit.md)
+- [Women's Leather-Trimmed Sharkskin Blazer, Custom Made](../../products/womenswear/suits-blazers-for-women/womens-sharkskin-jacket.md)
+- [Women's Merino Wool Blazer, Fitted With Peak Lapels](../../products/womenswear/suits-blazers-for-women/womens-merino-wool-blazer.md)
+- [Women's Mohair Suit in Mohair and Wool, Two-Button](../../products/womenswear/suits-blazers-for-women/womens-mohair-wool-suit.md)
+- [Women's Performance Tropical Wool Suit, Lightweight Pantsuit](../../products/womenswear/suits-blazers-for-women/womens-performance-tropical-wool-pantsuit.md)
 - [Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend](../../products/womenswear/suits-blazers-for-women/womens-pinstripe-pant-suit.md)
+- [Women's Red Blazer in Fresco Wool Blend, Peak Lapels](../../products/womenswear/suits-blazers-for-women/classic-wool-blazer-in-red.md)
+- [Women's Sharkskin Suit for Work, Single-Button Jacket](../../products/womenswear/suits-blazers-for-women/womens-work-suit-in-sharkskin.md)
+- [Women's Suit Dress in Wool Flannel, Jacket and Sheath Dress](../../products/womenswear/suits-blazers-for-women/wool-flannel-dress-suit.md)
+- [Women's Tan Wedding Suit in Tropical Wool, Single Button](../../products/womenswear/wedding-suits-for-women/womens-tan-wedding-suit.md)
+- [Women's Tuxedo Suit With Shawl Lapel and Satin Stripe Trousers](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
+- [Women's Unlined Linen Duster Coat](../../products/womenswear/linen-dress-jacket-with-notch-collar.md)
+- [Women's Velvet Tuxedo Jacket With Silk Satin Peak Lapels](../../products/womenswear/tuxedos-for-women/womens-tailored-velvet-tuxedo-jacket.md)
 - [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](../../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
+- [Women's Wool and Silk Blend Suit, Three-Button Jacket](../../products/womenswear/wedding-suits-for-women/boutique-tailored-silk-and-wool-suit.md)
 
 **Related terms:** women's custom suits, made to measure suit for women, ladies business suits, tailored pant suits, interview suit women, custom sport coats for women, custom blazer for women, womens tailored suits, mohair suit, female tailored suits
 

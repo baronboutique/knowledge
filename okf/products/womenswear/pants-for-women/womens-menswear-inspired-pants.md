@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-menswear-inspired-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Formal Straight Leg Trousers in Wool and Cashmere
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Women's formal straight leg trousers made to your measurements in Super 130s merino wool with 2% cashmere. Menswear-inspired: a straight leg with a pressed crease, a buttoned waistband and a fine suiting cloth, cut to a woman's waist and hip. A free test pair comes first, so the line is right before your cloth is cut. 6 colors, $239.
+Women's formal straight leg trousers made to your measurements in Super 130s merino wool with 2% cashmere. Menswear-inspired: a straight leg with a pressed crease, a buttoned waistband and a fine suiting cloth, cut to a woman's waist and hip. A free test pair comes first, so the line is right before your cloth is cut. Colors in the selector, $239.
 
 Formal Trousers
 
@@ -43,15 +43,15 @@ Formal Trousers
 
 Formal pants for women are often just dress pants in a darker color. These are cut the way a man’s suit trouser is cut: a straight leg that falls from the hip, a pressed crease, a buttoned waistband and a fine suiting cloth, then shaped to a woman’s waist and hip so nothing pulls or gapes.
 
-These are formal pants for ladies who want a classy, straight fit, women’s straight leg formal trousers in black and five more colors, the formal dress pants women wear to the office, to evening events and as formal slacks for women’s suits. Cut like men’s tailored formal trousers but made for women, these straight leg, straight fit trousers and formal pants have a straight cut and a long, clean silhouette that stays feminine, with a high waisted or natural waist rise set to your measurements. As custom straight leg pants and straight leg tailored pants for women, they also work as formal bottoms for women at the office.
+These are formal pants for ladies who want a classy, straight fit, women’s straight leg formal trousers in black and more colors, the formal dress pants women wear to the office, to evening events and as formal slacks for women’s suits. Cut like men’s tailored formal trousers but made for women, these straight leg, straight fit trousers and formal pants have a straight cut and a long, clean silhouette that stays feminine, with a high waisted or natural waist rise set to your measurements. As custom straight leg pants and straight leg tailored pants for women, they also work as formal bottoms for women at the office.
 
-They are made to your measurements in Super 130s merino wool with a touch of cashmere, in black and five more quiet colors. Before we cut your cloth, we send you a free test pair, so the line from waist to hem is right before the real pair is made.
+They are made to your measurements in Super 130s merino wool with a touch of cashmere, in black and more quiet colors. Before we cut your cloth, we send you a free test pair, so the line from waist to hem is right before the real pair is made.
 
 Free test pair first  
  Menswear-inspired straight leg  
  98% merino, 2% cashmere  
  Lined to the knee  
- 6 colors  
+ Colors in the selector  
  Made to your measurements
 
 ---
@@ -143,9 +143,9 @@ When to Wear
 
 ---
 
-6 Colors
+The Colors
 
-## Black, Charcoal and Four More Formal Colors
+## Black, Charcoal and More Formal Colors
 
 These are close-up photos of the actual cloths. The trousers in the photos are Black. Pick your color in the fabric selector above.
 
@@ -245,7 +245,7 @@ From the back side, the pant falls straight from the seat to the hem, with singl
 
 ### How much do these formal trousers cost?
 
-They are $239 in any of the 6 colors, with any lining color. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your cloth is cut.
+They are $239 in any of the colors, with any lining color. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your cloth is cut.
 
 ### How long does it take to receive my trousers, and do you ship internationally?
 

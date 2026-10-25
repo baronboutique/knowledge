@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/12th-doctor-black-velvet-frock-coat-for-women/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's 12th Doctor Black Velvet Frock Coat
@@ -165,11 +165,15 @@ Questions & Answers
 
 ### Is this the 12th Doctor’s black velvet frock coat from Doctor Who?
 
-No, it is our own screen-inspired women’s version, with inspiration taken from the Twelfth Doctor. It is not official or licensed.
+No, it is our own screen-inspired women’s version, with inspiration taken from the Twelfth Doctor. It is not official or licensed. It is a replica cut to your measurements in velvet.
+
+### What makes a good black velvet frock coat?
+
+The outline. In black velvet, seams and pockets almost disappear, so what people see is the shoulder, the waist and the knee-length hem. That is why this coat has wide peak lapels and no outside pockets, and why the fit is checked in a test coat before the velvet is cut.
 
 ### Why are there no outside pockets?
 
-So nothing breaks the line of the coat. In black velvet the outline is what people see. There are two inside pockets.
+So nothing breaks the line of the coat from lapel to hem. There are two inside pockets, deep enough for a phone.
 
 ### What lining does it come with?
 
@@ -177,7 +181,7 @@ You choose it in the selector. The photos show a bright blue satin lining; black
 
 ### Is it double-breasted?
 
-No, it is single-breasted with three buttons. A double-breasted front can be requested in the comment box on the measurement form.
+No, it is single-breasted with three buttons. A double-breasted front can be requested in the comment box of the measurement form, or by email with your order number.
 
 ### How long is it?
 
@@ -185,23 +189,23 @@ Knee length, the classic frock coat length. Enter another length on the measurem
 
 ### Does velvet crush?
 
-Velvet pile flattens where a coat is too tight or folded, which is why the fit is checked in the test coat. Hang it with space around it and steam rather than press.
+Yes, velvet pile flattens under pressure, wherever a coat is too tight or folded. That is why the fit is checked in the test coat, and why it should be hung, never folded. Steam it from a few inches away; never press it with an iron.
 
-### How does the free test coat work?
+### What is the velvet made of?
 
-We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the velvet. The test coat is yours to keep.
+A poly-cotton velvet. The cotton gives a soft, deep pile, and the polyester helps it keep its color and strength. Other velvet colors are in the selector.
 
-### How long does it take?
+### Can I see the velvet first?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7000008 and the colors you want to compare; the courier fee is credited toward your first order.
 
-### Can I change details, such as the length?
+### How long will the velvet frock coat take?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+The cotton test coat is made in 3 to 4 weeks and arrives 5 to 10 days after dispatch. Once the fit is approved, the velvet coat takes 3 to 4 weeks more and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 
-Dry clean only, and not often. Brush the pile gently in one direction and keep it on a wide hanger.
+Dry clean only, and not often. Brush the pile gently in one direction and keep it on a wide hanger in a breathable cotton bag, never plastic.
 
 ## Categories
 

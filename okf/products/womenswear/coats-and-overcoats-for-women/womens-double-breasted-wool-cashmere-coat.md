@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-double-breasted-wool-cashmere-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Double-Breasted Wool Cashmere Coat, Low Button
@@ -172,43 +172,51 @@ Questions & Answers
 
 ### Why are the buttons so low?
 
-A low button stance makes the lapels fall into a long V, which lengthens the body and keeps a double-breasted coat from looking boxy.
+A low button stance makes the lapels fall into a long V, which lengthens the body. It also keeps a double-breasted coat from looking boxy, because the overlap sits at the hip rather than across the bust.
+
+### Is a double-breasted coat flattering on women?
+
+Yes, when it is cut to the body. The extra overlap adds structure to the upper body, which suits slim and straight figures, and the low buttons here keep a fuller bust from looking wider. Because it is cut to your measurements, the overlap lies flat instead of pulling.
 
 ### Is it double-faced wool?
 
-No. It is a single 95% wool, 5% cashmere cloth of about 14 oz, fully lined, with a canvas front.
+No. It is a single 95% wool, 5% cashmere cloth of about 14 oz, fully lined, with a canvas front. Double-faced wool is two cloths woven together and usually left unlined; a lined coat with a canvas front holds a sharper tailored shape.
 
 ### Is it warm enough for winter?
 
-Yes. At about 14 oz with a full lining, it is a winter coat, with room for a sweater underneath.
+Yes. At about 14 oz with a full satin lining it is a winter coat, and the double-breasted front puts two layers of cloth across the body. Leave room for a sweater when you try the test coat.
 
 ### Can I have it longer?
 
-Yes, enter the length you want on the measurement form, for example to the knee.
+Yes. It is mid-thigh as standard; enter the length you want on the measurement form, for example to the knee.
 
 ### What colors does it come in?
 
-Shades such as black, navy, camel and charcoal; the selector shows every cloth and lining on offer.
+Shades such as black, navy, camel and charcoal, in the selector. The satin lining is chosen there too.
 
 ### Does it have outside pockets?
 
-The front is clean, as in the photos. Pockets can be requested in the comment box on the measurement form.
+The front is clean, as in the photos, with two interior pockets. Outside pockets can be added: write it in the comment box of the measurement form, or email us with your order number.
 
-### How does the free test coat work?
+### Can I wear it over a suit jacket?
 
-We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the wool and cashmere. The test coat is yours to keep.
+Yes, if you tell us. The relaxed body leaves room for layering, and if you plan to wear it over a blazer, wear one when you try the test coat so the sleeves and back are cut with room for it.
 
-### How long does it take?
+### How do I measure without a tailor nearby?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Ask someone to help with the tape if possible. On your own, measure bust, natural waist and hips, then a coat that fits you well; we guide you by video call or WhatsApp.
 
-### Can I change details, such as the length?
+### Can I see the cloth before ordering?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 3400004 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the double-breasted coat take?
+
+The cotton test coat takes 3 to 4 weeks to make and is delivered 5 to 10 days after dispatch. The final coat then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 
-Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger.
+Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger so the wide lapels keep their roll.
 
 ## Categories
 

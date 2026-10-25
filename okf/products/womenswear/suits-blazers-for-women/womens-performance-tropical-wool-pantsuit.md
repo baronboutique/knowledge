@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "The Performance Tropical Wool Suit"
-description: "This is your armor for high-pressure days. The Performance Tropical Wool Suit is crafted from lightweight, breathable tropical wool to keep you looking sharp and feeling cool."
+title: "Women's Performance Tropical Wool Suit, Lightweight Pantsuit"
+description: "A lightweight, breathable women's tropical wool suit for hot days, long flights and long meetings: 8 oz Super 140s tropical wool with an open weave that resists creasing, cut as a modern pantsuit with…"
 resource: https://baronboutique.com/womens-performance-tropical-wool-pantsuit/
 tags: [women, suit, pant-suit, tropical-wool, wool, summer, workwear, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/womens-performance-tropical-wool-pantsuit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
-# The Performance Tropical Wool Suit
+# Women's Performance Tropical Wool Suit, Lightweight Pantsuit
 
 **SKU:** 2600002  
 **URL:** https://baronboutique.com/womens-performance-tropical-wool-pantsuit/  
@@ -35,78 +35,210 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-This is your armor for high-pressure days. The Performance Tropical Wool Suit is crafted from lightweight, breathable tropical wool to keep you looking sharp and feeling cool. The flawless custom fit is guaranteed—our process includes a free test suit sent to your home for approval. It’s the secret to projecting an image of calm, unshakable authority.
+A lightweight, breathable women's tropical wool suit for hot days, long flights and long meetings: 8 oz Super 140s tropical wool with an open weave that resists creasing, cut as a modern pantsuit with a two-button jacket and tapered trousers. Made to your measurements and checked first in a free test suit. Super 140s tropical wool, 8 oz, 100% wool Two-button jacket, slim peak lapels Tapered trousers with buckle side adjusters Slim, standard or relaxed fit Free test suit in cotton, yours to keep
 
-## Your Armor for the Concrete Jungle
+The Suit
 
-This is the power suit, engineered for the modern professional’s reality. It’s a statement of cool, calm authority, built to perform under pressure and keep you looking impeccable through the most demanding of days. We’ve taken a sharp, menswear-inspired silhouette for **The Performance Tropical Wool Suit**, creating the ultimate ally for your ambition.
+## A Women’s Tropical Wool Suit for Hot Days, Long Flights and Long Meetings
 
-### The Genius of Tropical Wool
+Most wool suits for women are made for a cool office and a short walk to the car. Step outside in July, sit through a long flight or a day of back-to-back meetings, and a standard suit cloth becomes warm, heavy and creased. Tropical wool was developed for exactly those days: a lightweight, open weave of tightly twisted yarn that lets air through and springs back from creasing.
 
-A true four-season power suit demands a fabric that can keep up. Tropical wool isn’t just a material; it’s a technology.
+This is a women’s tropical wool suit in an 8 oz Super 140s worsted tropical wool, cut as a sharp, modern pantsuit: a two-button jacket with slim peak lapels and slim tapered trousers with buckle side adjusters. It is made to your measurements on a canvas front, and you try a free cotton test suit before the wool is cut.
 
-- **A Natural Air Conditioner:** We use a Super 140s’ **8oz tropical wool**, an open-weave cloth renowned for its exceptional breathability that allows air to circulate freely, keeping you cool and comfortable.
-- **Built-In Wrinkle Resistance:** The high-twist nature of the yarn makes this fabric naturally resilient to creasing, ensuring you look sharp and unrumpled from your morning commute to your evening flight.
-- **A Palette of 13 Essential Colors:** Choose from a wide range of 13 sophisticated shades, including classic black, navy, and a variety of versatile greys.
+Tropical wool, 8 oz  
+ Super 140s  
+ Breathable  
+ Canvas front  
+ Free test suit
 
-### A Study in Menswear-Inspired Tailoring
+**Price:** $729 for jacket and trousers **Cloth:** Super 140s worsted tropical wool, 8 oz, 100% wool **Lining:** jacket fully lined, lining chosen in the selector **Fit:** slim, standard or relaxed in the selector **Test suit:** free, yours to keep **Care:** dry clean
 
-This suit is architected with sharp, sartorial details that signal a deep appreciation for the art of tailoring.
+---
 
-- **The Commanding Jacket:** A single-breasted jacket featuring sharp, slim peak lapels and a full canvas construction—the hallmark of high-end tailoring—designed to mold to your body over time.
-- **The Perfect Tapered Trouser:** Clean, flat-front trousers with a gentle taper create a modern, leg-lengthening line, while bespoke buckle side-adjusters provide a clean, belt-free waistline.
-- **A Suit of Details:** From the sharp, angled “hacking” hip pockets to the hand-carved horn buttons, every element is a nod to classic, powerful tailoring.
+Free Test Suit
 
-### Our Bespoke Fit Promise: The Final Calibration
+## A Pantsuit Fits or Fails at the Trousers
 
-A suit this sharp requires a perfect fit to look truly commanding. We guarantee a flawless silhouette by sending you a **free test suit**—a complete cotton version of both the jacket and trousers—made to your initial measurements. This personal fitting allows us to perfect every aspect of the silhouette. It’s the final, crucial step in creating a garment that is truly built for you.
+A jacket can be forgiving. Trousers are not: a rise that is a little short pulls at the seat, a hem that is a little long breaks over the shoe and makes the leg look shorter. That is why the women’s tailored pantsuit is made in cotton first, so you can check both pieces on your own body.
 
-#### Caring For Your Suit
+The most common correction on a women’s pantsuit is at the back of the trousers: fabric bunching below the seat on a smaller hip, or too little room where the hip is fuller behind than in front. Many of our clients also have no tailor nearby. If no one can help you, measure your bust, natural waist, hips, trouser waist, thigh and ankle yourself, and we take the rest from your best-fitting suit, guiding you by video call or WhatsApp, one photo at a time.
 
-To preserve the performance and structure of your tropical wool suit, we recommend professional dry-cleaning only.
+1
 
-*A complimentary allergy-protection service is available upon request.*
+**Choose the color, lining and fit**  
+ Black, navy and the grays are the business shades; the selector shows every tropical wool on offer. Then choose slim, standard or relaxed and enter your measurements.
 
-#### Tropical Wool Suit Jacket Features
+2
 
-- hand-tailored from super 140s 8oz 100% worsted tropical wool in plain cloth
-- hand basted full canvas front
-- single-breasted style
-- two-button normal stance fastening
-- hand stitched minimal shoulder pads
-- low gorge peak lapel round
-- slim peak lapel width (2″ – 2.25″)
-- hand made buttonholes
-- hacking hip pockets
-- fully-lined in acetate
-- darted front for a bespoke look
-- hand stitched armholes
-- four internal pockets
-- vent-less back
-- rounded bottom
-- vent-less sleeves cuff
-- hand made black horn buttons
-- stitched and reinforced jacket buttons by hand
-- ample jacket seam allowances for future alteration
+**A cotton pantsuit arrives first**  
+ It is cut to your measurements in 3 to 4 weeks and reaches you 5 to 10 days after dispatch.
 
-#### Tropical Wool Suit Pants Feature
+3
 
-- hand-tailored from super 140s 8oz 100% worsted tropical wool in plain cloth
-- tapered cut pants leg
-- zip fly front
-- hook closure waistband
-- flat front pants
-- slanted front pockets
-- plain back
-- buckle side adjuster waistband
-- acetate lined pants front till knee
-- extend the lining to the pants bottom hem if you are allergic to wool
-- grip enforced waistband for better tuck-ins
-- waistband interior lined in cotton
-- 3 inches blind hem in the pants leg
-- hand-stitched pants leg blind hem
-- ample seam allowances for future alteration
-- stitched and reinforced pants buttons by hand
+**Test it in your own shoes**  
+ With a pantsuit, most of the changes happen below the waist: the rise, the seat, and the trouser length over the heel you will actually wear. Check the jacket buttoned and sitting down, then send us your notes.
+
+4
+
+**Your tropical wool suit is made**  
+ We cut the wool with every change applied. The final suit takes 3 to 4 weeks and arrives 5 to 10 days after it ships, and the cotton one is yours to keep.
+
+---
+
+Why Tropical Wool
+
+## What Makes a Tropical Wool Suit Lightweight and Breathable
+
+| Open weave | Open weave tropical wool has small gaps between the yarns, so air moves through the cloth instead of being trapped against the body. |
+| --- | --- |
+| High-twist yarn | Tightly twisted yarns act like small springs. Creases from sitting or packing drop out after a few hours on a hanger. |
+| 8 oz weight | A true tropical weight wool suit: light enough for summer, with enough body to hang cleanly. Lighter 6 or 7 oz cloths breathe a little more but crease and wear faster. |
+| Worsted wool | Wool handles moisture better than polyester, so a breathable, lightweight wool suit stays more comfortable as the day warms up. |
+
+One honest trade-off: the jacket is fully lined, which makes it slide on easily and hang cleanly but adds a layer. If you live somewhere very hot and want the jacket half-lined, ask for it in the comment box on the measurement form.
+
+---
+
+The Cloths
+
+## The Tropical Wool, Up Close
+
+These are close-up photos of the actual cloth. You can see the plain, open weave that makes tropical wool so breathable. Choose your color in the selector; here are four of the shades on offer.
+
+Black
+
+The color in the photos; a black tropical wool suit is the sharpest choice for evening and business.
+
+Navy
+
+Softer than black and easy to pair with white, cream or light blue.
+
+Charcoal Gray
+
+A dark gray for daily business wear that hides creases well.
+
+Light Gray
+
+The coolest-looking shade for summer days and travel.
+
+---
+
+The Cut
+
+## A Sharp, Modern Pantsuit for Women
+
+Side profile
+
+Slanted hacking pockets and a slim peak lapel keep the line long and sharp.
+
+Jacket close-up
+
+Two buttons at a normal stance and a low gorge peak lapel.
+
+Suit back view
+
+No vent on the jacket, so the back of the suit stays one clean line.
+
+| Slim peak lapels with a low gorge | A narrow peak gives a sharp suit for women a modern, slightly menswear edge without the bulk of a wide lapel. |
+| --- | --- |
+| Hacking pockets | Angled hip pockets, originally from riding jackets, make the jacket look longer and slimmer. |
+| No vent | This is the suit back design for women who want a clean line; if you sit and drive a lot, you can ask for a center vent instead. |
+| Tapered trousers with buckle side adjusters | No belt needed, a flat waistband under the jacket, and room to adjust if your weight changes a little. Ask for belt loops in the comment box if you prefer a belt. |
+
+Among tailored pant suits for women, modern wool pant suits rarely come in a cloth this light; this is a modern women’s tailored pant suit built for real heat rather than a trend piece. Women in pantsuits often ask whether the trousers can be worn on their own: yes, the tropical wool dress pants work with a knit or a blouse just as well. For a softer look in wool and silk see our **[women’s wool and silk suit](https://baronboutique.com/boutique-tailored-silk-and-wool-suit/)**, and for a pinstripe version our **[women’s pinstripe pant suit](https://baronboutique.com/womens-pinstripe-pant-suit/)**.
+
+---
+
+Full Spec
+
+## Women’s Tropical Wool Pantsuit, Specification
+
+| Cloth | Super 140s worsted tropical wool, 8 oz, 100% wool, plain open weave; color in the selector |
+| --- | --- |
+| Jacket front | Single-breasted, two buttons, normal stance, rounded front hem |
+| Lapels | Slim peak lapels, 2 to 2.25 inches, low gorge |
+| Construction | Hand-basted canvas front, minimal hand-stitched shoulder pads, darted front, hand-stitched armholes, hand-finished buttonholes |
+| Pockets | Two hacking hip pockets, two interior pockets |
+| Back | No vent |
+| Cuffs | Plain sleeve cuffs without a vent |
+| Buttons | Black horn, hand-stitched and reinforced |
+| Lining | Jacket fully lined; trousers lined at the front to the knee, or to the hem if wool irritates your skin |
+| Trousers | Flat front, tapered leg, zip fly, hook closure, buckle side adjusters, slanted front pockets, plain back, grip waistband lined in cotton, 3 inch hand-stitched blind hem |
+| Fit | Slim, standard or relaxed, then refined on the test suit |
+| Test suit | Free, in cotton, jacket and trousers, yours to keep |
+| Production | 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Jacket dry clean only; trousers dry clean recommended, machine washable |
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Women’s Tropical Wool Pantsuit
+
+### What is tropical wool?
+
+A lightweight worsted wool woven in an open plain weave from high-twist yarn. This one is Super 140s at about 8 oz. It breathes, recovers from creases and is one of the most comfortable cloths for a warm-weather suit.
+
+### Is tropical wool as cool as linen?
+
+Not quite, but close, and it behaves better. Linen is the coolest cloth there is, but it creases by mid-morning; tropical wool lets air through its open weave and still looks pressed at the end of the day, which is why it is the usual choice for a summer business suit.
+
+### What is the difference between tropical wool and fresco?
+
+Both are open-weave summer cloths. Tropical wool is smoother and softer to the touch; fresco uses an even tighter-twisted yarn, feels drier and crisper, and springs back from creases faster. Compare our **[women’s fresco suit](https://baronboutique.com/womens-fresco-wool-suit/)** if you travel a lot.
+
+### Can I wear it to a summer wedding as well as to work?
+
+Yes. In navy, light gray or tan it works at a daytime wedding with a silk blouse and heels, and on Monday it goes back to the office with a plain shirt. That versatility is the reason many women choose tropical wool for a first custom suit.
+
+### Is it warm in hot weather?
+
+Much less than a standard wool suit, because air passes through the open weave. For the hottest climates, ask for a half-lined jacket in the comment box of the measurement form.
+
+### Does it wrinkle when I travel, and can I iron it?
+
+Some creasing happens with any cloth, but the high-twist yarn recovers well: hang the suit when you arrive and most creases fall out within hours. Press the trousers through a damp cloth on a wool setting, never directly.
+
+### Can I wear it all year?
+
+Yes. It is light enough for summer, works from spring to fall, and goes indoors in winter with a fine knit under the jacket.
+
+### Can I buy the trousers alone?
+
+This product is the full pantsuit. Our women’s trousers in tropical wool are a separate product, cut to your measurements in the same way.
+
+### Which fit should I choose: slim, standard or relaxed?
+
+Slim gives a close, modern line, standard a classic business fit, and relaxed more room to move and sit. If you are unsure, choose standard; the test suit shows the result and we adjust from there before the wool is cut.
+
+### Can I change the length or details, such as belt loops or a vent?
+
+Yes. Enter the trouser and jacket lengths on the measurement form and write style changes in its comment box, or email us with your order number. A double-breasted jacket or a skirt can also be requested.
+
+### Can I see the tropical wool first?
+
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 2600002 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will my tropical wool suit take?
+
+The cotton test suit takes three to four weeks to make and arrives 5 to 10 days after it ships. Once you approve it, the wool suit takes another three to four weeks with the same delivery time.
+
+### How do I care for it?
+
+Dry clean the jacket rarely, brush it after wearing and give it a day off between wears. The trousers can be machine washed, though dry cleaning keeps the crease sharper.
 
 ## Categories
 

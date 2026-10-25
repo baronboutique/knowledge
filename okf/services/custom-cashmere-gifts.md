@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/custom-cashmere-gifts/
     title: "Custom Cashmere Gifts"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-27
+    last_modified: 2026-10-19
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-27T14:13:23Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: human:baron-boutique, at: 2026-10-19T05:38:12Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-19T08:36:49Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-19T08:36:49Z }
 ---
 
 Baron Boutique offers a bespoke cashmere gifting service for life's most meaningful occasions, including weddings, corporate milestones, baby showers, and personal celebrations. Each piece is handwoven in Nepal by artisan partners using the world’s finest cashmere. We offer fully personalized options, including Pantone-matched colors, custom monograms, delicate scent infusions, and eco-friendly luxury packaging, with flexible minimums starting at just 6 pieces per style.
@@ -181,6 +181,8 @@ From anniversaries and birthdays to bridal showers and holidays, create meaningf
 - Holiday gift bundles (scarf + blanket + accessory sets)
 
 **Inspiration:** For a milestone anniversary, a forest green cashmere shawl featuring their intertwined initials in gold, presented as a complete bespoke set with matching scarves in a signature gift box.
+
+For a gift cut to one person’s own measurements, our [bespoke silk pajamas and robes](https://baronboutique.com/bespoke-silk-sleepwear-robes/) can also be given as a gift certificate, so the recipient sends their measurements when they are ready.
 
 Contact Us for a Custom Consultation
 

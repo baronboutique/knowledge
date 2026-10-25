@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Black Dress With Leather Trim Sleeveless Zipper Back"
-description: "Black Dress with Leather Trim – Sleek & Stylish. This sleeveless black dress with a leather-trimmed zipper back is your go-to for parties and evening events."
+title: "Women's Black Dress With Leather Trim, Sleeveless Sheath in Wool"
+description: "A black dress with leather trim, cut to your measurements in Super 140s tropical wool and fully lined, with genuine leather at the boat neck, armholes, seams and waist."
 resource: https://baronboutique.com/womens-black-dress/
 tags: [women, dress, black, sheath-dress, workwear, formalwear, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/womens-black-dress/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-20
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
-# Black Dress With Leather Trim Sleeveless Zipper Back
+# Women's Black Dress With Leather Trim, Sleeveless Sheath in Wool
 
 **SKU:** 3200014  
 **URL:** https://baronboutique.com/womens-black-dress/  
@@ -35,57 +35,202 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Black Dress with Leather Trim – Sleek & Stylish. This sleeveless black dress with a leather-trimmed zipper back is your go-to for parties and evening events. Chic, timeless, and eye-catching, it blends simplicity with bold detail. Whether for a night out or an official gathering, this dress adds a touch of edgy elegance that never goes out of style.
+A black dress with leather trim, cut to your measurements in Super 140s tropical wool and fully lined, with genuine leather at the boat neck, armholes, seams and waist. Sleeveless, with a hidden back zip and a back vent, checked first in a free cotton test dress so every line of trim sits where it should. Super 140s tropical wool, 100% worsted Genuine leather trim Fully lined in satin Hidden center back zip, back vent Free test dress in cotton, yours to keep
 
-## The Sheath Dress, Weaponized
+The Dress
 
-This isn’t just a little black dress; it’s a statement of intent. A timeless sheath silhouette, re-engineered for modern power and sharpened with the uncompromising allure of genuine leather. This is your go-to weapon of style, custom-tailored to become the most formidable piece in your wardrobe.
+## A Black Dress With Leather Trim, Placed on Your Lines
 
-### The Foundation of Power: Worsted Wool
+Leather trim on a dress is a line, and a line shows everything. On a ready-made black dress with leather trim, the waist strip sits above or below your waist, the vertical strips bow outward over the bust, and the trim around the armholes stands away from the body. The detail meant to sharpen the dress ends up drawing a map of where it does not fit.
 
-The soul of this dress lies in its exceptional fabric, chosen for its flawless drape, structure, and year-round performance.
+This black dress with leather trim is cut to your measurements in Super 140s tropical wool, fully lined, with genuine leather along the boat neck, the armholes, the front and back seams and the waist. Before the wool and leather are cut, you try a free cotton test dress at home and we place every line of trim on your body, not on a size chart.
 
-- **Super 140s’ Worsted Wool:** An incredibly smooth, lightweight 8oz wool that provides a beautiful, flattering drape while holding its sharp, tailored lines.
-- **Fully Lined for Comfort:** A complete acetate lining ensures the dress glides effortlessly over the body for a smooth, comfortable, and premium feel.
-- **A Palette of 13 Colors:** While classic black is the ultimate statement, you can select from a curated range of 13 shades to create your own unique look.
+Super 140s wool  
+ Genuine leather trim  
+ Fully lined  
+ Hidden back zip  
+ Free test dress
 
-### Defined by Dangerous Details
+**Price:** $399 **Cloth:** Super 140s tropical wool, 100% worsted, about 8 oz **Trim:** genuine black leather **Lining:** fully lined, satin chosen in the selector **Fit:** close sheath cut, refined on the test dress **Test dress:** free, yours to keep
 
-This dress is defined by the high-end, edgy details that elevate it from a simple staple to a masterpiece of modern design.
+---
 
-- **The Leather Trim Masterstroke:** The sharp, clean lines of the dress are accented with genuine leather trim—a touch of rebellious sophistication that is both subtle and powerful.
-- **Sharp Sleeveless Silhouette:** A classic, powerful sleeveless cut with a boat neck front and round neck back creates a clean, elegant shoulder line.
-- **Clean Lines, Confident Stride:** A hidden center-back zipper ensures an uninterrupted silhouette, while a back vent allows for graceful, confident movement.
+Free Test Dress
 
-### Your Fit, Flawlessly Executed: The Free Test Dress
+## Placing the Trim on Your Body
 
-A dress this powerful demands a flawless fit. We eliminate all sizing anxiety by sending you a **free test dress** first.
+The corrections we make most often on a sheath dress are at the bust and the back hip: a bust that is fuller than the other measurements suggest, and a back hip that is rounder than the front, which makes a close skirt ride up at the back. On a plain dress those corrections are invisible. On this one they decide where the leather goes, so we fix them on the cotton dress first and only then mark the final position of each strip.
 
-1. **Receive Your Test Garment:** We mail you a test dress made in cotton to your exact initial measurements.
-2. **Confirm Your Fit:** Try it on at home. You can then request any adjustments to the fit, length, or styling details.
-3. **We Craft Your Final Masterpiece:** We apply your feedback to tailor the final wool and leather dress for a perfect, bespoke fit.
+If the right fit would move a line away from where it sits in the photos, we tell you, and you choose between the line that follows your body and the line in the photos.
 
-The test dress is yours to keep.
+1
 
-#### Caring For Your Dress
+**Choose the wool and the lining**  
+ Pick the wool color and the satin lining in the selector, then enter your measurements and the length you want.
 
-Due to the combination of fine wool and genuine leather, we recommend professional dry-cleaning by a specialist only.
+2
 
-#### Black Dress With Leather Trim Features
+**A cotton dress is made first**  
+ The test dress is cut in cotton to your measurements, with the trim lines marked on it; it takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 
-- super 140s 8oz 100% worsted wool in plain cloth
-- sheath style dress
-- solid color
-- boat neck front with round neck back
-- sleeveless cut
-- pencil dress hem
-- center back vent for easy movements
-- hidden center back zipper closure
-- no pockets
-- completely lined in acetate
-- black leather trim details
-- ample seam allowances for future alteration
-- above the knee-length dress
+3
+
+**Check where the lines fall**  
+ Stand in front of a mirror: the waist line should sit at your natural waist and stay level, and the vertical lines should run straight past the bust without bowing. Then sit down and walk; the vent should open before the hem pulls.
+
+4
+
+**Wool and leather are cut**  
+ We move the trim lines and every fitting change into your pattern; your dress takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The cotton dress stays with you.
+
+---
+
+The Leather Trim
+
+## A Leather Trim Dress With Genuine Leather
+
+| Where the trim runs | Around the boat neck and both armholes, down the front and back seams, and across the waist seam, as in the photos. |
+| --- | --- |
+| Genuine, not faux | Most leather trim dresses use faux leather or coated fabric, which can crack or peel after a few cleanings; this trim is genuine leather. |
+| Why the lines slim | Vertical lines lead the eye up and down, and a waist line set at your own waist marks it clearly, which is why a black dress with a slimming silhouette relies on where its seams sit. |
+| Trim off | Without the trim it becomes a plain black sheath dress; write it in the comment box when you order. |
+
+Leather and wool behave differently: wool gives a little as you move and leather hardly gives at all. That is why trim belongs on a dress that fits closely; on a loose one, the strips buckle and lift wherever the cloth sags.
+
+---
+
+The Cloths
+
+## The Tropical Wool, Up Close
+
+These are close-up photos of the actual wool. Super 140s tropical wool is a fine, open plain weave at about 8 oz, light enough to wear through the year, smooth enough to sit cleanly beside leather. Choose your color in the selector; here are a few of the shades on offer.
+
+Black
+
+The dress in the photos, with black leather trim.
+
+Navy
+
+Navy wool with black leather, softer than black on black.
+
+Charcoal Gray
+
+A dark gray that lets the black trim stand out.
+
+Oxford Blue
+
+A mid blue for a less formal day dress.
+
+---
+
+The Back
+
+## A Black Dress With Zipper in Back, Hidden
+
+Shoppers looking for a black dress with zipper in back often find two kinds: a full back zipper dress with an exposed zip as decoration, and a dress with the zip hidden in the center back seam. This one is the second: the zip sits under the seam so the back reads as one clean line, with leather trim crossing at the waist and a vent below so you can walk and climb stairs.
+
+| Hidden center back zip | Set into the center back seam, so the dress is stepped into and closed in one movement. |
+| --- | --- |
+| Back vent | Opens at the hem when you walk, so a close sheath does not pull. |
+| Round back neck | A boat neck in front, a round neck at the back. |
+
+---
+
+How to Wear It
+
+## From Desk to Dinner
+
+| At work | Under a black or gray blazer; the leather shows only at the neck and waist, so it reads as a polished work dress. |
+| --- | --- |
+| Evening | Alone with heels and bare arms: the trim is the only decoration it needs. |
+| Winter | With black tights and a fitted wool coat over it. |
+| Formal events | A black dress for formal events that is not a gown: add a statement earring and keep everything else plain. |
+
+Want the cloth without the trim? See our **[women’s black sheath dress](https://baronboutique.com/womens-timeless-black-sheath-dress-in-seasonless-wool/)**, or, for a jacket in the same wool, our **[women’s tropical wool suit](https://baronboutique.com/womens-tan-wedding-suit/)**.
+
+---
+
+Full Spec
+
+## Women’s Black Dress With Leather Trim, Specification
+
+| Cloth | Super 140s tropical wool, 100% worsted, about 8 oz, plain weave; color in the selector |
+| --- | --- |
+| Trim | Genuine black leather at the neck, armholes, front and back seams and waist |
+| Neckline | Boat neck at the front, round neck at the back |
+| Sleeves | Sleeveless |
+| Cut | Close sheath with a pencil hem, no pockets |
+| Closure | Hidden zip in the center back seam |
+| Back | Center back vent |
+| Lining | Fully lined in satin; lining color in the selector |
+| Length | Above the knee as shown, or any length you enter |
+| Seams | Generous seam allowances for letting out later |
+| Test dress | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test dress, 3 to 4 weeks for the final dress |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean only, by a cleaner who handles leather |
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Black Dress With Leather Trim
+
+### Is the leather trim genuine or faux?
+
+Genuine leather. Faux leather is a plastic coating on fabric, and it tends to crack or peel where it folds after repeated dry cleaning. On this dress the folds are exactly where the trim sits, around the armholes and at the waist. Genuine leather will not peel, but it needs a cleaner who handles leather.
+
+### Is a black dress with leather trim slimming?
+
+It can be, if the lines sit in the right places. The vertical strips lead the eye up and down, and the waist strip marks your waist. If that strip sits even an inch low, it widens the hip instead, which is why we set the trim positions on your test dress, not from a size chart.
+
+### Is the zipper in the back visible?
+
+No. The zip is hidden in the center back seam, so the back reads as one clean line crossed by the leather at the waist. It is not a full back zipper dress with an exposed decorative zip; if you want an exposed zip, ask in the comment box.
+
+### Can I order it as a midi or a mini?
+
+Yes. Enter the length you want on the measurement form. A midi needs a longer back vent so you can walk, and we adjust it to the length you choose; a mini keeps the same trim lines with a shorter skirt.
+
+### Do you make it in plus sizes?
+
+There are no sizes: every dress is cut from the measurements you send, so it is made for any figure. On a fuller figure the trim placement matters even more, and the test dress is where we get it right.
+
+### Can I wear it to a wedding?
+
+To an evening or city wedding where black is welcome, yes, especially in the navy or charcoal wool with black trim. For a daytime or outdoor wedding, a lighter color reads less severe; check the dress code first.
+
+### Can I wear tropical wool in summer, and is it as cool as linen?
+
+Yes. Tropical wool is a light, open plain weave that lets air through, which is why it is used for summer suits. Linen is cooler in heavy humidity but creases within an hour; tropical wool stays smooth through a working day, which matters on a close dress with leather lines.
+
+### Which figures suit a sheath dress?
+
+A sheath suits most figures once it is cut to the body; the problem is only ever a sheath cut for someone else. Where the hip is much fuller than the waist we add shaping at the back, and where the bust is fuller we move the vertical seams so the trim runs straight past it.
+
+### Which lining color should I choose?
+
+Black is the quiet choice and never shows at the vent. A colored satin, such as burgundy or teal, shows only when the vent opens or the dress is on a hanger, a private detail for the wearer. The lining is chosen in the selector.
+
+### Can I have the dress without the trim, or add sleeves?
+
+Yes. Write it in the comment box on the measurement form when you order, or email us with your order number. Without the trim it becomes a plain black sheath; cap sleeves or side seam pockets are also possible.
+
+### How long does it take?
+
+Your test dress takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, the wool and leather dress takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 
 ## Categories
 

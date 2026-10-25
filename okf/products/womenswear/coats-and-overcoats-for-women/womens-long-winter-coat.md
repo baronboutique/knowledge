@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-long-winter-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-14T17:14:08Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Fitted Wool Coat in Flannel, Double Darts
@@ -172,43 +172,51 @@ Questions & Answers
 
 ### What makes this a fitted coat?
 
-Two parallel darts at each side of the waist share the shaping, so the coat follows the waist without pulling across the hip.
+Two parallel darts at each side of the waist share the shaping, so the coat follows the waist without pulling across the hip. One dart alone would have to take all the shaping in a single seam, which puckers at the point. That is the difference you see between a fitted coat and a coat that is simply tight.
 
-### How fitted is it?
+### How should a fitted coat fit a woman?
 
-You decide in the test coat: slim, standard or relaxed. Tell us if you want room for a thick sweater.
+The shoulder seam should end at the edge of your shoulder bone, and the front should button without pulling into an X across the bust. You should still be able to slide two fingers between the buttoned coat and your chest, and the sleeves should reach the base of your thumb. Those are the points we check on your test coat.
 
-### Is wool flannel warm?
+### How fitted is it, and can I wear a sweater under it?
 
-Yes, for a tailored coat. The brushed surface traps a little warmth, and the coat is fully lined.
+You decide in the test coat: slim, standard or relaxed in the selector. Tell us if you want room for a thick sweater, and wear one when you try the test coat so the final coat is cut around it.
+
+### Is wool flannel warm enough for winter?
+
+Yes, for a tailored coat. Super 110s flannel has a brushed surface that holds warm air, and the coat is fully lined in satin, which adds a second layer. In real cold, order it longer and wear a knit underneath.
+
+### Is a custom tailored coat worth it over a ready-made one?
+
+A ready-made coat is cut for one waist height and one bust position, so it either fits you or it does not. This coat is cut from your measurements, with a canvas front that keeps its line for years, and the fit is checked on a cotton test coat before the wool is cut. If you keep a coat for many winters, that is where the difference shows.
 
 ### Can I have it longer for winter?
 
-Yes, enter a longer length on the measurement form, for example to the knee.
+Yes. It is mid-thigh as standard; enter a longer length on the measurement form, for example to the knee. The test coat shows the new length before the flannel is cut.
 
 ### What colors does it come in?
 
-Navy blue as photographed, and other flannels such as camel, burgundy and light gray; the selector shows the full range.
+Navy blue as in the photos, and other flannels in the selector, such as camel, burgundy, charcoal and light gray. The satin lining is chosen in the selector too.
 
-### Can I ask a question before ordering?
+### Can I change the pockets, buttons or vent?
 
-Yes, use the Ask a question about this piece form below Add to Cart.
+Yes. Put the change in the comment box of the measurement form, or email us with your order number. Patch pockets, two buttons or no chest pocket are all possible on this coat.
 
-### How does the free test coat work?
+### How do I measure if there is no tailor near me?
 
-We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the flannel. The test coat is yours to keep.
+Ask someone to hold the tape if you can. On your own, measure bust, natural waist and hips, then a coat or jacket that already fits you well across the shoulders; we can guide you by video call or WhatsApp.
 
-### How long does it take?
+### Can I see the flannel before I order?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 2800003 and the colors you want to compare; the courier fee is credited toward your first order.
 
-### Can I change details, such as the length?
+### How long does the fitted coat take?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+The cotton test coat is made in 3 to 4 weeks and arrives 5 to 10 days after dispatch. Once you approve the fit, the flannel coat is made in 3 to 4 weeks more and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 
-Dry clean only, and not often. Brush the flannel after wearing and hang it on a shaped hanger.
+Dry clean only, and not often. Brush the flannel after wearing and hang it on a shaped hanger so the shoulders keep their line.
 
 ## Categories
 

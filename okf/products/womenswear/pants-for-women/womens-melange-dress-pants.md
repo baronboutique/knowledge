@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-melange-dress-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Light Gray Tailored Trousers in Melange Tropical Wool
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Women's light gray tailored trousers made to your measurements in 9 oz Super 140s melange wool, with a classic straight leg. The front is lined to the knee, so the pale wool never shows through. A free test pair comes first, so you check the fit and length before your wool is cut. 14 colors, $239.
+Women's light gray tailored trousers made to your measurements in 9 oz Super 140s melange wool, with a classic straight leg. The front is lined to the knee, so the pale wool never shows through. A free test pair comes first, so you check the fit and length before your wool is cut. Colors in the selector, $239.
 
 Light Gray Tailored Trousers
 
@@ -51,7 +51,7 @@ Free test pair first
  Classic straight leg  
  Light gray melange wool  
  Lined to the knee  
- 14 colors  
+ Colors in the selector  
  Made to your measurements
 
 ---
@@ -128,9 +128,9 @@ How to Wear
 
 ---
 
-14 Colors
+The Colors
 
-## Melange, Light Gray and 12 More Colors
+## Melange, Light Gray and More Colors
 
 These are close-up photos of the actual cloths. The trousers in the photos are Melange, a light gray with a soft fleck. Pick your color in the fabric selector above.
 
@@ -138,17 +138,17 @@ Melange
 
 The light gray in the photos.
 
-Light Grey
+Light Gray
 
 A flat light gray, without the fleck.
 
-Medium Grey
+Medium Gray
 
-Grey
+Gray
 
-Dark Grey
+Dark Gray
 
-Charcoal Grey
+Charcoal Gray
 
 Black
 
@@ -208,7 +208,7 @@ Questions & Answers
 
 ### What color are the trousers in the photos?
 
-Melange, a light gray woven from yarns of slightly different shades, which gives it a soft fleck. If you want a flat, even light gray, choose Light Grey in the fabric selector.
+Melange, a light gray woven from yarns of slightly different shades, which gives it a soft fleck. If you want a flat, even light gray, choose Light Gray in the fabric selector.
 
 ### What is melange wool?
 
@@ -244,7 +244,7 @@ Yes. Wash them cold on a gentle wool cycle and hang them to dry, or dry clean th
 
 ### How much do these light gray trousers cost?
 
-They are $239 in Melange, Light Grey or any of the other 12 colors, with any lining color. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your wool is cut.
+They are $239 in Melange, Light Gray or any other color in the selector, with any lining color. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your wool is cut.
 
 ### How long does it take to receive my trousers, and do you ship internationally?
 

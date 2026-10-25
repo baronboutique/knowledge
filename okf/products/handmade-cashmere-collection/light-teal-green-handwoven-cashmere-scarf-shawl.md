@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/light-teal-green-handwoven-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:26:09Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Light Teal Green Handwoven Cashmere Scarf Shawl
@@ -89,7 +89,7 @@ Our Greens
 
 ## Light Teal Green and Our Other Green Cashmere Scarves
 
-Light teal is the softest of our greens. For a deeper everyday green, see **[Forest Green](https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/)**; for a bright jewel green for evening, **[Emerald Green](https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/)**; for a fresh spring green, **[Willow Green](https://baronboutique.com/willow-green-handwoven-cashmere-scarf-shawl/)**. One client ordered Light Teal, Emerald and Willow Green together as a set of three greens. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+Light teal is the softest of our greens. For a deeper everyday green, see **[Forest Green](https://baronboutique.com/handwoven-forest-green-cashmere-scarf-shawl/)**; for a bright jewel green for evening, **[Emerald Green](https://baronboutique.com/emerald-green-handwoven-cashmere-scarf-shawl/)**; for a fresh spring green, **[Willow Green](https://baronboutique.com/willow-green-handwoven-cashmere-scarf-shawl/)**. One client ordered Light Teal, Emerald and Willow Green together as a set of three greens. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in a wide range of colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 

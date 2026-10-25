@@ -51,19 +51,19 @@ Every adjustment is applied, then your dress is cut and hand-tailored in your ch
 
 ## Products
 
-- [Asymmetrical Hem Zipper Dress](womens-asymmetrical-shift-dress-in-sharksksin.md)
-- [Belted V-Neck Shift Dress Pockets Knee Length](womens-belted-a-line-dress.md)
-- [Black Dress With Leather Trim Sleeveless Zipper Back](womens-black-dress.md)
-- [Collared Crossover Sheath Dress](womens-wrap-dress.md)
-- [Gingham Ruffle Hem Midi Dress](womens-gingham-ruffle-hem-midi-dress.md)
-- [Silk Tunic Dress V Neck Long Sleeves In Crepe silk](womens-crepe-silk-tunic-dress.md)
-- [Sleeveless Linen Maxi Dress](womens-linen-long-dress.md)
-- [The Essential Sheath Dress](womens-timeless-black-sheath-dress-in-seasonless-wool.md)
-- [The Minimalist Sheath Wedding Dress](womens-pure-new-wool-sheath-dress.md)
-- [The Modern Mother of the Bride Sheath Dress](womens-dalenia-pinstripe-sheath-dress.md)
-- [The Tailored Mini Dress](womens-mayalu-cobalt-dress.md)
-- [V-Neck Women's Sheath Dress](wool-flannel-sheath-dress.md)
-- [White Piped Trim Sheath Dress A-Line V-Neck](womens-piped-sheath-dress.md)
+- [Women's Asymmetrical Hem Zipper Dress in Sharkskin Wool](womens-asymmetrical-shift-dress-in-sharksksin.md)
+- [Women's Belted V-Neck Shift Dress in Cotton Twill, With Pockets](womens-belted-a-line-dress.md)
+- [Women's Black Dress With Leather Trim, Sleeveless Sheath in Wool](womens-black-dress.md)
+- [Women's Black Sheath Dress With White Piping, Stand Collar](womens-piped-sheath-dress.md)
+- [Women's Classic Black Sheath Dress in Super 160s Wool](womens-timeless-black-sheath-dress-in-seasonless-wool.md)
+- [Women's Collared Crossover Sheath Dress, Faux Wrap in Wool](womens-wrap-dress.md)
+- [Women's Gingham Ruffle Hem Midi Dress in Cotton Poplin](womens-gingham-ruffle-hem-midi-dress.md)
+- [Women's Minimalist Sheath Wedding Dress in Super 160s Wool](womens-pure-new-wool-sheath-dress.md)
+- [Women's Modern Mother of the Bride Sheath Dress in Pinstripe Wool](womens-dalenia-pinstripe-sheath-dress.md)
+- [Women's Silk Tunic Dress in Crepe Silk, Long Sleeves](womens-crepe-silk-tunic-dress.md)
+- [Women's Sleeveless Linen Maxi Dress, Custom Made](womens-linen-long-dress.md)
+- [Women's Tailored Mini Dress in Cobalt Blue Wool, Elbow Sleeves](womens-mayalu-cobalt-dress.md)
+- [Women's V-Neck Sheath Dress in Wool Flannel, Tailored](wool-flannel-sheath-dress.md)
 
 ## Related
 

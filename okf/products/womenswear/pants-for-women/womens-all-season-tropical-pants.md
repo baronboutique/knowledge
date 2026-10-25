@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-all-season-tropical-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Relaxed Fit Trousers in Super 140s Tropical Wool
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Women's relaxed fit trousers made to your measurements in 9 oz Super 140s tropical wool: exact at the waist, easy through the hip and thigh, straight to the hem. A free test pair comes first, so you choose how relaxed they feel before your wool is cut. 14 colors, $239.
+Women's relaxed fit trousers made to your measurements in 9 oz Super 140s tropical wool: exact at the waist, easy through the hip and thigh, straight to the hem. A free test pair comes first, so you choose how relaxed they feel before your wool is cut. Colors in the selector, $239.
 
 Relaxed Fit Trousers
 
@@ -51,7 +51,7 @@ Free test pair first
  Relaxed through the hip and thigh  
  Super 140s tropical wool, 9 oz  
  Lined to the knee  
- 14 colors  
+ Colors in the selector  
  Made to your measurements
 
 ---
@@ -133,23 +133,23 @@ A fine, smooth worsted, lined at the front to just below the knee in the lining 
 
 ---
 
-14 Colors
+The Colors
 
 ## Tropical Wool in Grays, Blues, Neutrals and Black
 
-These are close-up photos of the actual cloths. The trousers in the photos are Light Grey. Pick your color in the fabric selector above.
+These are close-up photos of the actual cloths. The trousers in the photos are Light Gray. Pick your color in the fabric selector above.
 
-Light Grey
+Light Gray
 
 The color in the photos.
 
-Medium Grey
+Medium Gray
 
-Grey
+Gray
 
-Dark Grey
+Dark Gray
 
-Charcoal Grey
+Charcoal Gray
 
 Black
 
@@ -243,7 +243,7 @@ Yes. Wash them cold on a gentle wool cycle and hang them to dry, or dry clean th
 
 ### Which colors look most formal for work?
 
-Navy, Charcoal Grey, Black and Dark Grey are the most formal. Light Grey, Medium Grey and Melange are softer gray work pants that suit warmer months, and Tan and Beige pair well with white or cream tops.
+Navy, Charcoal Gray, Black and Dark Gray are the most formal. Light Gray, Medium Gray and Melange are softer gray work pants that suit warmer months, and Tan and Beige pair well with white or cream tops.
 
 ### How much do these relaxed fit trousers cost?
 

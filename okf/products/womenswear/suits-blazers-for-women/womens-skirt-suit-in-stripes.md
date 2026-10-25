@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Women's Custom Skirt Suit in Pinstripe Wool"
-description: "The problem with most skirt suits is not how they look standing still. It is the skirt creeping up as you walk and clinging to tights when you sit."
+description: "A custom skirt suit cut to your measurements in Super 130s pinstripe wool: a three-button peak lapel jacket and a fully lined pencil skirt with a back slit and a grip waistband, so it stays put when y…"
 resource: https://baronboutique.com/womens-skirt-suit-in-stripes/
 tags: [women, suit, skirt-suit, skirt, striped, workwear, formalwear, bespoke, made-to-order]
 sources:
@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-skirt-suit-in-stripes/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-21
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T18:20:25Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Custom Skirt Suit in Pinstripe Wool
@@ -36,146 +36,147 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-The problem with most skirt suits is not how they look standing still. It is the skirt creeping up as you walk and clinging to tights when you sit. This custom skirt suit is cut to your measurements in Super 120s pinstripe wool, with a peak lapel jacket and a fully lined pencil skirt that has a back slit and a grip waistband, so it stays where you put it. Prefer trousers or a different length? Just ask. Before we cut the wool, we send you a free test suit to try at home, and it is yours to keep.
+A custom skirt suit cut to your measurements in Super 130s pinstripe wool: a three-button peak lapel jacket and a fully lined pencil skirt with a back slit and a grip waistband, so it stays put when you walk and sit. Tried first as a free cotton test suit. Super 130s, 100% worsted wool, pinstripe Three-button jacket, peak lapels Fully lined pencil skirt, any length Trousers instead of the skirt on request Free test suit in cotton, yours to keep
 
-## A Custom Skirt Suit With a Skirt That Stays Where You Put It
+The Skirt Suit
 
-Ask women what goes wrong with a skirt suit and fit is rarely the first answer. It is the skirt creeping up the thighs with every step down a corridor, twisting round until the zip sits on one hip, and clinging to tights after an hour in a chair. By lunchtime you are tugging at the hem instead of listening. It happens so often that many women give up on skirt suits altogether.
+## A Custom Skirt Suit That Stays Put
 
-Three things cause it, and this custom skirt suit is built against all three. An unlined wool skirt grips tights, so our skirt is fully lined in acetate, which slides over them. A straight skirt that is snug over the hips is pulled upward as the leg moves, so the pencil skirt is cut to your own hip measurement with room to stride, and a center back slit opens as you walk. A waistband that sits loose drifts round the body, so the 2-inch waistband is cut to your waist, lined in cotton and fitted with a grip on the inside that holds it, and your blouse, in place.
+The trouble with most skirt suits is not how they look standing still. It is the skirt creeping up as you walk, twisting at the waist and clinging to tights when you sit, because the skirt was cut for a size chart and left unlined.
 
-The jacket is a single-breasted three-button style with peak lapels, a canvas front and a darted waist, cut from the same Super 120s pinstripe wool as the skirt. It ends at the high hip, which is the length that lets a pencil skirt show its line instead of hiding it.
+This custom skirt suit is cut to your measurements in a Super 130s pinstripe wool: a three-button jacket with peak lapels and a fully lined pencil skirt with a back slit and a grip waistband, so it stays where you put it. You try a free cotton test suit at home before the wool is cut.
 
-Super 120s pinstripe wool  
- Fully lined pencil skirt  
- Center back slit  
- Grip waistband  
- Peak lapel jacket  
- Canvas front  
- Skirt or trousers  
- Free test suit first
+Pinstripe wool  
+ Super 130s  
+ Lined pencil skirt  
+ Peak lapels  
+ Free test suit
+
+**Price:** $719 for jacket and skirt **Cloth:** Super 130s, 100% worsted wool, pinstripe **Lining:** jacket and skirt fully lined, lining chosen in the selector **Fit:** slim, standard or relaxed in the selector **Test suit:** free, yours to keep **Care:** dry clean
 
 ---
+
+What Is a Skirt Suit
 
 ## What Is a Skirt Suit?
 
-A skirt suit is a women’s suit made of a tailored jacket and a matching skirt, cut from the same cloth so the two pieces read as one outfit. It is the skirt version of the trouser suit, and in French tailoring the same garment is simply called a tailleur. The classic form is exactly what this is: a single-breasted jacket over a knee-length pencil skirt, in a dark wool.
+A skirt suit is a women’s suit with a skirt instead of trousers: a jacket and a skirt cut from the same cloth and worn together. It is sometimes written as one word, skirtsuit, and in some countries called a two piece or a coat and skirt. What is a women’s suit with a skirt called in a tailor’s shop? Simply a skirt suit, or a jacket and skirt.
 
-It sits at the formal end of business dress. Worn together, the jacket and skirt are appropriate for interviews, court, board meetings and formal daytime events. Worn apart, the jacket goes over dresses and trousers and the skirt goes under knitwear, which is why a good skirt suit is three outfits rather than one.
+Suits with skirts go by many names: women’s suits with skirts, suit skirts for women, skirts suits, women’s 2 piece suits, or simply a women’s blazer and skirt. This tailored skirt suit pairs the blazer and suit skirt in one cloth, a women’s blazer skirt suit that can also be worn apart; worn alone, the tailored suit skirt goes with a sweater. Skirt suit designs for ladies differ mostly in the jacket and the skirt length.
 
----
-
-## Pinstripe or Chalk Stripe: Which Is This?
-
-This is a pinstripe. The two are easy to confuse and they say different things. A pinstripe is a very fine, sharp line, about the width of a pin, woven into a smooth worsted cloth. A chalk stripe is wider and softer at the edges, like a line drawn in tailor’s chalk, and usually sits on a brushed flannel.
-
-Pinstripe
-
-Crisp, precise and quiet from a distance. The stripe lengthens the body without drawing attention to itself, which is why it has been the standard business stripe for generations. This suit comes in gray, charcoal, navy and black with a light pinstripe, and in black with a dotted pinstripe.
-
-Chalk Stripe
-
-Bolder and warmer, and at its best in autumn and winter flannels. It makes a stronger statement, and on a skirt suit it can look heavier than a pinstripe. For a suit worn year-round to work, the pinstripe is the more useful choice.
+| With a pencil skirt | The classic: a straight, close skirt to the knee, as in the photos. Pencil skirt suits for women are the most formal; a black pencil skirt suit or a navy pencil skirt suit for a wedding both work. |
+| --- | --- |
+| With a long skirt | A long pencil skirt suit to mid-calf, quieter and good for winter; long skirt suits for ladies, like a womens long skirt suit, need an accurate hip fit to hang straight. |
+| With a short skirt | A miniskirt suit is shorter and more of a fashion piece; any length can be entered on the measurement form. |
+| Skirt or trousers | The same jacket can be made with trousers instead; ask in the comment box. |
+| For evening | With satin lapels the jacket becomes a skirt tuxedo, a women’s tuxedo skirt suit; write it in the comment box. |
 
 ---
 
-## Where a Skirt Suit Still Wins: Interviews, Court and the Boardroom
+Free Test Suit
 
-A trouser suit is accepted almost everywhere now, but in conservative settings a dark skirt suit is still read as the most formal choice a woman can make. If you are interviewing at a law firm, appearing in court or presenting to a board, these are the rules that still apply.
+## Fitted Before the Wool Is Cut
+
+A pencil skirt shows body structure more honestly than any trouser. When the hip is smaller than the waist suggests, the skirt bunches below the seat; when the hip is fuller at the back with a flatter front, the skirt rides up behind and the side seams twist. On the jacket, the bust and the back decide whether three buttons close cleanly. These are the corrections we make most often on women’s suits, and the buttons are kept close enough that the front never gapes.
+
+If the right correction would change the style, such as a dart through the stripes, we explain it, and you choose between the fit that follows your body exactly and the look in the photos exactly.
 
 1
 
-**Keep the hem at the knee or just above it**  
-Order the length with this in mind, and remember a skirt rides higher when you sit. Sit down in front of a mirror in your test suit and look at the hem from the height of someone across a table.
+**Choose the stripe and skirt length**  
+ Pick the stripe and lining in the selector, then your fit and measurements, with the skirt length you want: knee length as standard, or longer or shorter.
 
 2
 
-**Choose navy, charcoal or black**  
-Dark pinstripes are the most conservative colors and hide the creases of a long day. Gray is right for most offices but reads slightly softer.
+**The cotton suit comes first**  
+ Jacket and skirt are cut in cotton to your measurements in 3 to 4 weeks and arrive 5 to 10 days after dispatch.
 
 3
 
-**Wear sheer tights in the most formal rooms**  
-A skin tone or black is the traditional choice for court and interviews. The acetate lining lets the skirt slide over them rather than catch.
+**Walk, sit and climb stairs**  
+ A skirt shows its fit in movement: check that it stays level at the hem, that it does not ride up when you sit, and that the jacket buttons close over the bust without pulling.
 
 4
 
-**Button the jacket when you stand**  
-Undo it when you sit. A jacket cut to your measurements lies flat either way, with no pulling across the buttons.
+**The pinstripe is cut**  
+ Your corrections go into the pattern, the stripes are matched, and the suit takes 3 to 4 weeks; it arrives 5 to 10 days after it ships. Keep the cotton suit.
 
 ---
 
-## Your Options: Length, Trousers and Lining
+The Skirt
 
-The skirt is cut to the length you ask for, so a tall woman gets a skirt that reaches her knee and a petite woman is not wearing a midi by accident. If you would rather have trousers instead of the skirt, or a different skirt length, write it in the comment box on the measurement form and we will cut it that way at the same price. Choose your lining from 30+ lining options.
+## A Pencil Skirt That Stays Put
 
-**Price:** $719, same for every stripe **Production time:** 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit **Delivery:** 5 to 10 days after dispatch **Care:** Dry clean only
-
----
-
-## Free Test Suit: Walk, Sit and Climb Stairs in It First
-
-Before we cut your wool, we make the whole suit in cotton, to your measurements, and send it to you. Do not just stand in front of the mirror. Walk the length of a corridor, sit for ten minutes, take the stairs and reach for a high shelf. Tell us if the skirt moves, if the jacket pulls or if the length is wrong, and we correct the pattern before the final suit is cut. The test suit is yours to keep.
-
-Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
-
-Not sure how to measure yourself? Our [women’s body measuring guide](https://baronboutique.com/womens-body-measuring-guide/) walks through each measurement, and the [women’s suit fit guide](https://baronboutique.com/womens-suit-fit-guide/) shows what a correct fit looks like.
-
----
-
-## Full Specification
-
-### The Jacket
-
-| Cloth | Super 120s, 100% worsted wool, medium weight, pinstripe |
+| Fully lined | The lining lets the skirt slide over tights instead of clinging, and keeps the wool from creasing at the seat. |
 | --- | --- |
-| Stripe options | Gray, charcoal, navy or black with light pinstripe; black with dotted pinstripe |
-| Construction | Canvas front |
-| Style | Single-breasted, three buttons |
-| Lapels | Peak lapels, 2.5 to 3 inches |
-| Front | Darted front, closed rounded hem |
-| Outer pockets | Single welt hip pockets |
-| Interior pockets | Two |
-| Back | No vent |
-| Sleeve cuffs | Plain |
-| Armholes | Hand-stitched |
-| Buttonholes | Hand-finished buttonholes |
-| Buttons | Brown horn buttons, stitched and reinforced by hand |
-| Lining | Fully lined in acetate, 30+ lining options |
-| Seam allowances | Ample, for future alteration |
+| Grip waistband | A two inch waistband lined in cotton, with an inner grip that holds a tucked blouse in place. |
+| Back slit and hidden zip | A center back slit for walking and a hidden zip at the back. |
+| No pockets | A smooth line over the hips, which is why tailored skirt suits for women usually skip them. |
 
-### The Skirt
+In our experience, cheap skirt suits fail first in the skirt: thin cloth bags at the seat, an unlined skirt rides up, and the jacket loses its shape. A canvas front and a lined, fitted skirt are what make this one last.
 
-| Cloth | Matching Super 120s pinstripe wool |
+---
+
+The Cloths
+
+## The Pinstripe Wool, Up Close
+
+These are close-up photos of the actual cloth. Choose your stripe in the selector; here are four of the options on offer.
+
+Gray With Light Stripe
+
+A gray skirt suit for daily work.
+
+Charcoal With Light Stripe
+
+The most formal of the gray stripes.
+
+Navy With Light Stripe
+
+Close to the suit in the photos.
+
+Black With Dotted Stripe
+
+Black with a dotted orange stripe, for a skirt suit that is noticed.
+
+---
+
+How to Wear It
+
+## Skirt Suits for Women, From the Office to a Wedding
+
+| Work | A professional skirt suit for work with a white shirt or a fine knit: the classic women’s skirt suit for meetings. Professional skirt suit styles for work differ mostly in the jacket length. |
 | --- | --- |
-| Cut | Straight pencil skirt |
-| Length | Knee length as standard; any length you ask for |
-| Waistband | 2 inches tall, cotton-lined, with an inner grip to keep tops tucked in |
-| Closure | Center back hidden zip |
-| Walking room | Center back slit |
-| Pockets | None, for a smooth line over the hips |
-| Lining | Fully lined in acetate |
-| Hem | Plain |
-| Alternative | Trousers instead of the skirt, on request |
-| Seam allowances | Ample, for future alteration |
+| Weddings | Womens skirt suits for weddings in gray or navy with a silk blouse; formal skirt suits for weddings are a quieter choice than a dress for guests and mothers of the couple, and the most dressy skirt suits or formal skirt suits for ladies add a silk blouse and heels. |
+| Special occasions | One of the women’s skirt suits for special occasions, with heels and the jacket buttoned. |
+| Separates | The jacket over a dress or trousers; the skirt with a sweater. |
+
+A modern skirt suit, like any modern women’s suit, is slimmer at the waist and shorter in the jacket than the boxy suits of the past, which is why a fitted skirt suit cut to your measurements looks modern without trying; in a bold stripe it becomes a power suit with a skirt. For a pinstripe pant suit, see our **[women’s pinstripe suit](https://baronboutique.com/womens-pinstripe-pant-suit/)**; for a dress instead of a skirt, our **[women’s suit dress](https://baronboutique.com/wool-flannel-dress-suit/)**.
+
+---
+
+Full Spec
+
+## Women’s Skirt Suit, Specification
+
+| Cloth | Super 130s, 100% worsted wool, medium weight, pinstripe; stripe in the selector |
+| --- | --- |
+| Jacket | Single-breasted, three buttons, peak lapels 2.5 to 3 inches, closed rounded front hem |
+| Jacket build | Hand-basted canvas front, front darts, armholes stitched by hand, hand-finished buttonholes, fully lined |
+| Jacket pockets | Single welt hip pockets, two interior pockets |
+| Back and cuffs | Ventless; plain cuffs |
+| Buttons | Brown horn, hand-stitched and reinforced |
+| Skirt | Straight pencil skirt, knee length as standard or any length you enter, no pockets |
+| Skirt finish | Fully lined; 2 inch cotton-lined grip waistband; hidden center back zip; center back slit |
+| Fit | Slim, standard or relaxed, then refined on the test suit |
+| Test suit | Free, cotton jacket and skirt, yours to keep |
+| Production | 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
 | Care | Dry clean only |
 
 ---
 
-## Custom vs. Off the Rack
-
-| | Off the Rack | Baron Boutique |
-| --- | --- | --- |
-| Skirt lining | Often unlined, so it clings to tights and rides up | Fully lined in acetate, so it slides |
-| Waistband | Sold in one size with the jacket, so it drifts round the waist | Cut to your waist, with an inner grip |
-| Skirt length | One length for every height | The length you ask for |
-| Jacket and skirt sizes | Sold as one size, even when your top and bottom differ | Each piece cut to its own measurements |
-| Skirt or trousers | Whatever the set includes | Your choice, at the same price |
-| Fit check | Returns or paid alterations | Free test suit confirms the fit before the wool is cut |
-| Construction | Fused front that can bubble after cleaning | Canvas front that keeps its shape |
-| Future changes | Little seam allowance | Ample seam allowances for future alteration |
-
----
+About Baron
 
 ## About Baron Boutique
 
@@ -187,55 +188,77 @@ Our customers come back because the fit is right and we answer emails. Every gar
 
 ---
 
-## Questions About This Custom Skirt Suit
+Questions & Answers
 
-### What is a skirt suit?
+## Questions About the Women’s Skirt Suit
 
-A skirt suit is a women’s suit made of a tailored jacket and a matching skirt cut from the same cloth. It is the formal alternative to a trouser suit, worn for interviews, court, business meetings and formal daytime events. The classic version, like this one, pairs a single-breasted jacket with a knee-length pencil skirt.
+### What is a skirt suit, and what else is it called?
 
-### What is a women’s suit with a skirt called?
+A skirt suit is a women’s suit made of a jacket and a skirt cut from the same cloth and worn together. It is also called a two-piece, a coat and skirt, or written as one word, skirtsuit. Cutting both pieces from one cloth matters: they match in color and texture on the day and age together over the years.
 
-A women’s suit with a skirt is called a skirt suit, and sometimes a skirted suit. In French tailoring it is known as a tailleur. When the jacket and skirt are sold separately in the same cloth, they are called suit separates.
+### Is a skirt suit appropriate for an interview or a conservative office?
 
-### Why does my suit skirt ride up when I walk?
+Yes. A matching skirt suit is full business dress, as formal as a pant suit, and it is still the expected choice in some law, finance and government settings. For an interview, navy or charcoal pinstripe with a knee-length skirt and a plain blouse is the safe, confident choice.
 
-A suit skirt rides up for three reasons: it is unlined and grips your tights, it is tight over the hips so each step pulls it upward, or the waistband is loose and lets it drift. A fully lined skirt, cut with enough ease over the hips, with a slit for walking room and a waistband that fits your waist, stays in place. This skirt addresses all four.
+### Can I wear a skirt suit to court?
 
-### What is the difference between a pinstripe and a chalk stripe?
+Yes. A tailored skirt suit in a dark, muted color with the skirt at the knee is one of the standard choices. Keep the blouse plain and the jewelry quiet, so attention stays on what you say rather than what you wear.
 
-A pinstripe is a very fine, sharp line on a smooth worsted wool, while a chalk stripe is wider and softer at the edges, like a line drawn in tailor’s chalk, and usually appears on flannel. A pinstripe looks crisper and more understated, which makes it the more versatile choice for a skirt suit worn to work year-round. This suit is a pinstripe.
+### Can I wear a skirt suit to a wedding?
 
-### Is a skirt suit or a pantsuit better for a job interview?
-
-Both are acceptable, but in conservative fields such as law, finance and government, a dark skirt suit is still read as the most formal option. Choose the one you feel most confident in. If you choose a skirt suit, keep the hem at the knee or just above, choose navy, charcoal or black, and check how the skirt looks when you sit.
+Yes, if it suits the dress code. For a daytime wedding, a gray or navy skirt suit with a silk blouse and heels looks polished and is a good alternative to a dress; for a formal evening, choose a longer skirt or satin lapels. Avoid white and ivory, which belong to the bride.
 
 ### How long should the skirt of a skirt suit be?
 
-For work, the skirt should end at the knee or just above it. Remember that a pencil skirt rises about two inches when you sit, so if it looks right standing at mid-knee it will still look right seated. Give us the length you want on the measurement form, and confirm it in the test suit before the final one is cut.
+The classic length is at the knee or just below, which stays appropriate when you sit. Just above the knee looks more modern, and a midi length suits winter and formal events. You enter the length you want, and the test suit shows how it looks sitting and standing before the wool is cut.
 
-### Do I need to wear tights with a skirt suit?
+### Will the pencil skirt ride up when I walk or sit?
 
-Tights are not required in most offices today, but sheer tights in a skin tone or black are still expected in the most formal settings, such as some courtrooms and interviews. With tights, a lined skirt matters: this skirt is fully lined in acetate, so it slides over them instead of clinging.
+Not when it fits. Tape and slips only treat the symptom; a pencil skirt rides up because it is too tight at the hip or seat, or sits below the natural waist. Ours is cut to your hip and seat, fully lined so it slides over tights, and has a grip waistband that keeps it at the waist.
 
-### Can I wear a pinstripe skirt suit to a wedding?
+### Are skirt suits still in style?
 
-Yes, as a guest at a daytime or city wedding, a navy or gray pinstripe skirt suit looks sharp and appropriate, especially with a silk blouse and lighter accessories. For evening weddings, a black suit with a satin lining in a bright color works well. Avoid it for very casual or beach weddings, where wool feels too formal.
+Yes. They have come back on the runways, and the modern version is slimmer at the waist with a shorter jacket than the boxy suits of the 1980s and 1990s. A skirt suit cut to your measurements looks current because the fit, not a trend detail, does the work.
 
-### Can I order trousers instead of the skirt, or a different skirt length?
+### Which pinstripe should I choose?
 
-Yes, write it in the comment box on the measurement form. We will cut trousers in the same pinstripe wool instead of the skirt, or the skirt at any length you ask for, at the same price.
+Gray with a light stripe is the easiest to wear every day, charcoal is the most formal, navy is the classic for interviews and weddings, and black with a dotted orange stripe is the statement choice. Stripes are hard to judge on a screen, so our **[swatch service](https://baronboutique.com/swatch-service/)** will send up to four samples; quote product number 2600010 and the stripes you want to compare.
 
-### Can I wear the jacket and skirt separately?
+### What is Super 130s wool, and is it good for a skirt suit?
 
-Yes, and that is where much of the value is. The jacket works over a plain dress or dark trousers, and the skirt pairs with fine knitwear or a silk blouse. Because both pieces are dark pinstripe wool, they combine easily with what you already own.
+Super 130s describes a fine worsted wool fiber. It is smooth and drapes well, yet firm enough to hold a pencil skirt and a structured jacket, and it resists creasing through a day of sitting. Finer numbers feel softer but wear faster, so 130s is a sensible balance for a suit you will wear often.
 
-### How much does this custom skirt suit cost?
+### Can I have a long or midi skirt?
 
-This skirt suit is $719 for the jacket and skirt, the same price in every stripe and the same if you choose trousers instead. The price includes a free cotton test suit that is yours to keep, so the fit is checked before the wool is cut.
+Yes. Enter the length on the measurement form; a midi or long pencil skirt needs an accurate hip fit to hang straight and a slit long enough to walk in, both of which we check on the test suit.
 
-### How long does it take to receive my suit, and do you ship internationally?
+### Can it be made as a tuxedo skirt suit?
 
-Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship worldwide with tracking, and if you need it for an interview or a date, order as early as you can.
+Yes. Ask for satin lapels in the comment box of the measurement form, and the jacket becomes a skirt tuxedo for evening. It suits the black cloth most naturally.
+
+### Can I have trousers instead of the skirt?
+
+Yes. Write it in the comment box of the measurement form, or email us with your order number. Trousers, a longer or shorter skirt, or a different button count are all possible.
+
+### Does the jacket have pockets?
+
+Yes: single welt hip pockets and two interior pockets. The skirt has none, so it lies smooth over the hips.
+
+### Can I order the jacket or the skirt alone?
+
+Ask us through the Ask a question about this piece form below Add to Cart, or by email, and we will tell you what is possible for the cloth you want.
+
+### How do I measure without a tailor?
+
+With a helper if possible. Alone, measure your bust, natural waist and hips, then measure a jacket and skirt that fit you well; we can guide you by video call or WhatsApp.
+
+### How long will my skirt suit take?
+
+The cotton test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you approve the fit, the wool suit takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so allow for both if you need it by a date.
+
+### How do I care for it?
+
+Dry clean rarely, because cleaning wears wool more than wearing does. Hang the skirt by its waistband and the jacket on a shaped hanger, and brush both after wearing.
 
 ## Categories
 

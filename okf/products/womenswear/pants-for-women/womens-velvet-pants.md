@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-velvet-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Velvet Skinny Trousers in Stretch Velvet
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Women's velvet skinny trousers made to your measurements in a soft poly-cotton velvet with a slight stretch, so the leg stays slim without bagging at the knee. Mid rise, zip fly, belt loops, front pockets and two patch back pockets, in red and 10 more colors. Straight leg or a different lining on request. A free test pair comes first, so the fit is confirmed before your velvet is cut.
+Women's velvet skinny trousers made to your measurements in a soft poly-cotton velvet with a slight stretch, so the leg stays slim without bagging at the knee. Mid rise, zip fly, belt loops, front pockets and two patch back pockets, in red and more colors. Straight leg or a different lining on request. A free test pair comes first, so the fit is confirmed before your velvet is cut.
 
 Velvet Skinny Trousers
 
@@ -48,7 +48,7 @@ These trousers are made to your measurements in a soft velvet with a slight stre
 Skinny leg  
  Mid rise  
  Stretch velvet  
- 11 colors  
+ Colors in the selector  
  Patch back pockets  
  Free test pair first  
  Made to your measurements
@@ -121,9 +121,9 @@ The cloth is a poly-cotton velvet with a slight stretch. The cotton gives it a s
 
 ---
 
-11 Colors
+The Colors
 
-## Red Velvet and 10 More Colors
+## Red Velvet and More Colors
 
 These are close-up photos of the actual velvets. Pick one in the fabric selector above.
 

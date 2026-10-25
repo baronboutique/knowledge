@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-iconic-wool-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Slim Tailored Bootcut Trousers in Super 140s Wool
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Slim tailored bootcut trousers for women in 9 oz Super 140s wool, made to your measurements. Slim through the hip and thigh, opening gently from the knee, and hemmed for the heels you will wear. Before your wool is cut, you try a free test pair at home to set where the leg opens and where the hem falls. Front lined to the knee in your choice of lining, in 13 colors from black to cobalt.
+Slim tailored bootcut trousers for women in 9 oz Super 140s wool, made to your measurements. Slim through the hip and thigh, opening gently from the knee, and hemmed for the heels you will wear. Before your wool is cut, you try a free test pair at home to set where the leg opens and where the hem falls. Front lined to the knee in your choice of lining, in colors from black to cobalt.
 
 Tailored Bootcut Trousers
 
@@ -51,7 +51,7 @@ Free test pair first
  Slim bootcut  
  Super 140s wool, 9 oz  
  Lined to the knee  
- 13 colors  
+ Colors in the selector  
  Hemmed for your heels  
  Made to your measurements
 
@@ -134,7 +134,7 @@ The front of each leg is lined in acetate to just below the knee, so the trouser
 
 ---
 
-13 Colors
+The Colors
 
 ## Bootcut Trousers in Work Neutrals or Bold Color
 
@@ -176,11 +176,11 @@ Black
 
 The easiest for work and evenings.
 
-Charcoal Grey
+Charcoal Gray
 
 A very dark gray, softer than black.
 
-Dark Grey
+Dark Gray
 
 A dark gray for everyday work.
 
@@ -258,7 +258,7 @@ Yes, the front of each leg is lined to the knee, and you choose the lining color
 
 ### Can I wear bootcut trousers to work?
 
-Yes. In Black, Charcoal Grey, Dark Grey or Off White with a blouse and a jacket, these are tailored work trousers with a flat front, belt loops and welt back pockets. Cobalt, Deep Purple or Red make a stronger statement.
+Yes. In Black, Charcoal Gray, Dark Gray or Off White with a blouse and a jacket, these are tailored work trousers with a flat front, belt loops and welt back pockets. Cobalt, Deep Purple or Red make a stronger statement.
 
 ### Can I machine wash these wool trousers?
 
@@ -270,7 +270,7 @@ Yes. Write “straight leg”, “narrower bootcut” or “wider bootcut” in 
 
 ### How much do these bootcut trousers cost?
 
-They are $239 in any of the 13 colors, with any lining color. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your wool is cut.
+They are $239 in any of the colors, with any lining color. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your wool is cut.
 
 ### How long does it take to receive my trousers, and do you ship internationally?
 

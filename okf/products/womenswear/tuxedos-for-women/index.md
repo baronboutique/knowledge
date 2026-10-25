@@ -50,9 +50,9 @@ Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cl
 
 ## Products
 
-- [The Velvet Tuxedo Jacket](womens-tailored-velvet-tuxedo-jacket.md)
-- [The Women's Bespoke Tuxedo](mens-inspired-tuxedo.md)
-- [The Women's Tuxedo Suit](iconic-wool-tuxedo.md)
+- [Women's Bespoke Tuxedo, Menswear-Inspired With Satin Peak Lapels](mens-inspired-tuxedo.md)
+- [Women's Tuxedo Suit With Shawl Lapel and Satin Stripe Trousers](iconic-wool-tuxedo.md)
+- [Women's Velvet Tuxedo Jacket With Silk Satin Peak Lapels](womens-tailored-velvet-tuxedo-jacket.md)
 
 ## Related
 

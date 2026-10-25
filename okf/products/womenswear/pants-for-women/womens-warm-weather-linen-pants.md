@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-warm-weather-linen-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Straight Leg Linen Trousers in Pure Linen
@@ -34,7 +34,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Straight leg linen trousers for women in 100% linen, cut like proper work trousers with a flat front, belt loops and welt back pockets, and made to your measurements so they look tailored, not beachy. Unlined to stay cool, with lining on request for the lighter colors. Choose from 18 linens, and try a free test pair before your linen is cut.
+Straight leg linen trousers for women in 100% linen, cut like proper work trousers with a flat front, belt loops and welt back pockets, and made to your measurements so they look tailored, not beachy. Unlined to stay cool, with lining on request for the lighter colors. Choose your linen in the selector, and try a free test pair before your linen is cut.
 
 Straight Leg Linen Trousers
 
@@ -42,14 +42,14 @@ Straight Leg Linen Trousers
 
 Most linen trousers are cut loose, with drawstrings and elastic, because linen is sold as holiday wear. That is fine on a beach, but it looks undone at the office or a summer lunch. These are proper trousers in 100% linen: a flat front, a zip fly with a button closure, belt loops, slanted front pockets and two welt back pockets, with a straight leg that falls clean from the seat to the hem.
 
-These are women’s linen trousers with a straight leg, straight leg linen pants for women that keep a tailored line through a working day. They are straight pants for ladies who want linen that looks dressed rather than beachy, in black, brown and 16 more colors, so womens brown linen trousers are one choice among many.
+These are women’s linen trousers with a straight leg, straight leg linen pants for women that keep a tailored line through a working day. They are straight pants for ladies who want linen that looks dressed rather than beachy, in black, brown and more colors, so womens brown linen trousers are one choice among many.
 
 They are made to your measurements and unlined, so the linen breathes as it should. Before we cut your linen, we send you a free test pair to try on at home.
 
 Straight leg  
  100% linen  
  Unlined, lining on request  
- 18 colors  
+ Colors in the selector  
  Welt back pockets  
  Free test pair first  
  Made to your measurements
@@ -119,7 +119,7 @@ Linen Wrinkles
 Every 100% linen wrinkles. It is the same property that makes it cool: the flax fiber is stiff and does not spring back. We will not promise wrinkle-free linen, but you can keep straight leg linen trousers looking neat through the day.
 
 - A good fit matters most. Creases are softest where the cloth is not pulled tight, which is why the free test pair checks the seat and thigh when you sit.
-- Textured shades hide creases more. Grey, Charcoal, Blue and Herringbone Natural have a mixed yarn that breaks up the lines.
+- Textured shades hide creases more. Gray, Charcoal, Blue and Herringbone Natural have a mixed yarn that breaks up the lines.
 - Hang the trousers by the waistband or hem as soon as you take them off; most sitting creases drop out overnight.
 - Steam, or iron while the linen is still slightly damp, on the linen setting. A pressed front crease holds the straight line longer.
 
@@ -131,7 +131,7 @@ Show-Through
 
 Linen is woven with a little air between the yarns, which is why it is cool. In the lighter colors, that can mean some show-through in bright sun. You have two simple options.
 
-| Dark and textured linens | Black, Charcoal, Dark Blue, Blue, Brown, Burgundy, Grey and Herringbone Natural. Wear them unlined, as standard. |
+| Dark and textured linens | Black, Charcoal, Dark Blue, Blue, Brown, Burgundy, Gray and Herringbone Natural. Wear them unlined, as standard. |
 | --- | --- |
 | Mid tones | Khaki, Natural, Soft Tan, Turquoise and Cornflower. Fine unlined for most people; choose skin-tone underwear. |
 | Light linens | White, Off White, Light Blue, Lavender and Pink. If show-through concerns you, ask for the trousers lined to the knee or fully lined. |
@@ -142,9 +142,9 @@ Prefer a fuller leg, lined to the knee as standard? See our [wide leg linen pant
 
 ---
 
-18 Linens
+The Linens
 
-## Straight Leg Linen Trousers in 18 Colors
+## Straight Leg Linen Trousers, Every Linen Up Close
 
 These are close-up photos of the actual linens. Pick one in the fabric selector above. Black is shown in the photo.
 
@@ -156,7 +156,7 @@ Charcoal
 
 A textured dark gray that hides creases well.
 
-Grey
+Gray
 
 A mid gray with a salt-and-pepper texture.
 
@@ -265,11 +265,11 @@ Questions & Answers
 
 ### Can I wear linen trousers to the office?
 
-Yes. These are cut like wool work trousers, with a flat front, a zip fly, belt loops and welt back pockets, and a straight leg that takes a pressed crease. In Black, Charcoal, Dark Blue or Grey with a blouse and a light blazer, they look at home in an office.
+Yes. These are cut like wool work trousers, with a flat front, a zip fly, belt loops and welt back pockets, and a straight leg that takes a pressed crease. In Black, Charcoal, Dark Blue or Gray with a blouse and a light blazer, they look at home in an office.
 
 ### How do I stop linen trousers from wrinkling?
 
-You cannot stop 100% linen from creasing, but you can keep it neat. A fit that is not tight through the seat and thigh creases softly, textured shades like Grey and Charcoal hide creases, and hanging the trousers straight after wearing lets most creases drop out. Steam or iron while slightly damp.
+You cannot stop 100% linen from creasing, but you can keep it neat. A fit that is not tight through the seat and thigh creases softly, textured shades like Gray and Charcoal hide creases, and hanging the trousers straight after wearing lets most creases drop out. Steam or iron while slightly damp.
 
 ### Are white linen trousers see-through?
 
@@ -297,7 +297,7 @@ Yes: two slanted front pockets and two single-welt back pockets.
 
 ### How much do these straight leg linen trousers cost?
 
-They are $239 in any of the 18 linens. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your linen is cut.
+They are $239 in any of the linens in the selector. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your linen is cut.
 
 ### How long does it take to receive my trousers, and do you ship internationally?
 

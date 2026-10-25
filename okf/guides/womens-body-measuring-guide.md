@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-body-measuring-guide/
     title: "Women’s Body Measuring Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-20
+    last_modified: 2026-10-19
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-09-20T11:08:12Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: human:baron-boutique, at: 2026-10-19T08:15:36Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-19T08:36:49Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-19T08:36:49Z }
 ---
 
 # Women’s Body Measuring Guide
@@ -30,7 +30,7 @@ Step-by-step guide on how to measure women accurately. Learn to measure your bus
 
 Follow these simple steps to ensure your custom garment fits you perfectly. All you need is a flexible measuring tape.
 
-**You do not have to get this perfect.** Send us your best measurements and we craft a free test garment to your numbers first, so the fit is confirmed on your body before we cut your final cloth. Every piece is custom made to your measurements, and the test garment is yours to keep.
+**You do not have to get this perfect.** Send us your best measurements and we craft a free test garment to your numbers first, so the fit is confirmed on your body before we cut your final cloth. Every piece is custom made to your measurements, and the test garment is yours to keep. Measuring for silk pajamas or a robe? Our [bespoke silk sleepwear](https://baronboutique.com/bespoke-silk-sleepwear-robes/) page has its own ten-step guide.
 
 1 / 15
 

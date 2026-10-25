@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Unlined Linen Duster Coat"
-description: "Every linen duster coat you have ordered online was too big through the shoulders, too long in the sleeve, or so shapeless it read as a robe. That is a fit problem, not a linen problem."
+title: "Women's Unlined Linen Duster Coat"
+description: "A women's linen duster coat made to your measurements in 100% linen, unlined so it breathes, with notch lapels, two buttons and a center vent, mid-thigh or any length you choose."
 resource: https://baronboutique.com/linen-dress-jacket-with-notch-collar/
 tags: [women, jacket, blazer, linen, notch-lapel, summer, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/linen-dress-jacket-with-notch-collar/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
-# Unlined Linen Duster Coat
+# Women's Unlined Linen Duster Coat
 
 **SKU:** 3200008  
 **URL:** https://baronboutique.com/linen-dress-jacket-with-notch-collar/  
@@ -34,145 +34,139 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Every linen duster coat you have ordered online was too big through the shoulders, too long in the sleeve, or so shapeless it read as a robe. That is a fit problem, not a linen problem. This coat is made to your exact measurements in 100% pure linen -- unlined so it breathes correctly, mid-thigh so the proportion works. Before we cut the final coat, we send you a free test coat in cotton to confirm every detail fits on your body first.
+A women's linen duster coat made to your measurements in 100% linen, unlined so it breathes, with notch lapels, two buttons and a center vent, mid-thigh or any length you choose. A free cotton test coat comes first, so the shoulders and sleeves fit before the linen is cut. 100% linen, unlined Notch lapels, two-button front, center vent Mid-thigh, knee length or longer Machine washable Free test coat in cotton, yours to keep
 
-Women’s Linen Duster Coat
+The Coat
 
-## The Summer Layer Problem Is Not the Heat. It’s the Fit.
+## A Women’s Linen Duster Coat That Fits Your Shoulders
 
-Every summer, the same thing happens. You find a linen duster coat that looks right in the photo — relaxed, long, effortlessly put-together. It arrives and it’s three sizes too large through the shoulders, four inches too long in the sleeve, and so shapeless it reads as a robe rather than a coat. You either return it or wear it once. This is not a linen problem. Linen is the right fabric for a summer layer. It is a fit problem — and off-the-rack dusters are built to a size chart, not a body.
+Most linen duster coats bought online arrive too big through the shoulders, too long in the sleeve, or so shapeless they read as a robe. That is a fit problem, not a linen problem: a loose coat still has to sit on your shoulders, and an unlined one hides nothing.
 
-Here is the thing about an unlined coat that nobody tells you before you order one: there is nowhere for a bad fit to hide. A lined coat has structure that holds the garment away from the body. An unlined coat drapes directly against what it is draped over. Every inch of shoulder width, every centimeter of sleeve pitch, every millimeter of torso length is visible. An unlined coat made to the wrong measurements looks worse than a fitted lined coat. That is why the test coat matters more for this garment than almost any other.
+This women’s linen duster coat is made to your measurements in 100% linen, unlined so it breathes, with notch lapels, two buttons and a center vent, cut to mid-thigh or any length you choose. Before the linen is cut, you try a free cotton test coat at home.
 
-This is a women’s linen duster coat made to your exact measurements in 100% pure linen — unlined intentionally, so it breathes the way linen should, without a synthetic layer trapping the heat the fabric is supposed to release. It sits at mid-thigh. It comes in 18 colors. And before we cut the final coat, we send you a free cotton test coat to confirm every proportion on your body first.
+100% linen  
+ Unlined  
+ Two buttons  
+ Center vent  
+ Free test coat
 
-100% Pure Linen  
- Unlined for Breathability  
- Mid-Thigh Length  
- Free Test Coat Included  
- 18 Colors
+**Price:** $519 **Cloth:** 100% linen, color in the selector **Lining:** none, unlined for breathability **Length:** mid-thigh as shown, or any length **Fit:** relaxed duster cut, refined on the test coat **Test coat:** free, yours to keep
 
-Available in 18 linen colors: natural, white, off-white, black, grey, charcoal, khaki, soft tan, lavender, light blue, cornflower, turquoise, blue, dark blue, burgundy, brown, pink, and herringbone natural. Machine washable. Dry clean recommended.
+---
+
+What Is a Duster
+
+## What Is a Duster Jacket?
+
+A duster is a long, light coat, worn open, that falls past the hip, usually to mid-thigh or the knee. In clothing terms, a duster coat for women sits between a blazer and a trench: it has a jacket’s lapels but a coat’s length, and no lining, so it layers over a dress or jeans without adding warmth. Women’s duster jackets in linen are the summer version: a linen overcoat for warm days.
+
+| Duster vs blazer | A duster blazer is longer and looser; a blazer stops at the hip. |
+| --- | --- |
+| Duster vs trench | A trench is lined, belted and made to keep out rain; a duster is for layering. |
+| Length | Mid-thigh, as in the photos, or knee length for a long duster coat. |
+| Season | Linen for summer; the same cut in wool makes a winter duster. |
 
 ---
 
 Free Test Coat
 
-## Unlined Means Every Proportion Has to Be Right. The Test Coat Makes Sure It Is.
+## A Loose Coat Still Has to Fit the Shoulders
 
-With a lined coat, the lining adds a layer of structure that smooths over small fit issues. An unlined coat has no such buffer. The way it sits on your shoulders, the way the front hangs open, the way it falls through the torso — all of it is immediately visible. A shoulder that is half an inch too wide reads as sloppy. A torso that is too long collapses the silhouette. This is why we do not ask you to trust a size chart for this garment.
+A duster hangs from the shoulders, so that is where it has to fit. The corrections we make most often on women’s coats are the shoulder line, which is rarely the same at the front and back, and the sleeve length; a loose coat with the shoulder seam halfway down the arm looks borrowed, not relaxed.
 
-Before we cut your final coat in linen, we make a test coat in cotton and ship it to you first. Try it on over whatever you plan to wear underneath — a dress, a shirt, jeans. Check the shoulder line. Check that the mid-thigh length lands where it should on your frame. Check that the front hangs with the relaxed, open drape that makes a duster coat work. Send us your notes. We adjust before the linen is cut. No guesswork, no surprises.
-
-The test coat is yours to keep. Both the test coat and the final coat ship worldwide.
-
----
-
-Who It’s For
-
-## A Duster Coat for Different Reasons.
-
-The woman who has tried the off-the-rack versions and given up
-
-You have ordered linen dusters online. They arrived too large through the shoulders, too long in the sleeve, or so shapeless they went straight back. You know the silhouette is right — you just have not found the version that fits your actual body. This is it.
-
-The woman who needs a polished summer layer for work
-
-You need something to wear over a dress or blouse in an air-conditioned office that does not feel like another layer of heat when you step outside. A well-fitted linen duster solves this exactly. Light enough to carry, structured enough to look intentional.
-
-The woman who travels and wants one coat that does everything
-
-Linen packs flat, releases wrinkles quickly, and works across a range of temperatures. A mid-thigh duster layers over almost anything in a suitcase. Made to your measurements, it fits whether you are dressed up or dressed down.
-
-The woman who does not know she needs this yet
-
-You have not thought about a linen duster coat. But you have reached for something to throw over an outfit and found nothing that worked — too heavy, too casual, too structured. This is the layer that was missing. It goes over a summer dress the way nothing else quite does.
-
----
-
-Three Ways to Wear It
-
-## One Coat. Three Entirely Different Looks.
-
-Over a summer dress
-
-The open-front duster over a slip dress or midi is the most effortless version of this coat. The linen adds weight and intention without closing the silhouette. Natural, white, or off-white reads as deliberate. Burgundy or cornflower reads as a statement. Either way, one layer transforms the outfit.
-
-With tailored trousers and a blouse
-
-This is the coat as the third piece — the layer that completes a work outfit without a blazer’s formality. The notch lapel and on-seam pockets give it enough structure to work in a professional setting. Charcoal, grey, or dark blue over white or ivory reads as deliberately considered, not casual.
-
-With jeans and a simple top
-
-The casual version is arguably the most useful. Straight jeans, a white tee or linen shirt, and the duster over the top. The mid-thigh length balances the proportion. Any color works here — this is where the 18 colors become interesting. Lavender or turquoise with white denim is not subtle. Natural or khaki is invisible in the best way.
-
----
-
-How It Works
-
-## From Your Measurements to the Final Coat
+If a correction would change the look, such as narrowing a deliberately loose silhouette, we explain the trade-off, and you choose between the fit that follows your body and the style in the photos.
 
 1
 
-**Choose your linen color.** Select from 18 colors on the product page. Natural linen is the most versatile. Black, charcoal, and grey are the most polished. Lavender, cornflower, and turquoise are the most distinctive. All colors are the same price.
+**Choose the linen and length**  
+ Pick the linen color in the selector, then your fit and measurements, with the coat length you want: mid-thigh, knee length or longer.
 
 2
 
-**Enter your measurements at checkout.** All measurements go directly into the product page. A guide walks you through each one. Note your preferred coat length if you want it shorter or longer than the standard mid-thigh.
+**A cotton coat is made first**  
+ The test coat is cut in cotton to your measurements, made in 3 to 4 weeks and delivered 5 to 10 days after dispatch.
 
 3
 
-**We make your test coat first.** Cotton test coat, built to your measurements, shipped before any linen is cut. Try it on over your typical summer outfit. Check the shoulder, the length, the drape. Send your notes.
+**Wear it open and closed**  
+ Try it over the clothes you will wear under it. Check where the shoulder seam sits, that the sleeve ends at the wrist bone, and how the front falls when it hangs open.
 
 4
 
-**We build your final coat in linen.** Every adjustment from the test coat applied before the linen is cut. Canvas-free unlined construction, hand-finished buttonholes, top-stitched details throughout.
+**The linen is cut**  
+ Your changes go into the pattern; the linen duster takes 3 to 4 weeks to make and arrives 5 to 10 days after it ships. Keep the cotton coat.
 
-5
+---
 
-**Shipped to your door by trackable courier.** Both the test coat and the final coat. The test coat is yours to keep. Machine washable when it arrives. Dry clean recommended.
+Why Unlined Linen
 
-**Production time:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final linen coat **Ships:** Worldwide **Care:** Machine washable. Dry clean recommended.
+## Why an Unlined Linen Duster
+
+| Breathes | Linen lets heat out, and with no lining the coat stays cool in summer. |
+| --- | --- |
+| Softens with wear | Linen is crisp when new and softens every time it is washed. |
+| Creases | Linen creases; that is part of its character. Hang it after wearing and most creases relax. |
+| Shows the inside | An unlined linen jacket or coat shows every seam, so the seams are finished cleanly inside. |
+
+In our experience, cheap linen coats fail in two ways: thin linen goes see-through and loses its shape, and loose construction lets the shoulders slide. A firmer linen and a shoulder cut to your measurements are what keep this one looking right.
+
+---
+
+The Cloths
+
+## The Linen, Up Close
+
+These are close-up photos of the actual linen. Choose your color in the selector; here are four of the shades on offer.
+
+Natural
+
+The coat in the photos: undyed, oatmeal linen.
+
+Khaki
+
+A soft khaki that goes with denim and white.
+
+Black
+
+A black linen duster for evenings and city wear.
+
+Lavender
+
+A lilac linen for a knee-length summer duster.
+
+---
+
+How to Wear It
+
+## Three Ways to Wear a Linen Duster
+
+| Over a dress | A long linen duster over a slip or summer dress, worn open. |
+| --- | --- |
+| With jeans | Over a white tee and jeans, sleeves pushed up. |
+| At work | In black over trousers and a blouse, a duster jacket for women that replaces a blazer in summer. |
+
+Linen dusters for women are mostly sold in sizes, and many women’s duster jackets are cut so loose that the shoulders slide; a women’s duster jacket made to your measurements avoids that. For a wool coat, see our **[women’s fitted wool coat](https://baronboutique.com/womens-long-winter-coat/)**.
 
 ---
 
 Full Spec
 
-## Construction Details
+## Women’s Linen Duster Coat, Specification
 
-| Fabric | 100% pure linen, 18 colors available |
+| Cloth | 100% linen; color in the selector |
 | --- | --- |
-| Lining | None — intentionally unlined for breathability |
-| Style | Single-breasted open front |
-| Button stance | 2-button high stance |
-| Lapel | Medium width notch lapel, 2.5 to 3 inches; low gorge |
+| Lining | Unlined, seams finished inside |
+| Front | Single-breasted, two buttons, high stance, worn open or closed, straight front hem |
+| Lapels | Notch lapels 2.5 to 3 inches, low gorge |
 | Pockets | On-seam vertical pockets |
-| Back | Center back vent |
-| Hem | Straight front hem; mid-thigh length (customizable) |
-| Sleeves | Plain sleeve cuff; top-stitched details |
-| Buttons | Hand-stitched and reinforced |
-| Buttonholes | Hand-finished buttonholes |
-| Seam allowances | Ample, for future alteration |
-| Care | Machine washable. Dry clean recommended. |
-| Measurements | Entered at checkout on the product page |
-| Test coat | Included; ships before final coat; yours to keep |
-
----
-
-vs. Off the Rack
-
-## Why Most Linen Dusters Don’t Work
-
-Every off-the-rack linen duster shares the same shortcut: a size chart designed for a statistical average, not a body. Here is what that means in practice.
-
-| | Off the Rack | Baron Boutique |
-| --- | --- | --- |
-| Fit | Size chart sizing — consistently runs large through the shoulders and long in the sleeve, as confirmed across competitor reviews | Made to your exact measurements; test coat confirms fit on your body before the linen is cut |
-| Length | Fixed length based on size — too long for petite frames, too short for tall ones | Mid-thigh standard with custom length available at no extra charge — specified at checkout |
-| Drape | Unlined coat cut to a size chart hangs shapeless — the fabric pools rather than falls | Cut to your proportions, an unlined linen coat drapes the way it should — with intention, not accident |
-| Fit guarantee | No mechanism to check fit before the final garment; returns are the only option | Free test coat before any linen is cut — see exactly how it fits before the real fabric is touched |
-| Color choice | 3-5 options at most, rarely including the full palette you want | 18 linen colors at the same price — from classic natural and white to burgundy, cornflower, and lavender |
-| Construction | Machine-cut buttonholes, plastic or resin buttons, inconsistent stitching | Hand-finished buttonholes, hand-stitched and reinforced buttons, top-stitched throughout |
+| Back | Center vent |
+| Sleeves | Plain cuffs, topstitched details |
+| Buttons | Hand-stitched and reinforced; hand-finished buttonholes |
+| Length | Mid-thigh as shown, or any length you enter |
+| Test coat | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test coat, 3 to 4 weeks for the linen coat |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Machine washable on a gentle cycle; dry cleaning keeps it crisper |
 
 ---
 
@@ -188,41 +182,102 @@ Our customers come back because the fit is right and we answer emails. Every gar
 
 ---
 
-FAQ
+Questions & Answers
 
-## Common Questions
+## Questions About the Women’s Linen Duster Coat
 
-### Why does an unlined coat need a test coat more than a lined one?
+### What is a duster coat?
 
-Because there is nothing to hide behind. A lined coat holds its shape independent of the body underneath. An unlined coat drapes directly against whatever it is placed over — which means every fit issue is immediately visible. A shoulder that is too wide, a torso that is too long, a sleeve that pitches incorrectly — all of it shows. The test coat lets you see exactly how your coat will fit before we cut the final linen. It is the most important step in the process for this specific garment.
+A long, light, unlined coat worn open over other clothes, usually from mid-thigh to the knee. It adds a layer and a long vertical line without adding warmth.
 
-### Every linen duster coat I’ve ordered online has been too big. How is this different?
+### How do I style a linen duster?
 
-Off-the-rack linen dusters are cut to a standardized size chart that tends to run large, particularly through the shoulders and sleeve length. This coat is cut to your measurements — chest, waist, hips, sleeve length, and total coat length. If the first attempt is not right, the test coat shows you exactly what needs adjusting before the linen is cut. You will not receive a finished coat that does not fit.
+Wear it open over a simple base: a white or beige top with linen trousers or cream jeans, and sandals or espadrilles. At work, a black duster over trousers and a blouse replaces a blazer in summer. Keep the layers underneath close to the body so the duster can flow.
 
-### Can I specify a coat length shorter or longer than mid-thigh?
+### Is it warm, or a summer coat?
 
-Yes. Note your preferred coat length in the measurement section at checkout. If you want it to hit above the knee, below the knee, or at the knee, specify that and we build to it. The test coat also gives you the opportunity to check the length on your actual frame before the linen is cut — if it needs adjusting, we adjust before final production.
+It is a summer coat. Unlined linen breathes and dries quickly, so it shades your arms from sun and cool evening air without trapping heat.
 
-### Is linen really machine washable? I thought it needed dry-cleaning.
+### Can I have it in lilac and at knee length?
 
-This coat is machine washable. Linen is one of the most practical fabrics for warm weather — it washes well, dries quickly, and the natural texture means light creasing reads as intentional rather than unkempt. Cold wash, gentle cycle, hang to dry. If it creases in a way you do not like, a light steam press resolves it.
+Yes. Lavender linen is in the selector, and you can enter knee length, or any length you want, on the measurement form.
 
-### Which color works best as a year-round option?
+### Is this coat lined?
 
-Natural linen is the most versatile — it pairs with almost everything and the slight warmth of the natural fiber reads well in all seasons. Off-white and khaki are similar. If you want maximum contrast impact, black or charcoal works well over light summer fabrics. If you want something distinctive, cornflower and lavender are the two most requested non-neutral options.
+No. It is unlined on purpose so the linen breathes, and the seams are finished inside so it looks neat when worn open.
 
-### How does this work as a travel piece?
+### Can I change the buttons or pockets?
 
-Linen packs flat and is light enough not to add meaningful weight to luggage. It creases in transit but the creases soften quickly when worn or hung in a steamy bathroom. The mid-thigh length means it layers over most outfit combinations you would pack. Made to your measurements, it fits whether you are dressed up for a dinner or dressed down for a long travel day.
+Yes. Write it in the measurement form’s comment box, or email us with your order number. Patch pockets, one button or no buttons are all possible.
 
-### How long does production take?
+### Will linen crease?
 
-Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final linen coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both the test coat and the final coat ship worldwide by trackable courier.
+Yes. Linen creases; hang it after wearing and most creases relax. On a duster the soft creasing is part of the look.
 
-### Do you ship internationally?
+### Can I wash it?
 
-Yes. We ship worldwide by trackable courier. Both the test coat and the final coat go to your address regardless of location.
+Yes, on a gentle cycle. Dry cleaning keeps it crisper.
+
+### Is it see-through?
+
+Linen is not sheer. In very pale shades a dark top shows through more, so choose a mid tone if that matters.
+
+### Is it good for travel?
+
+Yes. It packs flat, and creases relax after a night on a hanger.
+
+### How do I measure without a tailor?
+
+With a helper if possible. Alone, measure bust, natural waist and hips, then a jacket or coat that fits you well across the shoulders; we can guide you by video call or WhatsApp.
+
+### Can I see the linen colors first?
+
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 3200008 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the duster take?
+
+The cotton test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The linen duster then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
+
+## Questions & Answers
+
+**Q:** What is a duster coat?  
+**A:** A long, light, unlined coat worn open over other clothes, usually from mid-thigh to the knee. It adds a layer and a long vertical line without adding warmth.
+
+**Q:** How do I style a linen duster?  
+**A:** Wear it open over a simple base: a white or beige top with linen trousers or cream jeans, and sandals or espadrilles. At work, a black duster over trousers and a blouse replaces a blazer in summer. Keep the layers underneath close to the body so the duster can flow.
+
+**Q:** Is it warm, or a summer coat?  
+**A:** It is a summer coat. Unlined linen breathes and dries quickly, so it shades your arms from sun and cool evening air without trapping heat.
+
+**Q:** Can I have it in lilac and at knee length?  
+**A:** Yes. Lavender linen is in the selector, and you can enter knee length, or any length you want, on the measurement form.
+
+**Q:** Is this coat lined?  
+**A:** No. It is unlined on purpose so the linen breathes, and the seams are finished inside so it looks neat when worn open.
+
+**Q:** Can I change the buttons or pockets?  
+**A:** Yes. Write it in the measurement form's comment box, or email us with your order number. Patch pockets, one button or no buttons are all possible.
+
+**Q:** Will linen crease?  
+**A:** Yes. Linen creases; hang it after wearing and most creases relax. On a duster the soft creasing is part of the look.
+
+**Q:** Can I wash it?  
+**A:** Yes, on a gentle cycle. Dry cleaning keeps it crisper.
+
+**Q:** Is it see-through?  
+**A:** Linen is not sheer. In very pale shades a dark top shows through more, so choose a mid tone if that matters.
+
+**Q:** Is it good for travel?  
+**A:** Yes. It packs flat, and creases relax after a night on a hanger.
+
+**Q:** How do I measure without a tailor?  
+**A:** With a helper if possible. Alone, measure bust, natural waist and hips, then a jacket or coat that fits you well across the shoulders; we can guide you by video call or WhatsApp.
+
+**Q:** Can I see the linen colors first?  
+**A:** Yes. Our swatch service sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 3200008 and the colors you want to compare; the courier fee is credited toward your first order.
+
+**Q:** How long will the duster take?  
+**A:** The cotton test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The linen duster then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ## Categories
 

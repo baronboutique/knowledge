@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/12th-doctor-wool-coat-for-women/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's 12th Doctor Blue Coat With Red Lining
@@ -165,19 +165,23 @@ Questions & Answers
 
 ### Is this the 12th Doctor’s coat from Doctor Who?
 
-No, it is our own screen-inspired women’s version of the Twelfth Doctor’s blue coat with red lining. It is not official or licensed.
+No, it is our own screen-inspired women’s version of the Twelfth Doctor’s blue coat with red lining. It is not official or licensed. It is a replica cut to your measurements in wool flannel.
+
+### What coat does the 12th Doctor wear?
+
+His signature coat is a dark navy, three-quarter length coat in the Crombie style with a red lining, worn over a white shirt and a cardigan or waistcoat. Later series added a burgundy velvet coat and a black velvet frock coat. This page is the blue coat; for the velvet versions see our **[burgundy velvet coat](https://baronboutique.com/12th-doctor-burgundy-velvet-coat-for-women/)** and **[black velvet frock coat](https://baronboutique.com/12th-doctor-black-velvet-frock-coat-for-women/)**.
 
 ### Can I wear it every day?
 
-Yes. In blue flannel with the lining closed, it reads as a plain tailored coat, and the flannel does not shine with wear.
+Yes. In blue flannel with the coat closed, it reads as a plain tailored coat, and flannel does not shine with wear. The red lining only shows when it opens.
 
 ### How warm is it?
 
-Warm enough for a light winter, and comfortable in spring and autumn. For a colder climate, wear a sweater under it; size for that in the test coat.
+Warm enough for a light winter, and comfortable in spring and fall. For a colder climate, wear a sweater under it and size for that in the test coat.
 
 ### Can I change the fabric or add a velvet collar?
 
-Yes. Write it in the comment box on the measurement form, or ask through the form below Add to Cart.
+Yes. Write it in the comment box of the measurement form, or email us with your order number. Other flannels are in the selector.
 
 ### What color is the lining?
 
@@ -185,19 +189,23 @@ Red by default. Any other satin lining can be chosen in the selector.
 
 ### Is it the same as the men’s 12th Doctor blue coat?
 
-It is inspired by the same coat but cut as a women’s coat, then fitted to your measurements in the test coat.
+It is inspired by the same coat but cut as a women’s coat, with the bust and waist shaped. It is then fitted to your measurements in the test coat.
 
-### How does the free test coat work?
+### Is it good for cosplay?
 
-We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the flannel. The test coat is yours to keep.
+Yes, and it is light enough to wear indoors at a convention all day. Over a white shirt and a dark waistcoat it gives the full look, and afterward it works as an ordinary winter coat.
 
-### How long does it take?
+### How do I measure without a tailor nearby?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+A helper makes it easier. Alone, measure bust, natural waist and hips, then a coat that fits you well; we can guide you by video call or WhatsApp.
 
-### Can I change details, such as the length?
+### Can I see the blue flannel first?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7000011 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the coat take?
+
+The cotton test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The flannel coat then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 

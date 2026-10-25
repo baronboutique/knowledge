@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-wool-dress-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-14T10:09:18Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Winter Dress Coat in Melton Wool
@@ -158,39 +158,47 @@ Questions & Answers
 
 ### What is a dress coat?
 
-A dress coat is a tailored coat cut to be worn over a dress or suit: shaped at the waist, smooth at the hips and long enough to cover the hem. This one is knee length with a belted back.
+A dress coat is a tailored coat cut to be worn over a dress or suit: shaped at the waist, smooth at the hips and long enough to cover the hem. This one is knee length with a belted back, so the line of the dress continues under the coat.
+
+### What should I look for in a women’s winter dress coat?
+
+A waist that follows yours, pockets that do not bulge over the hips, and a length that covers your dress. Most winter coats are cut straight and full, which hides the dress; a dress coat should frame it.
 
 ### Will it fit over a full skirt?
 
-Yes, the kick pleat at the back opens over a fuller skirt. Wear your fullest skirt to check it in the test coat.
+Yes. The kick pleat at the back opens over a fuller skirt; wear your fullest skirt when you try the test coat.
 
 ### How warm is a Melton dress coat?
 
-Very warm for its weight, because Melton is milled until the surface closes and stops wind. Ours is about 450 to 500 gsm, a true winter weight.
+Very warm. Melton is milled until its surface closes, which is what stops the wind; ours is about 450 to 500 gsm, a true winter weight, and the coat is lined in satin.
 
 ### What colors does it come in?
 
-Melton colors include camel, charcoal, navy, black, burgundy red, teal and the gold yellow in the photos. The selector shows every cloth and satin lining on offer.
+Melton colors in the selector include camel, charcoal, navy, black, burgundy red, teal and the gold yellow in the photos. The satin lining is chosen in the selector too.
 
 ### Can I have it longer?
 
-Yes, enter a longer length on the measurement form, for example just below a midi dress.
+Yes. Enter a longer length on the measurement form, for example just below a midi dress.
 
 ### Where are the pockets?
 
-They sit in the side seams, so they do not bulge over the hips, and there are two interior pockets.
+They sit in the side seams, so they do not bulge over the hips. There are also two interior pockets.
 
-### How does the free test coat work?
+### Can I order a custom winter coat if I live in the US?
 
-We make the coat in cotton to your measurements, you try it at home over your dresses and tell us any change, and then we cut the Melton. The test coat is yours to keep.
+Yes. You order online, measure at home, and we ship the cotton test coat and then the final coat by trackable courier. The fitting happens at home on the test coat, so there is no need for a tailor near you.
 
-### How long does it take?
+### Can I change details?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Yes. Add the change to the comment box of the measurement form, or send us an email with your order number. A different collar, a belt all the way round or patch pockets are all possible.
 
-### Can I change details, such as the length?
+### Can I see the Melton first?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 3400006 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the dress coat take?
+
+The cotton test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Then the Melton coat takes 3 to 4 weeks and arrives 5 to 10 days after it ships, so order early in the season.
 
 ### How do I care for it?
 

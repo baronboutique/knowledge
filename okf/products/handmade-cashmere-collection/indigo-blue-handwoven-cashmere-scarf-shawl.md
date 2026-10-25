@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/indigo-blue-handwoven-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:17:10Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Indigo Blue Handwoven Cashmere Scarf Shawl
@@ -63,7 +63,7 @@ Indigo sits between blue and violet. Navy is darker and closer to black. In dayl
 
 Indigo here is the name of the color, not the dye. The cashmere is dyed with Azo-free dyes after weaving, not with plant indigo.
 
-For a lighter blue, see our **[Aquamarine Blue cashmere shawl](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/)**; for a brighter one, the **[Royal Blue Essential Wrap](https://baronboutique.com/royal-blue-essential-wrap-in-diamond-weave-cashmere/)**. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+For a lighter blue, see our **[Aquamarine Blue cashmere shawl](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/)**; for a brighter one, the **[Royal Blue Essential Wrap](https://baronboutique.com/royal-blue-essential-wrap-in-diamond-weave-cashmere/)**. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in a wide range of colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 

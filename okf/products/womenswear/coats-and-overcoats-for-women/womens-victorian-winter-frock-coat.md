@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-victorian-winter-frock-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T15:32:50Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Frock Coat, Victorian Winter Cut in Burgundy Wool
@@ -47,7 +47,7 @@ This is a tailored frock coat, made as a real winter coat. It is cut to your own
 Frog braiding returns to fashion every few years, and each time the shops fill with cropped jackets that are gone by spring. This coat is not made for a season. The braiding, the princess seams and the back pleat come from a tailoring tradition that has outlived every trend that borrowed from it. Cut in wool flannel to your own measurements, it is a coat you wear for decades and, one day, hand to someone else.
 
 Super 120s wool flannel  
- 10 colors  
+ Colors in the selector  
  Black frog braiding  
  Faux fur collar  
  Free test coat first  
@@ -108,7 +108,7 @@ Each step below exists for one reason: to get the waist and the length right bef
 1
 
 **Choose your color and enter your measurements**  
-Pick one of ten wool flannel colors and a lining from 30+ lining options. Enter your measurements on this page, including your height. No appointment needed.
+Pick a wool flannel color and a lining in the selector. Enter your measurements on this page, including your height. No appointment needed.
 
 2
 
@@ -153,7 +153,7 @@ Write to us and a person who knows your order replies. Every garment is made by 
 | Sleeve cuffs | Black braided accent trim |
 | Interior pockets | Two |
 | Armholes | Hand-stitched |
-| Lining | Fully lined in acetate, 30+ lining options |
+| Lining | Fully lined in acetate, lining chosen in the selector |
 | Seam allowances | Ample, for future alteration |
 | Care | Dry clean only |
 
@@ -169,7 +169,7 @@ Write to us and a person who knows your order replies. Every garment is made by 
 | Fit check | Returns after purchase | Free test coat confirms the fit before the wool is cut |
 | Braiding | Often glued or printed | Black braided frog accents, sewn on |
 | Construction | Unstructured or fused front | Canvas front that holds its shape through the winter |
-| Colors and lining | One or two colors, one lining | Ten wool colors, 30+ lining options |
+| Colors and lining | One or two colors, one lining | Wool flannel colors and linings in the selector |
 | Life span | One event | A winter coat for years, with seam allowances for future alteration |
 
 ---

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/12th-doctor-burgundy-velvet-coat-for-women/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's 12th Doctor Burgundy Velvet Coat
@@ -170,7 +170,11 @@ Questions & Answers
 
 ### Is this the 12th Doctor’s coat from Doctor Who?
 
-No, it is our own screen-inspired women’s version, inspired by the Twelfth Doctor’s burgundy velvet coat. It is not official or licensed, and it is tailored to your measurements rather than sold in standard sizes.
+No, it is our own screen-inspired women’s version, inspired by the Twelfth Doctor’s burgundy velvet coat. It is not official or licensed. It is a replica tailored to your measurements rather than sold in standard sizes.
+
+### Is it the red velvet coat?
+
+Yes, this is the coat many people call the 12th Doctor’s red velvet coat. The velvet is burgundy, a deep wine red that turns almost black in shadow, with a red satin lining. A brighter red velvet is also in the selector.
 
 ### What is the velvet made of?
 
@@ -178,35 +182,35 @@ It is a poly-cotton velvet, burgundy by default, with a red satin lining. Cotton
 
 ### Can I choose another color?
 
-Yes, every velvet and satin lining on offer is in the selector. Burgundy with red lining is the screen-inspired default.
+Yes. Every velvet and satin lining on offer is in the selector; burgundy with red lining is the screen-inspired default.
 
 ### Is burgundy the same as maroon?
 
-Close, but burgundy is redder and maroon is browner. In low light this burgundy reads as maroon.
+Close, but burgundy is redder and maroon is browner. In low light this burgundy reads as maroon, and maroon velvet is also in the selector.
 
 ### Does it have the red middle button on the cuff?
 
-Yes, each five-button working cuff has one red middle button, hand-stitched.
+Yes. Each five-button working cuff has one red middle button, hand-stitched.
+
+### Is it good for 12th Doctor cosplay?
+
+Yes. Over a white shirt or a dark hoodie it gives the Series 9 look, and the velvet photographs richly under convention lights. It is cut in a women’s pattern, so it fits rather than hanging like a borrowed men’s coat.
 
 ### How long is the coat?
 
-It is mid-thigh length as standard. Enter a different length on the measurement form if you want it longer.
+It is mid-thigh as standard. Enter a different length on the measurement form if you want it longer.
 
-### How does the free test coat work?
+### Can I see the burgundy velvet first?
 
-We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the velvet. The test coat is yours to keep.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7000014 and the colors you want to compare; the courier fee is credited toward your first order.
 
-### How long does it take?
+### How long will the burgundy coat take?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
-
-### Can I change details, such as the length?
-
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Your cotton test coat is cut and sewn in 3 to 4 weeks and arrives 5 to 10 days after dispatch. Once you approve the fit, the velvet coat takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for velvet?
 
-Dry clean only, and not often. Hang it with space around it so the pile is not crushed, and steam out creases instead of ironing.
+Dry clean only, and not often. Keep it on a wide hanger with space around it, and steam out creases instead of ironing.
 
 ## Customer Reviews
 

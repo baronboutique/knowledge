@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-work-pants-in-sharkskin/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Navy Tailored Flare Trousers in Sharkskin Wool
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Navy tailored flare trousers for women in Super 120s sharkskin wool, made to your measurements. Fitted through the hip and thigh, flaring from the knee, with a flat front, belt loops and welt back pockets, so the flare looks sharp at work rather than retro. Before your wool is cut, you try a free test pair at home to set where the flare opens and where the hem falls. Front lined to the knee in your choice of lining, in 8 colors from navy to light gray.
+Navy tailored flare trousers for women in Super 120s sharkskin wool, made to your measurements. Fitted through the hip and thigh, flaring from the knee, with a flat front, belt loops and welt back pockets, so the flare looks sharp at work rather than retro. Before your wool is cut, you try a free test pair at home to set where the flare opens and where the hem falls. Front lined to the knee in your choice of lining, in colors from navy to light gray.
 
 Tailored Flare Trousers
 
@@ -43,7 +43,7 @@ Tailored Flare Trousers
 
 A flare looks polished or costume-like depending on two things: the cloth and the cut. In a soft, loose fabric it drifts toward the seventies. In a crisp suiting wool, fitted through the hip and thigh and opening from the knee, it reads as a sharp work trouser that lengthens the leg.
 
-These are women’s navy tailored trousers with a flare: navy blue flare pants in sharkskin wool, the tailored flares that look right at work. As tailor made trousers they are cut to your measurements, in navy blue or seven other colors, whether women call them trousers, pants or slacks. Navy is the dark blue of a classic suit, so these dark blue tailored trousers for women, navy dress pants or dark blue slacks if you prefer, read as smart navy tailored pants and navy blue bottoms at the office, and the tailored flare pants shape, which some call navy blue flared pants, adds length to the leg.
+These are women’s navy tailored trousers with a flare: navy blue flare pants in sharkskin wool, the tailored flares that look right at work. As tailor made trousers they are cut to your measurements, in navy blue or another color in the selector, whether women call them trousers, pants or slacks. Navy is the dark blue of a classic suit, so these dark blue tailored trousers for women, navy dress pants or dark blue slacks if you prefer, read as smart navy tailored pants and navy blue bottoms at the office, and the tailored flare pants shape, which some call navy blue flared pants, adds length to the leg.
 
 These flare trousers are made to your measurements in Super 120s sharkskin wool, a suiting cloth with a quiet two-tone sheen, in navy, blues and grays. Before we cut your wool, we send you a free test pair to try on at home, so the flare opens where it suits you.
 
@@ -51,7 +51,7 @@ Free test pair first
  Flare from the knee  
  Super 120s sharkskin wool  
  Lined to the knee  
- 8 colors  
+ Colors in the selector  
  Made to your measurements
 
 ---
@@ -122,13 +122,13 @@ Flare for Work
 | --- | --- |
 | Tops | A tucked-in blouse or fine knit shows the fitted waist and balances the wider hem. The grip-lined waistband keeps it tucked in. |
 | Jackets | A fitted jacket that ends at the hip keeps the proportions long. A cropped jacket works too; a very long, loose one hides the line. |
-| Colors | Navy, Black and Dark Grey are the most formal. Slate Blue, Grey and Light Grey are lighter and work well in summer. |
+| Colors | Navy, Black and Dark Gray are the most formal. Slate Blue, Gray and Light Gray are lighter and work well in summer. |
 
 Prefer a quieter opening? Our [tailored bootcut trousers](https://baronboutique.com/womens-iconic-wool-pants/) open more gently from the knee. For a leg that falls straight from hip to hem, see our [formal pants for women](https://baronboutique.com/womens-menswear-inspired-pants/).
 
 ---
 
-8 Colors
+The Colors
 
 ## Sharkskin in Navy, Blues and Grays
 
@@ -154,15 +154,15 @@ Black
 
 The most formal, with a faint texture.
 
-Dark Grey
+Dark Gray
 
 A charcoal gray with visible two-tone texture.
 
-Grey
+Gray
 
 A mid gray, easy with most colors.
 
-Light Grey
+Light Gray
 
 A pale gray for spring and summer.
 
@@ -208,7 +208,7 @@ Questions & Answers
 
 ### Can I wear flare trousers to work?
 
-Yes, when they are cut like these: a flat front, belt loops, welt back pockets and a crisp suiting wool. In Navy, Black or Dark Grey with a tucked-in blouse and a fitted jacket, a tailored flare looks as professional as a straight trouser.
+Yes, when they are cut like these: a flat front, belt loops, welt back pockets and a crisp suiting wool. In Navy, Black or Dark Gray with a tucked-in blouse and a fitted jacket, a tailored flare looks as professional as a straight trouser.
 
 ### What is sharkskin wool?
 

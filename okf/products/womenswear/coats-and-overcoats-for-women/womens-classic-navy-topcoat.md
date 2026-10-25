@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-classic-navy-topcoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Navy Wool Cashmere Coat, Tailored Single-Breasted
@@ -163,43 +163,51 @@ Questions & Answers
 
 ### Is this a 100% cashmere coat?
 
-No, it is 95% wool and 5% cashmere. The cashmere softens the cloth and the wool makes it hard-wearing at the cuffs and pockets.
+No, it is 95% wool and 5% cashmere. The cashmere softens the cloth against the neck and wrists, and the wool makes it hard-wearing at the cuffs and pockets.
 
 ### Why not 100% cashmere?
 
-A 100% cashmere overcoat is softer but wears thin faster at the edges and creases more. For a coat worn every day, a wool cashmere blend lasts longer.
+A 100% cashmere coat is softer and lighter, but it wears thin faster at the edges, pills more and creases more easily. For a coat worn most days of the winter, a wool cashmere blend keeps its tailored shape for many more seasons.
+
+### How heavy is it during all-day wear?
+
+The wool cashmere is about 14 oz, a medium winter weight that does not drag on the shoulders. The canvas front and minimal shoulder pads spread the weight, so it feels lighter on than it looks on the hanger.
+
+### Single-breasted or double-breasted: which is more flattering?
+
+A single-breasted coat like this one keeps a long, narrow line down the front and suits most figures, especially a fuller bust or a petite frame. A double-breasted coat adds width at the chest, which flatters a slim or straight figure. If you want the double-breasted version, see our **[women’s double-breasted wool cashmere coat](https://baronboutique.com/womens-double-breasted-wool-cashmere-coat/)**.
 
 ### How long is the coat?
 
-It is knee length as standard. Enter a longer length on the measurement form if you want a long navy wool coat to the calf.
+It is knee length as standard. Enter a longer length on the measurement form if you want a long navy wool coat to the calf, and the test coat will show it before the cloth is cut.
 
 ### Is navy a better first coat than black?
 
-In our experience, for most clients, yes, because navy hides lint and fading and goes with both black and brown shoes. Black is offered too.
+In our experience, for most clients, yes. Navy hides lint and fading and goes with both black and brown shoes, while black shows every thread. Black wool cashmere is offered too.
 
-### What colors does it come in?
+### Does it come in light blue or baby blue?
 
-Navy by default, and other wool cashmere colors such as black, camel and charcoal. The selector shows every cloth and satin lining on offer.
+No baby blue cashmere coat is offered in this cloth. The wool cashmere colors are the ones in the selector, such as navy, black, camel and charcoal. For a brighter blue, our **[cobalt blue wool coat](https://baronboutique.com/womens-cobalt-blue-wool-coat/)** is cut in Melton.
 
 ### Can I have a slim fit?
 
-Yes, choose slim, standard or relaxed, and check it in the test coat over the clothes you wear underneath.
+Yes. Choose slim, standard or relaxed in the selector, and check it in the test coat over the clothes you plan to wear underneath.
 
-### How does the free test coat work?
+### Can I change the details?
 
-We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the wool cashmere. The test coat is yours to keep.
+Yes. Note it in the comment box of the measurement form, or email us with your order number. A fly front, a belt or a different lapel can all be requested.
 
-### How long does it take?
+### Can I see the wool cashmere first?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 3400002 and the colors you want to compare; the courier fee is credited toward your first order.
 
-### Can I change details, such as the length?
+### How long will the navy coat take?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Your cotton test coat is made in 3 to 4 weeks and arrives 5 to 10 days after dispatch. Once the fit is approved, the wool cashmere coat is made in 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 
-Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger.
+Dry clean only, and not often. Brush it after wearing, hang it on a shaped hanger and give it a day off between wears.
 
 ## Categories
 

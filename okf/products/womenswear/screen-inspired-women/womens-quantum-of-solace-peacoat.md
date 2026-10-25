@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-quantum-of-solace-peacoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-17
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-17T03:00:02Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-17T03:00:02Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Short Peacoat, Quantum of Solace Inspired
@@ -167,75 +167,89 @@ Questions & Answers
 
 ### Is this the James Bond peacoat from Quantum of Solace?
 
-No, it is our own screen-inspired women’s version of the Bond peacoat, with inspiration taken from Quantum of Solace. It is not official or licensed.
+No, it is our own screen-inspired women’s version of the Bond peacoat, with inspiration taken from Quantum of Solace. It is not official or licensed. It is a replica cut to your measurements in wool and cashmere.
+
+### Can it be worn as a V-neck short peacoat?
+
+Yes. Worn open at the top, the wide lapels fold into a deep V; buttoned with the neck tab, it closes to the chin. Most people wear it the first way in town and the second way in wind.
 
 ### How short is it?
 
-It ends just below the waist as standard. Enter a different length on the measurement form if you want it a little longer.
+It ends just below the waist as standard, shorter than a classic peacoat, which usually falls between the hip and mid-thigh. Enter a different length on the measurement form if you want it a little longer.
 
-### Can I wear it open?
+### Is a short peacoat practical?
 
-Yes. Open, the wide lapels form a deep V; buttoned with the neck tab, it closes to the chin.
+Yes, especially if you drive or cycle. Nothing bunches under you when you sit, the hem never catches on stairs, and it shows the waist and leg line with trousers, jeans or skirts.
 
 ### Is it warm?
 
-Yes, for its length. It is 95% wool and 5% cashmere at about 14 oz, double-breasted across the chest, with a neck tab for the collar.
+Yes, for its length. It is 95% wool and 5% cashmere at about 14 oz, double-breasted across the chest, with a neck tab that closes the collar.
 
 ### Does it come in other colors?
 
-Yes. Black is the default; the same wool and cashmere comes in shades such as navy, charcoal and camel, shown in the selector.
+Yes. Black is the default; the same wool and cashmere comes in shades such as navy, charcoal and camel in the selector.
 
 ### How should a short peacoat fit?
 
-It should close without pulling across the bust, sit close at the waist and end just below it, with room for a sweater underneath.
+It should close without pulling across the bust, sit close at the waist and end just below it, with room for a sweater underneath. The sleeves should still cover a sweater cuff when you bend your arms.
 
-### How does the free test coat work?
+### Can I change details?
 
-We make the coat in cotton to your measurements, you sit, move and check the hem at home, and then we cut the wool and cashmere. The test coat is yours to keep.
+Yes. Write it in the comment box of the measurement form, or email us with your order number. Fewer buttons, no back belt or a longer hem are all possible.
 
-### How long does it take?
+### How do I measure without a tailor?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+With a helper if possible. Alone, measure bust, natural waist and hips, then a jacket that fits you well across the shoulders; we can guide you by video call or WhatsApp.
 
-### Can I change details, such as the length?
+### Can I see the wool and cashmere first?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7001008 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the peacoat take?
+
+The cotton test coat is made in 3 to 4 weeks and reaches you 5 to 10 days after dispatch. The peacoat then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 
-Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger.
+Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger so the lapels keep their roll.
 
 ## Questions & Answers
 
 **Q:** Is this the James Bond peacoat from Quantum of Solace?  
-**A:** No, it is our own screen-inspired women's version of the Bond peacoat, with inspiration taken from Quantum of Solace. It is not official or licensed.
+**A:** No, it is our own screen-inspired women's version of the Bond peacoat, with inspiration taken from Quantum of Solace. It is not official or licensed. It is a replica cut to your measurements in wool and cashmere.
+
+**Q:** Can it be worn as a V-neck short peacoat?  
+**A:** Yes. Worn open at the top, the wide lapels fold into a deep V; buttoned with the neck tab, it closes to the chin. Most people wear it the first way in town and the second way in wind.
 
 **Q:** How short is it?  
-**A:** It ends just below the waist as standard. Enter a different length on the measurement form if you want it a little longer.
+**A:** It ends just below the waist as standard, shorter than a classic peacoat, which usually falls between the hip and mid-thigh. Enter a different length on the measurement form if you want it a little longer.
 
-**Q:** Can I wear it open?  
-**A:** Yes. Open, the wide lapels form a deep V; buttoned with the neck tab, it closes to the chin.
+**Q:** Is a short peacoat practical?  
+**A:** Yes, especially if you drive or cycle. Nothing bunches under you when you sit, the hem never catches on stairs, and it shows the waist and leg line with trousers, jeans or skirts.
 
 **Q:** Is it warm?  
-**A:** Yes, for its length. It is 95% wool and 5% cashmere at about 14 oz, double-breasted across the chest, with a neck tab for the collar.
+**A:** Yes, for its length. It is 95% wool and 5% cashmere at about 14 oz, double-breasted across the chest, with a neck tab that closes the collar.
 
 **Q:** Does it come in other colors?  
-**A:** Yes. Black is the default; the same wool and cashmere comes in shades such as navy, charcoal and camel, shown in the selector.
+**A:** Yes. Black is the default; the same wool and cashmere comes in shades such as navy, charcoal and camel in the selector.
 
 **Q:** How should a short peacoat fit?  
-**A:** It should close without pulling across the bust, sit close at the waist and end just below it, with room for a sweater underneath.
+**A:** It should close without pulling across the bust, sit close at the waist and end just below it, with room for a sweater underneath. The sleeves should still cover a sweater cuff when you bend your arms.
 
-**Q:** How does the free test coat work?  
-**A:** We make the coat in cotton to your measurements, you sit, move and check the hem at home, and then we cut the wool and cashmere. The test coat is yours to keep.
+**Q:** Can I change details?  
+**A:** Yes. Write it in the comment box of the measurement form, or email us with your order number. Fewer buttons, no back belt or a longer hem are all possible.
 
-**Q:** How long does it take?  
-**A:** The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+**Q:** How do I measure without a tailor?  
+**A:** With a helper if possible. Alone, measure bust, natural waist and hips, then a jacket that fits you well across the shoulders; we can guide you by video call or WhatsApp.
 
-**Q:** Can I change details, such as the length?  
-**A:** Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+**Q:** Can I see the wool and cashmere first?  
+**A:** Yes. Our swatch service sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7001008 and the colors you want to compare; the courier fee is credited toward your first order.
+
+**Q:** How long will the peacoat take?  
+**A:** The cotton test coat is made in 3 to 4 weeks and reaches you 5 to 10 days after dispatch. The peacoat then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 **Q:** How do I care for it?  
-**A:** Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger.
+**A:** Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger so the lapels keep their roll.
 
 ## Categories
 

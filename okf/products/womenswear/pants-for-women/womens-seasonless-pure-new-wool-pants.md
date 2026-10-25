@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-seasonless-pure-new-wool-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Lined Wool Trousers in Super 160s Wool
@@ -51,7 +51,7 @@ Lined to the knee
  Fully lined on request  
  Super 160s wool, 9 oz  
  100% wool  
- 7 colors  
+ Colors in the selector  
  Free test pair first  
  Made to your measurements
 
@@ -135,9 +135,9 @@ Need back pockets you can use? Our [women’s dress pants with back pockets](htt
 
 ---
 
-7 Colors
+The Colors
 
-## Seven Colors for Work
+## Colors for Work
 
 These are close-up photos of the actual cloths. Pick one in the fabric selector above.
 
@@ -145,19 +145,19 @@ Black
 
 The most formal choice, and the easiest to pair.
 
-Dark Grey
+Dark Gray
 
 A charcoal gray that is softer than black. The color in the photos.
 
-Medium Grey
+Medium Gray
 
 An everyday gray that goes with almost any blouse or knit.
 
-Light Grey
+Light Gray
 
 A lighter gray for spring and summer.
 
-Steel Grey
+Steel Gray
 
 A gray with a warm undertone that works with camel and brown.
 
@@ -253,7 +253,7 @@ At 9 oz, the wool is light enough for heated offices and warm days. For a colder
 
 ### Are these good tailored work pants for women?
 
-Yes. They are lined wool dress pants cut as a classic work trouser: flat front, slanted pockets, a grip-lined waistband that keeps blouses tucked in, and a tapered leg that works with heels or flats. Seven colors cover most office wardrobes.
+Yes. They are lined wool dress pants cut as a classic work trouser: flat front, slanted pockets, a grip-lined waistband that keeps blouses tucked in, and a tapered leg that works with heels or flats. The colors in the selector cover most office wardrobes.
 
 ### Can women order these as straight leg dress pants or straight leg work pants instead of a tapered leg?
 
@@ -273,7 +273,7 @@ Compare the cloth before the label. Check the fiber content and the Super number
 
 ### How much do these lined wool trousers cost?
 
-They are $239 in any of the seven colors and with any lining choice. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your wool is cut.
+They are $239 in any of the colors and with any lining choice. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your wool is cut.
 
 ### How long does it take to receive my trousers, and do you ship internationally?
 

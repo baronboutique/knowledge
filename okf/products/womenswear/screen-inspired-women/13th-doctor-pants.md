@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/13th-doctor-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Screen-Inspired Thirteenth Doctor Teal Cropped Pants
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Thirteenth Doctor pants, recreated from screen references and made to your measurements in a teal mohair and wool blend: a tall 2-inch waistband with interior suspender buttons, a relaxed straight leg cropped to mid-calf and 2-inch turn-ups. A free test pair comes first, so you set the waist height and crop length before your cloth is cut. 6 colors.
+Thirteenth Doctor pants, recreated from screen references and made to your measurements in a teal mohair and wool blend: a tall 2-inch waistband with interior suspender buttons, a relaxed straight leg cropped to mid-calf and 2-inch turn-ups. A free test pair comes first, so you set the waist height and crop length before your cloth is cut. Colors in the selector.
 
 13th Doctor Pants
 
@@ -49,7 +49,7 @@ Free test pair first
  High 2-inch waistband  
  Mid-calf crop, 2-inch turn-ups  
  Teal mohair wool  
- 6 colors  
+ Colors in the selector  
  Made to your measurements
 
 ---
@@ -144,9 +144,9 @@ Like the cloth? Our [women’s dress pants with back pockets](https://baronbouti
 
 ---
 
-6 Colors
+The Colors
 
-## Teal and Five More Colors
+## Teal and More Colors
 
 These are close-up photos of the actual cloths. The trousers in the photos are Teal. Pick your color in the fabric selector above.
 
@@ -158,11 +158,11 @@ Navy
 
 Black
 
-Dark Grey
+Dark Gray
 
-Medium Grey
+Medium Gray
 
-Light Grey
+Light Gray
 
 ---
 
@@ -245,7 +245,7 @@ Yes. Wash them cold on a gentle wool cycle and hang them to dry, or dry clean th
 
 ### What does the price include?
 
-The price shown above covers any of the 6 colors and any lining color, plus a free cotton test pair that is yours to keep, so the fit is confirmed before your cloth is cut.
+The price shown above covers any of the colors and any lining color, plus a free cotton test pair that is yours to keep, so the fit is confirmed before your cloth is cut.
 
 ### How long does it take to receive my trousers, and do you ship internationally?
 

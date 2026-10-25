@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-measuring-guide/
     title: "Men’s Measuring Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-27
+    last_modified: 2026-10-19
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-09-27T13:04:36Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: human:baron-boutique, at: 2026-10-19T08:12:55Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-19T08:36:49Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-19T08:36:49Z }
 ---
 
 # Men’s Measuring Guide
@@ -28,7 +28,7 @@ Ensure your custom garment fits flawlessly. Our men's measurement guide provides
 
 Follow these simple steps to ensure your custom garment fits you perfectly. All you need is a flexible measuring tape.
 
-**You do not have to get this perfect.** Send us your best measurements and we craft a free test garment to your numbers first, so the fit is confirmed on your body before we cut your final cloth. Every piece is custom made to your measurements, and the test garment is yours to keep.
+**You do not have to get this perfect.** Send us your best measurements and we craft a free test garment to your numbers first, so the fit is confirmed on your body before we cut your final cloth. Every piece is custom made to your measurements, and the test garment is yours to keep. Measuring for silk pajamas or a robe? Our [bespoke silk sleepwear](https://baronboutique.com/bespoke-silk-sleepwear-robes/) page has its own ten-step guide.
 
 I
 

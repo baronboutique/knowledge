@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "The Fresco Performance Suit"
-description: "This is the suit engineered for high-pressure days. Our Fresco Wool Suit is crafted from a legendary performance fabric, a naturally breathable and wrinkle-resistant wool designed to keep you looking …"
+title: "Women's Fresco Performance Suit, Wool Blend, Single Button"
+description: "A women's fresco performance suit in Super 130s fresco, 70% wool and 30% polyester: breathable, crisp and crease resistant, with a single-button jacket and tapered trousers."
 resource: https://baronboutique.com/womens-fresco-wool-suit/
 tags: [women, suit, pant-suit, wool, fresco-wool, high-twist-wool, summer, workwear, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/womens-fresco-wool-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
-# The Fresco Performance Suit
+# Women's Fresco Performance Suit, Wool Blend, Single Button
 
 **SKU:** 2600011  
 **URL:** https://baronboutique.com/womens-fresco-wool-suit/  
@@ -35,76 +35,205 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-This is the suit engineered for high-pressure days. Our Fresco Wool Suit is crafted from a legendary performance fabric, a naturally breathable and wrinkle-resistant wool designed to keep you looking sharp and feeling cool. Combined with a flawless custom fit, it’s your secret weapon for maintaining composure and confidence, no matter the situation.
+A women's fresco performance suit in Super 130s fresco, 70% wool and 30% polyester: breathable, crisp and crease resistant, with a single-button jacket and tapered trousers. Cut to your measurements on a canvas front and tried first as a free cotton test suit. Super 130s fresco, 70% wool, 30% polyester Single-button jacket, slim notch lapels, center vent Tapered flat-front trousers Slim, standard or relaxed fit Free test suit in cotton, yours to keep
 
-## Your Secret Weapon for High-Stakes Days
+The Suit
 
-This is the suit you wear when the pressure is on. It’s an armor of composure, engineered for the woman who needs to look impeccably sharp and feel completely cool, calm, and collected. We’ve built this power silhouette from Fresco—a legendary performance wool—and perfected it with a flawless custom fit.
+## A Women’s Fresco Wool Suit, Cut to Your Measurements
 
-### The Genius of Fresco Wool: A Natural Air Conditioner
+Almost all the fresco wool suits you will find online are cut for men, and the few made for women are sold in standard sizes. Fresco is worth looking for: the yarns are twisted hard and woven open, so the cloth breathes, feels crisp and shakes off creases from sitting, commuting or a long flight.
 
-The true innovation of this suit lies in its remarkable fabric. Fresco is not just wool; it’s a patented textile, engineered in England specifically for performance under pressure.
+This women’s fresco performance suit is cut from a Super 130s fresco of 70% wool and 30% polyester: a single-button jacket with slim notch lapels over tapered, flat-front trousers. Both pieces are made to your measurements, and you wear a free cotton test suit at home before the fresco is cut.
 
-- **Unmatched Breathability:** Fresco is crafted from multiple strands of high-twist wool, woven into a plain, open weave. This creates a crisp, porous fabric that allows air to circulate freely, making it feel remarkably cool and airy.
-- **Incredible Wrinkle Resistance:** The high-twist nature of the yarn makes Fresco naturally resilient to creasing, ensuring you look sharp and unrumpled, even after a long flight or a marathon meeting.
-- **A Palette of 10 Professional Colors:** Choose from a curated selection of 10 versatile shades, including classic charcoal, navy, and a sharp tan.
+Fresco, 70% wool  
+ Super 130s  
+ Crease resistant  
+ Single button  
+ Free test suit
 
-### A Silhouette of Sharp Authority
+**Price:** $699 for jacket and trousers **Cloth:** Super 130s fresco, 70% wool and 30% polyester **Lining:** jacket fully lined, lining chosen in the selector **Fit:** slim, standard or relaxed in the selector **Test suit:** free, yours to keep **Care:** dry clean
 
-This suit is architected with clean, modern lines to create a look of pure, understated power.
+---
 
-- **The Lean, Modern Jacket:** A sharp, single-button jacket with a slim notch lapel creates a clean, elongating line, while a full canvas construction ensures it molds to your body over time.
-- **The Perfect Tapered Trouser:** Clean, flat-front trousers with a gentle taper create a modern, leg-lengthening silhouette that is both professional and incredibly chic.
+Free Test Suit
 
-### Our Bespoke Fit Promise: The Final Calibration
+## Tapered Trousers Need the Most Fitting
 
-A high-performance suit requires a perfect fit to look truly commanding. We guarantee a flawless silhouette by sending you a **free test suit**—a complete cotton version of both the jacket and trousers—made to your initial measurements. This personal fitting, done from the comfort of your home, allows us to perfect every aspect of the silhouette. It’s the final, crucial step in creating a garment that is truly built for you.
+A slim, tapered trouser is the hardest part of a women’s suit to fit from a size chart. When the hip is smaller than the chart expects, cloth gathers in folds below the seat; when the hip is fuller at the back with a flatter front, the trousers pull at the back and stand away in front. On the test suit we take out or add room exactly where your body needs it, and on the jacket we keep the single button where the front lies flat over the bust.
 
-#### Caring For Your Suit
+Sometimes the cleanest fix would change the look, such as an extra dart in the jacket front. We explain the trade-off, and you choose between the fit that follows your body exactly and the style in the photos exactly.
 
-To preserve the performance and structure of your Fresco wool suit, we recommend professional dry-cleaning only.
+1
 
-*A complimentary allergy-protection service is available upon request.*
+**Choose the fresco and lining**  
+ Pick the cloth color and lining in the selector, then your fit and measurements, with the trouser length you want: full or at the ankle, as in the photos.
 
-#### Fresco Wool Suit Jacket Features
+2
 
-- hand-tailored from super 130s wool blend fabric in plain cloth
-- hand basted full canvas front
-- single-breasted style
-- single button natural waist fastening
-- slim width notch lapel (2 inches to 2.25 inches)
-- hand made buttonholes
-- piped horizontal hip pockets
-- chest welt pocket
-- fully-lined in acetate
-- darted front for a bespoke look
-- hand stitched armholes
-- two internal pockets
-- center back vent
-- rounded jacket front hem
-- 4 buttons working sleeve cuffs
-- kissing sleeve buttons stance
-- hand made black horn buttons
-- stitched and reinforced jacket buttons by hand
-- ample jacket seam allowances for future alteration
+**Your cotton suit arrives first**  
+ Jacket and trousers are cut in cotton to your measurements in 3 to 4 weeks and reach you 5 to 10 days after dispatch.
 
-#### Fresco Wool Suit Pants Features
+3
 
-- hand-tailored from super 130s wool blend fabric in plain cloth
-- tapered cut pants leg
-- zip fly front
-- hook closure waistband
-- flat front pants
-- slanted front pockets
-- plain back
-- acetate lined pants front till knee
-- extend the lining to the pants bottom hem if you are allergic to wool
-- grip enforced waistband for better tuck-ins
-- waistband interior lined in cotton
-- 3 inches blind hem in the pants leg
-- hand-stitched pants leg blind hem
-- ample seam allowances for future alteration
-- stitched and reinforced pants buttons by hand
+**Walk, sit and climb a stair**  
+ A tapered trouser shows any fault at the seat and thigh, so check those first, then the jacket’s single button at the waist and the trouser hem with the shoes you will wear.
+
+4
+
+**The fresco is cut**  
+ Your corrections are applied, the final suit is made in 3 to 4 weeks and arrives 5 to 10 days after it ships. The cotton suit is yours to keep.
+
+---
+
+Fresco vs Tropical
+
+## What Is Fresco Wool, and How Is It Different From Tropical Wool?
+
+| Fresco | High-twist yarns, often two or three plied together, woven in an open plain weave. Crisp, porous and very crease resistant, with a slightly dry, textured hand. |
+| --- | --- |
+| Tropical wool | Finer, lower-twist yarns in a closer plain weave. Smoother and softer against the skin, light and cool, but it creases a little more than fresco. |
+| This suit | Super 130s fresco of 70% wool and 30% polyester. The wool brings breathability and drape; the polyester adds strength and crease recovery, at the cost of breathing a little less than pure wool. |
+| Which to choose | Fresco for travel, long days and heat with movement; tropical wool for the softest, lightest feel. |
+
+If you want the smoother of the two, see our **[women’s tropical wool pantsuit](https://baronboutique.com/womens-performance-tropical-wool-pantsuit/)**. In our experience, cheaper suits give out in two ways: the cloth fades or roughens in the weather, and the construction lets the shoulders and front slip out of shape. A firm fresco on a canvas front avoids both.
+
+---
+
+The Cloths
+
+## The Fresco, Up Close
+
+These are close-up photos of the actual cloth, so you can see the open weave and the texture of the fresco before you choose. Choose your color in the selector; here are four of the shades on offer.
+
+Gray
+
+The nearest shade to the suit in the photos; for a light gray fresco suit, look in the selector.
+
+Charcoal
+
+Darker and more formal for meetings and interviews.
+
+Navy
+
+The easiest suit color to wear year-round.
+
+Black
+
+A black suit that wears cooler than most.
+
+---
+
+The Cut
+
+## A Single-Button Jacket With Slim Notch Lapels
+
+| Single button at the natural waist | A long, lean front line that marks the waist even when the jacket is open. |
+| --- | --- |
+| Slim notch lapels | Two to two and a quarter inches wide, narrower than a classic lapel, for a modern line. |
+| Piped hip pockets and a chest welt pocket | Flat pockets with no flaps, so the crisp fresco stays smooth over the hips. |
+| Center vent and working cuffs | A center vent for movement and four kissing buttons on real buttonholes at each sleeve. |
+| Tapered flat-front trousers | Slanted front pockets, a plain back and a leg that narrows to the ankle. |
+
+The same fresco is used for our **[women’s red blazer](https://baronboutique.com/classic-wool-blazer-in-red/)**, if you want a fresco wool blazer in a strong color to wear with these trousers.
+
+---
+
+How to Wear It
+
+## One Fresco Suit, Several Ways to Wear It
+
+| As a suit | With a fine knit or a striped top, as in the photos, and heels: polished without being stiff. |
+| --- | --- |
+| For travel | Fresco shrugs off creases, so the suit can be worn on the flight and to the meeting. |
+| The jacket alone | Over jeans or a skirt, as a fresco wool jacket for weekends. |
+| The trousers alone | With a sweater or shirt; the ankle length shows a good shoe. |
+
+---
+
+Full Spec
+
+## Women’s Fresco Suit, Specification
+
+| Cloth | Super 130s fresco, 70% wool and 30% polyester, open plain weave; color in the selector |
+| --- | --- |
+| Jacket | Single-breasted, one button at the natural waist, slim notch lapels 2 to 2.25 inches, rounded front hem |
+| Jacket build | Canvas front basted by hand, front darts, armholes stitched by hand, hand-finished buttonholes, fully lined |
+| Jacket pockets | Chest welt pocket, two piped hip pockets, two interior pockets |
+| Back and cuffs | Center back vent; four-button working cuffs with kissing buttons |
+| Buttons | Black horn, hand-stitched and reinforced |
+| Trousers | Tapered leg, flat front, zip fly, hook waistband, slanted front pockets, plain back |
+| Trouser finish | Fronts lined to the knee, or to the hem on request; grip waistband lined in cotton; 3 inch hand-stitched blind hem |
+| Fit | Slim, standard or relaxed, then corrected on the test suit |
+| Test suit | Free, cotton jacket and trousers, yours to keep |
+| Production | 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean the jacket; trousers dry clean recommended |
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Women’s Fresco Suit
+
+### What is fresco?
+
+Fresco is a cloth woven from very high-twist yarns in an open plain weave; the name comes from the Italian for fresh. Air passes straight through it, it feels crisp and dry, and it springs back from creases, which is why it is a classic travel and warm-weather cloth.
+
+### Is this suit 100% wool?
+
+No. It is a Super 130s fresco of 70% wool and 30% polyester. The polyester adds strength and crease recovery; the wool keeps it breathable.
+
+### Fresco or tropical wool: which is cooler?
+
+Both are warm-weather cloths. Fresco breathes through its open weave and resists creases more; tropical wool feels smoother and softer. For a smoother summer cloth, see our **[tropical wool pantsuit](https://baronboutique.com/womens-performance-tropical-wool-pantsuit/)**.
+
+### Does fresco feel rough?
+
+It has a dry, slightly textured hand compared with smooth worsted. The trousers are lined at the front to the knee, and the lining can run to the hem if you prefer.
+
+### Is it good for travel?
+
+Yes. The high-twist yarn springs back, so most creases drop out after a night on a hanger; it can be worn on the flight and to the meeting.
+
+### Will I be cold in an air-conditioned office?
+
+Less than you would expect. Fresco is light but not thin, and the fully lined jacket adds warmth indoors while the open weave keeps you comfortable outside in the heat.
+
+### Can I change details such as the lapel, buttons or trouser leg?
+
+Yes. Use the comment box of the measurement form, or email us with your order number. A wider lapel, two buttons, flap pockets or a straight leg are all possible.
+
+### Can I order only the jacket or the trousers?
+
+Ask through the Ask a question about this piece form below Add to Cart. We will confirm what can be made in the fresco you choose.
+
+### I have no tailor nearby. How do I measure?
+
+A helper makes it easier. Alone, measure bust, natural waist, hips, trouser waist, thigh and ankle, then a jacket and trousers that fit you well; we can guide you by video call or WhatsApp.
+
+### Can I see the fresco first?
+
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 2600011 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the fresco suit take?
+
+Allow 3 to 4 weeks to make the cotton test suit and 5 to 10 days for it to arrive. The fresco suit then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
+
+### How do I care for it?
+
+Hang it after wearing so the yarn can recover, and brush it now and then. Dry clean only when it needs it.
 
 ## Customer Reviews
 

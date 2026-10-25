@@ -28,7 +28,6 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](mens-glen-plaid-cashmere-scarf-tan-white.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](mens-gray-pinstripe-pants.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](mens-navy-peacoat.md)
-- [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](mens-pashmina-shawl-handwoven.md)
 - [Men's Tailored Linen Pants](tailored-fit-dark-blue-linen-pants.md)
 - [Mens 100% Cashmere Scarf 22×72 Inches Long Soft Non-Irritating 80+ Colors](mens-100-cashmere-scarf-soft-non-irritating.md)
 - [Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors](mens-aviator-silk-neck-scarf.md)
@@ -61,6 +60,7 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Linen Wedding Suits](grooms-linen-suits-for-wedding/index.md) — 6 products
 - [Destination Wedding Suits](destination-wedding-suits/index.md) — 1 products
 - [Shirts](shirts/index.md) — 9 products
+- [Accessories](mens-accessories/index.md) — 1 products
 - [Wedding Suits](wedding-suits/index.md) — 1 products
 - [Vests](vests/index.md) — 2 products
 

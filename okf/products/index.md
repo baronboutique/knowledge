@@ -28,7 +28,6 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](menswear/mens-glen-plaid-cashmere-scarf-tan-white.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](menswear/mens-gray-pinstripe-pants.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](menswear/mens-navy-peacoat.md)
-- [Men's Pashmina Shawl — 100% Himalayan Pashmina, Handwoven, 90 Colors](menswear/mens-pashmina-shawl-handwoven.md)
 - [Men's Tailored Linen Pants](menswear/tailored-fit-dark-blue-linen-pants.md)
 - [Mens 100% Cashmere Scarf 22×72 Inches Long Soft Non-Irritating 80+ Colors](menswear/mens-100-cashmere-scarf-soft-non-irritating.md)
 - [Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors](menswear/mens-aviator-silk-neck-scarf.md)
@@ -61,6 +60,7 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Linen Wedding Suits](menswear/grooms-linen-suits-for-wedding/index.md) — 6 products
 - [Destination Wedding Suits](menswear/destination-wedding-suits/index.md) — 1 products
 - [Shirts](menswear/shirts/index.md) — 9 products
+- [Accessories](menswear/mens-accessories/index.md) — 1 products
 - [Wedding Suits](menswear/wedding-suits/index.md) — 1 products
 - [Vests](menswear/vests/index.md) — 2 products
 
@@ -115,18 +115,18 @@ All products are made to order by human tailors after an order is confirmed. No 
 
 ## [Women](womenswear/index.md)
 
-- [Dresses](womenswear/dresses-for-women/index.md) — 13 products
 - [Cashmere Wrap Scarf Womens 100% Cashmere Wedding Wrap, Winter Scarf, & Travel Wrap Scarf 80+ Colors](womenswear/cashmere-wrap-scarf-womens-80-plus-colors.md)
 - [Featherlight Cashmere Scarf for Travel, Weddings & Events](womenswear/womens-featherlight-cashmere-scarf.md)
-- [Unlined Linen Duster Coat](womenswear/linen-dress-jacket-with-notch-collar.md)
+- [Women's Unlined Linen Duster Coat](womenswear/linen-dress-jacket-with-notch-collar.md)
 - [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)
 - [Screen Inspired](womenswear/screen-inspired-women/index.md) — 13 products
 - [Shirts & Blouses](womenswear/shirts-for-women/index.md) — 11 products
-- [Suits & Blazers](womenswear/suits-blazers-for-women/index.md) — 12 products
-- [Wedding Suits](womenswear/wedding-suits-for-women/index.md) — 3 products
 - [Skirts](womenswear/skirts-for-women/index.md) — 10 products
+- [Dresses](womenswear/dresses-for-women/index.md) — 13 products
 - [Tuxedos](womenswear/tuxedos-for-women/index.md) — 3 products
+- [Suits & Blazers](womenswear/suits-blazers-for-women/index.md) — 12 products
 - [Coats & Overcoats](womenswear/coats-and-overcoats-for-women/index.md) — 8 products
 - [Pants](womenswear/pants-for-women/index.md) — 11 products
+- [Wedding Suits](womenswear/wedding-suits-for-women/index.md) — 3 products
 

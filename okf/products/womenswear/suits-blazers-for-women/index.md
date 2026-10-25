@@ -58,18 +58,18 @@ Every adjustment is applied, then your suit is cut and hand-tailored in your cho
 
 ## Products
 
-- [The Bespoke Wool Flannel Suit Dress](wool-flannel-dress-suit.md)
-- [The Essential Black Pant Suit](womens-essential-black-pant-suit.md)
-- [The Fresco Performance Suit](womens-fresco-wool-suit.md)
-- [The High-Performance Mohair Suit](womens-mohair-wool-suit.md)
-- [The Performance Tropical Wool Suit](womens-performance-tropical-wool-pantsuit.md)
-- [The Sculpted Wool Blazer](womens-merino-wool-blazer.md)
-- [The Sharkskin Work Suit](womens-work-suit-in-sharkskin.md)
-- [The Statement Red Blazer](classic-wool-blazer-in-red.md)
-- [Women's Business Suit, Bespoke in Italian VBC Wool](womens-tailored-suit.md)
-- [Women's Custom Blazer in Sharkskin Wool](womens-sharkskin-jacket.md)
+- [Women's Black Pant Suit in Merino and Cashmere, Two-Button](womens-essential-black-pant-suit.md)
+- [Women's Business Suit, Tailor Made in Super 160s Wool](womens-tailored-suit.md)
 - [Women's Custom Skirt Suit in Pinstripe Wool](womens-skirt-suit-in-stripes.md)
+- [Women's Fresco Performance Suit, Wool Blend, Single Button](womens-fresco-wool-suit.md)
+- [Women's Leather-Trimmed Sharkskin Blazer, Custom Made](womens-sharkskin-jacket.md)
+- [Women's Merino Wool Blazer, Fitted With Peak Lapels](womens-merino-wool-blazer.md)
+- [Women's Mohair Suit in Mohair and Wool, Two-Button](womens-mohair-wool-suit.md)
+- [Women's Performance Tropical Wool Suit, Lightweight Pantsuit](womens-performance-tropical-wool-pantsuit.md)
 - [Women's Pinstripe Suit, Custom Made in Merino-Cashmere Blend](womens-pinstripe-pant-suit.md)
+- [Women's Red Blazer in Fresco Wool Blend, Peak Lapels](classic-wool-blazer-in-red.md)
+- [Women's Sharkskin Suit for Work, Single-Button Jacket](womens-work-suit-in-sharkskin.md)
+- [Women's Suit Dress in Wool Flannel, Jacket and Sheath Dress](wool-flannel-dress-suit.md)
 
 ## Related
 

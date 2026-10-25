@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/5th-doctor-red-piping-frock-coat-for-women/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Beige Frock Coat With Red Piping
@@ -167,43 +167,89 @@ Questions & Answers
 
 ### What is a frock coat?
 
-A frock coat is a fitted coat that falls to around the knee with a straight front edge. A women’s frock coat follows the waist and flares slightly over the hips.
+A frock coat is a fitted coat that falls to around the knee with a straight front edge, worn through the nineteenth century. A women’s frock coat follows the waist and flares slightly over the hips. This one is knee length with two buttons.
 
 ### Is this the Fifth Doctor’s coat from Doctor Who?
 
-No, it is our own screen-inspired women’s version, inspired by the Fifth Doctor’s beige coat with red piping. It is not official or licensed.
+No, it is our own screen-inspired women’s version, inspired by the Fifth Doctor’s beige coat with red piping. It is not official or licensed. It is a replica cut to your measurements in Super 140s wool.
 
 ### Is the coat red?
 
-No, the coat is beige and the red is a fine piping along the edges, lapels and pocket flaps.
+No. The coat is beige, and the red is a fine piping along the edges, lapels and pocket flaps. That thin line of red is what makes it read as the Fifth Doctor’s coat.
 
 ### What is the cloth?
 
-It is 100% Super 140s worsted wool woven at tropical weight, light and cool to wear. Beige is the default, and the other colors are in the selector.
+It is 100% Super 140s worsted wool woven at tropical weight, light and cool to wear. Beige is the default, and other colors are in the selector.
+
+### How much does it cost?
+
+It is $559, cut to your measurements, and the price includes the free cotton test coat. There are no standard sizes, so there is no extra charge for fitting.
+
+### Who makes it?
+
+Baron Boutique, a family-run tailoring house founded by Raj Bista in 2000. Every coat is made by our tailors after you order, from your own measurements.
 
 ### Is a frock coat the same as a coat to wear over a frock?
 
-No, a frock coat is the coat itself. If you want a coat to wear over a dress, see our women’s dress coat.
+No, a frock coat is the coat itself. If you want a coat to wear over a dress, see our **[women’s winter dress coat](https://baronboutique.com/womens-wool-dress-coat/)**.
 
 ### How many pockets does it have?
 
-It has two outside pockets with flaps and two interior pockets.
+Two outside pockets with flaps and two interior pockets. More can be added through the comment box of the measurement form, or by email with your order number.
 
-### How does the free test coat work?
+### Is it warm?
 
-We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the wool and add the piping. The test coat is yours to keep.
+No, it is a light coat for spring, summer, fall and indoor events. Tropical-weight wool breathes, so you can wear it all day at a convention.
 
-### How long does it take?
+### Can I see the beige wool first?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7000010 and the colors you want to compare; the courier fee is credited toward your first order.
 
-### Can I change details, such as the length?
+### How long will the frock coat take?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+The cotton test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The wool coat, with its piping, then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 
-Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger.
+Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger; keep the light beige away from makeup at the collar.
+
+## Questions & Answers
+
+**Q:** What is a frock coat?  
+**A:** A frock coat is a fitted coat that falls to around the knee with a straight front edge, worn through the nineteenth century. A women's frock coat follows the waist and flares slightly over the hips. This one is knee length with two buttons.
+
+**Q:** Is this the Fifth Doctor's coat from Doctor Who?  
+**A:** No, it is our own screen-inspired women's version, inspired by the Fifth Doctor's beige coat with red piping. It is not official or licensed. It is a replica cut to your measurements in Super 140s wool.
+
+**Q:** Is the coat red?  
+**A:** No. The coat is beige, and the red is a fine piping along the edges, lapels and pocket flaps. That thin line of red is what makes it read as the Fifth Doctor's coat.
+
+**Q:** What is the cloth?  
+**A:** It is 100% Super 140s worsted wool woven at tropical weight, light and cool to wear. Beige is the default, and other colors are in the selector.
+
+**Q:** How much does it cost?  
+**A:** It is $559, cut to your measurements, and the price includes the free cotton test coat. There are no standard sizes, so there is no extra charge for fitting.
+
+**Q:** Who makes it?  
+**A:** Baron Boutique, a family-run tailoring house founded by Raj Bista in 2000. Every coat is made by our tailors after you order, from your own measurements.
+
+**Q:** Is a frock coat the same as a coat to wear over a frock?  
+**A:** No, a frock coat is the coat itself. If you want a coat to wear over a dress, see our women's winter dress coat.
+
+**Q:** How many pockets does it have?  
+**A:** Two outside pockets with flaps and two interior pockets. More can be added through the comment box of the measurement form, or by email with your order number.
+
+**Q:** Is it warm?  
+**A:** No, it is a light coat for spring, summer, fall and indoor events. Tropical-weight wool breathes, so you can wear it all day at a convention.
+
+**Q:** Can I see the beige wool first?  
+**A:** Yes. Our swatch service sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7000010 and the colors you want to compare; the courier fee is credited toward your first order.
+
+**Q:** How long will the frock coat take?  
+**A:** The cotton test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The wool coat, with its piping, then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
+
+**Q:** How do I care for it?  
+**A:** Dry clean only, and not often. Brush it after wearing and hang it on a shaped hanger; keep the light beige away from makeup at the collar.
 
 ## Categories
 

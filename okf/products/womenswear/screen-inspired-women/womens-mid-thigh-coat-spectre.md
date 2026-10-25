@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-mid-thigh-coat-spectre/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-14T17:13:59Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Navy Overcoat With Velvet Collar, Spectre Inspired
@@ -181,39 +181,47 @@ Questions & Answers
 
 ### Is this the coat from Spectre?
 
-No, it is our own screen-inspired women’s version, with inspiration taken from Spectre. It is not official or licensed.
+No, it is our own screen-inspired women’s version, with inspiration taken from Spectre. It is not official or licensed. It is a replica cut to your measurements in wool flannel.
+
+### Is it a Chesterfield coat?
+
+In spirit, yes. A Chesterfield is a tailored overcoat with a velvet collar and often a fly front, made to be worn over a suit. This one has both, in navy flannel cut to mid-thigh, so it works as a modern women’s Chesterfield.
 
 ### Is it a trench coat?
 
-No, it is a single-breasted overcoat in wool flannel, with no belt or storm flap.
+No, it is a single-breasted overcoat in wool flannel, with no belt, epaulettes or storm flap. It is a dressier coat than a trench.
 
 ### What is a fly front?
 
-A placket that covers the buttons, so none show when the coat is closed.
+A placket that covers the buttons, so none show when the coat is closed. It gives the front one clean line, which is what makes this coat look so understated.
 
 ### Is the collar a different fabric?
 
-Yes, the upper collar is blue velvet, darker than the navy flannel.
+Yes, the upper collar is blue velvet, darker than the navy flannel. It is the one contrast on the coat and only shows up close.
+
+### Can I wear it over a suit?
+
+Yes, that is what this kind of overcoat was made for. Tell us when you order and wear a blazer when you try the test coat, so the shoulders and sleeves are cut with room for it.
 
 ### Can I have it longer?
 
-Yes, enter the length you want on the measurement form.
+Yes. It is mid-thigh as standard; enter the length you want on the measurement form, for example to the knee for a classic overcoat length.
 
 ### What other colors are there?
 
-The flannel comes in shades such as charcoal, black and camel; the selector shows every cloth and lining on offer.
+The flannel comes in shades such as charcoal, black and camel in the selector. Navy is the default, and any satin lining can be chosen.
 
-### How does the free test coat work?
+### Can I change details?
 
-We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the flannel. The test coat is yours to keep.
+Yes. Use the comment box of the measurement form, or email us with your order number. A black velvet collar, visible buttons or no chest pocket are all possible.
 
-### How long does it take?
+### Can I see the flannel first?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7001003 and the colors you want to compare; the courier fee is credited toward your first order.
 
-### Can I change details, such as the length?
+### How long will the overcoat take?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Allow 3 to 4 weeks to make the cotton test coat and 5 to 10 days for it to arrive. The flannel overcoat then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 

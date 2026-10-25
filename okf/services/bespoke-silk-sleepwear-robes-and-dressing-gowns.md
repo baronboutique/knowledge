@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/bespoke-silk-sleepwear-robes/
     title: "Bespoke Silk Sleepwear, Robes and Dressing Gowns"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-15
+    last_modified: 2026-10-19
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-10-15T20:12:13Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-10-19T09:22:42Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-20T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-20T03:00:04Z }
 ---
 
 Baron Boutique drafts a pattern for each client and makes silk robes, dressing gowns and piped pajama sets for men and women in 100% mulberry silk charmeuse, 22 momme. Clients measure themselves with a guide, receive a free test garment to confirm the fit, and the silk is cut only after the fit is approved. French seams, reinforced stress points and mother-of-pearl buttons are standard. Repairs and alterations are free year after year, with shipping charged, and each client's pattern is kept on file for reorders.
@@ -51,7 +51,7 @@ ColorsNavy, champagne, ivory and burgundy, with contrast piping; other stock col
 
 PricePajama sets from $799 USD, robes and dressing gowns from $899 USD, the same for women and men; the free test garment is included
 
-ProductionTest garment in 3 to 4 weeks, then your silk garment 3 to 4 weeks after you approve the fit (6 to 8 weeks of workshop time in all)
+ProductionTest garment in 3 to 4 weeks, then your silk garment 3 to 4 weeks after you approve the fit (6 to 8 weeks of workshop time in all). Every garment is made to order and nothing is held in stock; we order your silk while your test garment is being made.
 
 ShippingWorldwide by tracked courier; shipping is quoted with your order
 
@@ -259,11 +259,25 @@ For someone else
 
 A bespoke garment is hard to give as a surprise, because it needs measurements. A gift certificate solves that. You choose the garment; the recipient sends their measurements whenever they are ready, receives the free test garment, and gets a piece cut for them alone.
 
-It suits anniversaries, weddings and the morning of one, a new baby, a milestone birthday, a long hospital or recovery stay, or simply a partner who has never owned sleepwear that fits.
+Silk sleepwear suits the moments people remember: an anniversary (silk is the traditional gift for the twelfth), the morning of a wedding or the start of a honeymoon, a new baby, a milestone birthday, a retirement, or a long hospital or recovery stay. It also suits the year’s celebrations, from Eid, Diwali, Christmas and Lunar New Year to Valentine’s Day, Mother’s Day and Father’s Day. Sometimes the reason is simpler: a partner who has never owned sleepwear that fits.
 
-### Ordering together
+If the date is close, give the certificate on the day. The garment follows once the recipient has measured and tried on the free test garment, so it still arrives cut for them alone.
 
-Silk sleepwear is often shared across a home: matching robes for a couple, pajamas for the whole family on a holiday morning, or robes for a bride and her bridesmaids to get ready in. However many of you there are, each person is measured on their own, tries on their own free test garment and receives a garment cut to their own pattern. That fitting step is the heart of what we do, so nobody goes without it, and ordering together takes no longer than ordering alone.
+### Gifts for Nonna
+
+A grandmother is often the hardest person to shop for, and usually the one with a drawer of sleepwear that almost fits. A silk robe or pajama set cut to her own measurements is a gift she will actually reach for. Measuring can be part of the visit: a grandchild holds the tape, someone writes the numbers down, and the free test garment confirms the fit before the silk is cut. Choose the length and colors she likes, add her initials as a monogram, and if the family is ordering together, Nonna can match the grandchildren. If she would rather measure in her own time, give a gift certificate instead. The same goes for Nonno, who deserves a dressing gown that fits just as well.
+
+### Silk robes for a bride and her bridesmaids
+
+We make silk robes for a bride and her bridesmaids to get ready in, each one cut to its wearer’s own pattern. Everyone measures at home, tries on their own free test garment and approves their own fit, so the robes match in silk and color without one size being stretched across the whole party. Matching monograms or initials, on the chest pocket, the cuff or inside the collar, make them feel like a set. Ordering together takes no longer than ordering alone, but plan back from the wedding date: allow 6 to 8 weeks of workshop time, tracked shipping for the test garments and the finished robes, and the days each person needs to try on and send photos.
+
+### His-and-hers silk robes and pajama sets
+
+All four garments share one design family, with the same silk, piping and finishing, so a robe or a pajama set can be ordered as a matching pair for two people. Each is cut from its own pattern, because a man’s robe is not a woman’s robe in a larger size. Choose one color for both, or two colors that sit well together, and add each person’s initials if you like. A pair suits an anniversary or a wedding, and if one of you cannot measure yet, a gift certificate covers their half.
+
+### Matching pajamas for a family holiday morning
+
+Pajamas for the whole family on a holiday morning are made the same way as a single set. Each person is measured on their own, tries on their own free test garment and receives a set cut to their own pattern, so nobody goes without the fitting step. For a holiday date, place the order at least 6 to 8 weeks of workshop time ahead, plus shipping both ways and the time everyone needs to try on their test garments.
 
 Matching monograms or initials, one set for each person, make the garments feel like they belong together. For a group of up to five, each garment is at its listed price; for a group of six or more, we will talk you through a family price. If you are dressing a hotel, spa or company, our [custom corporate gifts](/custom-corporate-gifts/) page is the better place to start, and if you would like to sell the garments or put your own label on them, please see our [private label](/private-label/) program. This page is for garments made for the people who will wear them at home.
 
@@ -344,7 +358,7 @@ It is made in cotton to your pattern, so you can judge length, sleeve, shoulder 
 
 #### What silk do you use?
 
-We use 100% mulberry silk charmeuse, grade 6A, at 22 momme. Charmeuse has a satin face and a matte reverse. The silk is woven and every garment is cut and sewn by our own tailors.
+We use 100% mulberry silk charmeuse, grade 6A, at 22 momme, woven and dyed in Hangzhou, China. Charmeuse has a satin face and a matte reverse. The silk is woven and every garment is cut and sewn by our own tailors.
 
 #### What is momme, and why 22 momme?
 
@@ -403,6 +417,14 @@ Choose a gift certificate. You pick the garment, and the recipient sends their o
 #### What occasions suit a bespoke silk robe or pajama set?
 
 Anniversaries, a wedding morning, a honeymoon, a new baby, a milestone birthday, a long hospital or recovery stay, or simply someone who has never owned sleepwear that fits. Because it is worn every night rather than kept for an occasion, it remains in use long after the date that prompted it.
+
+#### Can I order matching silk robes for my bridesmaids?
+
+Yes. We make silk robes for a bride and her bridesmaids to get ready in, each cut to its wearer’s own pattern after their own free test garment. Matching monograms or initials can be added, and for a group of six or more we will talk you through a family price.
+
+#### How far ahead should I order silk robes or pajamas for a wedding or a holiday?
+
+Allow 6 to 8 weeks of workshop time, plus tracked shipping for the test garment and for the finished garment, plus the time each person needs to try on the test garment and send photos. Order as early as you can; if the date is too close, a gift certificate can be given on the day instead.
 
 ### Ordering and Aftercare
 

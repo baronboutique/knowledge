@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Herringbone Car Coat in Tweed Wool"
-description: "A bespoke herringbone car coat in Super 110s' tweed wool, hand-tailored with full canvas construction and natural horn button closures."
+description: "A bespoke herringbone car coat in Super 110s' tweed wool, hand-tailored with front canvas construction and natural horn button closures."
 resource: https://baronboutique.com/mens-herringbone-wool-car-coat/
 tags: [men, car-coat, coat, tweed, wool, herringbone, canvas-front, single-breasted, winter-coat, bespoke, made-to-order]
 sources:
@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-herringbone-wool-car-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-23
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-24T03:00:51Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-24T03:00:51Z }
 ---
 
 # Herringbone Car Coat in Tweed Wool
@@ -24,18 +24,18 @@ generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 **SKU:** 1801008  
 **URL:** https://baronboutique.com/mens-herringbone-wool-car-coat/  
 **Type:** bespoke (made to order)  
-**Price:** USD 599.00 (verify current price on product page)  
+**Price:** USD 649.00 (verify current price on product page)  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
 - **Fabric:** Coffee Brown Herringbone Wool (TC4064). Total 8 options available: Coffee Brown Herringbone Wool (TC4064), Dark Grey Herringbone Wool (TC403), Light Brown Herringbone Wool (TC4016), Light Camel Herringbone Wool (TC4038), Light Grey Herringbone Wool (TC202), Medium Grey Herringbone Wool (TC402), Petrol Blue Herringbone Wool (TC404), Petrol Green Herringbone Wool (TC4046)
-- **Lining:** Brown Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Lining:** Brown Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
-A bespoke herringbone car coat in Super 110s' tweed wool, hand-tailored with full canvas construction and natural horn button closures. This five-button design bridges formal authority and casual versatility. Sharp enough for the office, refined enough for the weekend. Each coat begins with a complimentary fitting toile, ensuring your final piece moves with you, not against you.
+A bespoke herringbone car coat in Super 110s' tweed wool, hand-tailored with front canvas construction and natural horn button closures. This five-button design bridges formal authority and casual versatility. Sharp enough for the office, refined enough for the weekend. Each coat begins with a complimentary fitting toile, ensuring your final piece moves with you, not against you.
 
 ## The Free Fitting Canvas: Your Bespoke Advantage
 
@@ -57,7 +57,7 @@ The herringbone weave is more than aesthetic; it’s architectural. The distinct
 
 ## Bespoke Construction You Can Feel
 
-- **Hand-basted full canvas front** — Provides structure that molds to your body over time
+- **Hand-basted canvas front** — Provides structure that molds to your body over time
 - **Hand-set armholes** — Ensures natural shoulder movement and eliminates binding
 - **Five hand-carved 22mm football horn buttons** — Natural material with character and warmth
 - **Medium-weight tweed wool** — Substantial enough for cold weather, breathable enough for layering
@@ -87,14 +87,14 @@ Tweed is a performance fabric disguised as tradition. Its dense weave provides n
 
 ## Care & Longevity
 
-Dry-clean only. With proper maintenance, a hand-tailored herringbone tweed overcoat like this will serve you for decades. The full canvas construction allows the coat to be altered or refreshed by a skilled tailor, making this an heirloom-quality investment.
+Dry-clean only. With proper maintenance, a hand-tailored herringbone tweed overcoat like this will serve you for decades. The front canvas construction allows the coat to be altered or refreshed by a skilled tailor, making this an heirloom-quality investment.
 
 ### Car Coat Features
 
 - tailored from Super 110s’ 100% wool
 - hand-made by Baron Boutique’s master tailors
 - single-breasted closure
-- hand-basted full canvas front
+- hand-basted canvas front
 - five-button fastening
 - handmade 22 mm football horn buttons
 - hand-stitched shoulder pads

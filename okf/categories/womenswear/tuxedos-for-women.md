@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-21T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-21T03:00:04Z }
 ---
 
 # Tuxedos
@@ -70,9 +70,9 @@ Every adjustment is applied, then your tuxedo is hand-tailored in your chosen cl
 
 ## Products
 
-- [The Velvet Tuxedo Jacket](../../products/womenswear/tuxedos-for-women/womens-tailored-velvet-tuxedo-jacket.md)
-- [The Women's Bespoke Tuxedo](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
-- [The Women's Tuxedo Suit](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
+- [Women's Bespoke Tuxedo, Menswear-Inspired With Satin Peak Lapels](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
+- [Women's Tuxedo Suit With Shawl Lapel and Satin Stripe Trousers](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
+- [Women's Velvet Tuxedo Jacket With Silk Satin Peak Lapels](../../products/womenswear/tuxedos-for-women/womens-tailored-velvet-tuxedo-jacket.md)
 
 **Related terms:** women's tuxedo suit, ladies tux, black tie outfit for women, velvet tuxedo jacket women, femme tuxedo, tuxedo for women, womens tuxedo
 

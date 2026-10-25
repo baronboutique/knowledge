@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-12
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:20:50Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Aquamarine Blue Handwoven Cashmere Scarf Shawl
@@ -227,7 +227,7 @@ Other Colors
 
 If you want a deeper blue, see our **[Indigo Blue](https://baronboutique.com/indigo-blue-handwoven-cashmere-scarf-shawl/)** shawl or the **[Royal Blue wrap in diamond weave](https://baronboutique.com/royal-blue-essential-wrap-in-diamond-weave-cashmere/)**. For a blue that leans green, see **[Light Teal Green](https://baronboutique.com/light-teal-green-handwoven-cashmere-scarf-shawl/)**. For a soft neutral, see **[Ivory](https://baronboutique.com/handwoven-ivory-cashmere-scarf-shawl/)**.
 
-Looking for a customized cashmere shawl in a blue that is not here? Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+Looking for a customized cashmere shawl in a blue that is not here? Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in a wide range of colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 

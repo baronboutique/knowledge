@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-dropped-shoulders-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Oversized Wool Cashmere Coat, Drop Shoulder
@@ -166,39 +166,47 @@ Questions & Answers
 
 ### What is a dropped shoulder coat?
 
-A coat whose shoulder seam sits below the shoulder point, giving a relaxed line and room for knitwear underneath.
+A coat whose shoulder seam sits below the shoulder point, on the upper arm. It gives a relaxed line and leaves room for knitwear underneath, so a thick sweater is never squeezed at the shoulders.
 
-### How oversized is it?
+### How oversized is it, and how do I avoid it swamping me?
 
-As oversized as you want. The amount of room, the shoulder drop and the sleeve length are set in the test coat.
+As oversized as you want. The seam should end before the upper bicep; if it slides much further down the arm, the coat looks borrowed rather than designed. The amount of room, the shoulder drop and the sleeve length are all set on you in the test coat.
+
+### Can it be a long oversized coat?
+
+Yes. It is mid-thigh as standard; enter a longer length on the measurement form, for example to the knee or the calf, for a long oversized coat over dresses.
 
 ### Does it close?
 
-It has an open front with no buttons, worn open or held closed. A button or tie can be requested in the comment box on the measurement form.
+It has an open front with no buttons, worn open or held closed like a wrap. A button or a tie belt can be requested in the comment box of the measurement form, or by email with your order number.
 
 ### Is it warm without a lining?
 
-Yes for cool weather, because the wool and cashmere is about 14 oz. To ask about adding a lining, write it in the comment box on the measurement form.
+Yes for cool weather, because the wool and cashmere is about 14 oz. It is unlined so the cloth drapes and moves; for winter use, ask for a lining in the comment box.
 
 ### Why 3/4 sleeves?
 
-They leave room for a full sleeve underneath and show a watch, bracelets or long gloves. Full-length sleeves can be requested.
+They leave room for a full sleeve underneath and show a watch, bracelets or long gloves. Full-length sleeves can be requested if you prefer.
 
 ### What colors does it come in?
 
-Camel as photographed, and shades such as black, navy and coffee brown; the selector shows the full range.
+Camel as photographed, and shades such as black, navy and coffee brown in the selector. Camel shows the drape of an unstructured coat most clearly, while black and navy are easier to keep clean.
 
-### How does the free test coat work?
+### Is it the same cloth as your tailored wool cashmere coats?
 
-We make the coat in cotton to your measurements, you try it over your thickest knit and tell us any change, and then we cut the wool and cashmere. The test coat is yours to keep.
+Yes, the same 95% wool, 5% cashmere. Here it is left unstructured, with no canvas or padding, so it falls softly instead of holding a tailored shape.
 
-### How long does it take?
+### How do I measure for an oversized coat?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Measure as for any coat: bust, natural waist, hips and a coat you like. Tell us how much room you want, or send a photo of an oversized coat whose proportions you like, and we set the ease from there.
 
-### Can I change details, such as the length?
+### Can I see the wool and cashmere first?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 3400003 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the oversized coat take?
+
+We make the cotton test coat in 3 to 4 weeks, and it arrives 5 to 10 days after dispatch. The wool cashmere coat then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 
@@ -207,31 +215,37 @@ Dry clean only, and not often. Hang it on a wide hanger so the dropped shoulders
 ## Questions & Answers
 
 **Q:** What is a dropped shoulder coat?  
-**A:** A coat whose shoulder seam sits below the shoulder point, giving a relaxed line and room for knitwear underneath.
+**A:** A coat whose shoulder seam sits below the shoulder point, on the upper arm. It gives a relaxed line and leaves room for knitwear underneath, so a thick sweater is never squeezed at the shoulders.
 
-**Q:** How oversized is it?  
-**A:** As oversized as you want. The amount of room, the shoulder drop and the sleeve length are set in the test coat.
+**Q:** How oversized is it, and how do I avoid it swamping me?  
+**A:** As oversized as you want. The seam should end before the upper bicep; if it slides much further down the arm, the coat looks borrowed rather than designed. The amount of room, the shoulder drop and the sleeve length are all set on you in the test coat.
+
+**Q:** Can it be a long oversized coat?  
+**A:** Yes. It is mid-thigh as standard; enter a longer length on the measurement form, for example to the knee or the calf, for a long oversized coat over dresses.
 
 **Q:** Does it close?  
-**A:** It has an open front with no buttons, worn open or held closed. A button or tie can be requested in the comment box on the measurement form.
+**A:** It has an open front with no buttons, worn open or held closed like a wrap. A button or a tie belt can be requested in the comment box of the measurement form, or by email with your order number.
 
 **Q:** Is it warm without a lining?  
-**A:** Yes for cool weather, because the wool and cashmere is about 14 oz. To ask about adding a lining, write it in the comment box on the measurement form.
+**A:** Yes for cool weather, because the wool and cashmere is about 14 oz. It is unlined so the cloth drapes and moves; for winter use, ask for a lining in the comment box.
 
 **Q:** Why 3/4 sleeves?  
-**A:** They leave room for a full sleeve underneath and show a watch, bracelets or long gloves. Full-length sleeves can be requested.
+**A:** They leave room for a full sleeve underneath and show a watch, bracelets or long gloves. Full-length sleeves can be requested if you prefer.
 
 **Q:** What colors does it come in?  
-**A:** Camel as photographed, and shades such as black, navy and coffee brown; the selector shows the full range.
+**A:** Camel as photographed, and shades such as black, navy and coffee brown in the selector. Camel shows the drape of an unstructured coat most clearly, while black and navy are easier to keep clean.
 
-**Q:** How does the free test coat work?  
-**A:** We make the coat in cotton to your measurements, you try it over your thickest knit and tell us any change, and then we cut the wool and cashmere. The test coat is yours to keep.
+**Q:** Is it the same cloth as your tailored wool cashmere coats?  
+**A:** Yes, the same 95% wool, 5% cashmere. Here it is left unstructured, with no canvas or padding, so it falls softly instead of holding a tailored shape.
 
-**Q:** How long does it take?  
-**A:** The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+**Q:** How do I measure for an oversized coat?  
+**A:** Measure as for any coat: bust, natural waist, hips and a coat you like. Tell us how much room you want, or send a photo of an oversized coat whose proportions you like, and we set the ease from there.
 
-**Q:** Can I change details, such as the length?  
-**A:** Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+**Q:** Can I see the wool and cashmere first?  
+**A:** Yes. Our swatch service sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 3400003 and the colors you want to compare; the courier fee is credited toward your first order.
+
+**Q:** How long will the oversized coat take?  
+**A:** We make the cotton test coat in 3 to 4 weeks, and it arrives 5 to 10 days after dispatch. The wool cashmere coat then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 **Q:** How do I care for it?  
 **A:** Dry clean only, and not often. Hang it on a wide hanger so the dropped shoulders keep their shape.

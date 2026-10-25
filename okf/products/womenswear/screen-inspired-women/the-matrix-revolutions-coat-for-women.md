@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/the-matrix-revolutions-coat-for-women/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-14T17:16:35Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Long Black Trench Coat, Matrix Inspired
@@ -174,43 +174,51 @@ Questions & Answers
 
 ### Is this the coat from The Matrix?
 
-No, it is our own screen-inspired women’s version, with inspiration taken from The Matrix Revolutions. It is not official or licensed.
+No, it is our own screen-inspired women’s version, with inspiration taken from The Matrix Revolutions. It is not official or licensed. It is a replica cut to your measurements in worsted wool.
 
 ### Is it a trench coat?
 
-It is a long tailored coat in the trench coat spirit: single-breasted, mid-calf and fitted. It has no storm flap or belt, which keeps the front clean.
+It is a long tailored coat in the trench coat spirit: single-breasted, mid-calf and fitted. It has no storm flap or belt, which keeps the front clean, so many people search for it as a long black trench coat for women.
 
 ### Will it wrap around my legs when I walk?
 
-No. Princess seams flare into a full back skirt and a center vent opens as you stride, so the hem swings behind you.
+No. Princess seams flare into a full back skirt, and a center vent opens as you stride, so the hem swings behind you instead of catching your knees.
+
+### What do I wear with it for a Matrix-inspired outfit?
+
+All black is the simplest: a black turtleneck, slim black trousers and boots, with small dark glasses if you want the full look. For everyday wear, the same coat goes over a white shirt and tailored trousers.
 
 ### Is it warm enough for winter?
 
-It is a light worsted wool for spring, autumn and indoor wear. Ask about a heavier cloth in the comment box if you need a winter coat.
+It is a light worsted wool for spring, fall and indoor wear. For a winter coat, ask about a heavier cloth in the comment box of the measurement form.
 
 ### What colors does it come in?
 
-Black by default, and the same worsted in shades such as charcoal, gray, navy and brown. The selector shows every cloth and lining on offer.
+Black by default, and the same worsted in shades such as charcoal, gray, navy and brown in the selector. Any satin lining can be chosen with it.
 
 ### Can it be longer, to the ankle?
 
-Yes, enter the length you want on the measurement form.
+Yes. Enter the length you want on the measurement form, and wear your usual boots when you try the test coat so the hem is set at the right height.
 
-### How does the free test coat work?
+### Is there a leather version?
 
-We make the coat in cotton to your measurements, you walk and sit in it at home and tell us any change, and then we cut the wool. The test coat is yours to keep.
+This coat is wool. For leather, see our **[women’s long black leather coat](https://baronboutique.com/womens-long-black-leather-coat/)**, which is fitted on princess seams in the same way.
 
-### How long does it take?
+### Can I change details such as the buttons or pockets?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+Yes. Describe it in the comment box of the measurement form, or email us with your order number. Fewer buttons, a belt or straight pockets are all possible.
 
-### Can I change details, such as the length?
+### Can I see the worsted first?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7002005 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the trench coat take?
+
+The test coat in cotton is made in 3 to 4 weeks and arrives 5 to 10 days after dispatch. Then the wool coat is made in 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 
-Dry clean only, and not often. Hang it on a wide hanger with room for the skirt.
+Dry clean only, and not often. Hang it on a wide hanger with room for the skirt so the flare keeps its fall.
 
 ## Categories
 

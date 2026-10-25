@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-light-blue-egyptian-cotton-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Egyptian Cotton Dress Shirts
@@ -126,7 +126,7 @@ Full Spec
 | Collar | Button-down classic collar |
 | Placket | French front placket |
 | Cuffs | Convertible two-button barrel or French cuff |
-| Buttons | Hand-stitched white horn buttons |
+| Buttons | Hand-stitched buttons |
 | Seams | Flat-felled seams throughout |
 | Yoke | One-piece shoulder yoke |
 | Back | One-piece back with centerfold |

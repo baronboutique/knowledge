@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Long Grey Wool Herringbone Overcoat, Made to Your Length"
-description: "A long wool herringbone overcoat in Super 110s cloth, cut to your measurements in the length you choose."
+description: "A long wool herringbone overcoat in 100% Pure New Wool Tweed 400-450 grams per meter cloth, cut to your measurements in the length you choose."
 resource: https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/
 tags: [men, topcoat, overcoat, wool, herringbone, light-gray, winter-coat, bespoke, made-to-order]
 sources:
@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-24
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-08-13T13:20:11Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: human:baron-boutique, at: 2026-10-24T17:50:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-25T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-25T03:00:04Z }
 ---
 
 # Long Grey Wool Herringbone Overcoat, Made to Your Length
@@ -25,24 +25,24 @@ generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
 **SKU:** 1801003  
 **URL:** https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/  
 **Type:** bespoke (made to order)  
-**Price:** USD 699.00 (verify current price on product page)  
+**Price:** USD 775.00 (verify current price on product page)  
 
 Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Medium Grey Herringbone Wool (TC402). Total 8 options available: Coffee Brown Herringbone Wool (TC4064), Dark Grey Herringbone Wool (TC403), Light Brown Herringbone Wool (TC4016), Light Camel Herringbone Wool (TC4038), Light Grey Herringbone Wool (TC202), Medium Grey Herringbone Wool (TC402), Petrol Blue Herringbone Wool (TC404), Petrol Green Herringbone Wool (TC4046)
-- **Lining:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Fabric:** Medium Grey Herringbone. Total 11 options available: Bright Blue Herringbone, Burnt Red Herringbone, Denim Blue Herringbone, Light Grey Herringbone, Lime Green Herringbone, Medium Grey Herringbone, Moss Green Herringbone, Ocean Blue Herringbone, Olive Green Herringbone, Salsa Red Herringbone, Slate Blue Herringbone
+- **Lining:** Black Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
-A long wool herringbone overcoat in Super 110s cloth, cut to your measurements in the length you choose. The herringbone weave carries a visual depth that a flat solid cannot, which is what makes a quiet coat read as a statement coat in daylight rather than only under evening light. Full canvas front, fly front closure, hand-set armholes. Available in eight herringbone colors, and your commission begins with a free fitting toile.
+A long wool herringbone overcoat in 100% Pure New Wool Tweed 400-450 grams per meter cloth, cut to your measurements in the length you choose. The herringbone weave carries a visual depth that a flat solid cannot, which is what makes a quiet coat read as a statement coat in daylight rather than only under evening light. Four button with fly front closure, hand-set armholes. Available in vibrant and neutral herringbone colors, and your commission begins with a free fitting toile.
 
 ## Form & Foundation
 
-This is the definitive wool herringbone topcoat, a cornerstone of the sophisticated winter wardrobe. Commissioned in fine Super 110s wool, its classic V-shaped herringbone weave creates subtle visual depth and texture while retaining the understated character of a traditional tailored coat.
+This is the definitive wool herringbone topcoat, a cornerstone of the sophisticated winter wardrobe. Commissioned in finest 100% Pure New Wool Tweed 400-450 grams per meter, its classic V-shaped herringbone weave creates subtle visual depth and texture while retaining the understated character of a traditional tailored coat.
 
-Beneath the surface, a full, hand-basted canvas front gives the coat its architectural drape and structured silhouette. A clean fly-front closure preserves an uninterrupted, austere line, complemented by hand-carved horn buttons that add a quiet note of natural distinction. The armholes are set by hand for a closer, more refined fit and greater freedom of movement.
+Beneath the surface, canvas front gives the coat its architectural drape and structured silhouette. A clean fly-front closure preserves an uninterrupted, austere line, complemented by hand stitched buttons that add a quiet note of natural distinction. The armholes are set by hand for a closer, more refined fit and greater freedom of movement.
 
 ## Choose Your Length
 
@@ -56,17 +56,17 @@ Dry clean.
 
 ### Wool Herringbone Overcoat Features
 
-- tailored from Super 110s’ 100% wool
+- tailored from finest 100% Pure New Wool Tweed
 - hand-made by Baron Boutique’s master tailors
 - single-breasted closure
-- hand-basted full canvas front
+- hand stitched canvas front
 - four-button fly front closure
-- handmade 22 mm black horn buttons
+- 22 mm black buttons hand stitched
 - hand-stitched shoulder pads
 - medium width notch lapel (2.75″ – 3.25″)
 - hand pick-stitching around the collar, lapel, and pockets
 - 1 left lapel buttonhole
-- hand-made buttonholes
+- hand-finished buttonholes
 - horizontal hip piped pockets with flap
 - chest welt pocket
 - fully lined in acetate
@@ -76,8 +76,7 @@ Dry clean.
 - straight bottom
 - 4 buttons vented sleeve cuff
 - kissing sleeve button stance
-- sleeves have handmade 15 mm black horn buttons
-- hand-stitched and reinforced coat buttons
+- sleeves have hand stitched 15 mm black buttons
 
 ## Categories
 

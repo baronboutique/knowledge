@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-featherlight-cashmere-scarf/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:24:46Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Featherlight Cashmere Scarf for Travel, Weddings & Events
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-A full-size cashmere shawl at 40 × 80 inches that weighs 70 grams — about 34 grams per square meter, roughly a fifth the weight of cotton t-shirt jersey. Light enough to sit under a jacket collar without bulk, large enough to wear open across the shoulders. Handwoven over five days in our Kathmandu workshop. Fiber: 100% Grade A Himalayan cashmere, 14–16 microns, 35–55mm staple Yarn count: 200/2 — two ultra-fine singles twisted together Weight: 70 g (2.5 oz) · approx. 34 g/m² Size: 40″ × 80″ (1m × 2m), plus 1″ eyelash fringe Edge: natural live edge, hand-knotted fringe Color: 80+ shades, custom color on request Dye: azo-free Made: handwoven in Kathmandu, five days per piece
+A full-size cashmere shawl at 40 × 80 inches that weighs 70 grams: about 34 grams per square meter, roughly a fifth the weight of cotton t-shirt jersey. Light enough to sit under a jacket collar without bulk, large enough to wear open across the shoulders. Handwoven over five days in our Kathmandu workshop. Fiber: 100% Grade A Himalayan cashmere, 14–16 microns, 35–55mm staple Yarn count: 200/2, two ultra-fine singles twisted together Weight: 70 g (2.5 oz) · approx. 34 g/m² Size: 40″ × 80″ (1m × 2m), plus 1″ eyelash fringe Edge: natural live edge, hand-knotted fringe Color: a wide range of shades, custom color on request Dye: azo-free Made: handwoven in Kathmandu, five days per piece
 
 ## Summary
 
@@ -51,7 +51,7 @@ That number is the whole product. It is why the featherlight scarf folds into a 
 
 | Specification | Technical Detail | What It Means for You |
 | --- | --- | --- |
-| **Yarn Count** | 200/2 | Two ultra-fine singles twisted together. The twist is what gives a thread this fine enough strength to survive weaving — a single unplied yarn at this fineness would break under loom tension. |
+| **Yarn Count** | 200/2 | Two ultra-fine singles twisted together. The twist is what gives a thread this fine enough strength to survive weaving: a single unplied yarn at this fineness would break under loom tension. |
 | **Fiber Fine-ness** | 14–16 microns | Below roughly 19 microns a fiber stops being felt as prickle against the skin. Above 22 microns most people register it as scratchy. This sits well clear of both. |
 | **Staple Length** | 35–55mm | Long fibers stay anchored in the yarn instead of working loose and tangling, which is what causes pilling. It is why a cloth this light does not degrade the way lightweight cashmere usually does. |
 | **Total Weight** | 2.5 oz (70g) | Light enough to fold into a coat pocket or a handbag and forget about until you need it. |
@@ -63,7 +63,7 @@ Air between the threads is what makes 34 grams per square meter possible. A dens
 
 ## Seventy Grams, in One Hand
 
-This is the whole scarf — 40 by 80 inches of cashmere, folded. Two square meters of cloth that fits in a palm is what 34 grams per square meter looks like.
+This is the whole scarf: 40 by 80 inches of cashmere, folded. Two square meters of cloth that fits in a palm is what 34 grams per square meter looks like.
 
 ---
 
@@ -75,21 +75,21 @@ This is the whole scarf — 40 by 80 inches of cashmere, folded. Two square mete
 | **Fringe** | 1″ eyelash, hand-knotted | Knotted by hand at both ends rather than cut and sealed. Machine-serged ends are the fastest way to spot a scarf cut from a mill-woven roll. |
 | **Edge** | Natural live edge | The selvedge formed as the weft turns at the edge of the loom, left intact rather than trimmed and overlocked. |
 | **Weave** | Open plain weave | Deliberately airy. Cashmere insulates by trapping air rather than by mass, so an open structure gives warmth without weight. |
-| **Color** | 80+ shades | Custom colors matched on request, including to a Pantone reference, from over 350 hand-dyed shades. |
+| **Color** | A wide range of shades | Custom colors matched on request, including to a Pantone reference, from over 350 hand-dyed shades. |
 | **Dye** | Azo-free | Dyed before weaving rather than after, so color runs through the yarn instead of sitting on the surface. |
 | **Production** | 5 days on the loom | Handwoven one piece at a time in our Kathmandu workshop, made to order rather than pulled from a shelf. |
 
 ## It Goes in a Pocket
 
-Not a bag, a pocket. This is the practical reason people carry it and leave heavier wraps at home — there is no decision to make about whether to bring it.
+Not a bag, a pocket. This is the practical reason people carry it and leave heavier wraps at home: there is no decision to make about whether to bring it.
 
 ---
 
 ### One Scarf. Every Season.
 
-We have made bespoke tailoring for twenty-five years, and how a scarf behaves under a jacket collar is a tailoring question before it is a cashmere one. Seventy grams adds warmth at the neck without adding a fold of bulk under a lapel — the difference between a scarf that works with a tailored coat and one that fights it.
+We have made bespoke tailoring for twenty-five years, and how a scarf behaves under a jacket collar is a tailoring question before it is a cashmere one. Seventy grams adds warmth at the neck without adding a fold of bulk under a lapel: the difference between a scarf that works with a tailored coat and one that fights it.
 
-The same weight is what makes it practical on a flight, in an over-cooled office, at a summer wedding, or folded into a bag on the chance the evening turns. It is not a winter scarf, and we would not sell it as one — for genuine cold our heavier handwoven shawls or hand-felted wraps will serve you better.
+The same weight is what makes it practical on a flight, in an over-cooled office, at a summer wedding, or folded into a bag on the chance the evening turns. It is not a winter scarf, and we would not sell it as one: for genuine cold our heavier handwoven shawls or hand-felted wraps will serve you better.
 
 ## Made for Air-Conditioned Places
 
@@ -99,11 +99,11 @@ Cabins, offices and restaurants are cold in a way the weather outside does not p
 
 ## How to Style Your 40″ × 80″ Wrap
 
-Three ways it is actually worn, all of them possible because of the same thing — 40 inches of width at 70 grams. A fourth is worth mentioning: two square meters of cashmere covers you on a flight or during a nap, which is what people mean when they say they never travel without it.
+Three ways it is actually worn, all of them possible because of the same thing: 40 inches of width at 70 grams. A fourth is worth mentioning: two square meters of cashmere covers you on a flight or during a nap, which is what people mean when they say they never travel without it.
 
 #### Open Across the Shoulders
 
-Full width, worn as a shawl over a dress or a jacket. This is where the 40-inch width earns itself — a narrower scarf simply cannot do it. Held to the light the open weave is visible, which is the same structure that keeps the weight down.
+Full width, worn as a shawl over a dress or a jacket. This is where the 40-inch width earns itself: a narrower scarf simply cannot do it. Held to the light the open weave is visible, which is the same structure that keeps the weight down.
 
 #### Looped at the Neck
 
@@ -115,13 +115,13 @@ Draped over one shoulder and under the opposite arm, the traditional way to wear
 
 ## Looped Once, and Still Long
 
-Eighty inches is enough to loop at the neck and still hang to the knee. You can see the weave through the cloth in the light — that openness is where the weight saving comes from.
+Eighty inches is enough to loop at the neck and still hang to the knee. You can see the weave through the cloth in the light: that openness is where the weight saving comes from.
 
 ---
 
 ## Held Open, the Full Width
 
-Forty inches wide is what makes it a shawl rather than a long scarf. Held to the light the open weave is plainly visible — the same structure that lets two square meters weigh 70 grams.
+Forty inches wide is what makes it a shawl rather than a long scarf. Held to the light the open weave is plainly visible: the same structure that lets two square meters weigh 70 grams.
 
 ---
 
@@ -133,7 +133,7 @@ The weight suits a summer or evening wedding, where a heavier wrap is unwearable
 
 ## Pairs With Tailoring
 
-Suits, dresses, coats and knitwear. The lack of bulk is what lets it sit under a lapel without disturbing the line of a tailored shoulder — a scarf that works with a jacket rather than against it.
+Suits, dresses, coats and knitwear. The lack of bulk is what lets it sit under a lapel without disturbing the line of a tailored shoulder: a scarf that works with a jacket rather than against it.
 
 ---
 
@@ -141,7 +141,7 @@ Suits, dresses, coats and knitwear. The lack of bulk is what lets it sit under a
 
 Hand-spun yarn varies slightly in thickness along its length. At 34 grams per square meter there is no margin to absorb that variation, so the weaver compensates by feel, adjusting beat and tension row by row. A power loom holds one fixed tension and snaps yarn this fine, which is why mill-made lightweight cashmere is spun coarser to survive the machine.
 
-Every piece is individually crafted on wooden handlooms in our Kathmandu workshop. Our master weavers preserve centuries-old Himalayan textile traditions to bring you slow, authentic luxury.
+Every piece is individually crafted on wooden handlooms in our Kathmandu workshop. Our master weavers preserve centuries-old Himalayan textile traditions to bring you slow, authentic craft.
 
 Each piece takes about five days on a traditional handloom in our Kathmandu workshop. We have worked with the same workshop for twenty-five years, and every garment is made by a human tailor whose name we know.
 
@@ -163,15 +163,15 @@ Each piece takes about five days on a traditional handloom in our Kathmandu work
 
 ---
 
-## Featherlight Cashmere Scarf — Questions Answered
+## Featherlight Cashmere Scarf: Questions Answered
 
 ### How can a full-size cashmere scarf weigh only 70 grams?
 
-Three specifications, working together. The fiber measures 14 to 16 microns, fine enough to spin very thin. The yarn is spun to a 200/2 count — two ultra-fine singles twisted together, where the twist supplies the strength a thread that fine would otherwise lack. And the weave is deliberately open, a gossamer structure with air between the threads rather than a dense cloth. The result is roughly 34 grams per square meter across 40 by 80 inches. For comparison, cotton t-shirt jersey usually runs 150 to 180 grams per square meter.
+Three specifications, working together. The fiber measures 14 to 16 microns, fine enough to spin very thin. The yarn is spun to a 200/2 count: two ultra-fine singles twisted together, where the twist supplies the strength a thread that fine would otherwise lack. And the weave is deliberately open, a gossamer structure with air between the threads rather than a dense cloth. The result is roughly 34 grams per square meter across 40 by 80 inches. For comparison, cotton t-shirt jersey usually runs 150 to 180 grams per square meter.
 
 ### How small does it fold down?
 
-Small enough to sit flat in one open palm, and small enough to slip into a trouser or coat pocket rather than needing a bag. That is the whole 40 by 80 inch scarf folded, not a corner of it. The photographs above are not staged with a smaller sample — a fine open weave at 70 grams simply compresses to almost nothing, which is why people carry this piece when they would leave a heavier wrap at home.
+Small enough to sit flat in one open palm, and small enough to slip into a trouser or coat pocket rather than needing a bag. That is the whole 40 by 80 inch scarf folded, not a corner of it. The photographs above are not staged with a smaller sample: a fine open weave at 70 grams simply compresses to almost nothing, which is why people carry this piece when they would leave a heavier wrap at home.
 
 ### Is a scarf this light actually warm?
 
@@ -179,23 +179,23 @@ Warmer than its weight suggests, but it is not a winter scarf and we would not s
 
 ### What does a 200/2 yarn count mean?
 
-The first number describes how fine the spun yarn is — the higher it is, the thinner the thread. The second number is how many of those threads are twisted together. So 200/2 is two very fine singles plied into one yarn. The twist matters: a single unplied thread at this fineness would break under loom tension, which is why very light cashmere is either plied like this or spun coarser to survive the process. It is also why the finished cloth resists pulling apart despite weighing almost nothing.
+The first number describes how fine the spun yarn is: the higher it is, the thinner the thread. The second number is how many of those threads are twisted together. So 200/2 is two very fine singles plied into one yarn. The twist matters: a single unplied thread at this fineness would break under loom tension, which is why very light cashmere is either plied like this or spun coarser to survive the process. It is also why the finished cloth resists pulling apart despite weighing almost nothing.
 
 ### Will a cloth this fine pill or snag?
 
-Less than heavier cashmere, which surprises people. Pilling is caused by short fibers working loose from the yarn and tangling — it is a function of staple length, not of weight. These fibers run 35 to 55mm, long enough to stay anchored. What a fine open weave is more vulnerable to is snagging on rough jewelry, watch clasps or handbag hardware, so take reasonable care around those. Light surface pilling in the first few wears is loose fiber shedding and stops; remove it with a cashmere comb, never a razor.
+Less than heavier cashmere, which surprises people. Pilling is caused by short fibers working loose from the yarn and tangling: it is a function of staple length, not of weight. These fibers run 35 to 55mm, long enough to stay anchored. What a fine open weave is more vulnerable to is snagging on rough jewelry, watch clasps or handbag hardware, so take reasonable care around those. Light surface pilling in the first few wears is loose fiber shedding and stops; remove it with a cashmere comb, never a razor.
 
 ### Can you hand wash a featherlight cashmere scarf, or is it dry-clean only?
 
-Hand wash it — it is not dry-clean only, and hand washing is the better method. Use cool to lukewarm water with a wool or cashmere shampoo, do not wring, press the water out in a towel and dry flat in shade. Cashmere genuinely improves with washing as the fibers bloom and the handle softens. Dry cleaning solvents strip the natural lanolin that keeps cashmere supple, which is why frequently dry-cleaned pieces begin to feel papery over time.
+Hand wash it: it is not dry-clean only, and hand washing is the better method. Use cool to lukewarm water with a wool or cashmere shampoo, do not wring, press the water out in a towel and dry flat in shade. Cashmere genuinely improves with washing as the fibers bloom and the handle softens. Dry cleaning solvents strip the natural lanolin that keeps cashmere supple, which is why frequently dry-cleaned pieces begin to feel papery over time.
 
 ### Is it big enough to use as a shawl or a travel blanket?
 
-Yes to both. At 40 by 80 inches it is full shawl width, worn open across the shoulders or wrapped across the body, and it is long enough to use as a light blanket on a flight or for a nap. That combination — full coverage at 70 grams — is the reason people carry it when they would not carry a heavier wrap. It folds small enough to sit in a coat pocket or a handbag without taking up meaningful space.
+Yes to both. At 40 by 80 inches it is full shawl width, worn open across the shoulders or wrapped across the body, and it is long enough to use as a light blanket on a flight or for a nap. That combination, full coverage at 70 grams, is the reason people carry it when they would not carry a heavier wrap. It folds small enough to sit in a coat pocket or a handbag without taking up meaningful space.
 
 ### Can it be monogrammed?
 
-Yes, and a plain-woven solid piece is the easiest kind to embroider well, because there is no pattern for the thread to compete with. We embroider single pieces as well as sets — initials, a name, a date, or your own logo. Email the initials or your artwork to contact@baronboutique.com and we will come back with a quote and a stitch proof before anything is sewn. Note that a lighter thread is used on cloth this fine, so the lettering sits flat rather than proud of the surface.
+Yes, and a plain-woven solid piece is the easiest kind to embroider well, because there is no pattern for the thread to compete with. We embroider single pieces as well as sets: initials, a name, a date, or your own logo. Email the initials or your artwork to contact@baronboutique.com and we will come back with a quote and a stitch proof before anything is sewn. Note that a lighter thread is used on cloth this fine, so the lettering sits flat rather than proud of the surface.
 
 ## Customer Reviews
 

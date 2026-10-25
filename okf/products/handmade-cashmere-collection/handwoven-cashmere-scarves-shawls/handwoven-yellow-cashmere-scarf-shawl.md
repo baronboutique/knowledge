@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/handwoven-yellow-cashmere-scarf-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:21:43Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Handwoven Yellow Cashmere Scarf Shawl
@@ -103,7 +103,7 @@ Other Colors
 
 ## Not Sure About Yellow?
 
-If you want the same scarf in a quieter color, see our **[Black cashmere shawl](https://baronboutique.com/handwoven-black-cashmere-scarf-shawl/)**, **[Ivory cashmere shawl](https://baronboutique.com/handwoven-ivory-cashmere-scarf-shawl/)** or **[Aquamarine Blue cashmere shawl](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/)**. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in more than 80 colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
+If you want the same scarf in a quieter color, see our **[Black cashmere shawl](https://baronboutique.com/handwoven-black-cashmere-scarf-shawl/)**, **[Ivory cashmere shawl](https://baronboutique.com/handwoven-ivory-cashmere-scarf-shawl/)** or **[Aquamarine Blue cashmere shawl](https://baronboutique.com/aquamarine-blue-handwoven-cashmere-scarf-shawl/)**. Our **[Featherlight Cashmere Scarf](https://baronboutique.com/womens-featherlight-cashmere-scarf/)** is woven to a similar weight in a wide range of colors, or browse all **[handwoven cashmere scarves and shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/)**.
 
 ---
 

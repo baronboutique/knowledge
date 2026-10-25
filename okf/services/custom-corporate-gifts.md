@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/custom-corporate-gifts/
     title: "Custom Corporate Gifts"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-08
+    last_modified: 2026-10-19
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-19T08:36:49Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-19T08:36:49Z }
 ---
 
 Baron Boutique produces branded corporate cashmere gifts to order: scarves, shawls, wraps and pashminas, hand-knitted beanies, gloves and socks, throws, and boxed gift sets. Grade A cashmere is handwoven and hand-knitted in Nepal, Pantone color-matched from over 350 hand-dyed colors using Azo-free dyes, and branded with an embroidered logo, a custom woven label, or a pattern woven into the cloth. A concept illustration and mockup are approved before anything is produced. Minimum order is 6 pieces. Production takes 3 to 4 weeks at 6 pieces and 45 to 50 days up to 200 pieces, with larger programs agreed individually. Delivered gift-ready worldwide with tracking, typically 4 to 6 days in transit. Quotes are returned within 24 hours.

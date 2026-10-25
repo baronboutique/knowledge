@@ -58,9 +58,9 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 
 ## Products
 
-- [The Dupioni Silk Blazer](womens-dupioni-silk-jacket.md)
-- [The Modern Bride's Wedding Suit](womens-tan-wedding-suit.md)
-- [The Wool & Silk Blend Suit](boutique-tailored-silk-and-wool-suit.md)
+- [Women's Dupioni Silk Blazer, Inset Peak Lapels](womens-dupioni-silk-jacket.md)
+- [Women's Tan Wedding Suit in Tropical Wool, Single Button](womens-tan-wedding-suit.md)
+- [Women's Wool and Silk Blend Suit, Three-Button Jacket](boutique-tailored-silk-and-wool-suit.md)
 
 ## Related
 

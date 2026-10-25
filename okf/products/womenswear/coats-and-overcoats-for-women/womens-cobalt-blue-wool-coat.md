@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-cobalt-blue-wool-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-14T10:10:21Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Cobalt Blue Wool Coat
@@ -166,43 +166,51 @@ Questions & Answers
 
 ### What color is cobalt blue?
 
-Cobalt is a bright, saturated blue, brighter than royal blue and far lighter than navy. It stays clearly blue in low light.
+Cobalt is a bright, saturated blue, brighter than royal blue and far lighter than navy. It stays clearly blue in low light, which is why a cobalt coat still reads as a color on a gray winter afternoon.
 
 ### Is this a royal blue wool coat?
 
-It is cobalt, which is close to royal blue but brighter. If you want royal blue, it is the nearest Melton we make.
+It is cobalt, which is close to royal blue but brighter and a little more electric. If you are looking for a royal blue wool coat for women, cobalt is the nearest Melton we make. Screens vary, so a sample is the surest way to judge it.
 
 ### How warm is a Melton wool coat?
 
-Very warm for its weight, because Melton is milled until the surface closes and stops wind. Ours is about 450 to 500 gsm, a true winter coat weight.
+Very warm for its weight, because Melton is milled until the surface closes and stops wind. Ours is about 450 to 500 gsm, a true winter coat weight, and the satin lining adds a second layer. With a sweater underneath it handles a cold city winter.
 
 ### What do you wear with a cobalt blue coat?
 
-Black, white, gray and camel all work. Black trousers and a black or white top let the cobalt carry the outfit.
+Black, white, gray and camel all work with it. Black trousers and a black or white top let the cobalt carry the outfit, and camel or tan boots soften it for the weekend.
+
+### Is it a coat or a jacket?
+
+A coat. It is cut in winter-weight Melton and falls to mid-thigh, so it covers a blazer underneath, while a jacket would stop at the hip. If you want it shorter or longer, enter the length on the measurement form.
 
 ### How should the relaxed fit feel?
 
-It should close easily over a sweater without pulling across the back. You set the ease in the test coat: slim, standard or relaxed.
+It should close easily over a sweater without pulling across the back or the bust. You set the ease in the selector and check it in the test coat, wearing the clothes you will wear under it.
 
 ### Does it come in other colors?
 
-Yes, the same coat comes in other Melton colors, such as navy, camel, charcoal, teal and turquoise, each with a satin lining you choose in the selector.
+Yes. The same coat comes in other Melton colors in the selector, such as navy, camel, charcoal, teal and turquoise, each with a satin lining you choose.
 
-### How does the free test coat work?
+### Can I add a belt or change the button?
 
-We make the coat in cotton to your measurements, you try it at home and tell us any change, and then we cut the Melton. The test coat is yours to keep.
+Yes. Write the change in the comment box of the measurement form, or email us with your order number. A belt, a second button or patch pockets can all be added.
 
-### How long does it take?
+### How do I measure without a tailor nearby?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+A helper makes it easier. Alone, measure bust, natural waist and hips, then a coat that fits you well; we can talk you through it by video call or WhatsApp.
 
-### Can I change details, such as the length?
+### Can I see the cobalt before I order?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Yes. Bright colors vary most on screens, so our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 3400001 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the cobalt coat take?
+
+The test coat in cotton takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. After you approve the fit, the Melton coat takes another 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for it?
 
-Dry clean only, and not often. Brush the Melton after wearing and hang it on a shaped hanger.
+Dry clean only, and rarely. Brush the Melton after wearing and hang it on a shaped hanger; keep a bright color out of long direct sunlight.
 
 ## Categories
 

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/12th-doctors-navy-velvet-coat-for-women/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's 12th Doctor Navy Velvet Coat, Burgundy Lining
@@ -167,43 +167,47 @@ Questions & Answers
 
 ### Is this the 12th Doctor’s coat from Doctor Who?
 
-No, it is our own screen-inspired women’s version, with inspiration taken from the Twelfth Doctor’s navy velvet coat. It is not official or licensed.
+No, it is our own screen-inspired women’s version, with inspiration taken from the Twelfth Doctor’s navy velvet coat. It is not official or licensed. It is a replica cut to your measurements.
+
+### Which 12th Doctor velvet coat is this?
+
+The navy one, with a burgundy lining. The Twelfth Doctor also wore a burgundy velvet coat and a black velvet frock coat; see our **[burgundy velvet coat](https://baronboutique.com/12th-doctor-burgundy-velvet-coat-for-women/)** and **[black velvet frock coat](https://baronboutique.com/12th-doctor-black-velvet-frock-coat-for-women/)** for those.
 
 ### Why does fit matter more in velvet?
 
-Because velvet pile crushes wherever the coat is tight, leaving shiny marks that do not brush out. The free test coat finds tight spots before the velvet is cut.
+Because velvet pile crushes wherever the coat is tight, leaving shiny marks that do not brush out. The usual places are across the back, under the arms and around the button. The free test coat finds those tight spots before the velvet is cut.
 
 ### What color is the lining?
 
 Burgundy by default. Any other satin lining can be chosen in the selector.
 
-### Is there a 12th Doctor velvet coat in red?
-
-Yes, our women’s 12th Doctor burgundy velvet coat is the same cut in burgundy velvet with a red lining.
-
 ### Are the cuff buttons real?
 
-Yes, all five buttons on each cuff work and can be undone.
+Yes. All five buttons on each cuff work and can be undone.
 
 ### Is there room for a sonic prop?
 
-Yes, there are two inside breast pockets, deep enough for one.
+Yes. There are two inside breast pockets, deep enough for one.
 
-### How does the free test coat work?
+### Can I wear a navy velvet coat outside a convention?
 
-We make the coat in cotton to your measurements, you try it at home and send us photos or notes, and then we cut the velvet. The test coat is yours to keep.
+Yes. Navy velvet over a white shirt and dark jeans, or over a black dress, is an evening coat in its own right. Nothing on the outside says costume.
 
-### How long does it take?
+### What is the velvet made of?
 
-The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The final coat takes another 3 to 4 weeks and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+A poly-cotton velvet: the cotton gives the soft pile and the polyester keeps the color and strength. Other velvet colors are in the selector.
 
-### Can I change details, such as the length?
+### Can I see the velvet first?
 
-Yes, enter the length you want on the measurement form and write any other change in its comment box, such as sleeve length or pocket style. For anything else, use the Ask a question about this piece form below Add to Cart.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 7000013 and the colors you want to compare; the courier fee is credited toward your first order.
+
+### How long will the velvet coat take?
+
+The test coat, in cotton, is made in 3 to 4 weeks and is delivered 5 to 10 days after dispatch. The velvet coat then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
 
 ### How do I care for velvet?
 
-Dry clean only, and not often. Hang it with space around it so the pile is not crushed, and steam rather than press.
+Dry clean only, and not often. Hang it with space around it so the pile is not crushed, and steam it from a few inches away rather than pressing.
 
 ## Customer Reviews
 

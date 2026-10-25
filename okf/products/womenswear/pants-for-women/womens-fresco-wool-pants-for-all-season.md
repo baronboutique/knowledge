@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-fresco-wool-pants-for-all-season/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Tapered Dress Pants in Fresco Wool, Ankle Length
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Women's tapered dress pants made to your measurements in Super 120s fresco wool, a crisp, high-twist cloth that breathes and shakes off creases. Mid-rise, flat front, narrowing from the knee to an ankle-length hem. A free test pair comes first, so you set the taper and length before your wool is cut. 13 colors, $239.
+Women's tapered dress pants made to your measurements in Super 120s fresco wool, a crisp, high-twist cloth that breathes and shakes off creases. Mid-rise, flat front, narrowing from the knee to an ankle-length hem. A free test pair comes first, so you set the taper and length before your wool is cut. Colors in the selector, $239.
 
 Tapered Dress Pants
 
@@ -43,7 +43,7 @@ Tapered Dress Pants
 
 A tapered trouser is only as sharp as its cloth. In a soft fabric the narrow leg collapses into wrinkles at the knee and ankle by lunchtime. In fresco, a crisp, springy wool woven from tightly twisted yarns, the line from hip to ankle holds through a day of sitting, commuting and travel.
 
-These are tapered dress pants for women, modern tapered dress trousers in fresco wool with a mid rise, mid rise pants that narrow to an ankle-length hem. Fresco wool trousers like these suit female professionals who travel and sit a lot, because fresco shakes off creases, and they are shown here in gray, one of 14 colors. Ladies’ dress pants should still hold their line by evening, and these do.
+These are tapered dress pants for women, modern tapered dress trousers in fresco wool with a mid rise, mid rise pants that narrow to an ankle-length hem. Fresco wool trousers like these suit female professionals who travel and sit a lot, because fresco shakes off creases, and they are shown here in gray, one of the colors in the selector. Ladies’ dress pants should still hold their line by evening, and these do.
 
 These are made to your measurements in Super 120s fresco wool, with a mid-rise, a flat front and a leg that narrows gently from the knee to an ankle-length hem. Before we cut your wool, we send you a free test pair, so you set the taper and the length on you.
 
@@ -51,7 +51,7 @@ Free test pair first
  Tapered to the ankle  
  Super 120s fresco wool  
  Mid-rise  
- 13 colors  
+ Colors in the selector  
  Made to your measurements
 
 ---
@@ -130,7 +130,7 @@ The Tapered Line
 
 ---
 
-13 Colors
+The Colors
 
 ## Fresco in Grays, Blues, Stripes and Warm Neutrals
 
@@ -150,7 +150,7 @@ Navy
 
 Blue
 
-Black With Grey Stripes
+Black With Gray Stripes
 
 Black With Self Stripes
 

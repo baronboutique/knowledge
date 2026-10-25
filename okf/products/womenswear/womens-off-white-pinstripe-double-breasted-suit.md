@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool"
-description: "A white pinstripe suit only looks sharp when it fits: on a pale cloth, every pull and fold shows in the stripes."
+description: "A white pinstripe suit only looks sharp when it fits: on a pale cloth, every pull shows in the stripes."
 resource: https://baronboutique.com/womens-off-white-pinstripe-double-breasted-suit/
 tags: [women, suit, wool, merino-wool, off-white, pinstripe, double-breasted, peak-lapel, canvas-front, wedding, workwear, bespoke, made-to-order]
 sources:
@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-off-white-pinstripe-double-breasted-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T17:12:39Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool
@@ -36,174 +36,165 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-A white pinstripe suit only looks sharp when it fits: on a pale cloth, every pull and fold shows in the stripes. This women's double-breasted suit is cut to your own measurements in cream Super 130s merino wool with a fine black pinstripe, a canvas front jacket with wide peak lapels, and wide-leg trousers. Choose from eight stripe options at the same price. Before we cut the wool, we send you a free test suit to try on at home, and it is yours to keep.
+A white pinstripe suit only looks sharp when it fits: on a pale cloth, every pull shows in the stripes. This women's double-breasted suit is cut to your measurements in cream Super 130s merino wool with a fine black pinstripe, wide peak lapels and wide-leg trousers, and tried first as a free cotton test suit. 100% merino wool, Super 130s, cream with black pinstripe Double-breasted, wide peak lapels Wide-leg trousers, straight leg on request Canvas front, black horn buttons Free test suit in cotton, yours to keep
 
-## A White Pinstripe Suit Cut to Your Shoulders, Waist and Hips
+The Suit
 
-A white pinstripe suit hides nothing. On a dark suit, a little pulling across the bust or a sleeve that is slightly long disappears into the cloth. On a pale cloth with a vertical stripe, every line shows. If the jacket strains, the stripes bend. If the trouser is too tight at the seat, the stripes pull sideways. That is why so many women try a white pinstripe suit off the rack and put it back.
+## A Women’s White Pinstripe Suit, Double-Breasted and Cut to Fit
 
-This suit starts from your measurements. The double-breasted jacket is cut to your shoulders, bust and waist, so the stripes run straight from the shoulder to the hem. The wide-leg trousers are cut to your waist, hips, rise and length, so they fall in one clean line to the floor. When a pinstripe suit fits, the stripes make you look taller. That is the whole point of wearing one.
+A white pinstripe suit is the boldest way to wear stripes, and the least forgiving. On a pale cloth every pull and fold casts a shadow, and on a double-breasted jacket any tension across the bust bends the stripes into a curve. Most white pinstripe suits for women are ready-made, so the stripes rarely sit straight on a real body.
 
-The cloth is 100% Super 130s merino wool: a cream ground with a fine black pinstripe. It is smooth and fine, with enough body to hold the shape of a double-breasted jacket and let a wide trouser leg hang without clinging. The jacket has a canvas front, wide peak lapels with handpick stitching, hand-stitched armholes and black horn buttons sewn on by hand.
+This women’s white pinstripe double-breasted suit is cut to your measurements in a cream Super 130s merino wool with a fine black pinstripe: a jacket with wide peak lapels over wide-leg trousers. You try a free cotton test suit at home first, and the cream cloth is cut only when the fit is right.
 
-The suit also comes in seven other stripes at the same price, from black with a red stripe to light gray with a pink stripe. The details can move with you too: if you want a straight leg instead of a wide one, or any other style change, write it in the comment box on the measurement form.
-
-Super 130s merino wool  
- Cream with black pinstripe  
- 8 stripe options  
- Double-breasted, peak lapels  
+Cream merino wool  
+ Super 130s  
+ Double-breasted  
  Wide-leg trousers  
- Canvas front  
- Free test suit first  
- Made to your measurements
+ Free test suit
+
+**Price:** $739 for jacket and trousers **Cloth:** Super 130s, 100% merino wool, pinstripe **Lining:** jacket fully lined, lining chosen in the selector **Fit:** slim, standard or relaxed in the selector **Test suit:** free, yours to keep **Care:** dry clean
 
 ---
 
-## Why a Cream Ground Works Better Than Pure White
+Free Test Suit
 
-Most women searching for a white pinstripe suit are picturing this: a soft white that sits between ivory and cream, not the bright white of a shirt. We chose it for a practical reason. Pure white wool looks cold under office lighting and turns gray in photographs, while cream reads as white from across a room and stays warm and flattering against the skin up close.
+## A Double-Breasted Jacket Has Nowhere to Hide
 
-The black pinstripe gives the pale cloth structure. It sharpens the lapels, draws the eye up and down rather than across, and keeps the suit from looking bridal unless you want it to. Worn with black, it looks like business. Worn with gold jewelry and heels, it looks like a celebration.
+A double-breasted jacket overlaps across the front, so the bust, the waist and the button point all have to agree. The corrections we make most often on a women’s double-breasted suit are at the bust and across the back, and we keep the buttons close enough that the front never gapes. In wide-leg trousers, a smaller seat leaves folds that bend the stripes, and a fuller back hip pulls them sideways; both are fixed on the cotton test suit.
 
----
-
-## Free Test Suit: Settle the Fit Before We Cut the Wool
-
-A double-breasted jacket has less room for error than any other jacket. The front overlaps, so if the bust or waist is even slightly off, the buttons pull and the stripes twist. Wide-leg trousers need the rise and the seat right, or the leg swings wide in the wrong place. So before we cut your wool, we make the whole suit in cotton, to your measurements, and send it to you.
-
-Try it on with the shoes you plan to wear. Check where the shoulder seam sits, whether the front lies flat when buttoned, the sleeve length, the trouser rise and where the hem falls. Send us your notes and we correct the pattern before the final suit is cut. The test suit is yours to keep.
-
-Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
-
-Not sure how to measure yourself? Our [women’s body measuring guide](https://baronboutique.com/womens-body-measuring-guide/) walks through each measurement, and the [women’s suit fit guide](https://baronboutique.com/womens-suit-fit-guide/) shows what a correct fit looks like.
-
----
-
-## Three Ways to Wear a White Pinstripe Suit
-
-The Full Suit for Work
-
-Jacket buttoned, wide-leg trousers, a fine black knit or a white silk shell underneath, pointed heels or loafers. It stands apart from a room of navy and charcoal without breaking any dress code, which makes it a strong choice for presentations, interviews and client meetings.
-
-The Jacket on Its Own
-
-Worn open over black trousers or dark jeans and a plain top. The peak lapels and the stripe carry the outfit, and the jacket becomes the piece you reach for when you want to look put together with very little effort.
-
-For a Wedding or Celebration
-
-For a civil ceremony, an engagement party or a rehearsal dinner, as the bride or as a guest. Choose a white or cream lining, add gold jewelry and strappy heels, and the suit does the work a dress would. The cream ground photographs softly in daylight.
-
----
-
-## Who This Suit Is For
-
-The Woman Who Wants One Suit That Is Not Navy
-
-You own the dark suits already. You want the one people remember, in a color that still belongs at work, cut well enough that it looks intentional rather than loud.
-
-The Bride Who Would Rather Not Wear a Gown
-
-A cream suit is as bridal as ivory silk and far more wearable afterward. Cut to your measurements, it fits on the day, and the jacket and trousers can be worn again separately for years.
-
-The Woman Whose Jackets Never Button Properly
-
-Jackets that fit your shoulders pull at the bust, and jackets that fit your bust swim at the shoulders. A double-breasted jacket makes that worse, unless it is cut for your body from the start.
-
-The Woman With No Tailor Nearby
-
-You measure at home, the test suit comes to your door, and the fitting happens in your own mirror. We ship worldwide with tracking.
-
----
-
-## How Your White Pinstripe Suit Is Made
-
-Every step below exists for one reason: to get the shoulders, the closure and the trouser line right before the wool is cut.
+If the cleanest fix would change the style, such as an extra dart through the stripes, we explain the trade-off and you choose between the fit that follows your body exactly and the look in the photos exactly.
 
 1
 
-**Choose your stripe and lining, then enter your measurements**  
-Pick one of eight stripe options and a lining from 30+ lining options. Enter your measurements on this page. Use the comment box on the form for any style change.
+**Choose the stripe**  
+ Pick the stripe and lining in the selector, then your fit and measurements, with the trouser length for the shoes you will wear.
 
 2
 
-**We make your free test suit**  
-A complete cotton jacket and trousers are cut to your measurements on the same pattern your final suit will use, and sent to you.
+**A cotton suit is made first**  
+ The jacket and wide-leg trousers are cut in cotton to your measurements in 3 to 4 weeks and arrive 5 to 10 days after dispatch.
 
 3
 
-**You try it on and tell us what to change**  
-Check the shoulders, the buttoned front, the sleeves, the rise and the length. Send us your notes, however small.
+**Button it and stand straight**  
+ A double-breasted jacket is worn buttoned, so fasten both buttons and check that the front lies flat over the bust, that the lapels do not lift, and that the trousers fall straight from the hip.
 
 4
 
-**We cut your final suit**  
-Your notes go into the pattern. The suit is cut in Super 130s merino wool with a canvas front, hand-stitched armholes, hand-finished buttonholes and a hand-stitched blind hem on the trousers.
-
-5
-
-**Your suit ships worldwide**  
-The finished suit is sent by tracked shipping. The test suit stays with you.
-
-6
-
-**We answer if anything needs attention**  
-Write to us and a person who knows your order replies. Every garment is made by a tailor whose name we know.
-
-**Price:** $739, same for every stripe **Production time:** 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit **Delivery:** 5 to 10 days after dispatch **Care:** Dry clean only
+**The cream wool is cut**  
+ The stripes are matched at the seams, the suit takes 3 to 4 weeks to make and arrives 5 to 10 days after it ships. The cotton suit is yours to keep.
 
 ---
 
-## Full Specification
+Wearing White
 
-### The Jacket
+## Wearing a Cream Pinstripe Suit, Women Ask Most About These Things
 
-| Cloth | 100% Super 130s merino wool, plain cloth with pinstripe |
+| White or cream? | The cloth is a soft off white, closer to cream than snow white, which flatters more skin tones and photographs without glare. |
 | --- | --- |
-| Stripe options | Cream with black stripe, black with red stripe, black with white rope stripe, blue with white rope stripe, charcoal with white rope stripe, gray with white rope stripe, gray with dark blue stripe, light gray with pink stripe |
-| Construction | Canvas front |
-| Style | Double-breasted, four buttons with two to fasten |
-| Lapels | Wide peak lapels, 3.25 to 4.25 inches, handpick stitching on collar and lapels |
-| Front | Darted front, straight front hem |
-| Outer pockets | Piped hip pockets with flap, no chest pocket |
-| Interior pockets | Two |
-| Back | No vent |
-| Sleeve cuffs | Three buttons, vented, kissing buttons |
-| Armholes | Hand-stitched |
-| Buttonholes | Hand-finished buttonholes |
-| Buttons | Black horn buttons, stitched and reinforced by hand |
-| Lining | Fully lined in acetate, 30+ lining options |
-| Seam allowances | Ample, for future alteration |
+| Pinstripe or chalk stripe? | A fine black pinstripe, sharper and closer together than a chalk stripe; a wide pinstripe or bolder stripe is in the selector. |
+| Merino wool | Super 130s merino is smooth and drapes well over wide-leg trousers; it breathes, so the suit works from spring into autumn. |
+| Keeping it clean | Dry clean before stains set, store it in a breathable cotton bag and keep it away from denim, which can stain pale wool. |
 
-### The Trousers
+In our experience, cheap white suits fail where pale colors are least forgiving: thin cloth turns yellow and shows the lining, and a fused front can bubble after cleaning. A canvas front and a dense merino are what keep this cream tailored suit looking right for years.
 
-| Cloth | Matching Super 130s merino wool |
+Whether you call it a pin stripe suit, a pin striped suit or a white pinstriped suit, women mean the same fine vertical line. This one is a white striped suit, double-breasted for women, with black pinstripes: a white and black striped suit rather than a solid one. Pinstripes suit tall and petite women alike, and of all pinstripes, suits in cream are the boldest.
+
+As a cream tailored suit for women it is elegant and chic, and a woman who would otherwise choose a beige tailored suit gets more presence from the stripe. Women looking for a beige pinstripe suit find the cream the closest; it reads as an ivory pinstripe suit in some light. A beige pinstripe double breasted suit, a beige striped double breasted suit or a tan pinstripe double breasted suit is not in the selector.
+
+---
+
+The Cloths
+
+## The Stripes, Up Close
+
+These are close-up photos of the actual cloth. Choose your stripe in the selector; here are four of the options on offer, from the cream pinstripe in the photos to darker striped suits for women who want the same cut in a city color.
+
+Off White With Black Stripe
+
+The suit in the photos: an off white pinstripe suit with a fine black stripe.
+
+Black With Red Stripe
+
+A black pinstripe with a bold red line, for evening.
+
+Charcoal With White Stripe
+
+A charcoal suit with a white rope stripe, for the office.
+
+Gray With Navy Stripe
+
+Gray with a dark blue stripe: quieter, and easy to wear daily.
+
+---
+
+The Details
+
+## Peak Lapels, Four Buttons and Wide-Leg Trousers
+
+The jacket
+
+Wide peak lapels with hand pick-stitching and black horn buttons on the cream cloth.
+
+As a separate
+
+The cream pinstripe jacket worn with black trousers.
+
+Back
+
+A ventless back, so the stripes run unbroken from collar to hem.
+
+| Double-breasted, four buttons | Two to fasten and two set above them; the classic double-breasted women’s suit front. |
 | --- | --- |
-| Cut | Wide leg, flat front; straight leg on request |
-| Closure | Zip fly with hook closure |
-| Pockets | Slanted side pockets, no back pockets |
-| Belt loops | Yes |
-| Lining | Acetate-lined to the front knee; to the hem on request |
-| Waistband | Cotton-lined, with an inner grip to keep tops tucked in |
-| Hem | Hand-stitched blind hem |
-| Seam allowances | Ample, for future alteration |
+| Wide peak lapels | Three and a quarter to four and a quarter inches wide, with hand pick-stitching along the edges. |
+| Flap pockets, no chest pocket | A clean chest so the stripes run unbroken from the shoulder. |
+| Wide-leg trousers | Flat front, belt loops and a full leg that falls straight; a straight leg on request. |
+
+For the same idea in a single-breasted pant suit, see our **[women’s pinstripe suit](https://baronboutique.com/womens-pinstripe-pant-suit/)**; for a skirt, our **[pinstripe skirt suit](https://baronboutique.com/womens-skirt-suit-in-stripes/)**.
+
+---
+
+How to Wear It
+
+## A White Pinstripe Suit, Women’s Styling for Day and Evening
+
+| The full suit | With a black top or a white shirt and heels: a white tailored suit for women, elegant and chic enough for weddings, events and summer evenings. |
+| --- | --- |
+| The blazer alone | The white pinstripe blazer over black trousers or jeans, as in the photo; a white double-breasted blazer is the most useful fashion separate, and an off white tailored blazer for women looks elegant with almost anything. |
+| The trousers alone | Off white tailored trousers for women: wide-leg cream pinstripe trousers with a fine knit or a simple tee, an elegant off white outfit for a woman in summer. |
+| For a wedding | A cream pinstripe suit for women for a civil ceremony, or worn by the bride’s mother or a guest. |
+
+Women who search for a white suit with black stripes often want a fitted pinstripe suit; choose slim in the selector. A beige tailored suit for women in a plain cloth is quieter; this striped suit is meant to be noticed, so the fit matters more.
+
+Of women’s double breasted suits, white double breasted suits and pinstripe double breasted suits are the most elegant, and a double breasted blazer for women makes an elegant outfit on its own. A pinstripe outfit for women can be built around the jacket alone: the womens pinstripe blazer outfit with black trousers in the photo is the easiest. The jacket is double breasted; the pants are wide-leg, so the double breasted suit with white pants in the same cloth reads as one long, elegant line. A tailored pinstripe suit for women like this one can also be a striped pant suit for women at work in the darker stripes. With satin lapels it can become a white pinstripe tuxedo, or a pinstripe tuxedo in black; write it in the comment box.
+
+From a distance the cream has a faint pinstripe suit look. For a wider, bolder line, closer to a wide chalk stripe suit, choose a rope stripe in the selector, which gives the effect of a double breasted chalk stripe suit. A 3 piece pinstripe suit for women with a matching waistcoat can be asked about through the Ask a question about this piece form.
+
+---
+
+Full Spec
+
+## Women’s White Pinstripe Suit, Specification
+
+| Cloth | Super 130s, 100% merino wool, plain weave with pinstripe; stripe in the selector |
+| --- | --- |
+| Jacket front | Double-breasted, four buttons with two to fasten, straight front hem |
+| Lapels | Wide peak lapels 3.25 to 4.25 inches, hand pick-stitched collar and lapels |
+| Jacket build | Hand-basted canvas front, two front darts, hand-sewn armholes, hand-finished buttonholes, lined throughout |
+| Pockets | Piped hip pockets with flaps, no chest pocket, two interior pockets |
+| Back and cuffs | Ventless; three-button vented cuffs with kissing buttons |
+| Buttons | Black horn, hand-stitched and reinforced |
+| Trousers | Wide leg, flat front, zip fly, hook closure, slanted side pockets, no back pockets, belt loops |
+| Trouser finish | Front lined to the knee, or to the hem on request; cotton-lined grip waistband; hand-stitched blind hem |
+| Fit | Slim, standard or relaxed, then refined on the test suit |
+| Test suit | Free, cotton jacket and trousers, yours to keep |
+| Production | 3 to 4 weeks for the test suit, 3 to 4 weeks for the final suit |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
 | Care | Dry clean only |
 
 ---
 
-## Custom vs. Off the Rack
-
-| | Off the Rack | Baron Boutique |
-| --- | --- | --- |
-| Fit | Standard sizes, so the stripes bend where the jacket pulls | Cut to your measurements, so the stripes run straight |
-| Double-breasted front | Pulls at the bust or gapes at the waist | Lies flat when buttoned, because bust and waist are yours |
-| Trousers | One rise and length for every height | Your rise, seat and length |
-| Fit check | Returns or paid alterations | Free test suit confirms the fit before the wool is cut |
-| Cloth | Polyester blends or unlabeled wool | Super 130s merino wool |
-| Construction | Fused front that can bubble after cleaning | Canvas front that keeps its shape |
-| Buttonholes | Machine-made | Hand-finished buttonholes |
-| Future changes | Little seam allowance | Ample seam allowances for future alteration |
-
----
+About Baron
 
 ## About Baron Boutique
 
@@ -215,55 +206,61 @@ Our customers come back because the fit is right and we answer emails. Every gar
 
 ---
 
-## Questions About This White Pinstripe Suit
+Questions & Answers
 
-### Is this suit white, off-white or cream?
+## Questions About the Women’s White Pinstripe Suit
 
-The ground is a soft cream, which most people describe as off-white, with a fine black pinstripe. From a few steps away it reads as a white pinstripe suit. Up close it is warmer than pure white, which is more flattering against most skin tones and photographs better.
+### Is the suit white or cream?
 
-### Is a white pinstripe suit appropriate for work?
+Off white: a soft cream with a black stripe, as in the photos. A pure white would look harsher in daylight; cream is kinder to most skin tones.
 
-Yes, a white pinstripe suit is appropriate for most offices, as long as the fit is sharp and the rest of the outfit stays simple. The pinstripe is a traditional business pattern, so the suit reads as professional even in a pale color. Wear it with black or navy underneath and plain shoes for the most conservative settings.
+### How do I style a white pinstripe suit?
 
-### Can I wear a white pinstripe suit to my wedding?
+Keep everything else clean and simple so the stripe stays the focus: a plain white or pale blue shirt, a black fine knit or a camisole, and black or nude shoes. Avoid dark patterned tops, which make the look feel costume-like.
 
-Yes, a cream pinstripe suit works well for a civil ceremony, a small wedding or a rehearsal dinner, and it can be worn again afterward. Choose a white or cream lining for a bridal feel. Because the test suit comes first, order as early as you can so there is time for the fitting before your date.
+### What is the cloth?
 
-### What should I wear with a white pinstripe double-breasted suit?
+Super 130s, 100% merino wool with a woven stripe. It is smooth and firm enough to hold the double-breasted front.
 
-Keep what goes underneath simple: a fitted black or white knit, a silk shell or a plain bodysuit. Pointed heels, heeled mules or loafers work well with the wide-leg trousers. Let the stripe be the only pattern in the outfit, and match your metal jewelry to the occasion, silver for work and gold for evening.
+### Will the stripes line up?
 
-### How should a women’s double-breasted suit fit?
+Yes. They are matched at the side and back seams, and the test suit makes sure the double-breasted front does not pull them out of line.
 
-A women’s double-breasted jacket should lie flat across the bust when buttoned, with no pulling lines around the buttons, and the shoulder seam should end at your shoulder bone. The sleeve should reach the base of your thumb. Wide-leg trousers should sit smoothly over the seat and fall straight, with the hem just clearing the floor in the shoes you will wear.
+### How long should a double-breasted jacket be?
 
-### Will a cream suit show dirt easily?
+It should cover the seat or end just below it. Enter the length you want on the measurement form; the test suit confirms it.
 
-A pale suit shows marks sooner than a dark one, but fine worsted wool resists stains better than most people expect, because spills tend to sit on the surface long enough to be blotted away. Blot, do not rub, and take the suit to a good dry cleaner for anything more. The pinstripe also helps hide light creasing.
+### Does a double-breasted suit suit a fuller bust?
 
-### Is Super 130s merino wool comfortable in warm weather?
+Yes, when it is cut to your measurements. The overlap is set so the front lies flat, which the test suit confirms.
 
-Yes, Super 130s merino wool is fine and breathable, and the cream color reflects heat better than a dark suit, so it is comfortable through spring and summer and in air-conditioned offices. The number describes how fine the fibers are: the higher it is, the finer and smoother the cloth.
+### Which fit should I choose?
 
-### What stripe colors are available, and do they cost the same?
+Slim suits a close, sharp line; standard is the classic double-breasted fit; relaxed gives more room at the waist and hip. Standard is the safe choice for most; the test suit shows the result before the merino is cut.
 
-There are eight options, all at the same price: cream with black stripe, black with red stripe, black with white rope stripe, blue with white rope stripe, charcoal with white rope stripe, gray with white rope stripe, gray with dark blue stripe, and light gray with pink stripe.
+### Is a white pinstripe suit practical?
 
-### Can I have straight-leg trousers instead of wide-leg?
+For summer, events and weddings, yes. For daily wear, the charcoal or gray stripe in the selector is easier to keep clean.
 
-Yes, write the change in the comment box on the measurement form and we will cut the trousers with a straight leg. The same goes for other style changes, such as extending the trouser lining to the hem. The free test suit lets you see the change before the wool is cut.
+### Can I have straight-leg trousers or a single-breasted jacket?
+
+Yes. Tell us in the comment box of the measurement form, or email us with your order number. A straight leg, a single-breasted front or a chest pocket are all possible.
 
 ### Can I order only the jacket?
 
-This listing is for the full suit, jacket and trousers together. If you want the jacket on its own, write to us before ordering and we will price it for you. The jacket works well as a separate over black trousers or dark jeans.
+Ask through the Ask a question about this piece form below Add to Cart. We will tell you what is possible for the cloth you want.
 
-### How much does this women’s white pinstripe suit cost?
+### Can I see the stripe before I order?
 
-This suit is $739 for the jacket and trousers, the same price in every stripe. The price includes a free cotton test suit that is yours to keep, so the fit is checked before the wool is cut.
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 2600014 and the colors you want to compare; the courier fee is credited toward your first order.
 
-### How long does it take to receive my suit, and do you ship internationally?
+### How long will the cream suit take?
 
-Your test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship worldwide with tracking, and if you need it for a date, order as early as you can.
+The cotton test suit takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The cream suit then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
+
+### How do I care for it?
+
+Dry clean only and promptly after a stain. Store it in a breathable cotton bag, never plastic, away from direct light.
 
 ## Categories
 

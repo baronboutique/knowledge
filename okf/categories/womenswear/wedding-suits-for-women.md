@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-21T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-21T03:00:04Z }
 ---
 
 # Wedding Suits
@@ -78,13 +78,13 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 
 ## Products
 
-- [The Dupioni Silk Blazer](../../products/womenswear/wedding-suits-for-women/womens-dupioni-silk-jacket.md)
-- [The Modern Bride's Wedding Suit](../../products/womenswear/wedding-suits-for-women/womens-tan-wedding-suit.md)
-- [The Velvet Tuxedo Jacket](../../products/womenswear/tuxedos-for-women/womens-tailored-velvet-tuxedo-jacket.md)
-- [The Women's Bespoke Tuxedo](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
-- [The Women's Tuxedo Suit](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
-- [The Wool & Silk Blend Suit](../../products/womenswear/wedding-suits-for-women/boutique-tailored-silk-and-wool-suit.md)
+- [Women's Bespoke Tuxedo, Menswear-Inspired With Satin Peak Lapels](../../products/womenswear/tuxedos-for-women/mens-inspired-tuxedo.md)
+- [Women's Dupioni Silk Blazer, Inset Peak Lapels](../../products/womenswear/wedding-suits-for-women/womens-dupioni-silk-jacket.md)
+- [Women's Tan Wedding Suit in Tropical Wool, Single Button](../../products/womenswear/wedding-suits-for-women/womens-tan-wedding-suit.md)
+- [Women's Tuxedo Suit With Shawl Lapel and Satin Stripe Trousers](../../products/womenswear/tuxedos-for-women/iconic-wool-tuxedo.md)
+- [Women's Velvet Tuxedo Jacket With Silk Satin Peak Lapels](../../products/womenswear/tuxedos-for-women/womens-tailored-velvet-tuxedo-jacket.md)
 - [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](../../products/womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
+- [Women's Wool and Silk Blend Suit, Three-Button Jacket](../../products/womenswear/wedding-suits-for-women/boutique-tailored-silk-and-wool-suit.md)
 
 **Related terms:** bridal pant suit, women's wedding suits, modern bride suit, courthouse wedding outfit, tailored bridal separates, womens bridal suits, women's evening suits for weddings
 

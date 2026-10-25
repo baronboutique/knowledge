@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Women's Custom Blazer in Sharkskin Wool"
-description: "Ready-made blazers are cut for one set of shoulders, so they pull across the bust, gape at the back of the neck or hang wide at the waist."
+title: "Women's Leather-Trimmed Sharkskin Blazer, Custom Made"
+description: "A women's leather-trimmed sharkskin blazer cut to your measurements in Super 120s sharkskin wool, a two-tone weave that shifts as you move, with a genuine leather, velvet or plain collar."
 resource: https://baronboutique.com/womens-sharkskin-jacket/
 tags: [women, blazer, sharkskin-wool, wool, workwear, formalwear, bespoke, made-to-order]
 sources:
@@ -9,18 +9,18 @@ sources:
     resource: https://baronboutique.com/womens-sharkskin-jacket/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T16:04:53Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
-# Women's Custom Blazer in Sharkskin Wool
+# Women's Leather-Trimmed Sharkskin Blazer, Custom Made
 
 **SKU:** 2800001  
 **URL:** https://baronboutique.com/womens-sharkskin-jacket/  
@@ -37,150 +37,148 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Ready-made blazers are cut for one set of shoulders, so they pull across the bust, gape at the back of the neck or hang wide at the waist. This women's custom blazer is cut to your own measurements in Super 120s sharkskin wool, a two-tone weave that shifts from light to dark as you move. You choose the color, the lining and the collar trim, in leather, velvet or plain wool. Before we cut the cloth, we send you a free test blazer to try on at home, and it is yours to keep.
+A women's leather-trimmed sharkskin blazer cut to your measurements in Super 120s sharkskin wool, a two-tone weave that shifts as you move, with a genuine leather, velvet or plain collar. One button, notch lapels and a center vent, on a canvas front, checked first in a free cotton test blazer. Super 120s, 100% worsted wool, sharkskin weave Genuine leather, velvet or plain collar One button, notch lapels, center vent Slim, standard or relaxed fit Free test blazer in cotton, yours to keep
 
-## The Women’s Custom Blazer That Fits Your Shoulders First
+The Blazer
 
-A blazer is judged at the shoulders. If the seam sits past your shoulder bone, the jacket looks borrowed. If it sits inside, the sleeve pulls every time you reach for something. Ready-made blazers are cut for one set of shoulders and one bust, which is why so many women own a blazer they only wear open. Alterations can take in a waist or shorten a sleeve, but a shoulder that is wrong stays wrong.
+## A Leather-Trimmed Sharkskin Blazer, Cut to Your Measurements
 
-This blazer starts from your measurements. The shoulders, bust, waist and sleeve are cut for you, the front is darted to follow your shape, and a single button at a low stance draws a long, clean line from the lapel to the hip. It closes because it was made to close.
+An office blazer is worn more than any other jacket, so it shows its faults sooner: a ready-made one pulls across the bust, gapes at the back of the neck or hangs wide at the waist, and after a season of daily wear the front starts to lose its shape.
 
-The cloth is Super 120s worsted wool woven as sharkskin: a dark yarn and a light yarn twisted through a fine twill, so the surface changes tone as the light moves across it. From a distance it reads as a solid color. Up close it has depth that a flat gray or black cloth never has. It is the same cloth tailors have used for evening and business suits for generations, and it keeps its crispness through a long day.
+This leather-trimmed sharkskin blazer is cut to your measurements in Super 120s sharkskin wool, a two-tone weave that shifts from light to dark as you move, with the under collar finished in genuine leather or velvet. One button, notch lapels and a center vent; you try a free cotton test blazer at home before the wool is cut.
 
-The collar is yours to decide. It comes trimmed in black or brown leather, or in black or brown velvet. If you prefer a quiet, all-wool collar, tell us when you order and we will make it plain.
+Sharkskin wool  
+ Leather or velvet collar  
+ One button  
+ Center vent  
+ Free test blazer
 
-Super 120s sharkskin wool  
- 8 colors  
- Leather, velvet or plain collar  
- Canvas front  
- Free test blazer first  
- Made to your measurements
-
----
-
-## Free Test Blazer: Settle the Shoulders Before We Cut the Wool
-
-A one-button blazer hides nothing. With only one point of closure, the front has to lie flat from the lapel to the hem, and it only does that when the shoulders and the bust are right. So before we cut your sharkskin, we make the whole blazer in cotton, to your measurements, and send it to you.
-
-Try it on over the kind of top you will wear underneath. Check where the shoulder seam sits, whether the front closes flat, the sleeve length and the hem. Send us your notes and we correct the pattern before the final blazer is cut. The test blazer is yours to keep.
-
-Your test blazer takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final blazer takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
-
-Not sure how to measure yourself? Our [women’s body measuring guide](https://baronboutique.com/womens-body-measuring-guide/) walks through each measurement, and the [women’s suit fit guide](https://baronboutique.com/womens-suit-fit-guide/) shows what a correct fit looks like.
+**Price:** $609 **Cloth:** Super 120s, 100% worsted wool, sharkskin weave **Collar:** genuine leather or velvet in the selector, plain on request **Lining:** fully lined, lining chosen in the selector **Fit:** slim, standard or relaxed in the selector **Test blazer:** free, yours to keep
 
 ---
 
-## Three Ways to Wear It
+Free Test Blazer
 
-With Tailored Trousers for Work
+## The Collar and the Waist Show Every Fitting Error
 
-Dark trousers, a fine knit or a silk shell, low heels or loafers. Buttoned, it reads as sharp and serious without the full formality of a suit. For a complete look in the same cloth, the [sharkskin work pants](https://baronboutique.com/womens-work-pants-in-sharkskin/) are cut to your measurements too.
+A trimmed collar draws the eye to the back of the neck, which is exactly where ready-made blazers stand away. The corrections we make most often on women’s jackets are the shoulders, which are rarely the same at the front and back, the bust position and the waist suppression. With a single button, we keep the button point where the front lies flat and does not gape.
 
-Open Over Jeans
-
-Dark denim, a plain tee or a black knit, ankle boots. This is where the sharkskin earns its place: in daylight the two-tone weave gives the jacket life that a flat blazer does not have, and the collar trim adds a detail people notice.
-
-For the Evening
-
-Over a black dress or a silk camisole with slim trousers. In black or navy sharkskin with a velvet collar, the blazer moves easily from a late meeting to dinner.
-
----
-
-## Who This Blazer Is For
-
-The Woman Whose Blazers Never Close Properly
-
-They fit the shoulders and gape at the bust, or fit the bust and swallow the shoulders. You have stopped buttoning jackets altogether. A blazer cut to your measurements closes flat, because the pattern started with your body.
-
-The Woman Who Wants One Blazer That Is Not Black
-
-Your wardrobe already has the basic black blazer. You want one piece with character that still works at the office: a cloth with depth, a collar with a detail, and a fit that makes it the jacket you reach for first.
-
-The Woman With No Tailor Nearby
-
-You looked for a custom blazer and found nobody who cuts for women, or nobody within reach. You measure at home, the test blazer comes to your door, and the fitting happens in your own mirror.
-
-Someone Choosing a Gift
-
-A custom blazer is a gift that is kept for years. Because it is cut to her measurements, the most reliable way is to include her in the measuring. If it must be a surprise, write to us before you order and we will talk it through.
-
----
-
-## How Your Custom Blazer Is Made
-
-Every step below exists for one reason: to get the shoulders and the closure right before the sharkskin is cut.
+If a correction would change the look, such as an added dart, we explain the trade-off, and you choose between the fit that follows your body exactly and the style in the photos exactly.
 
 1
 
-**Choose your color, lining and collar, then enter your measurements**  
-Pick one of eight sharkskin colors, a lining from 30+ lining options and your collar trim. Enter your measurements on this page. No appointment needed.
+**Choose the cloth and the collar**  
+ Pick the sharkskin color, the collar trim and the lining in the selector, then your fit and measurements.
 
 2
 
-**We make your free test blazer**  
-A complete cotton version is cut to your measurements on the same pattern your final blazer will use, and sent to you.
+**A cotton blazer arrives first**  
+ Your test blazer is cut in cotton, made in 3 to 4 weeks and delivered 5 to 10 days after dispatch.
 
 3
 
-**You try it on and tell us what to change**  
-Check the shoulders, the closure, the sleeves and the length. Send us your notes, however small.
+**Check the neck and the waist**  
+ Turn sideways to a mirror: the collar should sit close to the back of your neck, where a leather trim shows any gap, and the single button should close at the waist without the front opening above it.
 
 4
 
-**We cut your final blazer**  
-Your notes go into the pattern. The blazer is cut in sharkskin wool with a canvas front, hand-stitched armholes, hand-finished buttonholes and your chosen collar trim.
-
-5
-
-**Your blazer ships worldwide**  
-The finished blazer is sent by tracked shipping. The test blazer stays with you.
-
-6
-
-**We answer if anything needs attention**  
-Write to us and a person who knows your order replies. Every garment is made by a tailor whose name we know.
-
-**Price:** $609, same for every color and collar **Production time:** 3 to 4 weeks for the test blazer, 3 to 4 weeks for the final blazer **Delivery:** 5 to 10 days after dispatch **Care:** Dry clean only
+**Your blazer is made**  
+ Every change goes into the pattern, the sharkskin blazer takes 3 to 4 weeks and arrives 5 to 10 days after it ships. The cotton blazer is yours.
 
 ---
 
-## Full Specification
+The Collar
 
-| Cloth | Super 120s, 100% worsted wool, sharkskin weave |
+## A Leather-Trimmed Sharkskin Blazer, or Velvet, or Plain
+
+| Black or brown genuine leather | The trim in the photos: a smooth under collar in genuine leather, not faux, that turns a plain office blazer into something noticed. |
 | --- | --- |
-| Colors | Light gray, gray, dark gray, black, navy, blue, slate blue, petrol blue |
-| Collar trim | Black leather, brown leather, black velvet or brown velvet; plain wool on request |
-| Construction | Canvas front |
-| Style | Single-breasted, one button, low stance |
-| Lapels | Medium notch lapels, 2.5 to 3 inches, with a left lapel buttonhole |
-| Front | Darted front, closed rounded hem |
-| Outer pockets | Chest welt pocket, horizontal hip pockets with flap and piped edge |
-| Interior pockets | Two |
-| Back | Center vent |
-| Sleeve cuffs | Plain |
-| Armholes | Hand-stitched |
-| Buttonholes | Hand-finished buttonholes |
-| Buttons | Brown horn buttons, stitched and reinforced by hand |
-| Lining | Fully lined in acetate, 30+ lining options |
-| Seam allowances | Ample, for future alteration |
-| Care | Dry clean only, by a specialist when the collar is leather |
+| Black or brown velvet | Softer and dressier, for evenings and events. |
+| Plain wool | The same sharkskin as the body, for a quieter work blazer. |
+| Care | Dry clean by a specialist when the collar is leather. |
+
+Sharkskin is woven with alternating light and dark yarns, so the cloth looks solid from a distance and two-tone up close. In our experience, cheap office jackets give out in two ways: the cloth pills and loses its color, and the front slips out of shape because nothing inside holds it. A canvas front and a firm worsted are what keep this blazer sharp.
 
 ---
 
-## Custom vs. Off the Rack
+The Cloths
 
-| | Off the Rack | Baron Boutique |
-| --- | --- | --- |
-| Shoulders | Cut for one fit model, the hardest part to alter | Cut for your shoulder width from the first pattern |
-| Closure | Gapes at the bust or hangs loose at the waist | Closes flat, because bust and waist are your measurements |
-| Fit check | Returns or paid alterations | Free test blazer confirms the fit before the wool is cut |
-| Cloth | Flat polyester blends | Super 120s wool in a two-tone sharkskin weave |
-| Details | Fixed by the brand | Your color, lining and collar trim |
-| Construction | Fused front that can bubble after cleaning | Canvas front that keeps its shape |
-| Buttonholes | Machine-made | Hand-finished buttonholes |
-| Future changes | Little seam allowance | Ample seam allowances for future alteration |
+## The Sharkskin and the Collar Trims, Up Close
+
+These are close-up photos of the actual cloth and trims. Choose your color and collar trim in the selector; here are some of the options on offer.
+
+Gray Sharkskin
+
+The blazer in the photos: a light gray that pairs with black trim.
+
+Dark Gray Sharkskin
+
+A charcoal blazer for women at the office.
+
+Slate Blue Sharkskin
+
+A blue-gray where the two-tone effect shows most.
+
+Black Leather Trim
+
+The collar trim in the photos, in genuine leather.
+
+Black Velvet Trim
+
+A softer trim for evening.
 
 ---
+
+The Cut
+
+## One Button, Notch Lapels and a Center Vent
+
+| One button, low stance | The button sits a little low, opening a longer V at the front. |
+| --- | --- |
+| Notch lapels with a lapel buttonhole | Medium width, two and a half to three inches, with a buttonhole in the left lapel. |
+| Flap hip pockets and a chest pocket | Piped hip pockets with flaps and a welt chest pocket. |
+| Center vent | Lets the blazer sit flat over the hips when you sit at a desk. |
+
+Want the same cloth as a full suit? See our **[women’s sharkskin suit](https://baronboutique.com/womens-work-suit-in-sharkskin/)**, or for a plain wool blazer our **[women’s merino wool blazer](https://baronboutique.com/womens-merino-wool-blazer/)**.
+
+---
+
+At the Office
+
+## A Women’s Office Jacket That Earns Its Place
+
+| With trousers | Over black or gray trousers: the women’s office jacket in its most useful form. |
+| --- | --- |
+| With a dress | Over a black dress for meetings that run into dinner. |
+| With jeans | A sharp work jacket for Fridays. |
+| In charcoal | A charcoal blazer for women at the office reads more formal than light gray. |
+
+An office work jacket has to survive daily wear, which is why the cloth here is a tightly woven worsted. As office jackets for women go, the leather trim is the detail that makes this one recognizable.
+
+---
+
+Full Spec
+
+## Women’s Leather-Trimmed Sharkskin Blazer, Specification
+
+| Cloth | Super 120s, 100% worsted wool in a sharkskin weave; color in the selector |
+| --- | --- |
+| Collar trim | Black or brown genuine leather, black or brown velvet, or plain wool on request |
+| Front | Single-breasted, one button, low stance, closed rounded hem |
+| Lapels | Notch lapels 2.5 to 3 inches, left lapel buttonhole |
+| Construction | Hand-basted canvas front, darted front, hand-stitched armholes, hand-finished buttonholes, fully lined |
+| Pockets | Chest welt pocket, piped hip pockets with flaps, two interior pockets |
+| Back and cuffs | Center vent; plain cuffs |
+| Buttons | Brown horn, hand-stitched and reinforced |
+| Fit | Slim, standard or relaxed, then refined on the test blazer |
+| Test blazer | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test blazer, 3 to 4 weeks for the final blazer |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean only; by a specialist when the collar is leather |
+
+---
+
+About Baron
 
 ## About Baron Boutique
 
@@ -192,51 +190,57 @@ Our customers come back because the fit is right and we answer emails. Every gar
 
 ---
 
-## Questions About This Women’s Custom Blazer
+Questions & Answers
 
-### How long does a wool blazer last if I wear it to work every week?
+## Questions About the Women’s Sharkskin Blazer
 
-A well-made worsted wool blazer worn two or three times a week typically lasts ten years or more with basic care. What usually ends a blazer early is a fused front that bubbles after dry cleaning, or a fit that was never right, so it stops being worn. This blazer has a canvas front and ample seam allowances, so it keeps its shape and can be altered if your measurements change.
+### What is a sharkskin blazer?
 
-### Which measurements matter most for a women’s custom blazer?
+A blazer in sharkskin cloth, which is a weave, not an animal skin. Light and dark yarns are woven together so the cloth shows a fine two-tone texture and a soft luster that changes with the light. This one is Super 120s, 100% worsted wool.
 
-Shoulder width matters most, followed by the bust and the waist. The shoulder decides how the whole jacket hangs and cannot be properly corrected later, while the bust and waist decide whether a one-button front closes flat. You enter every measurement on this page, the women’s body measuring guide shows where to take each one, and the free test blazer checks the result on your body.
+### Is the leather collar real leather?
 
-### Does this blazer come in standard sizes?
+Yes. It is genuine leather, not faux or bonded leather. Brown leather and black or brown velvet are also in the selector.
 
-No, every blazer is cut from a new pattern drawn from your own measurements, with no standard sizes. We make a cotton test blazer on that pattern first, you try it on, and your notes go into the pattern before the final blazer is cut. That matters most on a one-button jacket, where there is nothing to hide a front that does not close cleanly.
+### Can I leave off the leather collar or change other details?
 
-### What is sharkskin wool?
+Yes. Type plain collar in the comment box of the measurement form, or email us with your order number. A second button, a different lapel or no chest pocket can be requested the same way.
 
-Sharkskin is a wool cloth woven in a fine twill from two yarns of different shades, one dark and one light, which gives the surface a subtle two-tone sheen. From a distance it reads as a solid color, and up close it shifts tone as the light moves. It is a classic suiting cloth, smooth to the touch, and it holds a crisp line through a long day.
+### Is sharkskin still in style?
 
-### Where can I buy a custom blazer for women online?
+Yes. It went from the 1960s into every decade since because, from a distance, it reads as a solid color, so it never looks like a trend piece. The leather collar is what makes this blazer feel current.
 
-Look for a maker who cuts from your own measurements rather than adjusting a standard size, and who lets you check the fit before the final cloth is cut. Without a fitting step, an online custom blazer is still a guess at your shoulders. This blazer is cut to measurements you enter on this page, and a free cotton test blazer is sent to you first so the fit is confirmed at home.
+### How do I wear it for an office-chic look?
 
-### How much does a custom blazer for women cost?
+Keep the rest simple: a black or ivory top, tailored trousers or a pencil skirt, and pointed shoes. The leather collar and the sheen of the sharkskin are the details, so jewelry can stay small.
 
-This women’s custom blazer is $609, the same price in every color and every collar trim. The price includes a free cotton test blazer that is yours to keep, so the fit is checked before the wool is cut. Prices for custom blazers vary widely with the cloth and the construction, so compare whether a canvas front, hand-finished buttonholes and a fitting step are included.
+### Is it suitable for a conservative office?
 
-### How should a women’s blazer fit?
+Choose the plain collar or a dark gray cloth. From across a room sharkskin reads as solid, and the texture only shows up close.
 
-A women’s blazer should end at your shoulder bone, close flat across the bust without pulling into an X, and follow your waist without gripping it. The sleeve should reach the base of the thumb with your arm relaxed, and the collar should sit against the back of your neck without a gap. If a blazer only looks right when it is open, the bust or shoulders were cut for someone else.
+### Why does sharkskin look different indoors and outdoors?
 
-### Why does a sharkskin blazer look different indoors and outdoors?
+The two-tone weave catches the light as you move. It reads lighter in daylight and darker under office lights, which is why it looks livelier than a flat solid.
 
-A sharkskin blazer changes appearance with the light because its two yarns reflect light differently: under office lighting it reads as a smooth solid, and in daylight the lighter yarn comes forward and the cloth looks brighter and more textured. Few people notice this until they see a photo of themselves outside. Choose the darker colors if you want it to stay quiet everywhere, and the lighter grays and blues if you want the weave to show.
+### Can I order matching trousers or a skirt?
 
-### Can I change or leave off the leather collar?
+Ask through the Ask a question about this piece form below Add to Cart, and we will tell you what can be made in the same cloth. For a full suit, see our **[women’s sharkskin suit](https://baronboutique.com/womens-work-suit-in-sharkskin/)**.
 
-Yes, the collar trim is your choice: black leather, brown leather, black velvet or brown velvet, or a plain wool collar if you tell us when you order. The price is the same whichever you choose. Leather gives the jacket an edge, velvet makes it softer and better suited to evenings, and plain wool makes it a quiet classic.
+### How do I measure without a tailor nearby?
 
-### Can I order a custom blazer as a gift?
+Ask someone to hold the tape if you can. Alone, measure bust, natural waist and hips, then measure a blazer that fits you well; we guide you by video call or WhatsApp.
 
-Yes, but because the blazer is cut to her body, the most reliable way is to include her in taking the measurements. The free test blazer then confirms the fit before the final one is made, so small errors are corrected. If it has to be a surprise, write to us before ordering and we will help you plan it.
+### Can I see the sharkskin and the collar trims first?
 
-### How long does it take to receive my blazer, and do you ship internationally?
+Yes. Our **[swatch service](https://baronboutique.com/swatch-service/)** sends up to four samples of about 2 by 4 inches. They usually arrive within 4 to 6 business days. Quote product number 2800001 and the colors you want to compare; the courier fee is credited toward your first order.
 
-Your test blazer takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final blazer takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship worldwide with tracking, and if you need it for a date, order as early as you can.
+### How long will the blazer take?
+
+The cotton test blazer takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. The sharkskin blazer then takes 3 to 4 weeks and arrives 5 to 10 days after it ships.
+
+### How do I care for a blazer with a leather collar?
+
+Brush the wool after wearing and hang the blazer on a shaped hanger. When it needs cleaning, use a specialist dry cleaner who handles leather, because a standard cleaner can dry out the collar.
 
 ## Categories
 

@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-22T02:20:29Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-22T02:20:29Z }
 ---
 
 # Dresses
@@ -71,20 +71,20 @@ Every adjustment is applied, then your dress is cut and hand-tailored in your ch
 
 ## Products
 
-- [Asymmetrical Hem Zipper Dress](../../products/womenswear/dresses-for-women/womens-asymmetrical-shift-dress-in-sharksksin.md)
-- [Belted V-Neck Shift Dress Pockets Knee Length](../../products/womenswear/dresses-for-women/womens-belted-a-line-dress.md)
-- [Black Dress With Leather Trim Sleeveless Zipper Back](../../products/womenswear/dresses-for-women/womens-black-dress.md)
-- [Collared Crossover Sheath Dress](../../products/womenswear/dresses-for-women/womens-wrap-dress.md)
-- [Gingham Ruffle Hem Midi Dress](../../products/womenswear/dresses-for-women/womens-gingham-ruffle-hem-midi-dress.md)
-- [Silk Tunic Dress V Neck Long Sleeves In Crepe silk](../../products/womenswear/dresses-for-women/womens-crepe-silk-tunic-dress.md)
-- [Sleeveless Linen Maxi Dress](../../products/womenswear/dresses-for-women/womens-linen-long-dress.md)
-- [The Essential Sheath Dress](../../products/womenswear/dresses-for-women/womens-timeless-black-sheath-dress-in-seasonless-wool.md)
-- [The Minimalist Sheath Wedding Dress](../../products/womenswear/dresses-for-women/womens-pure-new-wool-sheath-dress.md)
-- [The Modern Mother of the Bride Sheath Dress](../../products/womenswear/dresses-for-women/womens-dalenia-pinstripe-sheath-dress.md)
-- [The Tailored Mini Dress](../../products/womenswear/dresses-for-women/womens-mayalu-cobalt-dress.md)
-- [Unlined Linen Duster Coat](../../products/womenswear/linen-dress-jacket-with-notch-collar.md)
-- [V-Neck Women's Sheath Dress](../../products/womenswear/dresses-for-women/wool-flannel-sheath-dress.md)
-- [White Piped Trim Sheath Dress A-Line V-Neck](../../products/womenswear/dresses-for-women/womens-piped-sheath-dress.md)
+- [Women's Asymmetrical Hem Zipper Dress in Sharkskin Wool](../../products/womenswear/dresses-for-women/womens-asymmetrical-shift-dress-in-sharksksin.md)
+- [Women's Belted V-Neck Shift Dress in Cotton Twill, With Pockets](../../products/womenswear/dresses-for-women/womens-belted-a-line-dress.md)
+- [Women's Black Dress With Leather Trim, Sleeveless Sheath in Wool](../../products/womenswear/dresses-for-women/womens-black-dress.md)
+- [Women's Black Sheath Dress With White Piping, Stand Collar](../../products/womenswear/dresses-for-women/womens-piped-sheath-dress.md)
+- [Women's Classic Black Sheath Dress in Super 160s Wool](../../products/womenswear/dresses-for-women/womens-timeless-black-sheath-dress-in-seasonless-wool.md)
+- [Women's Collared Crossover Sheath Dress, Faux Wrap in Wool](../../products/womenswear/dresses-for-women/womens-wrap-dress.md)
+- [Women's Gingham Ruffle Hem Midi Dress in Cotton Poplin](../../products/womenswear/dresses-for-women/womens-gingham-ruffle-hem-midi-dress.md)
+- [Women's Minimalist Sheath Wedding Dress in Super 160s Wool](../../products/womenswear/dresses-for-women/womens-pure-new-wool-sheath-dress.md)
+- [Women's Modern Mother of the Bride Sheath Dress in Pinstripe Wool](../../products/womenswear/dresses-for-women/womens-dalenia-pinstripe-sheath-dress.md)
+- [Women's Silk Tunic Dress in Crepe Silk, Long Sleeves](../../products/womenswear/dresses-for-women/womens-crepe-silk-tunic-dress.md)
+- [Women's Sleeveless Linen Maxi Dress, Custom Made](../../products/womenswear/dresses-for-women/womens-linen-long-dress.md)
+- [Women's Tailored Mini Dress in Cobalt Blue Wool, Elbow Sleeves](../../products/womenswear/dresses-for-women/womens-mayalu-cobalt-dress.md)
+- [Women's Unlined Linen Duster Coat](../../products/womenswear/linen-dress-jacket-with-notch-collar.md)
+- [Women's V-Neck Sheath Dress in Wool Flannel, Tailored](../../products/womenswear/dresses-for-women/wool-flannel-sheath-dress.md)
 
 **Related terms:** custom made dresses, tailored work dresses, made to measure dress, silk dresses online, office dresses
 

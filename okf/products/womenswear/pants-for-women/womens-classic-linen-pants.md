@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-classic-linen-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-22
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-16T03:00:03Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-16T03:00:03Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
 ---
 
 # Women's Wide Leg Linen Pants, Lined to the Knee
@@ -35,7 +35,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Wide leg linen pants for women in 100% linen, cut as real trousers with a flat front, belt loops, welt back pockets and a pressed crease, and made to your measurements. The front of each leg is lined to the knee in a satin lining you choose, so pale linen stays opaque and the wide leg swings instead of clinging. Choose from 18 linens and 34 lining colors, and try a free test pair before your linen is cut.
+Wide leg linen pants for women in 100% linen, cut as real trousers with a flat front, belt loops, welt back pockets and a pressed crease, and made to your measurements. The front of each leg is lined to the knee in a satin lining you choose, so pale linen stays opaque and the wide leg swings instead of clinging. Choose your linen and lining color in the selector, and try a free test pair before your linen is cut.
 
 Wide Leg Linen Pants
 
@@ -43,15 +43,15 @@ Wide Leg Linen Pants
 
 These are a wide leg trouser, not a palazzo. The front is flat, the waistband has belt loops, and a pressed crease runs down each leg. From the seat, the leg falls wide and straight to a hem that nearly touches the floor, so the linen moves when you walk and still looks like tailoring when you stand.
 
-These are tailored linen pants for women: wide leg linen pants with real back pockets, a pressed crease and a front lined to the knee, in natural, khaki or tan linen and 12 more colors. You can have them as khaki linen pants for women or tan linen trousers, and as high waisted wide leg linen pants or at your natural waist.
+These are tailored linen pants for women: wide leg linen pants with real back pockets, a pressed crease and a front lined to the knee, in natural, khaki or tan linen and more colors. You can have them as khaki linen pants for women or tan linen trousers, and as high waisted wide leg linen pants or at your natural waist.
 
 What sets this pair apart is inside: the front of each leg is lined to the knee in a smooth satin lining, in a color you choose. They are made to your measurements in 100% linen, and before we cut your linen, we send you a free test pair to try on at home.
 
 Wide leg  
  100% linen  
  Lined to the knee  
- 34 lining colors  
- 18 linens  
+ Lining in the selector  
+ Linens in the selector  
  Free test pair first  
  Made to your measurements
 
@@ -127,13 +127,13 @@ A wide leg looks right or wrong mostly because of two things: the width at the h
 | Rise | Taken from your measurements. For a high-waisted fit, ask in the comment box. |
 | Ankle length | Available on request if you prefer a cropped wide leg that shows the ankle. |
 
-Prefer a narrower line that falls straight from the knee? See our [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/), which are unlined for maximum airflow. Want the same easy feel in wool? Our [tropical wool trousers](https://baronboutique.com/womens-all-season-tropical-pants/) have a relaxed leg in 14 colors.
+Prefer a narrower line that falls straight from the knee? See our [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/), which are unlined for maximum airflow. Want the same easy feel in wool? Our [tropical wool trousers](https://baronboutique.com/womens-all-season-tropical-pants/) have a relaxed leg in the colors in its selector.
 
 ---
 
 Natural and Tan
 
-## Natural, Khaki and Tan Linen, Plus 12 More
+## Natural, Khaki and Tan Linen, Plus More
 
 The photos show Natural linen. Wide leg pants are often worn in the warm neutrals, so here they are up close. Pick your linen in the fabric selector above.
 
@@ -161,7 +161,7 @@ Off White
 
 A soft ivory, opaque at the front thanks to the lining.
 
-Also available: White, Black, Charcoal, Grey, Dark Blue, Blue, Light Blue, Cornflower, Turquoise, Lavender, Pink and Burgundy.
+Also available: White, Black, Charcoal, Gray, Dark Blue, Blue, Light Blue, Cornflower, Turquoise, Lavender, Pink and Burgundy.
 
 ---
 
@@ -169,13 +169,13 @@ Full Spec
 
 ## Full Specifications
 
-| Cloth | 100% woven linen, 18 colors |
+| Cloth | 100% woven linen; colors in the selector |
 | --- | --- |
 | Leg | Wide leg with a pressed crease; fuller or narrower on request |
 | Front | Flat front, zip fly with button closure |
 | Waistband | 1.5-inch waistband with five 1.75-inch belt loops, grip-lined to keep tops tucked in, waistband lining |
 | Pockets | Two slanted front pockets, two single-welt back pockets |
-| Lining | Acetate satin, front lined to the knee, 34 colors; unlined or fully lined on request |
+| Lining | Acetate satin, front lined to the knee, color in the selector; unlined or fully lined on request |
 | Seams | Ample seam allowances for future alteration |
 | Buttonholes | Hand-finished |
 | Buttons | Hand-stitched and reinforced |
@@ -204,7 +204,7 @@ Questions & Answers
 
 ### Are these wide leg linen pants lined?
 
-Yes. The front of each leg is lined to just below the knee in a satin lining, in any of 34 colors. The lower leg and the back are unlined so they stay cool. You can ask for them unlined or fully lined in the comment box.
+Yes. The front of each leg is lined to just below the knee in a satin lining, in any color from the lining selector. The lower leg and the back are unlined so they stay cool. You can ask for them unlined or fully lined in the comment box.
 
 ### Are light linen pants see-through?
 
@@ -236,7 +236,7 @@ These are, because they are cut as trousers: a flat front, a zip fly, belt loops
 
 ### What is the difference between these and your straight leg linen trousers?
 
-These are wider and lined to the knee. The [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/) are narrower from the knee down and unlined for maximum airflow. Both come in the same 18 linens.
+These are wider and lined to the knee. The [straight leg linen trousers](https://baronboutique.com/womens-warm-weather-linen-pants/) are narrower from the knee down and unlined for maximum airflow. Both come in the same linens.
 
 ### How much do these wide leg linen pants cost, and can I wash them?
 
