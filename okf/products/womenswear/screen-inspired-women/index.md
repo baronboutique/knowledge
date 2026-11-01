@@ -55,12 +55,12 @@ Every adjustment is applied, then your piece is hand-tailored in your chosen clo
 ## Products
 
 - [Screen-Inspired Thirteenth Doctor Teal Cropped Pants](13th-doctor-pants.md)
-- [Tenth Doctor's Brown Pinstripe Suit](womens-10th-doctor-brown-with-blue-stripes-suit.md)
-- [The 7th Doctor's Utility Jacket](7th-doctor-jacket-for-women.md)
+- [Women's 10th Doctor Brown Pinstripe Suit, Custom Made](womens-10th-doctor-brown-with-blue-stripes-suit.md)
 - [Women's 12th Doctor Black Velvet Frock Coat](12th-doctor-black-velvet-frock-coat-for-women.md)
 - [Women's 12th Doctor Blue Coat With Red Lining](12th-doctor-wool-coat-for-women.md)
 - [Women's 12th Doctor Burgundy Velvet Coat](12th-doctor-burgundy-velvet-coat-for-women.md)
 - [Women's 12th Doctor Navy Velvet Coat, Burgundy Lining](12th-doctors-navy-velvet-coat-for-women.md)
+- [Women's 7th Doctor Inspired Utility Jacket in Stone Wool Gabardine](7th-doctor-jacket-for-women.md)
 - [Women's Beige Frock Coat With Red Piping](5th-doctor-red-piping-frock-coat-for-women.md)
 - [Women's Black Wizard Robe, Percival Graves Inspired](percival-graves-black-coat-for-women.md)
 - [Women's Long Black Leather Coat, Fitted Princess-Seam Full-Grain Cow Nappa](womens-long-black-leather-coat.md)

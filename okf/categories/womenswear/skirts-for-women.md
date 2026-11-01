@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-27T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-27T03:00:04Z }
 ---
 
 # Skirts
@@ -72,7 +72,6 @@ Every adjustment is applied, then your skirt is cut and hand-tailored in your ch
 ## Products
 
 - [The Essential Work Skirt](../../products/womenswear/skirts-for-women/womens-essential-black-skirt.md)
-- [The High-Waisted Pencil Skirt](../../products/womenswear/skirts-for-women/womens-work-skirt-in-sharkskin.md)
 - [The High-Waisted Power Skirt](../../products/womenswear/skirts-for-women/womens-all-season-tropical-skirt.md)
 - [The Midi Pencil Skirt](../../products/womenswear/skirts-for-women/womens-seasonless-pure-new-wool-skirt.md)
 - [The Mohair Pencil Skirt](../../products/womenswear/skirts-for-women/womens-mohair-pencil-skirt.md)
@@ -80,6 +79,7 @@ Every adjustment is applied, then your skirt is cut and hand-tailored in your ch
 - [The Piped-Trim Pencil Skirt](../../products/womenswear/skirts-for-women/womens-white-trim-pencil-skirt.md)
 - [The Pocketed Pencil Skirt](../../products/womenswear/skirts-for-women/womens-mock-pocket-work-skirt.md)
 - [The Vitale Barberis Canonico Pencil Skirt](../../products/womenswear/skirts-for-women/womens-wool-breeze-skirt.md)
+- [Women's High-Waisted Pencil Skirt in Sharkskin Wool, Custom Made](../../products/womenswear/skirts-for-women/womens-work-skirt-in-sharkskin.md)
 - [Women's Kick Pleat Pencil Skirt in Italian Wool](../../products/womenswear/skirts-for-women/womens-kick-pleat-smart-skirt.md)
 
 **Related terms:** tailored pencil skirts, custom skirts online, office skirts, made to measure skirt, wool skirts for work

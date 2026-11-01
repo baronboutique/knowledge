@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Long Grey Wool Herringbone Overcoat, Made to Your Length"
-description: "A long wool herringbone overcoat in 100% Pure New Wool Tweed 400-450 grams per meter cloth, cut to your measurements in the length you choose."
+title: "Men's Custom Made Overcoat in Gray Herringbone British Tweed"
+description: "A custom made overcoat cut to your body measurements and your desired length, in gray herringbone British tweed of 100% pure new wool."
 resource: https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/
 tags: [men, topcoat, overcoat, wool, herringbone, light-gray, winter-coat, bespoke, made-to-order]
 sources:
@@ -9,18 +9,18 @@ sources:
     resource: https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-24
+    last_modified: 2026-10-26
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-10-24T17:50:41Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-25T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-25T03:00:04Z }
+  - { by: human:baron-boutique, at: 2026-10-26T03:35:10Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-31T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-31T03:00:04Z }
 ---
 
-# Long Grey Wool Herringbone Overcoat, Made to Your Length
+# Men's Custom Made Overcoat in Gray Herringbone British Tweed
 
 **SKU:** 1801003  
 **URL:** https://baronboutique.com/mens-light-gray-wool-herringbone-topcoat/  
@@ -36,47 +36,255 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-A long wool herringbone overcoat in 100% Pure New Wool Tweed 400-450 grams per meter cloth, cut to your measurements in the length you choose. The herringbone weave carries a visual depth that a flat solid cannot, which is what makes a quiet coat read as a statement coat in daylight rather than only under evening light. Four button with fly front closure, hand-set armholes. Available in vibrant and neutral herringbone colors, and your commission begins with a free fitting toile.
+A custom made overcoat cut to your body measurements and your desired length, in gray herringbone British tweed of 100% pure new wool. A fly front hides the four buttons, the canvas front and hand-set armholes keep the shape over a suit, and you try a free cotton test coat at home before the tweed is cut. Herringbone British tweed, 100% pure new wool Any length, from topcoat to mid-calf Fly front, notch lapels, center vent Canvas front, hand-stitched armholes Free test coat in cotton, yours to keep
 
-## Form & Foundation
+The Coat
 
-This is the definitive wool herringbone topcoat, a cornerstone of the sophisticated winter wardrobe. Commissioned in finest 100% Pure New Wool Tweed 400-450 grams per meter, its classic V-shaped herringbone weave creates subtle visual depth and texture while retaining the understated character of a traditional tailored coat.
+## A Custom Made Overcoat in Gray Herringbone British Tweed
 
-Beneath the surface, canvas front gives the coat its architectural drape and structured silhouette. A clean fly-front closure preserves an uninterrupted, austere line, complemented by hand stitched buttons that add a quiet note of natural distinction. The armholes are set by hand for a closer, more refined fit and greater freedom of movement.
+Most men buy an overcoat that is almost right. The sleeves stop a little short over a suit, the hem lands where the size chart put it rather than where it suits your height, and the shoulders are cut for a jacket you are not wearing. A coat is the piece people see first all winter, so almost right shows.
 
-## Choose Your Length
+This custom made overcoat is cut to your body measurements and your desired length, in a gray herringbone British tweed of 100% pure new wool, about 400 to 450 grams per meter. It has a fly front that hides the four buttons when it is closed, medium notch lapels, a canvas front and armholes set by hand. Before the tweed is cut, you try the same coat in cotton at home, over the clothes you will wear under it.
 
-Length is not fixed on this coat. It is a decision you make, and it changes the character of the piece completely. Just above the knee reads modern and moves easily over a suit. At the knee is the classic city length and the most forgiving across the widest range of frames. Mid-calf is the full statement coat, dramatic in motion, and it carries best on taller frames or where a strong shoulder balances the added length. You specify the length you want on the measurement form when you order.
+British tweed  
+ Herringbone  
+ Fly front  
+ Any length  
+ Free test coat
 
-## The Fitting Toile: Your Length Is Settled Before We Cut
+**Price:** $775 **Cloth:** herringbone British tweed, 100% pure new wool, about 400 to 450 g per meter **Color:** medium gray in the photos; other herringbones in the selector **Length:** the length you choose **Test coat:** free, in cotton, yours to keep **Care:** dry clean, rarely
 
-Length is the one decision that cannot be corrected afterward on a coat like this, because the pockets, the vent, and the button stance are all positioned relative to the hem. So your commission begins with a fitting coat, **a free toile**, made to the measurements you give us. You try it on at home, see the length on your own body in your own mirror, and tell us what to change. Only then do we cut the final cloth. The toile is yours to keep, and delivery of both pieces is included as part of our service.
+---
 
-Dry clean.
+Free Test Coat
 
-### Wool Herringbone Overcoat Features
+## Fitted Over Your Suit Before the Tweed Is Cut
 
-- tailored from finest 100% Pure New Wool Tweed
-- hand-made by Baron Boutique’s master tailors
-- single-breasted closure
-- hand stitched canvas front
-- four-button fly front closure
-- 22 mm black buttons hand stitched
-- hand-stitched shoulder pads
-- medium width notch lapel (2.75″ – 3.25″)
-- hand pick-stitching around the collar, lapel, and pockets
-- 1 left lapel buttonhole
-- hand-finished buttonholes
-- horizontal hip piped pockets with flap
-- chest welt pocket
-- fully lined in acetate
-- hand-stitched armholes
-- four internal pockets
-- center back vent
-- straight bottom
-- 4 buttons vented sleeve cuff
-- kissing sleeve button stance
-- sleeves have hand stitched 15 mm black buttons
+An overcoat is the one garment that has to fit over something else. A coat that fits you in a shirt can bind across the back over a suit jacket, and sleeves that look right with arms down can ride up an inch when you reach for a door. That is why the fitting happens in cotton first, on you, over the layers you actually wear.
+
+On men’s coats the changes we make most often are at the shoulders and the back: the front and back shoulders need different proportions on almost every man, and a man with a fuller chest or a rounder back needs the room placed there, not spread evenly. Lengths are the easy part; the test coat photos show at once whether the hem and sleeves need to move.
+
+1
+
+**Choose the tweed, lining and fit**  
+ Pick a herringbone and a satin lining in the selector, choose your fit, then enter your body measurements and the length you want on the measurement form. Style changes go in its comment box.
+
+2
+
+**We make your test coat in cotton**  
+ It is cut from the same pattern the tweed will use, takes 3 to 4 weeks to make, and arrives 5 to 10 days after dispatch by trackable courier.
+
+3
+
+**Try it over a suit jacket**  
+ Wear the jacket or the heaviest sweater you will wear under the coat. Check the sleeve length with your arms bent, the room across the back when you reach forward, and where the hem lands in a mirror.
+
+4
+
+**We cut the tweed**  
+ Your notes go into the pattern, the overcoat is made in 3 to 4 weeks, and it arrives 5 to 10 days after it ships. The cotton coat is yours to keep.
+
+---
+
+Your Length
+
+## Topcoat or Overcoat? Your Length Decides
+
+A topcoat is usually shorter and lighter, ending at or above the knee; an overcoat is longer and heavier, reaching the knee or below. Cut above the knee this coat is a herringbone wool top coat, and at the knee or below it becomes an overcoat, because you enter the length on the measurement form, and the pockets, the vent and the button stance are placed in proportion to the hem you choose.
+
+| Just above the knee | The modern herringbone topcoat length. It covers a suit jacket fully and moves easily, and it suits most heights. |
+| --- | --- |
+| At the knee | The classic city overcoat length and the most forgiving across frames. The right choice if you will wear it over a suit most days. |
+| Mid-calf | The full statement coat, warmer and more dramatic in motion. It looks right on taller men or with a strong shoulder to balance it. |
+
+Whatever you choose, the rule over a suit is simple: no part of the jacket should show below the coat. If you are unsure, tell us your height and how you will wear it, and we will suggest a length; the test coat then shows it on your own body.
+
+---
+
+The Tweed
+
+## The Herringbone British Tweed, Up Close
+
+These are close-up photos of the actual cloth. Each herringbone is woven from two colors of yarn, so the zigzag carries depth that a flat solid cannot; from across a room the coat reads as one color, and up close the weave appears. The cloth is 100% pure new wool British tweed, firm enough to hold a tailored shape and dense enough to keep the wind off.
+
+Medium Gray
+
+The coat in the photos: a clear black and white herringbone that goes with everything.
+
+Light Gray
+
+Softer and paler, with a fine weave; lighter in mood for daytime and spring.
+
+Slate Blue
+
+A deep blue-green, quiet enough for a suit and richer than gray.
+
+Denim Blue
+
+Soft blue with small flecks of color through the cloth, a classic country tweed.
+
+Ocean Blue
+
+A brighter blue herringbone that still wears easily with gray and navy.
+
+Bright Blue
+
+Navy and light blue yarns; the most formal of the blues.
+
+Olive Green
+
+A deep green herringbone, at home with brown shoes and corduroy.
+
+Moss Green
+
+A muted green-brown with a soft, heathered look.
+
+Lime Green
+
+A vivid green for a coat that is meant to be noticed.
+
+Burnt Red
+
+A warm rust red, striking over charcoal or navy.
+
+Salsa Red
+
+A lighter, warmer red with a soft orange cast.
+
+---
+
+How It Is Built
+
+## Why We Make It This Way
+
+| Canvas front | A canvas between the tweed and the lining shapes the chest and lets the lapels roll. A glued, fused front is cheaper and stiffer, and it can bubble after cleaning; a canvas front keeps its line for years. |
+| --- | --- |
+| Fly front | A placket hides the four buttons when the coat is closed, so the front reads as one clean line from collar to hem. Open, the buttons show, as in the photo. |
+| Armholes set by hand | A higher, closer armhole lets you lift your arm without the whole coat rising with it. |
+| Hand pick-stitching | Fine stitching along the collar, lapels and pockets keeps the edges flat in a cloth as springy as tweed. |
+| Center vent and working cuffs | The vent opens as you walk or sit; the four-button vented cuffs have kissing buttons. |
+
+The trade-off is honest: a tweed coat built this way is heavier than a fused fashion coat and takes longer to make, because the canvas and the edges are worked by hand. In return it holds its shape over a suit for many winters.
+
+---
+
+How to Wear It
+
+## Wearing a Gray Herringbone Overcoat
+
+| Over a suit | Over navy, charcoal or a lighter gray suit with a white shirt and a tie, closed at the fly front: the classic city coat. |
+| --- | --- |
+| With knitwear | Over a fine merino or cashmere sweater and dark trousers, as in the photo, worn open. |
+| Weekend | With dark jeans, a crew neck and brown boots; herringbone tweed is at home off duty. |
+| Shoes and scarf | Black or dark brown leather shoes; a navy, burgundy or camel scarf lifts the gray. |
+
+A gray herringbone is the most versatile coat a man can own because the pattern hides lint and light rain marks and goes with both black and brown. If this is your only good coat, choose medium gray at the knee.
+
+---
+
+Five Years On
+
+## What Five Years Do to a Tweed Overcoat
+
+Tweed ages slowly. The surface softens, the herringbone settles into the shape of your shoulders and elbows, and the cloth sheds small creases overnight on a hanger. The places that show wear first are the cuff edges and the pocket mouths, which is why the edges are stitched by hand and the cuffs are vented rather than glued.
+
+What ends most overcoats early is not the cloth but the build: a fused front that bubbles after a few cleanings, or a coat cut too tight to wear over a suit, so it stays in the closet. Brush it after wearing, let it dry naturally after rain, dry clean it rarely, and keep it on a shaped hanger, and this coat will look better in its fifth winter than in its first.
+
+---
+
+Full Spec
+
+## Men’s Custom Made Overcoat in Gray Herringbone Tweed, Specification
+
+| Cloth | Herringbone British tweed, 100% pure new wool, about 400 to 450 g per meter; medium gray in the photos, other colors in the selector |
+| --- | --- |
+| Lining | Fully lined in acetate satin; color chosen in the selector |
+| Front | Single-breasted fly front, four hidden buttons |
+| Lapels | Medium notch lapels, 2.75 to 3.25 inches, buttonhole on the left lapel |
+| Construction | Canvas front, hand-stitched shoulder pads, hand-stitched armholes, hand-finished buttonholes, hand pick-stitching on collar, lapels and pockets |
+| Pockets | Chest welt pocket, two hip pockets with flaps, three interior pockets |
+| Back | Center vent; straight hem |
+| Cuffs | Vented, four buttons, kissing stance |
+| Buttons | Black, hand-stitched and reinforced |
+| Length | The length you enter on the measurement form |
+| Test coat | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Dry clean only, and rarely; brush after wearing |
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Custom Made Herringbone Overcoat
+
+### Is this a topcoat or an overcoat?
+
+Both, depending on the length you choose. A topcoat is traditionally lighter and ends at or above the knee, an overcoat is longer and warmer; this herringbone topcoat becomes a full overcoat if you enter a knee or mid-calf length. The tweed is a medium-heavy coating, warm enough for most city winters over a suit.
+
+### What does custom made mean for this overcoat?
+
+It is cut from a new pattern drawn from your body measurements and your desired length, with no standard sizes. You try a cotton test coat at home first, and your corrections go into the pattern before the tweed is cut.
+
+### How much does a custom made overcoat cost?
+
+Custom overcoats sold online through design configurators commonly start at about $200 to $550, and ready-made herringbone topcoats in good shops often cost over $1,000. This one is $775 in British tweed with a canvas front, and the price includes the free test coat, so the fitting is not an extra cost.
+
+### Is a herringbone topcoat timeless?
+
+Yes. Herringbone has been a coating weave for well over a century, and a gray herringbone in a classic notch lapel cut does not date the way a trend color or a fashion cut does. It looks classic with a suit and modern with knitwear and jeans, which is why it is one of the safest coats to own for many years.
+
+### How long should an overcoat be over a suit?
+
+Long enough that no part of the suit jacket shows below it. For most men that means just above the knee or at the knee; mid-calf is warmer and more dramatic and suits taller frames. You enter the length you want, and the test coat shows it on your own body.
+
+### Is a tweed overcoat warm enough for winter?
+
+Yes, for most city winters. Dense pure wool tweed holds warm air and blocks wind, and the coat is fully lined; with a suit or a sweater underneath it handles cold city days and evenings. For long periods in deep sub-zero cold, a heavier Melton coat is the warmer choice.
+
+### Will it fit over a suit jacket?
+
+Yes, if you tell us and try the test coat over a jacket. We place the extra room across the back and at the armholes, where a coat over a suit needs it, rather than making the whole coat bigger.
+
+### What is British tweed, and is it itchy?
+
+Tweed is a firm, textured woolen cloth, and this one is woven in Britain from 100% pure new wool. The body and sleeves are fully lined, so the tweed only touches you at the collar; a shirt collar or a scarf keeps it off the neck if you are sensitive.
+
+### Which gray is in the photos?
+
+Medium gray, a clear black and white herringbone. Light gray is softer and paler; both are in the selector, along with blues, greens and reds in the same British tweed.
+
+### Does the coat have a fly front?
+
+Yes. A placket covers the four buttons when the coat is closed, so the front reads as one clean line; in the photos the coat is open, which is why the buttons show.
+
+### Can I change details such as the lapel, buttons or pockets?
+
+Yes. Write it in the comment box of the measurement form, or email us with your order number. Peak lapels, visible buttons, a ticket pocket or a double-breasted front are all possible.
+
+### How do I measure without a tailor?
+
+Ask someone to help with the tape if you can, and follow our **[men’s measuring guide](https://baronboutique.com/mens-measuring-guide/)**. On your own, take the main points and then measure a coat or jacket that already fits you well; we can guide you by video call or WhatsApp.
+
+### When will my overcoat arrive?
+
+The test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you approve the fit, the tweed coat takes 3 to 4 weeks and arrives 5 to 10 days after it ships, so order as early as you can before the cold sets in. Shipping costs are on our **[shipping and delivery](https://baronboutique.com/shipping-and-delivery/)** page.
+
+### How do I care for a tweed overcoat?
+
+Brush it after wearing and let it rest on a shaped hanger. After rain, let it dry naturally at room temperature, away from a heater, and dry clean only when it really needs it.
 
 ## Categories
 

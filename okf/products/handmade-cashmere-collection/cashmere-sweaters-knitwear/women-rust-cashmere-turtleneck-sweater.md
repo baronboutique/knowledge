@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-20T08:09:27Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-31T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-31T03:00:04Z }
 ---
 
 # Women's Rust Cashmere Turtleneck Sweater

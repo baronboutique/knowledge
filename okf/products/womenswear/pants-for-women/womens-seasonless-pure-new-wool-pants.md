@@ -1,7 +1,7 @@
 ---
 type: Product
 title: "Women's Lined Wool Trousers in Super 160s Wool"
-description: "Women's lined wool trousers in 9 oz Super 160s wool, 100% wool, made to your measurements. Lined to the knee as standard, or fully lined to the hem if wool makes you itch, or unlined for hot weather: …"
+description: "Women's lined wool trousers cut to your measurements in 100% Super 160s wool, 9 oz. Lined to the knee as standard, fully lined to the hem or unlined at the same price, with a tapered, straight or wide…"
 resource: https://baronboutique.com/womens-seasonless-pure-new-wool-pants/
 tags: [women, pants, pure-new-wool, wool, seasonless, workwear, bespoke, made-to-order]
 sources:
@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-seasonless-pure-new-wool-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-22
+    last_modified: 2026-10-29
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-31T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-31T03:00:04Z }
 ---
 
 # Women's Lined Wool Trousers in Super 160s Wool
@@ -35,91 +35,104 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Women's lined wool trousers in 9 oz Super 160s wool, 100% wool, made to your measurements. Lined to the knee as standard, or fully lined to the hem if wool makes you itch, or unlined for hot weather: your choice, at the same price. Flat front, gently tapered leg, slanted front pockets and two back pockets, in seven work colors. A free test pair comes first, so the fit is confirmed before your wool is cut.
+Women's lined wool trousers cut to your measurements in 100% Super 160s wool, 9 oz. Lined to the knee as standard, fully lined to the hem or unlined at the same price, with a tapered, straight or wide leg and the waist where you want it. A free test pair in cotton comes first, so the fit is confirmed before your wool is cut. 100% Super 160s worsted wool, not a blend Satin lining: to the knee, full length or none Tapered, straight or wide leg Natural waist or the rise you choose Free test pair in cotton, yours to keep
 
-Lined Wool Trousers
+The Trousers
 
-## Women’s Lined Wool Trousers, Lined the Way You Need
+## Women’s Lined Wool Trousers, Made Your Way
 
-Most women’s wool trousers are sold one way: unlined, which can feel scratchy and cling to tights, or lined in a thick lining that makes them too warm for the office. The lining is rarely your choice. Here it is. These tailored wool trousers come lined to the knee as standard, and you can ask for them fully lined to the hem, or with no lining at all.
+Women’s wool trousers are usually sold one way. The lining stops wherever the factory decided, the leg is whatever shape was in fashion that season, and the rise sits where the size chart puts it. If wool itches, if you wear tights, or if you simply want the waist where your waist is, there is nothing to choose.
 
-These are ladies’ tailored wool trousers for everyday work: wool dress pants and wool dress trousers that read as business casual pants for women with a knit, or as tailored trousers for women with a matching jacket. Whatever women call them, dress slacks or tailored slacks, these are lightweight wool dress pants, or trousers if you prefer the word, in a 9 oz Super 160s cloth you can wear all year. They are fitted trousers for women, not tight ones: fitted dress pants and slim fit dress pants with a clean seat, elegant, dressy pants for women that work as professional pants, tailored office pants and lightweight work pants all day. Women’s tailored trousers like these are office wear first, and woolen trousers for women in a fine worsted cloth stay smooth through the day. If you prefer straight leg tailored trousers or straight leg office pants, women can order that cut too.
+These women’s lined wool trousers start from your choices instead. They are cut to your measurements in 100% Super 160s wool, 9 oz, lined to the knee as standard, fully lined to the hem or unlined at the same price, with a tapered, straight or wide leg. You try a free test pair in cotton at home first, and the client below shows how that goes.
 
-The cloth is a smooth 9 oz Super 160s wool, 100% wool, in seven work colors. The cut is a flat-front trouser with a gently tapered leg, slanted front pockets and two back pockets, made to your measurements. Before we cut your wool, we send you a free test pair to try on at home.
+100% Super 160s wool  
+ Lined to the knee or fully lined  
+ Straight leg on request  
+ Natural waist or your rise  
+ Free test pair
 
-Lined to the knee  
- Fully lined on request  
- Super 160s wool, 9 oz  
- 100% wool  
- Colors in the selector  
- Free test pair first  
- Made to your measurements
+**Price:** $239 **Cloth:** 100% Super 160s worsted wool, 9 oz **Colors:** in the selector **Lining:** satin: to the knee, full length or none **Test pair:** free, in cotton, yours to keep **Care:** machine washable or dry clean; dry clean recommended
 
 ---
 
 Free Test Pair
 
-## A Free Test Pair Before We Cut Your Wool
+## A Real Test Pair: Natural Waist, Full Lining, Straight Leg
+
+**Photos sent to us by the customer.** This is her test pair in cotton, made before her wool was cut. Test pairs are unlined; her order asked for the waist at her natural waist, lining all the way down the leg in the final pair, and a straight leg, not tapered in but not wide.
+
+Front
+
+Natural waist, a straight leg and the length over her shoes.
+
+Back
+
+The seat sits smooth and the leg falls straight to the floor.
+
+Left side
+
+The rise follows her shape from waist to seat.
+
+Right side
+
+No pull at the thigh, no break folding over the shoe.
+
+Her feedback on the test pair was one line: the pants fit very well, except she wanted them 3/4 inch shorter. We took exactly that off the length and made her final pair in wool, at the natural waist, fully lined to the hem, with the straight leg she asked for.
+
+That is what a test pair usually looks like when the measurements are taken carefully. Length is the easiest thing to judge in the photos, and it is the most common change; the harder work, the seat and the rise, was already right. If more is needed, the test pair is where we find it, before the wool is touched.
 
 1
 
-Choose your color and lining
-
-Pick a cloth, enter your measurements on this page, and write your lining choice and any other changes in the comment box.
+**Choose the cloth and the lining, then enter your measurements**  
+ Pick a color and a satin lining in the selector and enter your measurements on the product page. Write where you want the waist, how far down the lining should go and the leg shape in the comment box of the measurement form.
 
 2
 
-We make your test pair
-
-We make a cotton test pair to your measurements and ship it to your door. It is yours to keep.
+**We make your test pair in cotton**  
+ Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch by trackable courier.
 
 3
 
-You check the fit at home
-
-Sit, stand and walk in it. Check the waist, the rise, the taper of the leg and the length, and send us your notes and the requested photos.
+**Sit, stand and walk in it**  
+ Wear the shoes you will wear with the wool pair. Check the waist, the rise, the seat, the line of the leg and the length, and send us your notes and front, back and side photos.
 
 4
 
-We make your final pair
-
-Your notes go into the pattern, and your trousers are cut from your chosen wool and shipped worldwide with tracking.
-
-Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
-
-**Price:** $239 **Production time:** 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair **Delivery:** 5 to 10 days after dispatch **Care:** Machine wash cold on a gentle wool cycle, or dry clean
-
-Not sure how to measure yourself? Our [women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/) walks through each measurement, and the [women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/) shows how trousers should fit.
+**Then we cut your wool**  
+ Your notes go into the pattern and the final pair takes 3 to 4 weeks to make; it arrives 5 to 10 days after dispatch. The test pair is yours to keep.
 
 ---
 
 Choose Your Lining
 
-## Lined to the Knee, Fully Lined or Unlined: Which Is Right for You?
+## Lined to the Knee, Fully Lined or Unlined
 
-A trouser lining does three jobs. It stops the wool from rubbing your skin, it lets the trouser slide over tights instead of clinging, and it takes the strain at the knee when you sit, so the front of the leg keeps its shape. Where the lining stops changes how the trouser feels. Write your choice in the comment box on the measurement form, at the same price.
+A lining does three jobs in wool trousers. It keeps the wool off your skin, it lets the trousers slide over tights instead of clinging with static, and it takes the strain at the knee when you sit, so the front of the leg keeps its shape. Ours is satin, chosen in the selector, and where it stops is your choice at the same price.
 
-Lined to the Knee (Standard)
+| Lined to the knee (standard) | The front of each leg is lined from the waist to just below the knee. The knees do not bag and the thighs stay smooth, while the lower leg breathes. The usual choice for an office all year. |
+| --- | --- |
+| Fully lined to the hem | The lining runs all the way down, so no wool touches your legs: the choice our client made. Choose it if wool makes you itch, if you wear sheer hosiery, or for a little more warmth in winter. |
+| Unlined | No lining at all, for the lightest, coolest pair in a hot climate. Fine Super 160s wool is smooth enough that many women wear it this way. |
 
-The front of each leg is lined from the waist to just below the knee. It protects the knees from bagging and keeps the thighs smooth, while the lower leg stays unlined and breathes. The right choice for most offices, all year.
-
-Fully Lined to the Hem
-
-The lining runs all the way to the hem, so no wool touches your legs. Choose it if wool makes you itch, if you wear tights or sheer hosiery, or if you want a little more warmth in winter.
-
-Unlined
-
-No lining at all, for the lightest, coolest trouser in hot climates. Fine Super 160s wool is smooth enough that many women are comfortable without a lining.
+If wool makes you itch, it is usually the thicker fibers pressing on the skin. Super 160s is one of the finest grades used for trousers, so it feels soft, and fully lined wool pants never touch your legs at all. Searching for lined wool pants, ladies often expect to pay more for the full lining; here it is part of the service. These are womens lined wool dress pants in every sense: lined dress pants for women who wear tights, and lined dress pants that slide over hosiery instead of clinging.
 
 ---
 
-Wool and Sensitive Skin
+The Cut
 
-## If Wool Makes You Itch
+## Natural Waist, Your Rise, Your Leg Shape
 
-The prickle people feel from wool usually comes from thick fibers pressing on the skin. The finer the fiber, the softer it feels, and Super 160s is one of the finest grades used in trousers. Many women who avoid wool are comfortable in it.
+| Waist and rise | Set to your measurements. Ask for the natural waist, as our client did, or a mid or high rise; the test pair shows where it sits. |
+| --- | --- |
+| Tapered leg (standard) | Narrows gently from the knee, the clean line shown in our photos. |
+| Straight leg on request | The same width from knee to hem: straight leg dress pants, women often say, that are not tapered in but not wide. Our client chose this. |
+| Wide leg on request | More room from the hip down, for a softer, fuller line. |
+| Front | Flat front with a zip fly and hook closure; pleats on request. |
+| Pockets | Two slanted front pockets and two piped back pockets. |
 
-If your skin is still sensitive, ask for the trousers to be fully lined. The lining becomes the only layer against your legs, so you get the drape and breathability of wool without it touching your skin. It is part of the service, at no extra cost.
+Our client’s straight leg is one of the most searched shapes too: straight leg work pants women can wear with flats or heels, straight leg tailored trousers women prefer to a taper, and straight leg office pants women find easier over boots. Cut this way, straight dress pants women order fall cleanly from hip to hem.
+
+The back of dress pants is where a cheap pair gives itself away: cloth gathers under the seat or pulls across it. In the suit pants back view above, the seat is smooth and the leg drops straight, which is what a well-fitted pair of dress trousers for women should look like from behind.
 
 ---
 
@@ -127,27 +140,29 @@ The Cloth
 
 ## 100% Super 160s Wool, Not a Wool Blend
 
-Many trousers sold as wool are wool blends: wool mixed with polyester or viscose to cut the cost. Blends can be easier to care for, but they often shine sooner, pill at the thighs and feel warmer and less breathable. These trousers are 100% wool.
+Many women’s wool trousers on sale are wool blend pants: wool mixed with polyester or viscose to bring the price down. Wool blend trousers can be easier to care for, but they tend to shine at the seat sooner, pill at the inner thigh and feel warmer and less breathable. If you have been comparing wool blend womens trousers or ladies wool blend trousers, these are different: 100% wool.
 
-The cloth is a 9 oz Super 160s worsted wool with a plain weave. That weight is light enough for heated offices and warm days, and the fine yarn gives it a smooth, soft hand and a clean drape that hangs straight from the hip. It is a seasonless cloth: you can wear it through most of the year, and full lining adds warmth when it is cold.
+Ladies tailored wool trousers in a pure cloth like this are harder to find than they should be, because many wool blend pants women see online list polyester or viscose on the label. Tailored wool pants in 100% wool simply age better.
 
-Need back pockets you can use? Our [women’s dress pants with back pockets](https://baronboutique.com/womens-warm-weather-wool-pants/) are cut in a lighter mohair wool blend. For a menswear-inspired straight leg, see our [formal pants for women](https://baronboutique.com/womens-menswear-inspired-pants/).
+The cloth is a 9 oz Super 160s worsted wool in a plain weave. That weight makes them lightweight wool dress pants, and lightweight wool trousers, light enough for a heated office and warm days, with a smooth hand and a clean drape from the hip. It is a seasonless cloth, so these are seasonless tailored work pants for most of the year, and the full lining adds warmth when it is cold. Lightweight wool pants in a fine worsted keep their shape better than lightweight dress pants in a thin blend. Designer wool trousers and designer wool pants in a comparable cloth can cost far more, and they come in standard sizes.
+
+For a lighter blend with usable back pockets see our **[women’s dress pants with back pockets](https://baronboutique.com/womens-warm-weather-wool-pants/)**, and for a menswear-inspired straight leg our **[formal pants for women](https://baronboutique.com/womens-menswear-inspired-pants/)**.
 
 ---
 
 The Colors
 
-## Colors for Work
+## Colors for Work, Up Close
 
-These are close-up photos of the actual cloths. Pick one in the fabric selector above.
-
-Black
-
-The most formal choice, and the easiest to pair.
+These are close-up photos of the actual cloths. Choose your color in the selector; here are the shades currently on offer.
 
 Dark Gray
 
-A charcoal gray that is softer than black. The color in the photos.
+The charcoal gray in our photos, softer than black and the easiest to wear every day.
+
+Black
+
+The most formal choice and the simplest to pair.
 
 Medium Gray
 
@@ -159,51 +174,62 @@ A lighter gray for spring and summer.
 
 Steel Gray
 
-A gray with a warm undertone that works with camel and brown.
+A gray with warmth, easy with camel, brown and cream.
 
 Navy Blue
 
-A classic navy, a softer alternative to black.
+A classic navy, softer than black under office light.
 
 Midnight Blue
 
 The deepest blue, close to black in low light.
 
+**Looking for another color?** Ask us with the Ask a question about this piece form below Add to Cart on this page, or email **[contact@baronboutique.com](mailto:contact@baronboutique.com)**, and we will tell you what we can offer.
+
+Charcoal is what most people search for. Dark gray, the color in our photos, makes the charcoal gray dress pants women can wear four days a week, and charcoal gray tailored trousers women can pair with a black, navy or camel jacket. These are the dark gray tailored trousers women choose when black feels too severe, and as dark gray tailored pants, women can still wear them with navy. A dark charcoal reads close to black: dark charcoal tailored trousers women wear to interviews, or dark charcoal trousers women soften with a cream knit. With a straight leg it gives the charcoal gray straight slacks women ask for, and dark gray straight pants women wear with loafers. In medium or steel gray they become gray dress pants women can wear in summer, or charcoal gray tailored pants women keep as a second pair.
+
+---
+
+At Work
+
+## Women’s Tailored Work Pants in 100% Wool
+
+These are the wool dress pants women can wear to work all year, tailored wool trousers made to be worn four or five days a week. With a fine knit they are business casual pants for women; with a matching jacket they read as suit pants. Whatever you call them, wool dress pants, dress slacks or tailored slacks, the point is the same: they stay smooth and comfortable from the first meeting to the last. Tailored pants women wear every day live or die by the seat and the rise, which is exactly what the test pair settles.
+
+| Office every day | Dark gray or navy with a knit or a plain blouse: tailored office pants women can wear on repeat without them looking tired. |
+| --- | --- |
+| Presentations | Black or charcoal with a jacket: professional pants for women that hold a crease. |
+| Travel and long days | Fully lined, they slide over tights and do not crease badly when you sit for hours. |
+| Warm offices | Unlined or lined to the knee, the 9 oz cloth keeps them lightweight work pants women can wear in summer. |
+| Evenings | With silk and heels they are elegant pants for women who would rather not wear a dress, and dressy pants for women that still feel like trousers. |
+| With a jacket | Under a gray or navy jacket they read as wool suit pants women can also wear on their own. |
+
+For the office they are wool work trousers in the plainest sense: wool work trousers women wear daily, women’s work trousers that hold a crease, and tailored work pants that do not bag at the knee. Tailored work pants women can buy once and wear for years replace several cheaper pairs. As office pants for women they come in quiet colors; as dress pants for work women can wear them with a jacket or a knit, or as the business dress pants women need for client meetings. They are fitted dress pants women can sit in all day and fitted trousers women can move in, and if you want a closer leg, ask for the slim fit dress pants women often prefer. Wool tailored pants women can wear without a jacket are the most useful trousers in a working wardrobe.
+
 ---
 
 Full Spec
 
-## Full Specifications
+## Women’s Lined Wool Trousers, Specification
 
 | Cloth | Super 160s worsted wool, 100% wool, 9 oz, plain weave |
 | --- | --- |
-| Lining | Acetate, front lined to the knee; fully lined or unlined on request |
+| Colors | In the selector |
+| Lining | Satin, chosen in the selector; front lined to the knee as standard, fully lined or unlined on request |
+| Waist and rise | Set to your measurements; natural waist, mid or high rise on request |
 | Front | Flat front, zip fly with hook closure; pleats on request |
-| Leg | Gently tapered; straight or wide leg on request |
-| Waistband | 1.5-inch plain waistband, grip-lined to keep blouses tucked in, waistband lining |
-| Rise | Set to your measurements; high or mid rise on request |
+| Leg | Gently tapered as standard; straight or wide leg on request |
+| Waistband | 1.5 inch plain waistband with a grip inside to keep blouses tucked in |
 | Pockets | Two slanted front pockets, two piped back pockets |
 | Buttonholes | Hand-finished |
 | Buttons | Hand-stitched and reinforced |
-| Hem | 3-inch blind hem, hand-stitched |
-| Seams | Ample seam allowances for future alteration |
-| Care | Machine wash cold on a gentle wool cycle and hang to dry, or dry clean |
-
-Want a different leg shape, rise, pleats or another change? Write it in the comment box on the measurement form, or send your request through the “Ask a question about this piece” form below the Add to Cart button, and we will confirm before we start.
-
----
-
-vs. Off the Rack
-
-## Custom vs. Off the Rack
-
-| | Off the Rack | Baron Boutique |
-| --- | --- | --- |
-| Lining | Whatever the brand chose | Lined to the knee, fully lined or unlined, your choice |
-| Cloth | Often a wool blend | 100% Super 160s wool |
-| Fit | Standard sizes, hemmed to one length | Waist, hip, rise and length cut to your measurements |
-| Fit check | Returns or paid alterations | Free test pair before your wool is cut |
-| Future changes | Little seam allowance | Ample seam allowances for future alteration |
+| Hem | 3 inch blind hem, hand-stitched |
+| Seam allowances | Ample, for future alteration |
+| Test pair | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test pair, 3 to 4 weeks for the final pair |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Machine washable on a cold wool cycle and dry cleanable; dry cleaning recommended |
+| Price | $239 |
 
 ---
 
@@ -225,59 +251,51 @@ Questions & Answers
 
 ### Are these women’s wool trousers lined?
 
-Yes. The front of each leg is lined in acetate from the waist to just below the knee as standard. You can ask for them fully lined to the hem, or unlined, in the comment box on the measurement form, at the same price.
+Yes. As standard the front of each leg is lined in satin to just below the knee; you can ask for them fully lined to the hem or unlined, at the same price, in the comment box of the measurement form.
 
 ### Should I choose lined to the knee or fully lined?
 
-Lined to the knee suits most people: it keeps the knees from bagging and the thighs smooth, while the lower leg breathes. Choose fully lined if wool makes you itch, if you wear tights, or if you want more warmth in winter.
+Lined to the knee suits most offices: the knees keep their shape and the lower leg breathes. Choose fully lined if wool makes you itch, if you wear tights or sheer hosiery, or if you want more warmth in winter.
 
-### Why are wool trousers only lined to the knee?
+### I find wool itchy. Can I still wear these?
 
-The knee takes the most strain when you sit, and a lining there stops the wool from stretching into a bag at the front of the leg. Stopping the lining below the knee keeps the lower leg cooler and lighter than a full lining.
+Most women can. Super 160s is a very fine grade, so it feels soft, and fully lined trousers keep the wool off your skin altogether.
 
-### I find wool itchy. Can I still wear these trousers?
+### Are these wool blend trousers?
 
-Most likely, yes. Super 160s is a very fine wool and feels smooth rather than scratchy. If your skin is sensitive, ask for the trousers to be fully lined, so only the lining touches your legs.
+No, they are 100% wool. Wool blend trousers mix in polyester or viscose to save cost and tend to shine and pill sooner; these use pure Super 160s worsted wool.
 
-### Are these women’s wool blend pants or wool blend tailored trousers?
+### Are these washable wool trousers?
 
-No. They are 100% wool, a 9 oz Super 160s worsted. Blends mix wool with polyester or viscose to lower the cost; pure wool breathes better, drapes more cleanly and is slower to shine.
+Yes, these are washable wool trousers women can machine wash at home on a cold wool cycle and hang to dry, and they can be dry cleaned. Like any washable wool pants, women who want them to keep their press will find dry cleaning gentler, and we recommend it.
 
-### Are these machine washable wool pants and washable wool trousers for women?
+### Can I order a straight leg instead of a tapered leg?
 
-Yes. Wash them cold on a gentle wool cycle and hang them to dry, or dry clean them if you prefer. Wash only when they need it: between wears, hang them by the hem or waistband and brush them, and fine wool recovers from creases overnight.
+Yes. Write straight leg in the comment box, or wide leg if you prefer; our client in the photos chose a straight leg, not tapered in but not wide, and you check it on your test pair.
 
-### Are these trousers warm enough for winter?
+### Can the waist sit at my natural waist?
 
-At 9 oz, the wool is light enough for heated offices and warm days. For a colder commute, choose fully lined: the extra layer adds warmth and blocks drafts.
+Yes. The rise is set to your measurements, and you can ask for the natural waist, a mid rise or a high rise; the test pair shows where it sits before the wool is cut.
 
-### Are these good tailored work pants for women?
+### What changes most often on the test pair?
 
-Yes. They are lined wool dress pants cut as a classic work trouser: flat front, slanted pockets, a grip-lined waistband that keeps blouses tucked in, and a tapered leg that works with heels or flats. The colors in the selector cover most office wardrobes.
-
-### Can women order these as straight leg dress pants or straight leg work pants instead of a tapered leg?
-
-Yes. Write “straight leg” or “wide leg” in the comment box on the measurement form and we will cut the leg that way. You can also ask for a higher or lower rise, or for pleats.
-
-### Are these lined wool dress pants good as women’s wool work pants?
-
-Yes, these lined wool dress pants are made for long working days. The lining to the knee stops the wool from clinging when you sit, and dark gray, navy and black are the easiest colors for women’s work pants and business casual dress codes. As wool work trousers they hold a crease and recover from sitting.
+Length, as with our client, who asked for hers 3/4 inch shorter. When the measurements are right, the seat and rise rarely need much; if they do, the test pair is where we find it.
 
 ### What is the difference between women’s slacks vs dress pants?
 
-There is no real difference in tailoring today. Slacks is the older, more casual word, and dress pants is the more formal one; both mean tailored trousers with a waistband, belt loops and a pressed leg, which is exactly what these are.
+Slacks is the older, more relaxed word for tailored trousers worn outside a suit; dress pants usually means a sharper pair for the office. These work as both: women’s tailored slacks and women’s dress slacks are the same garment here, and the tailored dress pants women wear for work are what the British call tailored dress trousers. Flat front, a clean crease and fine wool.
 
-### How do these compare with designer wool trousers?
+### Are these warm enough for winter?
 
-Compare the cloth before the label. Check the fiber content and the Super number on any designer wool trousers or designer wool pants: these are 100% Super 160s wool, lined, and cut to your measurements after a free test pair.
+The 9 oz cloth is a seasonless weight. For colder months ask for them fully lined, which adds warmth without bulk.
 
-### How much do these lined wool trousers cost?
+### How do I measure for wool trousers?
 
-They are $239 in any of the colors and with any lining choice. The price includes a free cotton test pair that is yours to keep, so the fit is confirmed before your wool is cut.
+Use our **[women’s trouser measuring guide](https://baronboutique.com/womens-trouser-measuring-guide/)** and see the **[women’s trouser fit guide](https://baronboutique.com/womens-trouser-fit-guide/)** for how much room each fit leaves. On your own, take your waist and hips and measure a pair that already fits you well; we can guide you by video call or WhatsApp.
 
-### How long does it take to receive my trousers, and do you ship internationally?
+### How long will my trousers take?
 
-Your test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship worldwide with tracking, and if you need them by a date, order as early as you can.
+The test pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you approve the fit, the final pair takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch, so order as early as you can.
 
 ## Categories
 

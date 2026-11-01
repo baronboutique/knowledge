@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Egyptian Cotton Dress Shirts"
-description: "Off-the-rack Egyptian cotton dress shirts get the fabric right and the fit wrong. This one gets both. Every shirt is 100% Egyptian cotton at 220 thread count, cut to your exact measurements; and befor…"
+title: "Men's Egyptian Cotton Dress Shirt, 220 Thread Count, Custom Made"
+description: "A men's Egyptian cotton dress shirt in 100% Egyptian cotton at 220 thread count, with an easy-iron finish, cut after you order it from your own measurements."
 resource: https://baronboutique.com/mens-light-blue-egyptian-cotton-shirt/
 tags: [men, shirt, dress-shirt, egyptian-cotton, cotton, light-blue, formalwear, workwear, bespoke, made-to-order]
 sources:
@@ -9,17 +9,18 @@ sources:
     resource: https://baronboutique.com/mens-light-blue-egyptian-cotton-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-22
+    last_modified: 2026-10-26
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
+  - { by: human:baron-boutique, at: 2026-10-26T04:49:36Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-31T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-31T03:00:04Z }
 ---
 
-# Egyptian Cotton Dress Shirts
+# Men's Egyptian Cotton Dress Shirt, 220 Thread Count, Custom Made
 
 **SKU:** 2100008  
 **URL:** https://baronboutique.com/mens-light-blue-egyptian-cotton-shirt/  
@@ -34,126 +35,150 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Off-the-rack Egyptian cotton dress shirts get the fabric right and the fit wrong. This one gets both. Every shirt is 100% Egyptian cotton at 220 thread count, cut to your exact measurements; and before we cut it, we send a free test shirt to confirm the fit at home. Eight colors, same price.
-
----
+A men's Egyptian cotton dress shirt in 100% Egyptian cotton at 220 thread count, with an easy-iron finish, cut after you order it from your own measurements. Before the Egyptian cotton is cut, you try a free test shirt in cotton at home, so the collar, shoulders and back are right the first time. 100% Egyptian cotton, 220 thread count Easy-iron finish, machine washable Convertible round cuff; barrel cuff, collar and pocket changes on request Every color in the selector, same price Free test shirt in cotton, yours to keep
 
 The Shirt
 
-## Egyptian Cotton Dress Shirts, Made to Your Measurements
+## Men’s Egyptian Cotton Dress Shirt, Cut to Your Measurements
 
-Off-the-rack Egyptian cotton dress shirts solve one problem and create another. The fabric is right — or it should be — but the fit is a standard block built for an average body. The chest fits or the shoulders fit. Rarely both. A shirt that costs what Egyptian cotton costs deserves to fit the person it was made for.
+Search for an Egyptian cotton shirt and you find the same promise everywhere: softer, stronger, more breathable. The cotton can deliver that. What it cannot do is fix a shirt cut for someone else, and fine, smooth cotton shows every fold of spare cloth at the waist and every pull across the shoulders.
 
-Every shirt on this page is 100% Egyptian cotton at 220 thread count, cut to your measurements after you order it. Before we cut the real fabric, we send you a complete test shirt to try on at home and confirm the fit. Eight colors available at the same price.
+Most Egyptian cotton shirts for men, and most Egyptian cotton dress shirts for men, are sold by collar and sleeve size, so the chest, waist and shoulders are an average. This men’s Egyptian cotton dress shirt is different: a 220 thread Egyptian cotton shirt, 100% cotton, cut after you order it from your own measurements. Before we cut the Egyptian cotton, we send you a test shirt in cotton to try at home, and the photos below come from a client who did exactly that.
 
-100% Egyptian Cotton  
- 220 Thread Count  
- 8 Colors  
- Button down collar  
- Machine Washable
+100% Egyptian cotton  
+ 220 thread count  
+ Easy-iron finish  
+ Convertible round cuff  
+ Free test shirt
+
+**Price:** $199 **Cloth:** 100% Egyptian cotton, 220 thread count **Colors:** in the selector, same price **Cuffs:** convertible round, barrel on request **Test shirt:** free, in cotton, yours to keep **Care:** machine wash, easy iron
 
 ---
 
 Free Test Shirt
 
-## Free Test Shirt — Before We Cut the Egyptian Cotton
+## A Test Shirt in Cotton, Before We Cut the Egyptian Cotton
 
-At 220 thread count, Egyptian cotton has almost no structural forgiveness. It drapes closely to the body and sits against the skin. A chest measurement that is half an inch too wide reads as excess fabric across the back. A collar that gaps reads in the mirror before you have left the house. There is no off-the-rack shirt at this fabric quality that fits without adjustment — which is why every Baron order begins with a test shirt, not a finished garment.
+**Photos sent to us by the customer.** This is his test cotton shirt, made in a plainer cotton before the Egyptian cotton was cut. He asked for his own collar and cuff details, so it does not match the shirt in our main photos; every test shirt follows the style the client orders.
 
-Before we cut your Egyptian cotton, we make a complete test shirt in cotton muslin to your exact measurements. You try it on at home — with a jacket if you intend to wear it that way, untucked if that is how you wear it. You note what needs adjusting. We correct the pattern. Then we cut the real shirt.
+Front
 
-The test shirt is included in the price. It is not a separate service or an upsell. It is how we guarantee that 220-thread Egyptian cotton is not wasted on a shirt that does not fit the person it was made for.
+Collar, shoulders and chest checked in the mirror at home.
 
-The test shirt ships before the final garment. No additional charge for this step.
+Back
+
+The back is where a standard shirt gives itself away.
+
+A test shirt is the shirt itself, cut from your pattern in a plainer, lower-cost cotton. It is not finished to the last detail; its job is to show how the collar sits, where the shoulder seam falls, how much room there is across the back and where the sleeves end, on your body, at home.
+
+Most changes are small: a little more room over the shoulder blades, a sleeve a quarter inch shorter, a collar that should sit closer to the neck. These are the things a size label never gets right, and they are settled here, so the Egyptian cotton is cut once.
+
+1
+
+**Choose your color, then enter your measurements**  
+ Pick the color in the selector and enter your collar, chest, shoulder width, sleeve length and shirt length on the product page. Write any style change, such as the collar, the cuffs or no chest pocket, in the comment box of the measurement form.
+
+2
+
+**We make your test shirt in cotton**  
+ The test shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch by trackable courier.
+
+3
+
+**Wear it the way you will wear the real one**  
+ Button the collar with a tie if you wear one, tuck it in, put a jacket over it, raise your arms and sit down. Tell us every change, however small.
+
+4
+
+**Then we cut the Egyptian cotton**  
+ We correct the pattern and make your final shirt in 3 to 4 weeks; it arrives 5 to 10 days after dispatch. The test shirt is yours to keep.
 
 ---
 
-Who It’s For
+Pro and Con
 
-## Who This Egyptian Cotton Dress Shirt Is For
+## Egyptian Cotton Dress Shirts, Pro and Con
 
-The man who has bought “Egyptian cotton” before and was disappointed
+People often ask whether Egyptian cotton dress shirts are worth it. An honest answer has both sides.
 
-You were not wrong to be disappointed — you were likely sold a blend or a mislabeled shirt. Authentic 220-thread ELS cotton feels different from the first wear, and the difference compounds over time. If you have never owned a shirt that actually got better with washing, this is that shirt.
+| Pro: the feel | Extra-long fibers spin into a finer, smoother yarn, so the cloth feels soft against the skin from the first wear and gets softer with washing. |
+| --- | --- |
+| Pro: it breathes | Fine yarn makes a light cloth that lets air through, which is why it works as a lightweight cotton dress shirt in warm offices and under a jacket. |
+| Pro: it lasts | Longer fibers leave fewer loose ends in the yarn, so the surface pills less and the collar and cuffs wear more slowly than cheaper cotton. |
+| Con: the price | It costs more than ordinary cotton, and you pay for it whether or not the shirt fits. That is the reason we cut it only after the test shirt. |
+| Con: the label | The words Egyptian cotton are sometimes put on blends or on cotton that is not extra-long staple. With any dress shirt, cotton or blend, the fiber content and thread count on the label tell you more than the name. |
+| Con: creases still happen | Ours has an easy-iron finish, so it comes out of the wash smoother and irons quickly, but no cotton shirt stays crisp through a long day and a car seat. |
+| Con: light colors show everything | A light blue or white shirt in a fine cloth shows sweat at the underarm and a dark undershirt through the front. A white or skin-tone undershirt helps. |
 
-The man who wears a suit every day and needs a shirt that performs under a jacket
-
-A bespoke Egyptian cotton shirt cut to your chest measurement lays flat under a jacket without bunching at the back or pulling at the armhole. That is entirely a fit problem — one that off-the-rack shirts address by asking you to choose between your chest and your shoulders. The test shirt solves it before the Egyptian cotton is cut.
-
-The man who researches before he buys and wants to know the thread count
-
-220 thread count, single-ply Egyptian cotton. Not a blend. Not a multi-ply yarn counted as double to inflate the number. The thread count here means what it says. If you are the buyer who asks that question, this shirt was made for you.
-
-The man building a permanent dress shirt rotation, not a temporary one
-
-ELS Egyptian cotton gets softer and more fitted to the body over years of washing. A shirt made to your exact measurements, from authentic Egyptian cotton, is not a garment you replace in three years. Eight colors are available at the same price — if you are building a rotation, the cost per shirt compares favorably against anything at this fabric quality.
+Who should choose something else: if you want a shirt that never needs an iron at all, or you need it this week, a ready-made shirt is the sensible buy. If you want men’s Egyptian cotton dress shirts that fit and last, read on.
 
 ---
 
-How It Works
+The Cotton
 
-## How Your Egyptian Cotton Dress Shirt Is Made
+## What 220 Thread Count Means
 
-1**Choose your color and enter your measurements**  
-Select your Egyptian cotton color and cuff style — barrel or French cuff. Enter your measurements directly on the product page: collar, chest, shoulder width, sleeve length, and shirt length. No emails, no back-and-forth.
+Thread count is the number of threads in one square inch of cloth, lengthwise and crosswise together. Egyptian cotton at 220 thread count, which some buyers write as two twenty thread Egyptian cotton, is a fine shirting fabric: dense enough to look smooth and hold a press, light enough to stay comfortable under a jacket.
 
-2**We build your free test shirt**  
-A complete test shirt in cotton muslin is made to your measurements and shipped via trackable courier. Every construction element of the final shirt is reflected in the test.
+A higher number is not always better, because very high counts often come from counting twisted yarns more than once, and the cloth gets heavier rather than finer. When you compare Egyptian cotton for shirts, judge the fiber and the feel: good Egyptian cotton fabric for shirts is even and cool to the touch, and an Egyptian cotton 220 thread shirt is fine enough for business wear yet sturdy enough for weekly washing. An Egyptian cotton dress shirt close up shows why people pay for it: in an Egyptian cotton dress shirt fabric close up, the surface is smooth, with a soft sheen and no fuzz. Ours is the same Egyptian cotton shirt fabric in every color, an Egyptian cotton shirting fabric with no polyester, so it belongs with all cotton dress shirts rather than blends.
 
-3**You try it on and give us your notes**  
-Check the collar height, the shoulder line, the sleeve length, and how the shirt sits across the chest. Most clients send two to four adjustment notes.
+---
 
-4**We build your final shirt**  
-Every adjustment is applied to the pattern. Your 220-thread Egyptian cotton dress shirt is then cut and constructed to the corrected fit.
+The Back
 
-5**Your shirt ships worldwide**  
-The finished shirt ships via trackable courier. The test shirt is yours to keep.
+## The Back of a Dress Shirt Is Where the Fit Shows
 
-6**We answer if anything needs attention**  
-We are reachable by email and we reply. Our customers come back because the fit is right and we answer emails. Every garment is made by a tailor whose name we know.
+Look at the back of dress shirt photos from most shops and the cloth balloons above the belt once the shirt is tucked in. Ready-made shirts are cut with extra room through the waist so one size covers many bodies, and tucked in, that room has nowhere to go but out at the back.
 
-**Fabric:** 100% Egyptian cotton, 220 thread count **Colors:** 8, same price across all **Cuffs:** Barrel or French cuff **Production:** 3 to 4 weeks for the test shirt, 3 to 4 weeks for the final shirt **Care:** Machine wash
+Our back dress shirt cut has a one-piece shoulder yoke and a center pleat, as in the dress shirt back view above. On a shirt cut to your measurements, the pleat gives room when you reach forward and folds closed when you stand, so a dress shirt from behind looks clean, not puffy. You can see it in the customer’s test shirt too, photographed as a shirt from behind at home.
+
+---
+
+Wearing It
+
+## Wearing a Light Blue Cotton Dress Shirt
+
+A light blue dress shirt, professional without looking stiff, is the most useful shirt a man can own, and an Egyptian cotton shirt men can wear from Monday to Friday. It goes under navy, gray and brown suits, with or without a tie, and as the Egyptian cotton button-down shirt shown here it is relaxed enough for an open collar with chinos.
+
+| Under a suit | Of all men’s suit shirts, light blue is the easiest: it softens navy and gray and flatters most complexions. The convertible cuff also takes cufflinks, so it dresses up for formal suits. |
+| --- | --- |
+| At the office | Egyptian cotton formal shirts look sharp but breathe; an Egyptian cotton formal shirt stays comfortable through a full day indoors. |
+| In the heat | A light, fine cloth and a fit with no extra fabric make it cooler than a heavy oxford in summer. |
+| Open collar | The button-down collar keeps its roll without a tie, so it works with a blazer at the weekend. |
+
+For men, cotton shirts in Egyptian cotton are the step up from the cotton dress shirts men buy off the rack and from most men’s cotton shirts sold by collar size. Egyptian cotton shirts men buy once tend to become the ones they reach for first, so plan for more than one.
+
+If you plan a set, say so in the comment box when you order. Every Egyptian cotton dress shirt men order from us starts from a fitted test shirt, so a second Egyptian cotton men’s shirt in white, or Egyptian cotton men’s dress shirts in pink or lavender for a set of suit shirts for men, can be planned once the fit is approved. Egyptian cotton men’s shirts in two or three colors cover a working week.
 
 ---
 
 Full Spec
 
-## Egyptian Cotton Dress Shirt — Construction Details
+## Men’s Egyptian Cotton Dress Shirt, Specification
 
-| Fabric | 100% Egyptian cotton, 220 thread count, single-ply |
+| Garment | Cotton dress shirt, men’s, custom made to your measurements |
 | --- | --- |
-| Colors | Light Blue, Blue, Black, Lavender, Light Purple, Pink, Sky Blue, White |
-| Collar | Button-down classic collar |
-| Placket | French front placket |
-| Cuffs | Convertible two-button barrel or French cuff |
-| Buttons | Hand-stitched buttons |
-| Seams | Flat-felled seams throughout |
-| Yoke | One-piece shoulder yoke |
-| Back | One-piece back with centerfold |
+| Type | Egyptian cotton shirt, men’s formal dress shirt |
+| Shown | Light blue shirt, Egyptian cotton, button-down collar and chest pocket |
+| Cloth | 100% Egyptian cotton, 220 thread count, easy-iron finish |
+| Colors | In the selector, same price for every color |
+| Collar | Button-down, as shown; other collars or a white collar and cuffs on request |
+| Placket | Front placket |
+| Cuffs | Convertible cuff with rounded corners, worn buttoned or with cufflinks; barrel or French cuff on request |
+| Buttons | Hand-stitched and reinforced |
+| Back | One-piece shoulder yoke, center pleat |
 | Hem | Curved shirt hem |
-| Pocket | Left chest pocket, round |
-| Sleeve placket | Single-button closure |
-| Care | Machine wash — fabric improves with washing |
-| Fit | Slim / Standard / Relaxed / Athletic — your choice |
-| Price | $199, same across all colors |
+| Pocket | Left chest pocket, or none on request |
+| Fit | Cut to your measurements; tell us in the comment box if you want it closer or easier |
+| Test shirt | Free, in cotton, yours to keep |
+| Production | 3 to 4 weeks for the test shirt, 3 to 4 weeks for the final shirt |
+| Delivery | 5 to 10 days after each dispatch, by trackable courier |
+| Care | Machine wash on a gentle cycle, hang to dry, easy iron |
+| Price | $199 |
 
 ---
 
-vs. Off the Rack
-
-## Bespoke Egyptian Cotton vs. Off the Rack
-
-| | Baron Boutique | Off the Rack |
-| --- | --- | --- |
-| Cotton authenticity | 100% ELS Egyptian cotton, 220 thread count | Often mislabeled — blends and non-ELS cotton sold under the Egyptian cotton name |
-| Thread count | 220 single-ply — genuine spec | Thread count often inflated via multi-ply yarn counting |
-| Fit | Cut to your exact measurements | Standard block — fits chest or shoulders, rarely both |
-| Fit guarantee | Free test shirt before any Egyptian cotton is cut | No — returns only |
-| Aging | Softer and better-fitting with every wash | Standard cotton begins degrading within the first year of regular wear |
-| Collar construction | Stitched interlining — holds shape indefinitely | Typically fused — delaminates after 50-60 washes |
-| Color options | 8 colors, same price | Limited to what is in stock in your size |
-
----
+About Baron
 
 ## About Baron Boutique
 
@@ -165,45 +190,65 @@ Our customers come back because the fit is right and we answer emails. Every gar
 
 ---
 
-FAQ
+Questions & Answers
 
-## Egyptian Cotton Dress Shirts — Questions Answered
+## Questions About the Men’s Egyptian Cotton Dress Shirt
 
-### How long should an Egyptian cotton dress shirt last with regular weekly wear?
+### Are Egyptian cotton dress shirts worth the price?
 
-A well-constructed Egyptian cotton dress shirt worn two to three times per week should last 10 to 15 years with normal care. Authentic extra-long staple Egyptian cotton strengthens with repeated washing rather than degrading — the fiber length that makes it feel softer than standard cotton also makes it structurally more durable over time. The limiting factor in most dress shirts is not the body fabric but the collar interlining: a fused collar begins to delaminate after 40 to 60 washes, while a stitched interlining holds its shape indefinitely. Baron Boutique dress shirts use stitched collar construction specifically because it matches the lifespan of ELS Egyptian cotton rather than shortening it.
+They are if the shirt fits. The cloth is softer, more breathable and longer wearing than ordinary cotton, but those gains are wasted on a shirt that pulls at the shoulders or balloons at the back. That is why we pair the cotton with a test shirt cut to your measurements.
 
-### Which measurement matters most when ordering a bespoke Egyptian cotton dress shirt?
+### What does 220 thread count mean, and is two twenty thread the same?
 
-The chest measurement is the most critical, followed immediately by the collar. Egyptian cotton at 220 thread count drapes closely to the body — it does not have the structural forgiveness of a heavier poplin or a stiffer broadcloth. A chest that is half an inch too generous creates excess fabric at the back that bunches under a jacket and cannot be pressed flat. All measurements are entered directly on the product page with a guide for each one, and the free test shirt catches any fit issues before the Egyptian cotton is touched.
+Yes, 220 and two twenty thread are the same thing: 220 threads in one square inch of cloth, counted both ways. For a dress shirt it gives a fine, smooth fabric that is still light. A higher count is not automatically better, because some high numbers come from counting twisted yarns more than once.
 
-### Is this made to my measurements or does it come in standard sizes?
+### How can I tell real Egyptian cotton from a blend?
 
-Every shirt is made to your measurements — there are no warehouse stock sizes. The shirt is cut after you order it, from your specific measurements, using a pattern corrected by the test shirt step. For an Egyptian cotton dress shirt intended to sit under a suit jacket, this matters practically: standard blocks address the average, which means the chest, shoulders, and sleeve length are each approximating your body rather than matching it. The test shirt exists because approximation is not good enough for 220-thread ELS cotton.
+Read the fiber content first: it should say 100% cotton, not a cotton and polyester mix. Real extra-long staple cotton feels smooth and cool, with a soft sheen and no fuzz on the surface, and it softens with each wash instead of pilling.
 
-### What does “220 thread count” mean for a dress shirt, and is higher always better?
+### Is an Egyptian shirt always Egyptian cotton?
 
-Thread count measures how many threads are woven per square inch of fabric — a 220 thread count means 220 individual threads. For Egyptian cotton specifically, 220 thread count from single-ply yarn produces a fabric that is fine, smooth, and breathable without becoming fragile or sheer. Higher thread counts are not automatically superior: many shirts claiming 400 or 500 thread counts achieve that number by twisting multiple thin threads together and counting each ply separately, which results in a heavier, less breathable fabric. A genuine 220 single-ply Egyptian cotton shirt will outperform a 400-count multi-ply blend in feel, breathability, and longevity — which is why thread count alone is not a reliable quality signal without knowing the ply and the cotton origin.
+Almost always. The Egyptian shirts men search for are dress shirts in Egyptian cotton, and an Egyptian shirt men wear to work is simply a shirt in that cotton. Egyptian cotton clothing for men and women is sold on the long fiber of cotton grown in Egypt, and Egyptian cotton clothes for men are judged the same way. For an Egypt cotton shirt, check that the label says 100% cotton, because the fiber matters more than the name.
 
-### What makes Egyptian cotton different from regular cotton shirts?
+### What is the test shirt made of?
 
-Egyptian cotton is grown exclusively in the Nile River Valley, where specific soil conditions produce a fiber with an unusually long staple — the individual fiber length is significantly greater than standard cotton varieties. Longer fibers spin into finer, stronger yarn, which in turn produces a smoother, more breathable fabric with superior durability. The practical difference in a dress shirt is that genuine Egyptian cotton feels softer the more it is washed, develops a subtle sheen over time, and resists the pilling and deterioration that affects standard cotton within the first year of regular wear. The challenge for buyers is that “Egyptian cotton” has become a heavily misused marketing label — the Cotton Egypt Association estimates that a very high percentage of products carrying that description contain little genuine ELS cotton.
+It is a test cotton shirt, cut from your pattern in a plainer, lower-cost cotton before we touch the Egyptian cotton. It is not finished to every detail, because its job is to check the fit. It is free and yours to keep.
 
-### Are Egyptian cotton dress shirts good for business wear and hot weather?
+### Can I have a white collar and cuffs, or a different collar?
 
-Egyptian cotton is one of the best dress shirt fabrics for both business wear and warm climates. The long-staple fiber structure creates a fabric that is notably more breathable than standard cotton at the same weight — air circulates through the weave more freely, which makes a meaningful difference across a full working day. For formal business settings, the fabric’s natural subtle luster and clean drape hold up well under a jacket without the stiffness of broadcloth or the fragility of very fine poplin. The Egyptian cotton dress shirt works across the full range of professional contexts, from daily office wear through formal business events.
+Yes. Write it in the comment box of the measurement form when you order, or email us with your order number; a white collar and cuffs, a point or spread collar, French cuffs or no chest pocket are all possible. Your test shirt follows the style you ask for, so you see it before the final shirt is made.
 
-### How do I wash and care for an Egyptian cotton dress shirt?
+### Why does the back of my dress shirt puff out when I tuck it in?
 
-Egyptian cotton dress shirts can be machine washed — unlike fine wools or silks, ELS cotton is robust enough for regular machine washing without fiber damage. Wash on a gentle or delicate cycle in cool to warm water, and hang to dry rather than tumble drying at high heat, which can cause minor shrinkage before the fabric has fully settled to the body. Do not dry clean: repeated dry cleaning introduces chemical solvents that can affect the fiber’s natural hand over time, and unlike fused collar interlinings, the stitched collar construction on these shirts does not require dry cleaning to maintain its shape. Iron lightly while still slightly damp for the cleanest result — Egyptian cotton at 220 thread count irons quickly and holds a crisp line well.
+Ready-made shirts carry extra cloth through the waist so one size fits many bodies, and once tucked, it gathers at the back. A shirt cut to your chest and waist, with the room checked on a test shirt, lies flat at the back instead.
 
-### Does the collar interlining affect how a dress shirt holds up over time?
+### Does it need ironing?
 
-It does, significantly — and almost no buyer thinks to ask about it before purchasing. Most dress shirts use a fused collar interlining: a thermoplastic layer bonded to the collar fabric under heat. It holds a crisp shape when new. After 40 to 60 washes, the bond begins to fail — the interlining separates, the collar edges curl, and no amount of pressing recovers it. The shirt is finished while the body fabric may still have years of wear remaining. A stitched interlining, which is sewn rather than heat-bonded, does not delaminate. Baron Boutique uses stitched collar construction on bespoke shirts because Egyptian cotton at this quality level warrants a collar that lasts as long as the fabric.
+The cloth has an easy-iron finish, so it comes out of the wash with fewer creases and irons quickly. Hang it to dry, then iron while it is still slightly damp for the crispest collar and cuffs.
 
-### How long does it take to receive a made-to-measure Egyptian cotton shirt from Baron Boutique?
+### How do I wash an Egyptian cotton shirt?
 
-Your test shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Both ship by trackable courier. If you have a specific event, travel date, or deadline in mind, contact us before ordering so we can confirm the timeline honestly.
+Machine wash on a gentle cycle in cool to warm water, with similar colors. Hang it to dry on a hanger rather than tumble drying it hot, which is hard on the collar and can shrink the cloth.
+
+### What do I need to measure for men’s dress shirt sizing at home?
+
+Collar, chest, shoulder width, sleeve length and shirt length, entered on the product page. Our **[men’s measuring guide](https://baronboutique.com/mens-measuring-guide/)** shows each one, and the **[men’s shirt fit guide](https://baronboutique.com/mens-shirt-fit-guide/)** explains how much room each fit leaves. If you are on your own, measure a shirt that already fits you well and we can guide you by video call or WhatsApp.
+
+### Is it a good shirt for hot weather and under a suit?
+
+Yes. The fine cloth breathes and a shirt cut without spare fabric is cooler than a loose one, and it sits flat under a jacket. Light blue and white are the easiest colors under navy and gray suits.
+
+### What does the Egyptian cotton shirt price include?
+
+Egyptian cotton shirts price anywhere from under $100 ready-made to several hundred dollars. Ours is $199, which covers the test shirt and the final shirt, the same price for every color in the selector. Shipping costs are on our **[shipping and delivery](https://baronboutique.com/shipping-and-delivery/)** page.
+
+### How long does it take to receive my shirt?
+
+The test shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you approve the fit, the final shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch, so order as early as you can before you need it.
+
+### Do you make an Egyptian cotton shirt for women?
+
+Yes. Our men’s Egyptian cotton shirts are cut on a men’s pattern, and the women’s shirt is cut on a women’s pattern with the same free test shirt. See our **[women’s Egyptian cotton shirt](https://baronboutique.com/womens-egyptian-cotton-shirt/)**.
 
 ## Categories
 

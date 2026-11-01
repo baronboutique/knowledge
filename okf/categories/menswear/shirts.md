@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-27T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-27T03:00:04Z }
 ---
 
 # Shirts
@@ -90,8 +90,8 @@ Your finished shirt ships from Dubai by trackable courier. If anything about the
 
 ## Products
 
-- [Egyptian Cotton Dress Shirts](../../products/menswear/shirts/mens-light-blue-egyptian-cotton-shirt.md)
 - [Grey Raw Silk Shirt - Short Sleeves](../../products/menswear/shirts/mens-gray-raw-silk-shirt.md)
+- [Men's Egyptian Cotton Dress Shirt, 220 Thread Count, Custom Made](../../products/menswear/shirts/mens-light-blue-egyptian-cotton-shirt.md)
 - [Men's Twill Dress Shirts](../../products/menswear/shirts/mens-light-blue-twill-cotton-shirt.md)
 - [Navy Twill Shirt](../../products/menswear/shirts/mens-navy-twill-cotton-shirt.md)
 - [Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made](../../products/menswear/shirts/satin-silk-shirt.md)

@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-off-white-pinstripe-double-breasted-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-22
+    last_modified: 2026-10-26
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T17:12:39Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-10-31T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-31T03:00:04Z }
 ---
 
 # Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool

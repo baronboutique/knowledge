@@ -70,8 +70,8 @@ Your finished shirt ships from Dubai by trackable courier. If anything about the
 
 ## Products
 
-- [Egyptian Cotton Dress Shirts](mens-light-blue-egyptian-cotton-shirt.md)
 - [Grey Raw Silk Shirt - Short Sleeves](mens-gray-raw-silk-shirt.md)
+- [Men's Egyptian Cotton Dress Shirt, 220 Thread Count, Custom Made](mens-light-blue-egyptian-cotton-shirt.md)
 - [Men's Twill Dress Shirts](mens-light-blue-twill-cotton-shirt.md)
 - [Navy Twill Shirt](mens-navy-twill-cotton-shirt.md)
 - [Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made](satin-silk-shirt.md)

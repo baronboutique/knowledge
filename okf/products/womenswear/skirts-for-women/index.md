@@ -52,7 +52,6 @@ Every adjustment is applied, then your skirt is cut and hand-tailored in your ch
 ## Products
 
 - [The Essential Work Skirt](womens-essential-black-skirt.md)
-- [The High-Waisted Pencil Skirt](womens-work-skirt-in-sharkskin.md)
 - [The High-Waisted Power Skirt](womens-all-season-tropical-skirt.md)
 - [The Midi Pencil Skirt](womens-seasonless-pure-new-wool-skirt.md)
 - [The Mohair Pencil Skirt](womens-mohair-pencil-skirt.md)
@@ -60,6 +59,7 @@ Every adjustment is applied, then your skirt is cut and hand-tailored in your ch
 - [The Piped-Trim Pencil Skirt](womens-white-trim-pencil-skirt.md)
 - [The Pocketed Pencil Skirt](womens-mock-pocket-work-skirt.md)
 - [The Vitale Barberis Canonico Pencil Skirt](womens-wool-breeze-skirt.md)
+- [Women's High-Waisted Pencil Skirt in Sharkskin Wool, Custom Made](womens-work-skirt-in-sharkskin.md)
 - [Women's Kick Pleat Pencil Skirt in Italian Wool](womens-kick-pleat-smart-skirt.md)
 
 ## Related
