@@ -9,14 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-navy-chalk-stripe-wool-suit-pant/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-11-01
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-31T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-31T03:00:04Z }
+  - { by: human:baron-boutique, at: 2026-11-01T06:31:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
 ---
 
 # Chalk Stripe Pants
@@ -31,7 +32,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 ## Options
 
 - **Fabric:** 79107-4 Navy With Chalk Stripes. Total 9 options available: 79107-2 Gray With Chalk Stripes, 79107-3 Dark Gray With Chalk Stripes, 79107-4 Navy With Chalk Stripes, 79107-5 Black With Chalk Stripes, Stripe D6106-1 Gray With Bold Chalk Stripes, Stripe D6106-2 Charcoal With Bold Chalk Stripes, Stripe D6106-3 Navy With Bold Chalk Stripes, Stripe D6106-4 Black With Bold Chalk Stripes, Stripe D6106-5 Dark Brown With Bold Chalk Stripes
-- **Lining:** Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Lining:** Navy Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "The Tailored Oversized Linen Shirt"
-description: "This is how you master the oversized trend without looking sloppy. Our Women's Oversized Shirt in Linen solves the biggest challenge of this style with a guaranteed custom fit that perfects the propor…"
+title: "Women's Oversized Linen Shirt With Mao Collar"
+description: "An oversized linen shirt for women that is loose by design, not by size: shoulders, sleeves and neck are cut to you, the body and length are generous."
 resource: https://baronboutique.com/womens-oversized-by-design-linen-shirt/
 tags: [women, shirt, linen, oversized-fit, summer, casual-tailoring, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/womens-oversized-by-design-linen-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-11-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-31T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-31T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
 ---
 
-# The Tailored Oversized Linen Shirt
+# Women's Oversized Linen Shirt With Mao Collar
 
 **SKU:** 3100006  
 **URL:** https://baronboutique.com/womens-oversized-by-design-linen-shirt/  
@@ -34,51 +34,212 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-This is how you master the oversized trend without looking sloppy. Our Women's Oversized Shirt in Linen solves the biggest challenge of this style with a guaranteed custom fit that perfects the proportions of the silhouette to your unique frame. The result is a look that is always intentional, chic, and effortlessly cool.
+An oversized linen shirt for women that is loose by design, not by size: shoulders, sleeves and neck are cut to you, the body and length are generous. 55% linen, 45% cotton with a natural stretch and an easy-iron surface, Mao collar, long tailed hem with side slits, and a free test shirt in cotton first.
 
-## The Art of the Effortless Silhouette
+The Shirt
 
-There is a fine line between “effortlessly oversized” and “simply shapeless.” This shirt is for the woman who understands that difference. We’ve taken the classic oversized silhouette and perfected it with a superior linen-blend fabric and the precision of custom tailoring, ensuring the final look is always intentional, chic, and never sloppy.
+## Women’s Oversized Linen Shirt With Mao Collar
 
-### A Smarter Summer Fabric: The Linen-Cotton Blend
+An oversized linen shirt is meant to look easy, and that is exactly what makes it hard to buy. Ready-made, the extra room comes from a bigger size, so the shoulders slide down the arm and the sleeves swallow your hands. This one is oversized by design: the body and length are generous, but the shoulders, sleeves and neck are cut to your measurements, so it looks relaxed rather than borrowed.
 
-A perfect warm-weather shirt needs a fabric that performs. We use a thoughtful blend that gives you the best of both worlds.
+It is cut in a blend of 55% linen and 45% cotton, which has a natural stretch and irons easily, with a Mao collar, a button front, long sleeves with a single-button straight cuff, and a long tailed hem with side slits. Black is the color in our photos; the blend also comes in white, off white, stone gray, light khaki, brown, dark blue, gold, lime, lilac and turquoise.
 
-- **55% Linen, 45% Cotton:** This blend combines the exceptional breathability and beautiful texture of linen with the softness and wrinkle-resistance of cotton. The result is a shirt that keeps you cool and looks polished with minimal effort.
-- **A Palette of 11 Colors:** Choose from a versatile range of 11 shades, including timeless black and white, to build the foundation of your summer wardrobe.
+Ladies oversized linen shirts are everywhere each summer, mostly in a handful of sizes. A bespoke women oversized shirt starts from your own frame instead, which is why it can be loose and still look intended. An oversized linen button down shirt women wear all summer, an oversized linen button up shirt women throw over a swimsuit, a black oversized button up shirt women wear with white jeans: these are linen oversized shirts at their most useful, and this one is cut so each of those outfits looks considered.
 
-### A Study in Relaxed Proportions
+Oversized by design  
+ 55% linen, 45% cotton  
+ Natural stretch, easy to iron  
+ Mao collar, side slits  
+ Free test shirt
 
-This isn’t just a bigger shirt; it’s a masterclass in balanced design, engineered to look chic and feel liberating.
+**Price:** $199 **Cloth:** 55% linen, 45% cotton **Collar:** Mao (band) collar **Production time:** 3 to 4 weeks for the test shirt, 3 to 4 weeks for the final shirt **Care:** machine washable; dry clean recommended
 
-- **The Minimalist Mao Collar:** A clean, band-style Mao collar provides a modern, sophisticated look that sets it apart from a standard button-down.
-- **The Perfect Oversized Cut:** Designed with a relaxed body and a longer “tailed” hem with side slits, it creates a beautiful, flowing silhouette that is perfect for wearing loose, tucking in the front, or tying at the waist.
+---
 
-### Our Guarantee: The Perfect Proportions, Every Time
+Free Test Shirt
 
-The success of an oversized shirt lies entirely in its drape and proportions relative to your frame. We guarantee a perfect result by sending you a **free test shirt** made to your initial measurements before we craft the final garment. This allows you to confirm the sleeve length, the overall “oversize” feel, and the hem length, ensuring the final shirt hangs perfectly and looks effortlessly chic.
+## A Free Test Shirt to Set the Volume
 
-#### Caring For Your Shirt
+You start with a test shirt in cotton, made from your measurements, free and yours to keep. On it we agree how oversized you want the shirt before the linen blend is cut.
 
-This investment in your wardrobe is designed for real life. For ultimate convenience, it is machine washable.
+With an oversized shirt the question is not tight or loose but where the extra room goes. We look at three things on the test shirt: the shoulder seam, which should sit close to your shoulder point so the shirt does not look a size too big; the sleeve, which should end at the wrist bone, not over your hand; and the length, which on this tunic shape usually reaches mid-thigh. Tell us if you want more volume in the body or a different length.
 
-#### Women’s Oversized Linen Shirt Features
+1
 
-- 55% linen 45% cotton blend
-- button-front dress shirt
-- solid color
-- built-in stretch for comfort
-- minimal ironing
-- flat-felled seams
-- Mao collar
-- one piece long sleeves with wrist placket
-- single-button closure sleeves placket
-- single button straight sleeves cuff
-- no shoulder yoke
-- plain shirt back
-- machine-made clean buttonholes
-- hand-stitched matching buttons
-- tailed shirt hem with side slits
+**Measure.** Bust, waist, hip, shoulder, neck, sleeve and your preferred length on the measurement form.
+
+2
+
+**Test shirt in cotton.** It takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
+
+3
+
+**Check the volume.** Photos from the front, side and back, arms down and raised; tell us about the length.
+
+4
+
+**Your linen shirt.** Once you confirm the fit, it takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
+
+---
+
+Oversized on Purpose
+
+## An Oversized Linen Shirt for Women, Cut to Your Frame
+
+Oversized on purpose and simply too big look different in three places: the shoulder, the sleeve and the hem.
+
+| Shoulders | Cut to your shoulder width, so the seam sits where it should and the shirt does not slump |
+| --- | --- |
+| Body | Generous through the bust, waist and hip, with a plain back and no darts |
+| Length | Tunic length, as in our photos; long enough to wear over leggings or slim trousers |
+| Hem | Long and curved, longer at the back, with side slits so it moves when you walk |
+
+The side view shows how it hangs: straight from the shoulder, the tail dropping lower at the back, the slit opening at the hip. An oversized black linen shirt women can wear over white jeans, as here, or belted over a slip dress, works because the frame of the shirt still fits. Most oversized linen button down women own fail at the shoulder; this one does not. The Mao collar, a short standing band with no fold, keeps the neckline clean, so the volume below looks deliberate.
+
+---
+
+Linen and Cotton
+
+## Why a Linen and Cotton Blend
+
+Pure linen is cool and textured but creases at a glance. Adding cotton softens the hand and tames the creasing a little, while keeping the dry, airy feel that makes linen right for heat. This linen cotton blend shirt women can wear in real heat is 55% linen and 45% cotton; it has a natural stretch and irons easily.
+
+| Breathability | High; linen moves air and dries fast |
+| --- | --- |
+| Texture | A soft slub and the natural irregularity of linen yarn |
+| Creasing | Relaxed creases are part of the look; iron while damp for a crisper line |
+| Season | Summer, warm climates and travel |
+
+Is it a shirt or an oversized linen blouse? It is cut like a shirt, with a button front and cuffs, and it falls like a blouse because of the length and volume. Worn open over a camisole, it also works as a light jacket on summer evenings. For an oversized linen shirt outfit, women often keep everything else slim: fitted trousers, leggings or a short skirt under the long hem.
+
+---
+
+The Cloths
+
+## Linen and Cotton, Color by Color
+
+Every color is the same 55% linen, 45% cotton blend. Pick yours in the fabric selector.
+
+Black
+
+The color in our photos; striking against white.
+
+White
+
+Bright white linen for the heat.
+
+Off White
+
+Natural ecru, softer than white.
+
+Stone Grey
+
+A quiet mid gray.
+
+Light Khaki
+
+Pale sand, the classic linen color.
+
+Brown
+
+Heathered taupe brown.
+
+Dark Blue
+
+Navy linen, almost black indoors.
+
+Gold
+
+Soft straw yellow.
+
+Lime
+
+Bright grass green.
+
+Lilac
+
+Clear lavender.
+
+Turquoise
+
+A bright sea blue.
+
+Linen swatches show the slub of the yarn up close; on the shirt it reads as a soft, even texture.
+
+---
+
+Full Spec
+
+## Specification
+
+| Name | Women’s Oversized Linen Shirt With Mao Collar |
+| --- | --- |
+| Cloth | 55% linen, 45% cotton, natural stretch, easy to iron |
+| Colors | Black in the photos; white, off white, stone gray, light khaki, brown, dark blue, gold, lime, lilac and turquoise in the selector |
+| Fit | Oversized by design; shoulders, sleeves and neck cut to you |
+| Collar | Mao (band) collar |
+| Front | Button front |
+| Yoke | None |
+| Back | Plain |
+| Sleeves | One-piece long sleeves, wrist placket, single-button placket |
+| Cuff | Single-button straight cuff |
+| Seams | Flat-felled |
+| Hem | Long tailed hem with side slits |
+| Buttons | Matching, hand-stitched; machine-made buttonholes |
+| Test shirt | In cotton, made to your measurements, free and yours to keep |
+| Production time | 3 to 4 weeks for the test shirt, 3 to 4 weeks for the final shirt; delivery 5 to 10 days after dispatch |
+| Care | Machine washable; dry clean recommended for a longer life |
+| Price | $199 |
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the Oversized Linen Shirt
+
+### Why have an oversized shirt made to your measurements?
+
+Because oversized only looks intentional when the frame fits. We cut the shoulders, sleeves and neck to you and add the volume to the body and length, so the shirt is loose without looking a size too big.
+
+### How long is it?
+
+Tunic length in our photos, around mid-thigh. Enter the length you want on the measurement form and check it on the free test shirt.
+
+### Will linen crease?
+
+Yes, a little; that relaxed texture is part of linen. The 45% cotton softens the creasing, the blend irons easily, and pressing it while damp gives a crisper line.
+
+### What is a Mao collar?
+
+A short standing band collar with no fold or points, It keeps the neckline clean on a loose shirt.
+
+### Can I wear it as a jacket?
+
+Yes. Worn open over a camisole or a slip dress, the long tailed hem and side slits make it a light summer layer.
+
+### Can I have a classic collar or shorter length?
+
+Write any change in the comment box on the measurement form, and we will tell you what we can do before the test shirt is made.
+
+### How do I care for it?
+
+It can go in the washing machine on a cool cycle; dry cleaning is recommended for a longer life. Hang it to dry and iron it while still damp.
+
+### Is the test shirt free, and how long does it take?
+
+Yes, the test shirt is free and yours to keep. It takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch; once you confirm the fit, your final shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Order as early as you can.
 
 ## Categories
 

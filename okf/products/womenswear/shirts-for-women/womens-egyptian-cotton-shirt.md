@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "The Architect's White Cotton Shirt"
-description: "This is the end of the frustrating search for the perfect white shirt. Our Women's White Cotton Dress Shirt with Pockets solves the biggest fit problems with a guaranteed custom fit that eliminates ga…"
+title: "Women's White Shirt With Pockets in Egyptian Cotton"
+description: "A white shirt for women with two angled chest pockets, cut to your measurements in 100% Egyptian cotton with a natural stretch and an easy-iron surface."
 resource: https://baronboutique.com/womens-egyptian-cotton-shirt/
 tags: [women, shirt, egyptian-cotton, classic-fit, workwear, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/womens-egyptian-cotton-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-11-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-31T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-31T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
 ---
 
-# The Architect's White Cotton Shirt
+# Women's White Shirt With Pockets in Egyptian Cotton
 
 **SKU:** 3100002  
 **URL:** https://baronboutique.com/womens-egyptian-cotton-shirt/  
@@ -34,53 +34,201 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-This is the end of the frustrating search for the perfect white shirt. Our Women's White Cotton Dress Shirt with Pockets solves the biggest fit problems with a guaranteed custom fit that eliminates gaping at the bust. Crafted from premium, opaque Egyptian cotton, it’s the flawless, reliable cornerstone your professional wardrobe has been missing.
+A white shirt for women with two angled chest pockets, cut to your measurements in 100% Egyptian cotton with a natural stretch and an easy-iron surface. Relaxed fit with a plain back, business collar, French front and round cuffs. Your first shirt is a free test shirt in cotton.
 
-## The Most Important Shirt in Your Wardrobe, Perfected
+The Shirt
 
-The perfect white shirt is not a myth; it’s a matter of engineering. It must be opaque, not sheer. It must be sculpted, not boxy. And it should have a touch of character that sets it apart. We’ve built that shirt, combining superior Egyptian cotton with a flawless bespoke process and a thoughtful, unique design.
+## Women’s White Shirt With Pockets in Egyptian Cotton
 
-### A Foundation of Opaque, Breathable Cotton
+Every wardrobe has a white shirt, and most of them sit unworn because something is slightly wrong: sheer under daylight, tight across the shoulders, or so loose it looks borrowed. This is a white shirt with pockets, cut from your measurements in 100% Egyptian cotton, with an easy, relaxed body and two angled patch pockets on the chest.
 
-A white shirt is only as good as its fabric. We use a premium Egyptian cotton specifically for its feel and performance.
+It has a classic business collar, a clean French front, a one-piece yoke, long sleeves with a single-button round cuff and a curved hem. There are no darts; the back is plain, so it hangs straight and comfortable, the way a relaxed white shirt should. The Egyptian cotton has a natural stretch and irons easily. White is in our photos, and the same cloth comes in black, pink, lavender, light purple, blue, light blue and sky blue.
 
-- **The Egyptian Cotton Standard:** Famed for its extra-long fibers, this cotton creates a fabric that is remarkably soft, durable, and breathable. Crucially, it provides an opaque finish, solving the most common issue with white shirting.
-- **A Crisp, Professional Finish:** This fabric has a crisp, professional hand-feel and is naturally resistant to wrinkling, keeping you looking immaculate through your most demanding days.
+White shirt, women’s tailoring at its most useful: it goes under a suit on Monday and over jeans on Saturday. The chest pockets give it a slightly utilitarian edge that a plain dress shirt does not have, and they are the reason it works as well with denim as with tailoring.
 
-### A Study in Subtle Detail
+Two angled chest pockets  
+ 100% Egyptian cotton  
+ Natural stretch, easy to iron  
+ Relaxed cut, no darts  
+ Free test shirt
 
-This shirt moves beyond a simple basic with smart, architectural details that elevate the entire design.
+**Price:** $199 **Cloth:** 100% Egyptian cotton **Fit:** relaxed, plain back **Production time:** 3 to 4 weeks for the test shirt, 3 to 4 weeks for the final shirt **Care:** machine washable; dry clean recommended
 
-- **The Angled Chest Pockets:** The shirt’s defining feature. Two precisely angled chest pockets add a touch of modern, geometric style, providing visual interest without adding bulk.
-- **A Clean, Sharp Framework:** A classic business collar and a clean French front placket create a polished and versatile canvas suitable for any professional environment.
+---
 
-### Our Guarantee: A Flawless, Gap-Free Fit
+Free Test Shirt
 
-The failure of nearly all white shirts is the fit. We solve this problem definitively by sending you a **free test shirt** made to your initial measurements before we craft your final garment. This personal fitting, done from the comfort of your home, allows us to perfect the fit through the bust and waist, eliminating gaping and ensuring the final shirt is sculpted perfectly for your body.
+## A Free Test Shirt for a Relaxed Fit
 
-#### Designed for a Professional’s Life
+You receive the shirt in cotton first, cut to your measurements, free and yours to keep. It lets us agree the fit before the Egyptian cotton is cut.
 
-This investment in your wardrobe is built for your demanding schedule. For ultimate convenience, it is machine washable.
+Relaxed is harder to get right than fitted, because the line between easy and oversized is narrow. On the test shirt we look at the shoulder seam, which should sit at the edge of your shoulder and not drop down the arm, the sleeve length with the cuffs both buttoned and rolled, and the width at the hem, which should fall straight without flaring. Tell us whether you want it closer or easier, and we adjust.
 
-#### Women’s White Cotton Dress Shirt Features
+1
 
-- 100% Egyptian cotton
-- button-front dress shirt
-- solid color
-- built-in stretch for comfort
-- minimal ironing
-- flat-felled seams
-- business classic collar
-- French front placket
-- two angled chest pockets
-- one piece long sleeves with wrist placket
-- single-button closure sleeves placket
-- single button round sleeves cuff
-- one-piece shoulder yoke
-- plain shirt back
-- machine-made clean buttonholes
-- hand-stitched shell buttons
-- curve shirt hem that fits your on-the-go lifestyle
+**Measure.** Bust, waist, hip, shoulder, neck and sleeve on the measurement form; say how relaxed you like it.
+
+2
+
+**Your test shirt.** It is made in 3 to 4 weeks and reaches you 5 to 10 days after dispatch.
+
+3
+
+**Wear it both ways.** Tucked and untucked, sleeves down and rolled; send photos from the front, side and back.
+
+4
+
+**The Egyptian cotton shirt.** After you approve the fit it is made in 3 to 4 weeks and reaches you 5 to 10 days after dispatch.
+
+---
+
+Relaxed, Not Boxy
+
+## A Relaxed White Shirt, Cut to You
+
+A relaxed shirt has more ease through the body than a fitted one and no darts to pull it in. That is the look in our photos: worn out over cream jeans, sleeves rolled, the collar open. Because it is cut to your shoulders and length, it reads as relaxed rather than boxy.
+
+| Relaxed, this shirt | Plain back, straight body; easy over jeans or wide trousers |
+| --- | --- |
+| Fitted | Darts at the waist; close under a jacket |
+| Oversized | Dropped shoulders and extra length; deliberately big |
+
+If you want a tailored white shirt women can wear closer under a suit, look at our fitted styles; this one is for days when comfort comes first. A white cotton button down shirt women wear this way still looks put together, because the collar, cuffs and pockets are sharp. It is a tailored cotton shirt women can live in, and a white cotton button up shirt women can wear from morning to night.
+
+From behind the shirt is plain: a one-piece yoke, no darts, and a curved hem that sits a little longer at the back.
+
+---
+
+A White That Works
+
+## What Makes a Good White Shirt for Women
+
+A white dress shirt for women has three jobs: stay opaque, stay white, and keep its collar. Here is how this one handles each.
+
+| Opaque | Egyptian cotton is fine and closely woven, so it is less sheer than a thin cotton |
+| --- | --- |
+| White | Wash with whites only, cool, and dry out of strong sun; dry clean when you want the brightest white |
+| Collar | A business collar that keeps its shape open or buttoned |
+| Pockets | Two angled patch pockets on the chest, useful and still neat |
+
+Is it a white dress shirt women can wear to a formal office? Yes, tucked in and buttoned, under a dark jacket. Can it be a white cotton shirt elegant women wear on weekends? Also yes, with the sleeves rolled. And as a white dressy shirt women can wear to dinner, tuck it into dark trousers and leave two buttons open. That range is why a white shirt for women earns its place more than any other shirt. A white dress shirt with pocket detail is less common; a white shirt with pocket women can use for a pen or glasses is rarer still.
+
+---
+
+The Cloths
+
+## Egyptian Cotton, White and Seven Colors
+
+Egyptian cotton uses long fibers that spin into a fine, strong yarn, so the cloth is smooth, breathable and less sheer than thin cotton, even in white. This one has a natural stretch, which helps a relaxed shirt move without pulling at the shoulders, and it irons easily. A white cotton shirt women keep for years starts with the cloth. This Egyptian cotton shirt women wear in the heat stays soft and breathes; it is a white cotton dress shirt, women’s cut, and the white cotton button shirt women tend to reach for first.
+
+White
+
+The color in our photos; crisp and opaque.
+
+Sky Blue
+
+A clear blue that looks good worn out over denim.
+
+Light Blue
+
+Barely blue; reads white in sunlight.
+
+Blue
+
+A stronger blue for a casual shirt.
+
+Pink
+
+Soft pink, easy with white jeans.
+
+Lavender
+
+A whisper of lilac.
+
+Light Purple
+
+Lilac with more presence.
+
+Black
+
+Black with pockets; a utility shirt for evening.
+
+Choose your color in the fabric selector. Ivory is not offered in this cloth; for an ivory cotton shirt women can ask us about a warmer white.
+
+---
+
+Full Spec
+
+## Specification
+
+| Name | Women’s White Shirt With Pockets in Egyptian Cotton |
+| --- | --- |
+| Cloth | 100% Egyptian cotton, natural stretch, easy to iron |
+| Colors | White in the photos; black, pink, lavender, light purple, blue, light blue and sky blue in the selector |
+| Fit | Relaxed; plain back, no darts |
+| Collar | Classic business collar |
+| Front | French front, button front |
+| Pockets | Two angled chest patch pockets |
+| Yoke | One-piece |
+| Sleeves | One-piece long sleeves, wrist placket, single-button placket |
+| Cuff | Single-button round cuff; French or other cuffs on request |
+| Seams | Flat-felled |
+| Hem | Curved |
+| Buttons | Matching, hand-stitched; machine-made buttonholes |
+| Test shirt | In cotton, made to your measurements, free and yours to keep |
+| Production time | 3 to 4 weeks for the test shirt, 3 to 4 weeks for the final shirt; delivery 5 to 10 days after dispatch |
+| Care | Machine washable; dry clean recommended for a longer life |
+| Price | $199 |
+
+---
+
+About Baron
+
+## About Baron Boutique
+
+Founded in Kathmandu, Nepal in 2000, Baron Boutique has spent over 25 years creating bespoke garments with a focus on artisanal craftsmanship, dramatic design, and collector-quality tailoring. From cinematic-inspired coats and formalwear to handcrafted cashmere pieces, every garment is made with precision, individuality, and attention to detail.
+
+Today, Baron Boutique operates internationally from Dubai while all bespoke tailoring and garment production remains rooted in the Kathmandu workshop where the brand began.
+
+Our customers come back because the fit is right and we answer emails. Every garment is made by a human tailor whose name we know.
+
+---
+
+Questions & Answers
+
+## Questions About the White Shirt
+
+### Is this white shirt see-through?
+
+It is less sheer than a thin cotton shirt, because Egyptian cotton is fine and closely woven. With any white shirt, a skin-tone bra underneath is the safest choice.
+
+### Is it fitted or relaxed?
+
+Relaxed. It has a plain back with no darts and a straight body, cut to your shoulders and length so it looks easy rather than oversized.
+
+### Can I have it without pockets, or with darts?
+
+Yes. Write the change in the comment box on the measurement form; we can leave the pockets off or add darts for a closer fit, and the test shirt shows the result.
+
+### How do I keep a white shirt white?
+
+Wash it with whites only in cool water, hang it to dry out of strong sun, and dry clean it when you want the brightest white. Treat collar marks before washing.
+
+### Can I wear it to the office?
+
+Yes. Tucked in and buttoned under a jacket it is a white dress shirt; worn out with the sleeves rolled it is a weekend shirt.
+
+### What is the difference between Egyptian cotton and regular cotton?
+
+Egyptian cotton has longer fibers, which make a finer, smoother and stronger yarn. The cloth feels softer, breathes well and holds up to frequent washing.
+
+### Can I get French cuffs?
+
+Yes, French and other cuffs are available on request; the standard is a single-button round cuff.
+
+### Is the test shirt free, and how long does it take?
+
+Yes, the test shirt is free and yours to keep. It takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch; once you confirm the fit, your final shirt takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Order as early as you can.
 
 ## Categories
 

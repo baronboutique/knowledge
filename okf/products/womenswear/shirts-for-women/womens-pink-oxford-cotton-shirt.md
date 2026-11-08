@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-pink-oxford-cotton-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-11-06
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-31T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-31T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
 ---
 
 # Women's Pink Oxford Shirt, Button-Down Collar in Oxford Cotton
@@ -47,7 +47,7 @@ Cut to your bust and waist
  Hidden snap on request  
  Button-down collar  
  Oxford cotton  
- 11 colors  
+ Natural stretch, easy to iron  
  Free test shirt first  
  Made to your measurements
 
@@ -89,7 +89,7 @@ Oxford cloth is woven in a basket weave, with pairs of yarns crossing each other
 | Coverage | Thin, can show what is underneath | Thicker, rarely see-through |
 | Creases | Every crease shows | Texture hides small creases |
 | Over time | Stays crisp, can wear thin | Softens with each wash and lasts for years |
-| Best for | Formal suits and evening | Office, weekends and travel |
+| Suits | Formal suits and evening | Office, weekends and travel |
 
 Oxford cloth needs less pressing than poplin, but for a sharp look, iron it warm while still slightly damp, collar and cuffs first.
 
@@ -97,7 +97,11 @@ Oxford cloth needs less pressing than poplin, but for a sharp look, iron it warm
 
 ## How to Wear a Pink Oxford Shirt
 
-Light pink works anywhere a white or light blue shirt would, with a little more warmth. Because the oxford button-down sits between formal and casual, one shirt covers most of your week.
+Light pink works anywhere a white or light blue shirt would, with a little more warmth. Because the oxford button-down sits between formal and casual, one shirt covers most of your week. How to wear an oxford shirt: women who wear one well keep it simple. A pink oxford shirt women wear to work is tucked in and buttoned to the second button; at the weekend it is worn open with the sleeves rolled, which is how to wear oxford shirt female style in any color.
+
+People find this shirt under many names. As a pink dress shirt women wear under a suit, it is softer than white; as a pink collared shirt women pair with jeans, it is the easiest color after blue. A pink button down shirt women buy to replace a tired white one, a light pink button up shirt women wear in summer, a light pink button down shirt women layer under a sweater, an oxford button down shirt women keep for years: here they are one shirt, a women’s pink button down shirt with an oxford collar button down at the points, cut to your bust and waist.
+
+It is not a pink button down blouse in soft crepe, and not a pink shirt cut for a man’s chest; for that, see our **[men’s pink oxford shirt](https://baronboutique.com/mens-pink-oxford-cotton-shirt/)**. This is an oxford cotton button down, a women’s oxford shirt with button-down collar and back darts: the pink button down women can tuck without bunching, and the pink button shirt women can close without a gap. Women’s button down shirts like this sit between a blouse and a women’s dress shirt; call it a pink collar shirt women wear daily or an oxford button down women own in several colors.
 
 At the Office
 
@@ -115,7 +119,7 @@ Under a crew-neck sweater in navy, gray or camel, with the collar points and cuf
 
 ## Your Shirt, Your Way
 
-The shirt in the photos is light pink, one of 11 oxford cottons. Choose your color above, then tell us about any change in the comment box on the measurement form: a chest pocket, short sleeves, a longer or shorter length, or one of the bust options above. The price stays the same.
+The shirt in the photos is light pink, one of our oxford cottons. Choose your color above, then tell us about any change in the comment box on the measurement form: a chest pocket, short sleeves, a longer or shorter length, or one of the bust options above. The price stays the same.
 
 1
 
@@ -137,7 +141,7 @@ We make a test shirt to your measurements and send it to you. Button it, reach, 
 **We make your final shirt**  
 Your notes go into the pattern and your shirt is cut in the oxford cotton you chose, with hand-stitched buttons, then shipped worldwide with tracking.
 
-**Price:** $199, same for every color and every change listed here **Production time:** 3 to 4 weeks for the test shirt, 3 to 4 weeks for the final shirt **Delivery:** 5 to 10 days after dispatch **Care:** Machine washable
+**Price:** $199, same for every color and every change listed here **Production time:** 3 to 4 weeks for the test shirt, 3 to 4 weeks for the final shirt **Delivery:** 5 to 10 days after dispatch **Care:** Machine washable; dry clean recommended
 
 ---
 
@@ -153,7 +157,7 @@ Not sure how to measure yourself? Our [women’s shirt measuring guide](https://
 
 ## Full Specification
 
-| Cloth | 100% oxford cotton, basket weave |
+| Cloth | 100% oxford cotton, basket weave, natural stretch, easy to iron |
 | --- | --- |
 | Colors | Pink, white, light blue, cornflower, indigo, butter, light brown; white with sky blue, purple, crimson or burgundy stripe |
 | Collar | Button-down collar |
@@ -163,9 +167,9 @@ Not sure how to measure yourself? Our [women’s shirt measuring guide](https://
 | Cuffs | Single-button rounded cuffs |
 | Pocket | None as standard; chest pocket on request |
 | Seams | Flat-felled |
-| Buttons | Hand-stitched |
+| Buttons | Matching, hand-stitched |
 | Hem | Curved shirttail; length to your measurement |
-| Care | Machine washable |
+| Care | Machine washable; dry clean recommended for a longer life |
 
 ---
 
@@ -208,7 +212,7 @@ Yes, we make women’s shirts to your own measurements, just as we do for men. T
 
 ### What shade of pink is this oxford shirt?
 
-It is a light, soft pink, paler than rose, the classic shade for an oxford button-down. It pairs well with navy, gray, denim and camel. If you prefer another color, the same shirt comes in 10 other oxford cottons, including white, light blue and four white stripes.
+It is a light, soft pink, paler than rose, the classic shade for an oxford button-down. It pairs well with navy, gray, denim and camel. If you prefer another color, the same shirt comes in other oxford cottons, including white, light blue and white-ground stripes. It is the light pink shirt women often describe as baby pink, and the baby pink shirt women choose when they want soft rather than bright: a pale pink oxford shirt.
 
 ### What is the difference between an oxford shirt and a poplin shirt?
 
@@ -236,7 +240,7 @@ Less than a poplin shirt, because the textured weave hides small creases, so man
 
 ### How much does this oxford shirt cost?
 
-This oxford shirt is $199, the same in all 11 colors and with any change listed on this page, including a bust button, hidden snap, concealed placket, chest pocket or short sleeves. The price includes a free test shirt that is yours to keep.
+This oxford shirt is $199, the same in every color and with any change listed on this page, including a bust button, hidden snap, concealed placket, chest pocket or short sleeves. The price includes a free test shirt that is yours to keep.
 
 ### How long does it take to receive my shirt, and do you ship internationally?
 

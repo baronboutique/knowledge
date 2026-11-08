@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-27T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-27T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-02T03:00:05Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-02T03:00:05Z }
 ---
 
 # Skirts
@@ -71,16 +71,16 @@ Every adjustment is applied, then your skirt is cut and hand-tailored in your ch
 
 ## Products
 
-- [The Essential Work Skirt](../../products/womenswear/skirts-for-women/womens-essential-black-skirt.md)
-- [The High-Waisted Power Skirt](../../products/womenswear/skirts-for-women/womens-all-season-tropical-skirt.md)
-- [The Midi Pencil Skirt](../../products/womenswear/skirts-for-women/womens-seasonless-pure-new-wool-skirt.md)
-- [The Mohair Pencil Skirt](../../products/womenswear/skirts-for-women/womens-mohair-pencil-skirt.md)
-- [The Pinstripe Pencil Skirt](../../products/womenswear/skirts-for-women/womens-essential-stripe-skirt.md)
-- [The Piped-Trim Pencil Skirt](../../products/womenswear/skirts-for-women/womens-white-trim-pencil-skirt.md)
-- [The Pocketed Pencil Skirt](../../products/womenswear/skirts-for-women/womens-mock-pocket-work-skirt.md)
-- [The Vitale Barberis Canonico Pencil Skirt](../../products/womenswear/skirts-for-women/womens-wool-breeze-skirt.md)
+- [Women's Below the Knee Pencil Skirt With a Tall Waistband](../../products/womenswear/skirts-for-women/womens-seasonless-pure-new-wool-skirt.md)
+- [Women's Black Pencil Skirt for Work in Fresco Wool](../../products/womenswear/skirts-for-women/womens-essential-black-skirt.md)
+- [Women's Black Pencil Skirt With White Piping in Fresco Wool](../../products/womenswear/skirts-for-women/womens-white-trim-pencil-skirt.md)
+- [Women's Gray Pencil Skirt in Mohair and Wool](../../products/womenswear/skirts-for-women/womens-mohair-pencil-skirt.md)
+- [Women's High Waisted Knee Length Pencil Skirt in Tropical Wool](../../products/womenswear/skirts-for-women/womens-all-season-tropical-skirt.md)
 - [Women's High-Waisted Pencil Skirt in Sharkskin Wool, Custom Made](../../products/womenswear/skirts-for-women/womens-work-skirt-in-sharkskin.md)
 - [Women's Kick Pleat Pencil Skirt in Italian Wool](../../products/womenswear/skirts-for-women/womens-kick-pleat-smart-skirt.md)
+- [Women's Knee Length Pencil Skirt With Pockets](../../products/womenswear/skirts-for-women/womens-knee-length-skirt-with-pockets.md)
+- [Women's Navy Pinstripe Pencil Skirt in Merino and Cashmere](../../products/womenswear/skirts-for-women/womens-essential-stripe-skirt.md)
+- [Women's Office Pencil Skirt in Vitale Barberis Canonico Wool](../../products/womenswear/skirts-for-women/womens-wool-breeze-skirt.md)
 
 **Related terms:** tailored pencil skirts, custom skirts online, office skirts, made to measure skirt, wool skirts for work
 

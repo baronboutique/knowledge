@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-27T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-27T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-06T11:13:39Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-06T11:13:39Z }
 ---
 
 # Coats & Overcoats
@@ -108,7 +108,6 @@ Your finished coat ships from Dubai by trackable courier, Your test coat takes 3
 - [Fantastic Beasts Percival Graves Black Coat](../../products/screen-inspired/cinema-classics/percival-graves-black-coat.md)
 - [Fourth Doctor Tom Baker's Wine Velvet Frock Coat](../../products/screen-inspired/4th-doctor-tom-baker-wine-velvet-frockcoat.md)
 - [Green Velvet Frock Coat](../../products/menswear/green-velvet-frock-coat.md)
-- [Herringbone Car Coat in Tweed Wool](../../products/menswear/mens-coats-and-overcoats/mens-herringbone-wool-car-coat.md)
 - [James Bond Navy Blue Coat Spectre](../../products/menswear/navy-bond-coat-spectre.md)
 - [Keanu Reeves Trench Coat The Matrix Revolutions](../../products/screen-inspired/cyberpunk-trench-coats/the-matrix-revolutions-coat.md)
 - [Long Melton Wool Greatcoat, Belted and Made to Your Length](../../products/menswear/mens-double-breasted-peacoat.md)
@@ -116,6 +115,7 @@ Your finished coat ships from Dubai by trackable courier, Your test coat takes 3
 - [Men's Cubana Coat](../../products/menswear/mens-cubana-coat.md)
 - [Men's Custom Made Overcoat in Gray Herringbone British Tweed](../../products/menswear/mens-coats-and-overcoats/mens-light-gray-wool-herringbone-topcoat.md)
 - [Men's Debonair Coat](../../products/menswear/mens-coats-and-overcoats/mens-debonair-coat.md)
+- [Men's Herringbone Car Coat in Wool Blend Tweed](../../products/menswear/mens-coats-and-overcoats/mens-herringbone-wool-car-coat.md)
 - [Men's Linen Frock Coat Summer Wedding Tailored Dress Coat](../../products/menswear/frock-coats-for-men/mens-linen-frock-coat-summer-wedding.md)
 - [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../products/screen-inspired/theatrical-villain-tailoring/mens-long-black-leather-coat.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](../../products/menswear/mens-navy-peacoat.md)

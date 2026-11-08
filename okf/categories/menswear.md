@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-23T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-23T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
 ---
 
 # Men
@@ -115,14 +115,15 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Eleventh Doctor Inspired Green Frock Coat](../products/menswear/eleventh-doctors-green-coat.md)
 - [Flannel Dress Pants](../products/menswear/light-weight-all-season-wool-flannel-pants-slim-fit.md)
 - [Green Velvet Frock Coat](../products/menswear/green-velvet-frock-coat.md)
-- [Grey Flannel Trousers](../products/menswear/mens-gray-wool-flannel-pants.md)
 - [Hand Finished Silk Pocket Squares](../products/menswear/silk-pocket-squares-handmade.md)
 - [James Bond Navy Blue Coat Spectre](../products/menswear/navy-bond-coat-spectre.md)
 - [Linen Pants For A Beach Wedding](../products/menswear/linen-pants.md)
 - [Long Melton Wool Greatcoat, Belted and Made to Your Length](../products/menswear/mens-double-breasted-peacoat.md)
 - [Men's Car Coat In Wool](../products/menswear/mens-car-coat.md)
 - [Men's Cubana Coat](../products/menswear/mens-cubana-coat.md)
+- [Men's Dupioni Silk Trousers](../products/menswear/mens-dupioni-silk-trousers.md)
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](../products/menswear/mens-glen-plaid-cashmere-scarf-tan-white.md)
+- [Men's Grey Flannel Trousers in Wool Flannel](../products/menswear/mens-gray-wool-flannel-pants.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](../products/menswear/mens-gray-pinstripe-pants.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](../products/menswear/mens-navy-peacoat.md)
 - [Men's Tailored Linen Pants](../products/menswear/tailored-fit-dark-blue-linen-pants.md)
@@ -141,7 +142,6 @@ Every adjustment is applied, then your piece is cut and hand-finished by the sam
 - [Navy Flannel Pants](../products/menswear/mens-navy-wool-flannel-suit-pant.md)
 - [Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit](../products/menswear/mens-wool-cashmere-topcoat-in-navy.md)
 - [Tan Wool Dress Pants](../products/menswear/tailored-fit-tan-wool-pants-in-merino-wool.md)
-- [The Bespoke Dupioni Silk Trousers](../products/menswear/mens-dupioni-silk-trousers.md)
 - [The Essential Black Wool Trousers](../products/menswear/mens-black-wool-trousers.md)
 - [Time Lord Frock Coat (Oxford Blue)](../products/menswear/time-lord-frock-coat-oxford-blue.md)
 - [Two Face Silk Neckties Handmade](../products/menswear/two-face-silk-neckties-handmade.md)

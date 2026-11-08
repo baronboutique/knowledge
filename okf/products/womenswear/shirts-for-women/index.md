@@ -51,17 +51,17 @@ Every adjustment is applied, then your shirt is cut and hand-tailored in your ch
 
 ## Products
 
-- [The Architect's White Cotton Shirt](womens-egyptian-cotton-shirt.md)
-- [The Cornerstone Professional Shirt](womens-fitted-dress-shirt.md)
-- [The Crepe Silk Blouse](womens-crepe-silk-shirt.md)
-- [The Crepe Silk Shirt Dress](womens-tie-waist-crepe-silk-tailored-blouse.md)
-- [The Double-Collar Tailored Shirt](womens-double-collar-boutique-tailored-shirt.md)
-- [The Essential Black Tailored Shirt](womens-basic-black-twill-cotton-shirt.md)
-- [The Sculpted Sleeveless Blouse](womens-sleeveless-cotton-blouse.md)
-- [The Tailored Oversized Linen Shirt](womens-oversized-by-design-linen-shirt.md)
-- [The Tailored Ruffle Collar Shirt](womens-ruffle-egyptian-cotton-dress-shirt.md)
+- [Women's Black Collar Shirt in Twill Cotton](womens-basic-black-twill-cotton-shirt.md)
+- [Women's Crepe Silk Shirt Dress With Tie Waist](womens-tie-waist-crepe-silk-tailored-blouse.md)
+- [Women's Crepe Silk Shirt With Chest Pockets](womens-crepe-silk-shirt.md)
+- [Women's Double Collar Shirt in Oxford Cotton](womens-double-collar-boutique-tailored-shirt.md)
+- [Women's Dress Shirt for Work in Egyptian Cotton](womens-fitted-dress-shirt.md)
+- [Women's Fitted Shirt in Twill Cotton](womens-fitted-twill-cotton-shirt.md)
+- [Women's Oversized Linen Shirt With Mao Collar](womens-oversized-by-design-linen-shirt.md)
 - [Women's Pink Oxford Shirt, Button-Down Collar in Oxford Cotton](womens-pink-oxford-cotton-shirt.md)
-- [Womens Fitted Shirt Long Sleeves](womens-fitted-twill-cotton-shirt.md)
+- [Women's Sleeveless Collared Blouse in Egyptian Cotton](womens-sleeveless-cotton-blouse.md)
+- [Women's White Ruffle Collar Shirt in Egyptian Cotton](womens-ruffle-egyptian-cotton-dress-shirt.md)
+- [Women's White Shirt With Pockets in Egyptian Cotton](womens-egyptian-cotton-shirt.md)
 
 ## Related
 

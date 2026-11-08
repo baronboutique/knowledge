@@ -69,12 +69,12 @@ Your finished trousers ship from Dubai by trackable courier, Your test garment t
 
 - [100 Percent Wool Dress Pants](100-percent-wool-pants-for-all-season.md)
 - [All Season Wool Dress Pants](flat-front-all-season-wool-pants.md)
-- [Black Slim Fit Pants](crimson-black-slim-fit-pants.md)
-- [Grey Melange Dress Pants](gray-melange-dress-pants.md)
-- [High Twist Wool Work Pants](flat-front-work-pants-in-high-twist-wool.md)
-- [Men's Charcoal Gray Pants](flat-front-charcoal-gray-pants.md)
+- [Men's Black Slim Fit Pants in Super 130s Wool](crimson-black-slim-fit-pants.md)
+- [Men's Charcoal Gray Dress Pants in High-Twist Wool](flat-front-charcoal-gray-pants.md)
+- [Men's Gray Melange Dress Pants in Tropical Wool](gray-melange-dress-pants.md)
+- [Men's High-Twist Wool Work Pants](flat-front-work-pants-in-high-twist-wool.md)
+- [Men's Light Gray Dress Pants in Super 160s Wool](mens-pure-new-wool-gray-suit-pants.md)
 - [New Generation Line Navy Wool Pants](new-generation-navy-wool-pants.md)
-- [The Essential Grey Wool Dress Pants](mens-pure-new-wool-gray-suit-pants.md)
 - [Wool Mohair Dress Pants](slim-fit-mohair-wool-pants.md)
 
 ## Related

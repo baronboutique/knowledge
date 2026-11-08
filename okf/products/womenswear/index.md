@@ -10,10 +10,10 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](womens-silk-neck-scarf-head-shoulders-wrap.md)
 - [Screen Inspired](screen-inspired-women/index.md) — 13 products
-- [Shirts & Blouses](shirts-for-women/index.md) — 11 products
-- [Skirts](skirts-for-women/index.md) — 10 products
 - [Dresses](dresses-for-women/index.md) — 13 products
+- [Skirts](skirts-for-women/index.md) — 10 products
 - [Tuxedos](tuxedos-for-women/index.md) — 3 products
+- [Shirts & Blouses](shirts-for-women/index.md) — 11 products
 - [Suits & Blazers](suits-blazers-for-women/index.md) — 12 products
 - [Coats & Overcoats](coats-and-overcoats-for-women/index.md) — 8 products
 - [Pants](pants-for-women/index.md) — 11 products

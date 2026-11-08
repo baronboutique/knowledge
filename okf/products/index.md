@@ -18,14 +18,15 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Eleventh Doctor Inspired Green Frock Coat](menswear/eleventh-doctors-green-coat.md)
 - [Flannel Dress Pants](menswear/light-weight-all-season-wool-flannel-pants-slim-fit.md)
 - [Green Velvet Frock Coat](menswear/green-velvet-frock-coat.md)
-- [Grey Flannel Trousers](menswear/mens-gray-wool-flannel-pants.md)
 - [Hand Finished Silk Pocket Squares](menswear/silk-pocket-squares-handmade.md)
 - [James Bond Navy Blue Coat Spectre](menswear/navy-bond-coat-spectre.md)
 - [Linen Pants For A Beach Wedding](menswear/linen-pants.md)
 - [Long Melton Wool Greatcoat, Belted and Made to Your Length](menswear/mens-double-breasted-peacoat.md)
 - [Men's Car Coat In Wool](menswear/mens-car-coat.md)
 - [Men's Cubana Coat](menswear/mens-cubana-coat.md)
+- [Men's Dupioni Silk Trousers](menswear/mens-dupioni-silk-trousers.md)
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](menswear/mens-glen-plaid-cashmere-scarf-tan-white.md)
+- [Men's Grey Flannel Trousers in Wool Flannel](menswear/mens-gray-wool-flannel-pants.md)
 - [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](menswear/mens-gray-pinstripe-pants.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](menswear/mens-navy-peacoat.md)
 - [Men's Tailored Linen Pants](menswear/tailored-fit-dark-blue-linen-pants.md)
@@ -44,7 +45,6 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Navy Flannel Pants](menswear/mens-navy-wool-flannel-suit-pant.md)
 - [Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit](menswear/mens-wool-cashmere-topcoat-in-navy.md)
 - [Tan Wool Dress Pants](menswear/tailored-fit-tan-wool-pants-in-merino-wool.md)
-- [The Bespoke Dupioni Silk Trousers](menswear/mens-dupioni-silk-trousers.md)
 - [The Essential Black Wool Trousers](menswear/mens-black-wool-trousers.md)
 - [Time Lord Frock Coat (Oxford Blue)](menswear/time-lord-frock-coat-oxford-blue.md)
 - [Two Face Silk Neckties Handmade](menswear/two-face-silk-neckties-handmade.md)
@@ -121,10 +121,10 @@ All products are made to order by human tailors after an order is confirmed. No 
 - [Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool](womenswear/womens-off-white-pinstripe-double-breasted-suit.md)
 - [Womens Silk Neck Scarf Satin Silk 75 Inches Long Head Scarf Shoulders Silk Wrap](womenswear/womens-silk-neck-scarf-head-shoulders-wrap.md)
 - [Screen Inspired](womenswear/screen-inspired-women/index.md) — 13 products
-- [Shirts & Blouses](womenswear/shirts-for-women/index.md) — 11 products
-- [Skirts](womenswear/skirts-for-women/index.md) — 10 products
 - [Dresses](womenswear/dresses-for-women/index.md) — 13 products
+- [Skirts](womenswear/skirts-for-women/index.md) — 10 products
 - [Tuxedos](womenswear/tuxedos-for-women/index.md) — 3 products
+- [Shirts & Blouses](womenswear/shirts-for-women/index.md) — 11 products
 - [Suits & Blazers](womenswear/suits-blazers-for-women/index.md) — 12 products
 - [Coats & Overcoats](womenswear/coats-and-overcoats-for-women/index.md) — 8 products
 - [Pants](womenswear/pants-for-women/index.md) — 11 products

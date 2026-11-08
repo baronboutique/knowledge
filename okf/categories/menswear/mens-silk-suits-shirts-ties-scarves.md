@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
 ---
 
 # Real Silk Eventwear
@@ -94,6 +94,7 @@ Your finished silk ships from Dubai by trackable courier, For tailored pieces, y
 - [Grey Raw Silk Shirt - Short Sleeves](../../products/menswear/shirts/mens-gray-raw-silk-shirt.md)
 - [Hand Finished Silk Pocket Squares](../../products/menswear/silk-pocket-squares-handmade.md)
 - [Men's 100% Dupioni Silk Suit, Custom Made to Your Measurements](../../products/menswear/mens-silk-suits-shirts-ties-scarves/mens-silk-suit-in-dupioni-silk.md)
+- [Men's Dupioni Silk Trousers](../../products/menswear/mens-dupioni-silk-trousers.md)
 - [Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors](../../products/menswear/mens-aviator-silk-neck-scarf.md)
 - [Mens Satin Silk Neckties Solid Color Handmade](../../products/menswear/mens-silk-neckties-solid-color-handmade.md)
 - [Mens Silk Blazer Dupioni Silk](../../products/menswear/mens-silk-suits-shirts-ties-scarves/dupioni-silk-blazer.md)
@@ -102,7 +103,6 @@ Your finished silk ships from Dubai by trackable courier, For tailored pieces, y
 - [Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made](../../products/menswear/shirts/satin-silk-shirt.md)
 - [Silk Nehru Jacket James Bond Dr. No](../../products/screen-inspired/spy-tailoring/dr-no-silk-jacket.md)
 - [Silver Dupioni Silk Suit - Bespoke Single-Breasted Tailored Menswear](../../products/menswear/mens-silk-suits-shirts-ties-scarves/silver-dupioni-silk-suit.md)
-- [The Bespoke Dupioni Silk Trousers](../../products/menswear/mens-dupioni-silk-trousers.md)
 - [The Black Dupioni Silk Suit for Men - 3 Button Roll to 2](../../products/menswear/mens-silk-suits-shirts-ties-scarves/black-dupioni-silk-suit-3-roll-2.md)
 - [The Raw Silk Shirt](../../products/menswear/shirts/mens-gold-raw-silk-shirt.md)
 - [Two Face Silk Neckties Handmade](../../products/menswear/two-face-silk-neckties-handmade.md)
