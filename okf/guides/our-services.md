@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/our-services/
     title: "Our Services"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-19
+    last_modified: 2026-11-11
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-19T08:22:07Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-19T08:36:49Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-19T08:36:49Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-12T03:00:05Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-12T03:00:05Z }
 ---
 
 Six tailoring services, made to order for men & women. Bespoke with a fitting prototype, CMT, prototypes with no minimum, small batches from 5 pieces.

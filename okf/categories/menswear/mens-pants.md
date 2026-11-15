@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-09T03:00:04Z }
 ---
 
 # Pants
@@ -87,31 +87,31 @@ Your finished trousers ship from Dubai by trackable courier, Your test garment t
 
 ## Products
 
-- [100 Percent Wool Dress Pants](../../products/menswear/mens-pants/100-percent-wool-pants-for-all-season.md)
-- [All Season Wool Dress Pants](../../products/menswear/mens-pants/flat-front-all-season-wool-pants.md)
-- [Chalk Stripe Pants](../../products/menswear/mens-navy-chalk-stripe-wool-suit-pant.md)
-- [Flannel Dress Pants](../../products/menswear/light-weight-all-season-wool-flannel-pants-slim-fit.md)
-- [Linen Pants For A Beach Wedding](../../products/menswear/linen-pants.md)
+- [Men's 100 Percent Wool Dress Pants](../../products/menswear/mens-pants/100-percent-wool-pants-for-all-season.md)
+- [Men's All Season Wool Dress Pants](../../products/menswear/mens-pants/flat-front-all-season-wool-pants.md)
 - [Men's Black Slim Fit Pants in Super 130s Wool](../../products/menswear/mens-pants/crimson-black-slim-fit-pants.md)
+- [Men's Chalk Stripe Merino Wool Dress Pants](../../products/menswear/merino-wool-dress-pants.md)
 - [Men's Charcoal Gray Dress Pants in High-Twist Wool](../../products/menswear/mens-pants/flat-front-charcoal-gray-pants.md)
 - [Men's Dupioni Silk Trousers](../../products/menswear/mens-dupioni-silk-trousers.md)
+- [Men's Essential Black Wool Trousers](../../products/menswear/mens-black-wool-trousers.md)
 - [Men's Gray Melange Dress Pants in Tropical Wool](../../products/menswear/mens-pants/gray-melange-dress-pants.md)
+- [Men's Gray Mohair Pants in Merino Wool and Mohair](../../products/menswear/flat-front-gray-pants-in-mohair-wool.md)
 - [Men's Grey Flannel Trousers in Wool Flannel](../../products/menswear/mens-gray-wool-flannel-pants.md)
-- [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](../../products/menswear/mens-gray-pinstripe-pants.md)
+- [Men's Grey Pinstripe Pants in Super 150s Wool](../../products/menswear/mens-gray-pinstripe-pants.md)
 - [Men's High-Twist Wool Work Pants](../../products/menswear/mens-pants/flat-front-work-pants-in-high-twist-wool.md)
 - [Men's Light Gray Dress Pants in Super 160s Wool](../../products/menswear/mens-pants/mens-pure-new-wool-gray-suit-pants.md)
-- [Men's Tailored Linen Pants](../../products/menswear/tailored-fit-dark-blue-linen-pants.md)
-- [Mens Mohair Pants](../../products/menswear/flat-front-gray-pants-in-mohair-wool.md)
-- [Mens Navy Dress Pants](../../products/menswear/mens-navy-wool-tuxedo-pants.md)
-- [Mens Sharkskin Dress Pants](../../products/menswear/mens-dress-pants-in-sharkskin.md)
-- [Mens wedding pants](../../products/menswear/mens-pure-new-wool-wedding-pants.md)
-- [Merino Wool Dress Pants](../../products/menswear/merino-wool-dress-pants.md)
-- [Navy Blue Tuxedo Pants](../../products/menswear/mens-navy-herringbone-wool-tuxedo-pants.md)
-- [Navy Flannel Pants](../../products/menswear/mens-navy-wool-flannel-suit-pant.md)
-- [New Generation Line Navy Wool Pants](../../products/menswear/mens-pants/new-generation-navy-wool-pants.md)
-- [Tan Wool Dress Pants](../../products/menswear/tailored-fit-tan-wool-pants-in-merino-wool.md)
-- [The Essential Black Wool Trousers](../../products/menswear/mens-black-wool-trousers.md)
-- [Wool Mohair Dress Pants](../../products/menswear/mens-pants/slim-fit-mohair-wool-pants.md)
+- [Men's Linen Pants for a Beach Wedding](../../products/menswear/linen-pants.md)
+- [Men's Mohair Wool Dress Pants](../../products/menswear/mens-pants/slim-fit-mohair-wool-pants.md)
+- [Men's Navy Blue Tuxedo Pants in Herringbone Wool](../../products/menswear/mens-navy-herringbone-wool-tuxedo-pants.md)
+- [Men's Navy Chalk Stripe Pants in Merino Wool](../../products/menswear/mens-navy-chalk-stripe-wool-suit-pant.md)
+- [Men's Navy Dress Pants in Super 140s Tropical Wool](../../products/menswear/mens-navy-wool-tuxedo-pants.md)
+- [Men's Navy Flannel Pants in Super 120s Wool Flannel](../../products/menswear/mens-navy-wool-flannel-suit-pant.md)
+- [Men's Navy Wool Dress Trousers in a Sharkskin Weave](../../products/menswear/mens-pants/new-generation-navy-wool-pants.md)
+- [Men's Sharkskin Dress Pants in Worsted Wool](../../products/menswear/mens-dress-pants-in-sharkskin.md)
+- [Men's Slim Flannel Dress Pants in Burgundy Wool Flannel](../../products/menswear/light-weight-all-season-wool-flannel-pants-slim-fit.md)
+- [Men's Tailored Linen Pants in Dark Blue](../../products/menswear/tailored-fit-dark-blue-linen-pants.md)
+- [Men's Tan Wool Dress Pants in Super 130s Merino](../../products/menswear/tailored-fit-tan-wool-pants-in-merino-wool.md)
+- [Men's Wedding Pants in Super 160s Wool](../../products/menswear/mens-pure-new-wool-wedding-pants.md)
 
 **Related terms:** custom dress pants, tailored trousers online, made to measure pants, men's wool slacks, high rise trousers, bespoke pants, bespoke trousers, custom formal trousers for men
 

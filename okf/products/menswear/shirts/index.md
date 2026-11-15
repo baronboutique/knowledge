@@ -70,15 +70,15 @@ Your finished shirt ships from Dubai by trackable courier. If anything about the
 
 ## Products
 
-- [Grey Raw Silk Shirt - Short Sleeves](mens-gray-raw-silk-shirt.md)
 - [Men's Egyptian Cotton Dress Shirt, 220 Thread Count, Custom Made](mens-light-blue-egyptian-cotton-shirt.md)
-- [Men's Twill Dress Shirts](mens-light-blue-twill-cotton-shirt.md)
-- [Navy Twill Shirt](mens-navy-twill-cotton-shirt.md)
-- [Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made](satin-silk-shirt.md)
-- [The Linen & Cotton Shirt](mens-dark-blue-linen-cotton-shirt.md)
-- [The Pink Oxford Shirt](mens-pink-oxford-cotton-shirt.md)
-- [The Raw Silk Shirt](mens-gold-raw-silk-shirt.md)
-- [The Tailored Linen Shirts](tailored-linen-shirts.md)
+- [Men's Gray Raw Silk Shirt, Short Sleeves, Custom Made](mens-gray-raw-silk-shirt.md)
+- [Men's Linen-Cotton Shirt, Short Sleeves, Custom Made](mens-dark-blue-linen-cotton-shirt.md)
+- [Men's Navy Twill Button-Down Shirt, Custom Made](mens-navy-twill-cotton-shirt.md)
+- [Men's Pink Oxford Shirt with Cutaway Collar and French Cuffs](mens-pink-oxford-cotton-shirt.md)
+- [Men's Raw Silk Shirt in 100% Silk, Custom Made](mens-gold-raw-silk-shirt.md)
+- [Men's Satin Silk Shirt in 100% Natural Silk, Custom Made](satin-silk-shirt.md)
+- [Men's Tailored Linen Shirt for Weddings and Summer, Custom Made](tailored-linen-shirts.md)
+- [Men's Twill Dress Shirt in Light Blue Cotton Twill](mens-light-blue-twill-cotton-shirt.md)
 
 ## Related
 

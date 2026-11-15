@@ -59,8 +59,8 @@ Your finished waistcoat ships from Dubai by trackable courier, Your test garment
 
 ## Products
 
-- [The Linen Waistcoat](linen-5-button-vest.md)
-- [The Worsted Wool Waistcoat](100-percent-wool-vest-for-all-season.md)
+- [Men's Linen Waistcoat in Pure Pre-Washed Linen](linen-5-button-vest.md)
+- [Men's Wool Waistcoat in Super 160s Worsted](100-percent-wool-vest-for-all-season.md)
 
 ## Related
 

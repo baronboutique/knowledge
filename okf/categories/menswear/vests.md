@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-11T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-11T03:00:04Z }
 ---
 
 # Vests
@@ -79,8 +79,8 @@ Your finished waistcoat ships from Dubai by trackable courier, Your test garment
 
 ## Products
 
-- [The Linen Waistcoat](../../products/menswear/vests/linen-5-button-vest.md)
-- [The Worsted Wool Waistcoat](../../products/menswear/vests/100-percent-wool-vest-for-all-season.md)
+- [Men's Linen Waistcoat in Pure Pre-Washed Linen](../../products/menswear/vests/linen-5-button-vest.md)
+- [Men's Wool Waistcoat in Super 160s Worsted](../../products/menswear/vests/100-percent-wool-vest-for-all-season.md)
 
 **Related terms:** men's waistcoats, custom vest for wedding, tailored waistcoat, suit vest online
 

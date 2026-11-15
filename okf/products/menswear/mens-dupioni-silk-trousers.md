@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-dupioni-silk-trousers/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-08
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-09T03:00:04Z }
 ---
 
 # Men's Dupioni Silk Trousers
@@ -41,6 +41,17 @@ The Trouser
 
 ## Men’s Dupioni Silk Trousers
 
+At a Glance
+
+| Cloth | Dupioni silk with a crisp hand, natural sheen and small slubs |
+| --- | --- |
+| Color | Green in the photos; many more dupioni colors in the selector |
+| Waist | Extended tab closing with a round button, eight belt loops |
+| Pockets | Angled side pockets, piped back pockets |
+| Hem | 3 inch blind hem, stitched by hand |
+| Care | Dry clean only |
+| First step | A cotton test trouser, free, so the fit is set before the silk is cut |
+
 Silk pants for men are rarely quiet, and these are not meant to be. Dupioni silk has a crisp hand, a natural sheen and the small irregular slubs that come from its yarn, so the trousers hold a sharp line and catch the light as you move. They are cut to your measurements with a flat front, angled side pockets, piped back pockets and an extended waistband tab that closes with a round button.
 
 The front is lined to the knee in the satin you choose in the selector, the 1.5 inch waistband has a grip inside and a cotton-lined inner face, and the hem is a 3 inch hand-stitched blind hem. Green is the color in our photos; the silk also comes in black, white, cream, silver, English khaki, chocolate, blue, light blue, aqua, turquoise, sea green, lime green, yellow, royal gold, orange, red, blood red, crimson pink, royal pink, purple and a cream turquoise.
@@ -52,8 +63,6 @@ Dupioni silk
  Piped back pockets  
  Lined to the knee in satin  
  Free test trouser
-
-**Price:** $299 **Cloth:** dupioni silk **Front:** flat front, extended button tab **Production time:** 3 to 4 weeks for the test trouser, 3 to 4 weeks for the final trouser **Care:** dry clean only
 
 ---
 

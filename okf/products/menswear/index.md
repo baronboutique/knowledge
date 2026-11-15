@@ -4,7 +4,6 @@ Bespoke menswear cut from an individual pattern after each order, covering suits
 
 All products made to order. Every bespoke order includes a complimentary cotton test garment.
 
-- [Pants](mens-pants/index.md) — 9 products
 - [12th Doctor Black Velvet Frock Coat Peter Capaldi Cosplay](12th-doctor-black-velvet-frock-coat.md)
 - [12th Doctor Blue Coat with Red Lining](12th-doctor-wool-coat.md)
 - [12th Doctor Maroon Red Velvet Coat](12th-doctor-burgundy-velvet-coat.md)
@@ -14,38 +13,38 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [1960s Mod Four-Button Suit with Velvet Collar](1960s-mod-suit-jacket-velvet-collar.md)
 - [3/4 Length Denim-Leather Hybrid Coat](handmade-denim-leather-hybrid-coat.md)
 - [Allan Quatermain Long Coat League of Extraordinary Gentlemen](sean-connery-long-coat-from-league-of-extraordinary-gentlemen.md)
-- [Chalk Stripe Pants](mens-navy-chalk-stripe-wool-suit-pant.md)
 - [Eleventh Doctor Inspired Green Frock Coat](eleventh-doctors-green-coat.md)
-- [Flannel Dress Pants](light-weight-all-season-wool-flannel-pants-slim-fit.md)
 - [Green Velvet Frock Coat](green-velvet-frock-coat.md)
 - [Hand Finished Silk Pocket Squares](silk-pocket-squares-handmade.md)
 - [James Bond Navy Blue Coat Spectre](navy-bond-coat-spectre.md)
-- [Linen Pants For A Beach Wedding](linen-pants.md)
 - [Long Melton Wool Greatcoat, Belted and Made to Your Length](mens-double-breasted-peacoat.md)
 - [Men's Car Coat In Wool](mens-car-coat.md)
+- [Men's Chalk Stripe Merino Wool Dress Pants](merino-wool-dress-pants.md)
 - [Men's Cubana Coat](mens-cubana-coat.md)
 - [Men's Dupioni Silk Trousers](mens-dupioni-silk-trousers.md)
+- [Men's Essential Black Wool Trousers](mens-black-wool-trousers.md)
 - [Men's Glen Plaid Cashmere Scarf – Tan & White Houndstooth](mens-glen-plaid-cashmere-scarf-tan-white.md)
+- [Men's Gray Mohair Pants in Merino Wool and Mohair](flat-front-gray-pants-in-mohair-wool.md)
 - [Men's Grey Flannel Trousers in Wool Flannel](mens-gray-wool-flannel-pants.md)
-- [Men's Grey Pinstripe Pants, Custom Made in Super 150s Wool](mens-gray-pinstripe-pants.md)
+- [Men's Grey Pinstripe Pants in Super 150s Wool](mens-gray-pinstripe-pants.md)
+- [Men's Linen Pants for a Beach Wedding](linen-pants.md)
 - [Men's Navy Blue Peacoat, Slim Fit in Wool-Cashmere](mens-navy-peacoat.md)
-- [Men's Tailored Linen Pants](tailored-fit-dark-blue-linen-pants.md)
+- [Men's Navy Blue Tuxedo Pants in Herringbone Wool](mens-navy-herringbone-wool-tuxedo-pants.md)
+- [Men's Navy Chalk Stripe Pants in Merino Wool](mens-navy-chalk-stripe-wool-suit-pant.md)
+- [Men's Navy Dress Pants in Super 140s Tropical Wool](mens-navy-wool-tuxedo-pants.md)
+- [Men's Navy Flannel Pants in Super 120s Wool Flannel](mens-navy-wool-flannel-suit-pant.md)
+- [Men's Sharkskin Dress Pants in Worsted Wool](mens-dress-pants-in-sharkskin.md)
+- [Men's Slim Flannel Dress Pants in Burgundy Wool Flannel](light-weight-all-season-wool-flannel-pants-slim-fit.md)
+- [Men's Tailored Linen Pants in Dark Blue](tailored-fit-dark-blue-linen-pants.md)
+- [Men's Tan Wool Dress Pants in Super 130s Merino](tailored-fit-tan-wool-pants-in-merino-wool.md)
+- [Men's Wedding Pants in Super 160s Wool](mens-pure-new-wool-wedding-pants.md)
 - [Mens 100% Cashmere Scarf 22×72 Inches Long Soft Non-Irritating 80+ Colors](mens-100-cashmere-scarf-soft-non-irritating.md)
 - [Mens Aviator Silk Neck Scarf 75 Inches Long 100% Satin Silk 60+ Colors](mens-aviator-silk-neck-scarf.md)
 - [Mens Cashmere Scarf Neck Wrap Extra Long Formal & Urban Style 80+ Colors](mens-cashmere-scarf-neck-wrap-extra-long-formal-urbanstyle.md)
 - [Mens Fitted Peacoat Black Quantum Of Solace Ending](quantum-of-solace-peacoat.md)
-- [Mens Mohair Pants](flat-front-gray-pants-in-mohair-wool.md)
-- [Mens Navy Dress Pants](mens-navy-wool-tuxedo-pants.md)
 - [Mens Satin Silk Neckties Solid Color Handmade](mens-silk-neckties-solid-color-handmade.md)
-- [Mens Sharkskin Dress Pants](mens-dress-pants-in-sharkskin.md)
 - [Mens Silk Tie & Pocket Square Set Handmade](mens-silk-tie-pocket-square-set.md)
-- [Mens wedding pants](mens-pure-new-wool-wedding-pants.md)
-- [Merino Wool Dress Pants](merino-wool-dress-pants.md)
-- [Navy Blue Tuxedo Pants](mens-navy-herringbone-wool-tuxedo-pants.md)
-- [Navy Flannel Pants](mens-navy-wool-flannel-suit-pant.md)
 - [Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit](mens-wool-cashmere-topcoat-in-navy.md)
-- [Tan Wool Dress Pants](tailored-fit-tan-wool-pants-in-merino-wool.md)
-- [The Essential Black Wool Trousers](mens-black-wool-trousers.md)
 - [Time Lord Frock Coat (Oxford Blue)](time-lord-frock-coat-oxford-blue.md)
 - [Two Face Silk Neckties Handmade](two-face-silk-neckties-handmade.md)
 - [Velvet Groomsmen Blazer – Handmade for Weddings](velvet-groomsmen-blazer-handmade-weddings.md)
@@ -59,10 +58,11 @@ All products made to order. Every bespoke order includes a complimentary cotton 
 - [Dinner Jackets](dinner-jackets/index.md) — 6 products
 - [Linen Wedding Suits](grooms-linen-suits-for-wedding/index.md) — 6 products
 - [Destination Wedding Suits](destination-wedding-suits/index.md) — 1 products
+- [Pants](mens-pants/index.md) — 9 products
 - [Shirts](shirts/index.md) — 9 products
+- [Vests](vests/index.md) — 2 products
 - [Accessories](mens-accessories/index.md) — 1 products
 - [Wedding Suits](wedding-suits/index.md) — 1 products
-- [Vests](vests/index.md) — 2 products
 
 ## Related
 

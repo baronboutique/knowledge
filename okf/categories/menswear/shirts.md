@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-27T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-27T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-11T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-11T03:00:04Z }
 ---
 
 # Shirts
@@ -90,15 +90,15 @@ Your finished shirt ships from Dubai by trackable courier. If anything about the
 
 ## Products
 
-- [Grey Raw Silk Shirt - Short Sleeves](../../products/menswear/shirts/mens-gray-raw-silk-shirt.md)
 - [Men's Egyptian Cotton Dress Shirt, 220 Thread Count, Custom Made](../../products/menswear/shirts/mens-light-blue-egyptian-cotton-shirt.md)
-- [Men's Twill Dress Shirts](../../products/menswear/shirts/mens-light-blue-twill-cotton-shirt.md)
-- [Navy Twill Shirt](../../products/menswear/shirts/mens-navy-twill-cotton-shirt.md)
-- [Satin Silk Shirt, 100% Natural Silk in 20 Colors, Custom Made](../../products/menswear/shirts/satin-silk-shirt.md)
-- [The Linen & Cotton Shirt](../../products/menswear/shirts/mens-dark-blue-linen-cotton-shirt.md)
-- [The Pink Oxford Shirt](../../products/menswear/shirts/mens-pink-oxford-cotton-shirt.md)
-- [The Raw Silk Shirt](../../products/menswear/shirts/mens-gold-raw-silk-shirt.md)
-- [The Tailored Linen Shirts](../../products/menswear/shirts/tailored-linen-shirts.md)
+- [Men's Gray Raw Silk Shirt, Short Sleeves, Custom Made](../../products/menswear/shirts/mens-gray-raw-silk-shirt.md)
+- [Men's Linen-Cotton Shirt, Short Sleeves, Custom Made](../../products/menswear/shirts/mens-dark-blue-linen-cotton-shirt.md)
+- [Men's Navy Twill Button-Down Shirt, Custom Made](../../products/menswear/shirts/mens-navy-twill-cotton-shirt.md)
+- [Men's Pink Oxford Shirt with Cutaway Collar and French Cuffs](../../products/menswear/shirts/mens-pink-oxford-cotton-shirt.md)
+- [Men's Raw Silk Shirt in 100% Silk, Custom Made](../../products/menswear/shirts/mens-gold-raw-silk-shirt.md)
+- [Men's Satin Silk Shirt in 100% Natural Silk, Custom Made](../../products/menswear/shirts/satin-silk-shirt.md)
+- [Men's Tailored Linen Shirt for Weddings and Summer, Custom Made](../../products/menswear/shirts/tailored-linen-shirts.md)
+- [Men's Twill Dress Shirt in Light Blue Cotton Twill](../../products/menswear/shirts/mens-light-blue-twill-cotton-shirt.md)
 
 **Related terms:** custom dress shirts, tailored shirts online, men's silk shirts, made to measure shirt, fitted formal shirts, dress shirts for men, luxury mens dress shirts, high end dress shirts, 220 thread egyptian cotton shirt
 

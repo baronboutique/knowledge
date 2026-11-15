@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/flat-front-work-pants-in-high-twist-wool/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-08
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-09T03:00:04Z }
 ---
 
 # Men's High-Twist Wool Work Pants
@@ -41,6 +41,17 @@ The Trouser
 
 ## Men’s High-Twist Wool Work Pants
 
+At a Glance
+
+| Cloth | Super 130s high-twist fresco wool that recovers from creases |
+| --- | --- |
+| Color | Navy in the photos; grays, black, blues, browns, beige and two stripes |
+| Cut | Classic: straight through the thigh, moderate taper, flat front |
+| Details | Hook closure, slanted pockets, two buttoned welt back pockets |
+| Lining | Front lined to the knee in the satin you choose |
+| Care | Machine washable; dry clean recommended |
+| First step | Wear the free cotton test pair for a full workday before we cut the wool |
+
 High twist wool trousers are the work pants for people who sit, travel and move all day and still need to look pressed at six o’clock. The yarn is twisted much tighter than ordinary suiting yarn, which makes the cloth springy, breathable and quick to recover from creases. These are cut to your measurements in Super 130s high-twist fresco wool, with a classic flat front, slanted pockets and two buttoned welt back pockets.
 
 Inside, the front is lined to the knee in a satin of your choice from the selector; a grip on the 1.5 inch waistband holds a tucked shirt, and the hem is stitched by hand. Navy is shown in our photos; the same cloth comes in charcoal, dark gray, gray, light gray, black, blue, brown, tan, beige, red and two stripes. If you want a slimmer, leg-lengthening cut in the same cloth, see our **[charcoal gray dress pants](https://baronboutique.com/flat-front-charcoal-gray-pants/)**.
@@ -52,8 +63,6 @@ Super 130s high-twist wool
  Classic flat front  
  Lined to the knee in satin  
  Free test trouser
-
-**Price:** $239 **Cloth:** Super 130s, 100% high-twist fresco wool **Front:** flat front, classic cut **Production time:** 3 to 4 weeks for the test trouser, 3 to 4 weeks for the final trouser **Care:** machine washable; dry clean recommended
 
 ---
 

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-gray-wool-flannel-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-08
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-09T03:00:04Z }
 ---
 
 # Men's Grey Flannel Trousers in Wool Flannel
@@ -41,6 +41,17 @@ The Trouser
 
 ## Men’s Grey Flannel Trousers in Wool Flannel
 
+At a Glance
+
+| Cloth | Super 120s wool flannel, lighter than traditional flannel |
+| --- | --- |
+| Color | Mid gray in the photos; other flannel colors in the selector |
+| Front | Flat as standard; pleats, side adjusters or cuffs on request |
+| Pockets | Slanted front, two piped back pockets with buttons |
+| Lining | Satin to the knee, color from the selector |
+| Care | Machine washable; dry clean recommended |
+| First step | A free cotton test pair, the moment to choose pleats or cuffs |
+
 Grey flannel trousers have been the backbone of classic menswear for a century, because they go with almost everything: a navy blazer, a tweed jacket, a crew-neck sweater or a plain white shirt. These are cut to your measurements in a lightweight Super 120s wool flannel, softer and lighter than traditional heavy flannel, with a flat front, slanted pockets and a front lined to the knee in the satin you choose in the selector.
 
 Flannel is brushed after weaving, which raises a soft, slightly fuzzy surface. That surface traps a little warm air, softens the color and hides creases, so gray flannel pants look relaxed and correct at the same time. Ours is light enough for most of the year, not only for winter.
@@ -52,8 +63,6 @@ Mid gray flannel
  Pleats or side adjusters on request  
  Lined to the knee in satin  
  Free test trouser
-
-**Price:** $239 **Cloth:** Super 120s, 100% wool flannel **Front:** flat front; pleats on request **Production time:** 3 to 4 weeks for the test trouser, 3 to 4 weeks for the final trouser **Care:** machine washable; dry clean recommended
 
 ---
 

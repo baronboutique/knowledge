@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/flat-front-charcoal-gray-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-08
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-09T03:00:04Z }
 ---
 
 # Men's Charcoal Gray Dress Pants in High-Twist Wool
@@ -41,6 +41,17 @@ The Trouser
 
 ## Men’s Charcoal Gray Dress Pants in High-Twist Wool
 
+At a Glance
+
+| Cloth | Super 130s high-twist wool: springy, breathable, sheds creases |
+| --- | --- |
+| Color | Charcoal gray in the photos; other high-twist shades and two stripes |
+| Cut | Slim and leg-lengthening, flat front |
+| Details | Zip fly with hook, slanted pockets, buttoned welt back pockets, satin to the knee |
+| Hem | Finished by hand; unhemmed or cuffs on request |
+| Care | Machine washable; dry clean recommended |
+| First step | A free cotton test trouser to check the slim fit through seat and thigh |
+
 Charcoal grey formal trousers are the most useful pair a man can own. Darker than mid gray and softer than black, charcoal works with a white shirt at the office, a black shirt in the evening and a navy blazer at the weekend. These charcoal gray dress pants are cut to your measurements in Super 130s high-twist wool, with a slimmer, leg-lengthening cut, a flat front and slanted pockets.
 
 High-twist wool is spun tighter than ordinary suiting yarn, so the cloth is springy, breathes well and lets creases fall out after you sit. The front is lined to the knee in the satin you choose in the selector, the 1.5 inch waistband has a grip inside to keep a shirt tucked, and the hem is finished by hand. Charcoal is shown here; the same high-twist wool comes in black, dark gray, gray, light gray, navy, blue, brown, tan, beige, red and two stripes.
@@ -52,8 +63,6 @@ Charcoal gray
  Slim, leg-lengthening cut  
  Lined to the knee in satin  
  Free test trouser
-
-**Price:** $239 **Cloth:** Super 130s, 100% high-twist wool **Front:** flat front **Production time:** 3 to 4 weeks for the test trouser, 3 to 4 weeks for the final trouser **Care:** machine washable; dry clean recommended
 
 ---
 

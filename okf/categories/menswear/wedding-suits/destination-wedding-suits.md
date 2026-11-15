@@ -14,8 +14,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-10T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-10T03:00:04Z }
 ---
 
 # Destination Wedding Suits
@@ -93,8 +93,8 @@ Before we cut your final fabric, we build a test version in a low-cost cloth to 
 - [James Bond No Time To Die Beige Corduroy Suit](../../../products/screen-inspired/spy-tailoring/no-time-to-die-beige-corduroy-suit-james-bond.md)
 - [James West Wild Wild West Suit](../../../products/screen-inspired/cinema-classics/james-west-wild-wild-west-suit.md)
 - [Joker Inspired 2019 Staircase Villain Burgundy Melton Wool Three-Piece Suit](../../../products/screen-inspired/theatrical-villain-tailoring/2019-staircase-villain-burgundy-suit.md)
+- [Matrix Reloaded Inspired Neo Coat in Black Wool, Custom Made](../../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat.md)
 - [Men's Long Black Leather Coat, Wide Peak Lapel Full-Grain Cow Nappa](../../../products/screen-inspired/theatrical-villain-tailoring/mens-long-black-leather-coat.md)
-- [Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat](../../../products/screen-inspired/cyberpunk-trench-coats/matrix-reloaded-coat.md)
 
 **Related terms:** destination wedding groom suit, cape suit for wedding, statement wedding coat, cinematic wedding suit
 

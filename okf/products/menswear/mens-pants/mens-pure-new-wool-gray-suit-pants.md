@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-pure-new-wool-gray-suit-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-08
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-09T03:00:04Z }
 ---
 
 # Men's Light Gray Dress Pants in Super 160s Wool
@@ -41,6 +41,17 @@ The Trouser
 
 ## Men’s Light Gray Dress Pants in Super 160s Wool
 
+At a Glance
+
+| Cloth | Super 160s worsted wool, a fine and smooth plain weave |
+| --- | --- |
+| Color | Light gray in the photos; medium gray to navy blue in the same wool |
+| Front | Flat front, hook closure, angled pockets |
+| Back | Two buttoned back pockets |
+| Hem | 3 inch hand-stitched blind hem, so the length can be let down |
+| Care | Machine washable; dry clean recommended |
+| First step | A free test trouser in cotton, checked from behind as well as the front |
+
 Light gray dress pants are the summer and daytime answer to charcoal: lighter, fresher, and easier to wear with brown shoes and blue shirts. These are cut to your measurements in Super 160s worsted wool, a very fine, smooth plain weave that drapes cleanly and breathes, with a flat front, angled front pockets and two buttoned back pockets.
 
 The front is lined to the knee in the satin you choose in the selector, the 1.5 inch waistband has a grip inside and a cotton-lined inner face, and the hem is a hand-stitched blind hem with 3 inches turned up, so the length can be let down later. Light gray is shown in our photos; the same wool comes in medium gray, steel gray, dark gray, black, midnight blue and navy blue.
@@ -52,8 +63,6 @@ Light gray
  Flat front  
  Lined to the knee in satin  
  Free test trouser
-
-**Price:** $239 **Cloth:** Super 160s, 100% worsted wool, plain weave **Front:** flat front **Production time:** 3 to 4 weeks for the test trouser, 3 to 4 weeks for the final trouser **Care:** machine washable; dry clean recommended
 
 ---
 

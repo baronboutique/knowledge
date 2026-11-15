@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/crimson-black-slim-fit-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-09
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-09T03:00:04Z }
 ---
 
 # Men's Black Slim Fit Pants in Super 130s Wool
@@ -41,6 +41,17 @@ The Trouser
 
 ## Men’s Black Slim Fit Pants in Super 130s Wool
 
+At a Glance
+
+| Cloth | 9 oz Super 130s worsted wool in the black shown; Super 140s tropical wool colors in the selector |
+| --- | --- |
+| Cut | Slim from thigh to hem, leg-lengthening, flat front |
+| Waist | Extended square tab with a button, after-dinner split at the back |
+| Pockets | Slanted front, two piped back pockets with buttons |
+| Finish | Satin to the knee, hand-finished buttonholes, hem stitched by hand |
+| Care | Machine washable; dry clean recommended |
+| First step | A free cotton test trouser, so slim sits close without pulling |
+
 Black slim fit pants are the most useful dark trouser a man can own: sharp enough for a dinner, clean enough for the office and easy to dress down with a knit. These are cut to your measurements in a 9 oz Super 130s worsted wool, slim from the thigh to a clean hem, with a flat front, an extended square tab with a button and slanted pockets.
 
 Slim only works when it fits. A slim trouser that is tight across the seat ripples when you stand and strains when you sit, which is the most common complaint about ready-made slim fit trousers. Because ours are cut from your seat, thigh and knee measurements, they sit close without pulling, and your first pair is a free test trouser so you can check that before we cut the wool.
@@ -52,8 +63,6 @@ Black
  Slim, leg-lengthening cut  
  Lined to the knee in satin  
  Free test trouser
-
-**Price:** $239 **Cloth:** Super 130s worsted wool, 9 oz **Front:** flat front **Production time:** 3 to 4 weeks for the test trouser, 3 to 4 weeks for the final trouser **Care:** machine washable; dry clean recommended
 
 ---
 

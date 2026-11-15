@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/gray-melange-dress-pants/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-08
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-09T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-09T03:00:04Z }
 ---
 
 # Men's Gray Melange Dress Pants in Tropical Wool
@@ -41,6 +41,17 @@ The Trouser
 
 ## Men’s Gray Melange Dress Pants in Tropical Wool
 
+At a Glance
+
+| Cloth | Super 140s tropical wool, light and open for warm rooms |
+| --- | --- |
+| Color | Gray melange in the photos; solid grays, blues, browns and white in the same wool |
+| Cut | Tailored straight, flat front; slim, tapered or relaxed on request |
+| Waist | Extended square tab with a hook closure |
+| Pockets | Slanted front, piped and buttoned at the back |
+| Care | Machine washable; dry clean recommended |
+| First step | A cotton test trouser, free and yours to keep |
+
 Melange pants look plain gray from across a room and alive up close. The cloth is woven from fibers dyed in different shades before they are spun, so the gray has a soft, heathered depth that a flat gray cannot match. These gray melange dress pants are cut to your measurements in Super 140s tropical wool, with a flat front, an extended square tab with a hook closure and slanted pockets.
 
 Tropical wool is a light, open weave made for warm rooms and warm weather, so these are light gray dress pants men can wear from spring through autumn and in heated offices all winter. The front is lined to the knee in the satin you choose in the selector, the waistband has a grip inside to keep a shirt tucked, and the hem is finished by hand.
@@ -52,8 +63,6 @@ Gray melange
  Extended square tab  
  Lined to the knee in satin  
  Free test trouser
-
-**Price:** $239 **Cloth:** Super 140s tropical wool **Front:** flat front **Production time:** 3 to 4 weeks for the test trouser, 3 to 4 weeks for the final trouser **Care:** machine washable; dry clean recommended
 
 ---
 

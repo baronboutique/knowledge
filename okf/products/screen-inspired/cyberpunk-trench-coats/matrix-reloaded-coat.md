@@ -1,7 +1,7 @@
 ---
 type: Product
-title: "Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat"
-description: "Most Matrix Reloaded-inspired coat sellers offer a generic-size polyester approximation. Baron Boutique takes a different approach."
+title: "Matrix Reloaded Inspired Neo Coat in Black Wool, Custom Made"
+description: "A Neo coat inspired by The Matrix Reloaded, often called the Matrix coat or Matrix jacket, cut to your measurements in matte Super 140s wool."
 resource: https://baronboutique.com/matrix-reloaded-coat/
 tags: [men, trench-coat, long-coat, monks-wool, mandarin-collar, matrix, neo-coat, cyberpunk, screen-inspired, replica, cosplay, bespoke, made-to-order]
 sources:
@@ -9,17 +9,17 @@ sources:
     resource: https://baronboutique.com/matrix-reloaded-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-11-09
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-10T03:00:04Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-10T03:00:04Z }
 ---
 
-# Neo Cassock Coat Custom Made – Matrix Reloaded Inspired Black Wool Coat
+# Matrix Reloaded Inspired Neo Coat in Black Wool, Custom Made
 
 **SKU:** 5002002  
 **URL:** https://baronboutique.com/matrix-reloaded-coat/  
@@ -37,139 +37,244 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Short Description
 
-Most Matrix Reloaded-inspired coat sellers offer a generic-size polyester approximation. Baron Boutique takes a different approach. Our custom-made Neo Cassock Coat is tailored to your measurements in black wool, with a screen-inspired silhouette and construction designed to achieve the distinctive long, below-ankle look seen in The Matrix Reloaded. We send a complimentary test coat first so you can try the fit at home, provide feedback, and approve the adjustments before we cut the final coat.
+A Neo coat inspired by The Matrix Reloaded, often called the Matrix coat or Matrix jacket, cut to your measurements in matte Super 140s wool. Single-breasted cassock coat with a mandarin collar, fabric-covered buttons, canvas front, princess seam back and a pleated skirt that swings below the ankle; black satin lining as standard. Your first coat is a free test coat in cotton.
 
-## The Matrix Reloaded Neo Cassock Coat: Inspired by the Film, Built to Fit You
+The Coat
 
-In The Matrix Reloaded, Neo wears a long black cassock-style coat, often searched for as the Matrix jacket. This is Baron’s custom made coat inspired by it, not the coat from the first film or from Resurrections, which use a different cut. If you are comparing this against other Matrix coat listings, the difference that matters is fit: yours is built to your own measurements and confirmed with a free test coat before we touch the final wool.
+## Matrix Reloaded Inspired Neo Coat, Custom Made in Super 140s Wool
 
-Baron builds the Matrix Reloaded Neo coat to your body measurements in monks wool, the same fabric category used for quality tailored outerwear, with a canvas front, hand-finished buttonholes, and the screen-inspired construction details that make the silhouette work. The below-ankle length has to land in exactly the right place for this coat to look right. We do not leave that to chance.
+At a Glance
 
-Screen-inspired Matrix Reloaded replica  
- Monks wool, 8 colors  
- Canvas front construction  
- Free test coat included  
- Made to your measurements
+| Inspired by | Neo’s long cassock coat in The Matrix Reloaded; our own tailored version |
+| --- | --- |
+| Cloth | Super 140s monks wool, matte, black for the film look |
+| Silhouette | Single-breasted, mandarin collar, below-ankle length |
+| Back and skirt | Princess seams into a pleated skirt that flares when you walk |
+| Inside | Canvas front, three interior pockets, black satin lining as standard |
+| Care | Dry clean only |
+| First step | A free test coat in cotton, made to your measurements, to set the length |
 
----
+This is our Matrix Reloaded inspired Neo coat: Baron Boutique’s own version of the long black cassock coat Neo wears from The Matrix Reloaded onward, cut to your measurements. Most people search for it as the Matrix coat, the Matrix jacket or the Neo jacket; a tailor would call it a cassock coat, a single-breasted coat with a mandarin collar and a long skirt that swings when you move.
 
----
+We make it in Super 140s wool with a canvas front, a princess seam back and a pleated, flared skirt that falls below the ankle. It is not the film costume and has no connection to the studio; it is a tailored coat inspired by it. Your first coat is a test coat in cotton, free and yours to keep, so the length and the swing of the skirt are settled before the wool is cut.
 
-## Real Customers, Real Coats
-
-These are not studio shots. The cosplay action photos below are from customers who ordered their Matrix Reloaded coat, received it, and sent us pictures from their events and shoots. The winter weight commission below that is a special customer project , a heavier fabric version of the same coat, with the customer’s build and preferences built into every seam.
-
-### A Special Commission: Winter Weight Matrix Reloaded Coat
-
-One of our customers wanted the same silhouette in a heavier fabric for winter wear. We built it. The coat shown below uses a winter weight wool rather than the standard monks wool , same construction, same screen-inspired pattern, different hand and weight. This is what a bespoke coat commission looks like when the brief is “the Matrix coat but I want to wear it in January.”
-
----
-
-## Free Test Cassock Coat: Fit the Silhouette Before We Build the Final
-
-A below-ankle coat is the least forgiving garment to get wrong. The length must hit a precise point on your frame for the hem to flow correctly. The shoulder placement controls how the coat moves when you walk. The chest fit determines whether it falls cleanly or pulls. Get any one of those measurements slightly off and the entire silhouette collapses , you will know the moment you see a photograph.
-
-Before we cut your final Matrix Reloaded coat in monks wool, we build a complete test coat in a lighter cotton fabric, sewn to your measurements, and ship it to you via trackable courier. You try it on. You move in it. You check the length at the back hem, the shoulder line, the chest, and the way the pleated skirt falls. You tell us everything that needs adjusting, and we correct every note in the pattern before we touch your final cloth. The test coat is yours to keep.
-
-This is how we guarantee fit for every customer ordering from anywhere in the world. The Matrix coat is a complex pattern , 17 fabric-covered buttons, a princess seam back, a center kick pleat, a pleated and flared skirt hem. You do not want to discover a fitting problem when the final coat arrives. Neither do we.
+Inspired by The Matrix Reloaded  
+ Super 140s wool  
+ Pleated, flared skirt  
+ Black satin lining  
+ Free test coat
 
 ---
 
-## Who This Coat Is For
+Free Test Coat
 
-The Serious Neo Cosplayer
+## A Free Test Coat in Cotton, Tried With Your Own Shoes
 
-You have done your research on the Reloaded coat specifically , the below-ankle length, the 17 buttons, the pleated flared skirt, the mandarin collar height, the princess seam back. You know the difference between this coat and the generic “Neo Cassock coat” that most sellers copy. You want the version built from the correct pattern in real wool, fitted to your body, with the construction details that hold up through a full weekend of convention wear.
+We start with a test coat in cotton, cut from your measurements and sent to you free. It has no lining, buttons up the front like the final coat and is yours to keep. The photos below are a client’s test coat in mint cotton; the color does not matter, the cut does.
 
-The Fashion Buyer Who Wants the Silhouette
+Front
 
-You are not coming at this from cosplay. You saw the Matrix-core coverage from the runway collections, you have seen the street style shots, and you want the movie inspired coat, not a leather approximation that makes you look like you are wearing a costume. Monks wool in black gives you the dramatic below-ankle silhouette without the sheen. It reads as a statement coat to anyone who does not know the reference, and as a movie inspired coat to everyone who does.
+Button line, collar height and room across the chest.
 
-The Convention Regular Who Has Worn a Bad One
+Back
 
-You have owned a cheap Matrix coat. The buttons loosened at the first event. The polyester started pilling by the second. The length was approximate at best. The chest pulled across the shoulders every time you raised an arm for a photo. You know what a bad replica costs in frustration. This coat is built from tailoring-grade wool with reinforced buttons and ample seam allowances. It wears correctly at the hundredth event the way it does at the first.
+How full the skirt is and where the hem lands.
 
-The Film Collector
+Sides
 
-You are not planning to wear this to a convention or a club. You want the screen-inspired version of one of cinema’s most recognizable garments, built the way it should have been built, in real cloth, by a tailor who understands the construction. This is the coat as an object, not as a costume.
+Sleeve length and the line from collar to hem.
 
-This coat is not for a one-night Halloween. The canvas front, monks wool, and hand-finished buttonholes are for people who plan to wear it repeatedly , and want it to look right every time.
-
----
-
-## How Your Matrix Reloaded Coat Is Made
+A cassock coat is judged on two things a short jacket never has to get right: where the hem lands and how the skirt moves. So put on the trousers and the shoes or boots you will wear with it, then walk, sit and turn quickly. The hem should clear the floor, the skirt should open as you stride rather than wrap your legs, and the collar should close without pressing on your throat. Sleeves, button positions and length can all change at this stage; tell us in your notes, along with any detail you want added or removed.
 
 1
 
-**Choose your color and enter your measurements**  
- Select from 8 monks wool colors, black is the screen-inspired default. Enter your measurements directly on the product page. No emails, no back-and-forth.
+**Choose and measure.** Pick your wool and lining in the selectors and enter your measurements on the form; add any requests in the comment box.
 
 2
 
-**We build your free test coat**  
- A complete test coat in cotton, the full pattern including the pleated skirt, mandarin collar, and all button positions, is made to your measurements and shipped via trackable courier.
+**Test coat in cotton.** Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 
 3
 
-**You try it and give us your notes**  
- Check the hem length, shoulder line, chest, and how the coat moves. Most customers send two to four adjustment notes. No detail is too small, the below-ankle length especially must land correctly.
+**Walk, sit, turn, send.** Wear it with your own trousers and shoes and send front, back and side photos with your notes.
 
 4
 
-**We build your final coat**  
- Your adjustments are applied to the final pattern. The monk’s wool is cut and sewn by hand, canvas front, all fabric-covered buttons reinforced by hand, hand-finished buttonholes, black acetate lining, princess seam back with center kick pleat, pleated and flared hem.
-
-5
-
-**Your coat ships worldwide**  
- The finished coat ships via trackable courier. The test coat is already yours, no return needed.
-
-6
-
-**We answer if anything needs attention**  
- We are reachable by email and we reply. Our customers come back because the fit is right and we answer emails. Every coat is made by a tailor whose name we know.
-
-**Starting price:** $699 **Production time:** 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat **Care:** Dry clean only
+**Your wool coat.** Once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch.
 
 ---
 
-## Full Specification
+Client Photos
 
-| Fabric | Super 130s monks’ wool, 8 colors available |
+## Client Photos: the Neo Coat in Action
+
+These photos come from a client who wore his coat at events and shoots and sent us the pictures. They show what the cut is for: Matrix poses, a kick or a fast turn, and the skirt opens and settles again instead of tangling.
+
+Landing
+
+The skirt spreads flat without pulling at the shoulders.
+
+High kick
+
+Hand-stitched armholes and a full skirt leave room to move.
+
+Standing
+
+The long, straight line Neo cosplay depends on.
+
+Mid move
+
+The pleats open, then fall back into place.
+
+Another client wanted the same coat to wear through the winter, so we made it in a heavier wool. A different weight of cloth is possible on request; write to us before you order and we will tell you what is available and whether the price changes.
+
+Winter weight, front
+
+Buttoned to the mandarin collar.
+
+Winter weight, back
+
+Princess seams into the full skirt.
+
+---
+
+The Film Coat
+
+## What Neo Wears in The Matrix Reloaded
+
+What does Neo wear in The Matrix Reloaded? A long, single-breasted black coat with a stand-up collar, closer to a priest’s cassock than to the shiny trench coat of the first film. Costume designer Kym Barrett has described its mix of ecclesiastical and Asian influences, which is why fans call it the Neo cassock coat.
+
+Gloria Bava, a costume cutter on the sequels, explained in an interview that the leather of the first film was too stiff to billow, so the new coat was made in a matte, loosely woven, twill-like cloth in a shade between charcoal and black, cut very flat at the front and very full at the back so it could float in the fight scenes. That is the brief our pattern follows.
+
+| Matte, dark cloth | Ours is Super 140s monks wool; black reads as a deep charcoal in daylight, as the film coat did |
 | --- | --- |
-| Default color | Black |
-| Jacket construction | Canvas front |
-| Silhouette | Single-breasted, straight cut, below-ankle length |
-| Collar | Mandarin collar, 1.25 to 1.75 inches tall |
-| Fastening | 17 fabric-covered buttons with loop fastening (count varies with coat length) |
-| Back construction | Princess seam back with center kick pleat |
-| Hem | Pleated and flared coat skirt, straight front hem |
-| Sleeve cuffs | Vented cuff |
-| Hip pockets | Diagonal exterior hip pockets |
-| Interior pockets | Three |
-| Lining | Black acetate throughout |
-| Armholes | Hand-stitched |
-| Buttons | Fabric-covered buttons, stitched and reinforced by hand |
+| Flat front | A canvas front keeps the chest smooth and the button line straight |
+| Full back | Princess seams shape the back and lead into a pleated, flared skirt |
+| Stand-up collar | A mandarin collar, about 1.25 to 1.75 inches tall, set in proportion to your neck |
+
+Where we depart from the costume, we do it on purpose. The screen coats were built for wire work and wind machines; yours is built to be worn for years, so the back is cut to your height rather than lengthened for stunts, the buttons close on ordinary buttonholes, and the lining is satin in the color you choose.
+
+---
+
+Which Neo Coat
+
+## Which Neo Coat Is Which: All Four Matrix Films
+
+Which movie does Neo wear the long coat in? In all four, but the Matrix outfits change from film to film and the Matrix long coat is not the same coat each time, which matters when you order.
+
+| The Matrix (1999) | A long black trench-style coat with a shiny finish; see our **[Matrix coat inspired by the first film](https://baronboutique.com/the-matrix-coat/)** |
+| --- | --- |
+| The Matrix Reloaded (2003) | Often searched as Neo Matrix 2 or Neo Reloaded: the cassock coat with the mandarin collar and swinging skirt; this page |
+| The Matrix Revolutions (2003) | See our **[coat inspired by The Matrix Revolutions](https://baronboutique.com/the-matrix-revolutions-coat/)** |
+| The Matrix Resurrections (2021) | A shorter, everyday coat; see our **[Resurrections-inspired Neo coat](https://baronboutique.com/matrix-4-resurrections-neo-coat/)** |
+
+The Matrix Reloaded cut also comes as a **[leather version](https://baronboutique.com/matrix-reloaded-coat-in-leather/)** and a **[white version](https://baronboutique.com/matrix-reloaded-coat-in-white/)**. If you are not sure which Matrix coat you want, compare **[all of our Matrix coats](https://baronboutique.com/screen-inspired/cyberpunk-trench-coats/)** side by side.
+
+---
+
+The Neo Outfit
+
+## How to Dress Like Neo From The Matrix Reloaded
+
+How to dress like Neo from The Matrix Reloaded: in the Neo Matrix Reloaded outfit, the coat does most of the work, and the rest is plain black. Look up the neo matrix black coat sunglasses image, or any neo matrix black outfit, and the same pieces appear every time; it is also the easiest matrix outfit men can put together for an event.
+
+| Coat | The Matrix Reloaded inspired Neo coat in black, buttoned to the collar |
+| --- | --- |
+| Under it | A close-fitting black top or a black shirt with a high collar; plain neo clothing is all it needs |
+| Trousers | Straight black trousers; for neo matrix pants cut to your measurements, see our **[black wool trousers](https://baronboutique.com/mens-black-wool-trousers/)** |
+| Shoes | Black boots or plain black lace-ups |
+| Sunglasses | Small, narrow dark lenses, the detail every Neo costume needs |
+
+People often call the whole look the Matrix suit or the Neo suit, but the neo matrix suit is really a long coat over black clothes. For a neo matrix costume, a neo matrix Halloween costume or a neo matrix cosplay that has to survive a full convention day, the coat is the piece worth investing in: cheap matrix costumes usually fail at the coat first, in shiny polyester that crumples or a length that is either too short or drags. The other neo clothes and the rest of the matrix neo outfit are easy to find. Worn without the sunglasses and with a black sweater, the same coat turns Matrix clothing into Matrix style clothing for the city, and few people read it as costume.
+
+---
+
+The Cloth
+
+## Super 140s Monks Wool, Matte by Design
+
+The cloth is a Super 140s monks wool: fine, smooth wool yarns woven into a small, textured pattern that stays matte under light. Matte matters here, because a coat that shines reads as costume, while a dull, dense surface reads as tailoring and photographs dark. Wool also lets the skirt hang with some weight, so it swings and settles instead of floating like a synthetic.
+
+Black
+
+The film look; matte and close to charcoal in daylight.
+
+Dark Grey
+
+A softer dark coat for everyday wear.
+
+Grey
+
+Pale and quiet; the silhouette without the reference.
+
+Dark Navy
+
+Almost black, blue in daylight.
+
+Navy
+
+A classic navy coat.
+
+Petrol Blue
+
+The boldest of the blues.
+
+Slate Blue
+
+Muted blue gray.
+
+Dark Brown
+
+Warm and unexpected.
+
+Choose your color in the fabric selector; black is the color for the film look. The swatches are close-ups, so the dotted texture looks stronger than it does on the finished coat. The lining is black satin as standard, and you can choose any other satin in the lining selector.
+
+---
+
+Construction
+
+## How the Neo Cassock Coat Is Built
+
+| Front | Single-breasted, closing with fabric-covered buttons on hand-finished buttonholes; about 17 buttons, more or fewer depending on your height |
+| --- | --- |
+| Collar | Mandarin collar, about 1.25 to 1.75 inches tall, proportioned to your neck and height |
+| Chest | Canvas front, so the coat keeps a flat, clean front and does not collapse with wear |
+| Back | Princess seams shaping the back and running into a pleated, flared skirt |
+| Pockets | Two diagonal hip pockets outside; three interior pockets |
+| Sleeves | Plain sleeve ends with no vent; hand-stitched armholes for free movement |
+
+Each choice has a reason. The canvas front is what keeps the long, straight button line from rippling; the princess seams let the coat follow your back and still release into a full skirt; the pleats hold that fullness neatly when you stand still and open when you move. The covered buttons disappear into the black, as they should on a cassock coat, and each one is hand-stitched and reinforced.
+
+---
+
+Full Spec
+
+## Specification
+
+| Name | Matrix Reloaded Inspired Neo Coat in Black Wool, Custom Made |
+| --- | --- |
+| Inspired by | Neo’s cassock coat in The Matrix Reloaded; our own version, not the film costume |
+| Cloth | Super 140s monks wool |
+| Colors | Black in the photos; other monks wool colors in the selector |
+| Silhouette | Single-breasted cassock coat, below-ankle length |
+| Collar | Mandarin collar, about 1.25 to 1.75 inches, varies with your measurements |
+| Front | About 17 fabric-covered buttons on buttonholes; count varies with height |
+| Construction | Canvas front, hand-stitched armholes |
+| Back | Princess seam back, pleated and flared skirt |
+| Sleeves | Plain ends, no cuff vent |
+| Pockets | Two diagonal hip pockets, three interior pockets |
+| Lining | Black satin as standard; any satin from the selector |
+| Buttons | Fabric-covered, hand-stitched and reinforced |
 | Buttonholes | Hand-finished buttonholes |
-| Seam allowances | Ample throughout for future alteration |
+| Seams | Ample allowances for future alteration |
+| Test coat | In cotton, unlined, made to your measurements, free and yours to keep |
+| Production time | 3 to 4 weeks for the test coat, 3 to 4 weeks for the final coat; delivery 5 to 10 days after dispatch |
 | Care | Dry clean only |
+| Price | $699 |
 
 ---
 
-## Bespoke vs. Off the Rack
-
-| | Off the Rack | Baron Boutique |
-| --- | --- | --- |
-| Fit | S / M / L , below-ankle length never lands correctly on your specific frame | Built to your measurements , length, shoulders, and chest fitted precisely |
-| Fit guarantee | None , what you ordered is what arrives | Free test coat confirms fit before final coat is cut |
-| Fabric | Polyester or polyester blend, shiny, reads as costume | Monks wool, matte, structured, drapes with weight |
-| Construction | Fused or unstructured front, collapses with wear | Canvas front, holds its silhouette over time |
-| Buttons | Machine-sewn, loose after first event | Fabric-covered, stitched and reinforced by hand |
-| Buttonholes | Machine-cut | Hand-finished buttonholes |
-| Screen inspired | Approximate, often confuses Reloaded and Resurrections cuts | Matrix Reloaded specific, princess seam back, pleated flared skirt, correct collar height |
-| Colors | Black only, usually | 8 monks wool colors at the same price |
-
----
+About Baron
 
 ## About Baron Boutique
 
@@ -181,43 +286,57 @@ Our customers come back because the fit is right and we answer emails. Every gar
 
 ---
 
-## Questions About the Matrix Reloaded Coat
+Questions & Answers
 
-### What is the difference between the Matrix Reloaded coat and other Neo coats?
+## Questions About the Matrix Reloaded Neo Coat
 
-The Matrix Reloaded coat is specifically the coat Neo wears from Matrix 2 onward, it is distinct from the shorter coat in the original film and from the coat in Matrix Resurrections. The Reloaded version is defined by its below-ankle length, mandarin collar (1.25 to 1.75 inches tall), 17 fabric-covered buttons with loop fastening, princess seam back with center kick pleat, and pleated flared coat skirt. Most sellers conflate these versions or use a generic long coat pattern. This coat is built from the Reloaded-specific pattern.
+### What is the coat that Neo wears in The Matrix Reloaded?
 
-### Why monks wool instead of leather or PVC like in the film?
+A long, single-breasted black cassock coat with a stand-up mandarin collar and a full skirt that billows in the fight scenes. The costume team replaced the stiff, shiny coat of the first film with a matte, loosely woven cloth so it would move. Our coat is a tailored version inspired by it, made in Super 140s wool.
 
-The screen-used coats were made from a tightly woven wool blend, not leather or PVC. Baron builds this coat in monks wool, a tightly woven, matte wool with a subtle sheen that reads as dark and cinematic under lighting. Leather and PVC versions exist in the market, but they drape differently and read as costume rather than tailored outerwear. Monks wool gives you the correct weight for movement and a finish that works both at conventions and as everyday outerwear, and it is more comfortable to wear for extended periods than a synthetic alternative.
+### What type of coat does Neo wear in The Matrix?
 
-### Can I wear this as an everyday coat, not just for cosplay?
+What does Neo wear in the Matrix depends on the film. In the first film it is a long, shiny trench-style coat; in The Matrix Reloaded it becomes a matte cassock coat with a mandarin collar; in Resurrections it is a shorter everyday coat. This page is the Reloaded cassock coat; our other Matrix coats are linked in the Which Neo Coat section above.
 
-Yes, worn in black monks wool this coat reads as a dramatic statement coat, not a costume, to anyone who does not recognize the character reference. It works for formal events, film premieres, editorial shoots, theatrical occasions, and anywhere a deliberately dramatic long coat belongs.
+### Why does Neo wear a cassock?
 
-### How does the free test coat process work?
+Costume designer Kym Barrett gave the sequels’ coat an ecclesiastical, cassock-like line with Asian influences. Practically, the long, flat-fronted shape with a full back is what lets the coat billow on screen, and it is the same shape that makes ours swing when you move.
 
-You enter your measurements on the product page when you order. We make a complete test coat in cotton to your measurements, including the full pattern with mandarin collar, button positions, back construction, and pleated skirt, and ship it to you via trackable courier. You try it on, check the hem length at the back, the shoulder line, the chest, and how it moves. You send us your adjustment notes. We correct every note in the pattern and then cut your final coat in monks wool. The test coat is yours to keep. This step matters especially for a below-ankle coat, where the hem landing point on your specific frame has a significant effect on how the silhouette reads.
+### Is this the Matrix jacket people search for?
 
-### How many buttons does the coat have?
+Most people who search for a Matrix jacket, a Neo jacket or a neo matrix jacket mean this long coat. It is cut below the ankle, so it is a coat rather than a jacket, but if you picture Neo in black with a stand-up collar and a long swinging skirt, this is the matrix jacket you have in mind.
 
-The standard configuration is 17 fabric-covered buttons. The exact count can vary slightly depending on your coat length, the buttons are spaced to maintain the screen inspired proportions, so a slightly shorter or longer coat on a taller or shorter frame may have different button counts.
+### How to dress like Neo from Matrix Reloaded?
 
-### What colors are available?
+Wear the coat buttoned to the collar over a close-fitting black top, with straight black trousers, black boots and small dark sunglasses. The coat carries the whole outfit, so its length and fit matter most; the rest can be simple black pieces you may already own.
 
-Eight monks wool colors: Black (screen-inspired default), Grey, Dark Grey, Dark Brown, Slate Blue, Petrol Blue, Navy, and Dark Navy. All are the same price. Black is the correct choice for a screen-inspired coat. The other colors work well for a Matrix-inspired coat in a different colorway, or for wearing as everyday outerwear where you want the silhouette without the direct character reference.
+### Is the Neo coat a trench coat?
 
-### How long does the whole process take?
+Many shops sell it as a Matrix trench coat or a neo trench coat, and the neo matrix trench coat name has stuck. A trench coat proper has a belt, epaulets and a double-breasted front; Neo’s Reloaded coat has none of these, so it is closer to a cassock coat, a neo robe or a long matrix cloak than to a trench. The matrix jackets and trench coats sold as costumes are usually the first film’s style.
 
-Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. If you have a convention date or a specific deadline, tell us when you order and we will confirm honestly whether we can meet it.
+### Is it a replica of the film coat?
 
-### Do you ship internationally?
+If you are looking for a Neo coat replica, know that this is our own coat inspired by the film, not the costume itself and not a studio product. We follow the look that matters, the matte dark cloth, the flat front, the full back and the mandarin collar, and we build it to be worn for years rather than for stunts.
 
-Yes, both the test coat and the final coat ship worldwide via trackable courier. Delivery times vary by destination. We ship to every country we are aware of buyers ordering from.
+### Wool, cotton or leather: which Neo coat should I buy?
 
-### Can I commission a different fabric, heavier wool for winter, for example?
+Cotton and synthetic Neo coats cost much less but tend to crease, shine or hang stiffly, and leather does not billow; the film itself moved away from leather for that reason. Wool gives the matte look and the swing of the skirt. If you want the leather look anyway, we make this coat in leather too.
 
-Yes. The winter weight commission shown in the Real Customer section above is exactly this, the same screen-inspired pattern built in a heavier fabric for a customer who wanted to wear it through colder months. If you want a different fabric weight or have a specific brief, contact us before ordering and we will confirm what is possible and any price difference.
+### Can I wear the Neo coat as an everyday coat?
+
+Yes. Away from a convention it moves from costume to Matrix fashion. In black, or in dark grey or navy, it reads as a long, dramatic statement coat to anyone who does not know the reference, and it anchors many Matrix inspired outfits. It is a long wool coat with a canvas front and a full lining, so it works over a sweater in cool weather; for real winter cold, ask us about a heavier wool.
+
+### Can I change the length, buttons or lining?
+
+Yes. Write any change in the comment box on the measurement form, or email us with your order number. Length, collar height and the number of buttons follow your measurements anyway, and you can choose any satin lining in the selector.
+
+### Can I get it in time for a convention or Halloween?
+
+Your test coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch; once you confirm the fit, your final coat takes 3 to 4 weeks to make and arrives 5 to 10 days after dispatch. Order as early as you can, and tell us your event date when you order.
+
+### How do I care for a wool cassock coat?
+
+Dry clean only, and not often. Brush it after wearing, hang it on a broad hanger so the shoulders and collar keep their shape, and let it air before you put it away; the pleats in the skirt fall back into place on their own.
 
 ## Customer Reviews
 

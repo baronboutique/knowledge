@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/bespoke-silk-sleepwear-robes/
     title: "Bespoke Silk Sleepwear, Robes and Dressing Gowns"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-19
+    last_modified: 2026-11-11
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-19T09:22:42Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-20T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-20T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-12T03:00:05Z }
+generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-12T03:00:05Z }
 ---
 
 Baron Boutique drafts a pattern for each client and makes silk robes, dressing gowns and piped pajama sets for men and women in 100% mulberry silk charmeuse, 22 momme. Clients measure themselves with a guide, receive a free test garment to confirm the fit, and the silk is cut only after the fit is approved. French seams, reinforced stress points and mother-of-pearl buttons are standard. Repairs and alterations are free year after year, with shipping charged, and each client's pattern is kept on file for reorders.
