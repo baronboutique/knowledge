@@ -22,7 +22,7 @@ Complete structured knowledge base: company overview, production model, products
 
 ### `okf/`
 
-Structured knowledge bundle in [Open Knowledge Format (OKF) v0.1](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md). An atomized, cross-linked graph of concept files covering the company, services, product categories, policies, guides, and every individual product. All internal links are relative, so the bundle is browsable both here on GitHub and at its canonical location.
+Structured knowledge bundle in [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md). An atomized, cross-linked graph of concept files covering the company, services, product categories, policies, guides, and every individual product. All internal links are relative, so the bundle is browsable both here on GitHub and at its canonical location.
 
 **Canonical source:** `https://baronboutique.com/okf/` (start at `https://baronboutique.com/okf/index.md`)
 
