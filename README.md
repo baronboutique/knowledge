@@ -63,7 +63,8 @@ The current file count and generation timestamp are listed in [`okf/index.md`](o
 - **Founder:** Raj Bista
 - **Production:** Every garment made to order by human tailors. No pre-made stock.
 - **Signature process:** Complimentary test garment (toile) shipped before the final garment is cut
-- **Typical timeline:** 8–10 weeks from order to final garment
+- **Tailored timeline:** Test garment 3 to 4 weeks to make, delivered 5 to 10 days after dispatch. Final garment 3 to 4 weeks to make once the fit is confirmed, delivered 5 to 10 days after dispatch.
+- **Non-tailored timeline:** Cashmere scarves, shawls, knitwear and accessories are handmade to order and delivered within 2 to 3 weeks of the order.
 - **Screen-inspired garments:** NOT officially licensed unless stated on the individual product page
 - **Cashmere:** Grade A, Tibetan Plateau sourced, handmade in Nepal, Azo-free dyes
 
