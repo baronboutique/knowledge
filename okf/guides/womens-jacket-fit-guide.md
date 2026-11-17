@@ -16,15 +16,15 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T13:38:21Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 # Jacket Fit Guide
 
 Find your perfect fit—Slim, Standard, or Relaxed. Baron Boutique's womens guide helps you choose the best custom garment for your style.
 
-**Already know your fit?** Browse [women’s coats and jackets](/womenswear/coats-and-overcoats-for-women/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
+**Already know your fit?** Browse [women’s coats and jackets](https://baronboutique.com/womenswear/coats-and-overcoats-for-women/) or [message us](https://baronboutique.com/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Women’s Jacket Fit Guide
 
@@ -142,7 +142,7 @@ Nothing final, and nothing costly, is cut until you have approved the fit on the
 
 The finished jacket is made with seam allowances, so a local tailor can take it in or let it out at the waist and sides within reason. The shoulders and armholes are cut precisely to you from the start, since those are the areas that cannot easily be changed, and we keep your measurements on record for any future pieces.
 
-**Chosen your fit?** Browse [women’s coats and jackets](/womenswear/coats-and-overcoats-for-women/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
+**Chosen your fit?** Browse [women’s coats and jackets](https://baronboutique.com/womenswear/coats-and-overcoats-for-women/), or [message us](https://baronboutique.com/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** women's blazer fit, how should a jacket fit a woman, tailored jacket sizing
 

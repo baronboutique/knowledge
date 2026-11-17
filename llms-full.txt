@@ -1,9 +1,9 @@
 # Baron Boutique
 
 Generated-By: Baron Boutique AI Knowledge Manager
-Version: 1.25.0
-Generated: 2026-11-17 05:18 UTC
-Knowledge-Revision: 60
+Version: 1.25.1
+Generated: 2026-11-17 06:04 UTC
+Knowledge-Revision: 61
 Last-Updated: 2026-11-17
 
 ## What you can do with this document
@@ -9149,10 +9149,6 @@ URL: https://baronboutique.com/bespoke-silk-sleepwear-robes/
 ### How It Works
 Baron Boutique's step-by-step tailoring process. Choose your garment, enter measurements, receive a free test garment, & then your final piece.
 URL: https://baronboutique.com/how-it-works/
-
-### Our Services
-Six tailoring services, made to order for men & women. Bespoke with a fitting prototype, CMT, prototypes with no minimum, small batches from 5 pieces.
-URL: https://baronboutique.com/our-services/
 
 ### Men&#8217;s Measuring Guide
 Ensure your custom garment fits flawlessly. Our men's measurement guide provides step-by-step tutorials on measuring everything.

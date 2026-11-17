@@ -16,15 +16,15 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T13:56:08Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 # Pants Fit Guide
 
 Find your perfect pants fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for you.
 
-**Already know your fit?** Browse [men’s pants](/menswear/mens-pants/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
+**Already know your fit?** Browse [men’s pants](https://baronboutique.com/menswear/mens-pants/) or [message us](https://baronboutique.com/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Pants Fit Guide
 
@@ -152,7 +152,7 @@ These are made to become a staple. We cut a timeless shape in quality cloth with
 
 Your finished trousers are made with seam allowances, so a local tailor can take them in or let them out at the waist and seat within reason if your shape shifts. And we keep your measurements on record, so ordering another pair that fits is simple whenever you want one.
 
-**Chosen your fit?** Browse [men’s pants](/menswear/mens-pants/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
+**Chosen your fit?** Browse [men’s pants](https://baronboutique.com/menswear/mens-pants/), or [message us](https://baronboutique.com/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how should dress pants fit, trouser fit guide, pants length guide men
 

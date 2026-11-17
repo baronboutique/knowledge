@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-19T09:22:42Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 Baron Boutique drafts a pattern for each client and makes silk robes, dressing gowns and piped pajama sets for men and women in 100% mulberry silk charmeuse, 22 momme. Clients measure themselves with a guide, receive a free test garment to confirm the fit, and the silk is cut only after the fit is approved. French seams, reinforced stress points and mother-of-pearl buttons are standard. Repairs and alterations are free year after year, with shipping charged, and each client's pattern is kept on file for reorders.
@@ -279,7 +279,7 @@ All four garments share one design family, with the same silk, piping and finish
 
 Pajamas for the whole family on a holiday morning are made the same way as a single set. Each person is measured on their own, tries on their own free test garment and receives a set cut to their own pattern, so nobody goes without the fitting step. For a holiday date, place the order at least 6 to 8 weeks of workshop time ahead, plus shipping both ways and the time everyone needs to try on their test garments.
 
-Matching monograms or initials, one set for each person, make the garments feel like they belong together. For a group of up to five, each garment is at its listed price; for a group of six or more, we will talk you through a family price. If you are dressing a hotel, spa or company, our [custom corporate gifts](/custom-corporate-gifts/) page is the better place to start, and if you would like to sell the garments or put your own label on them, please see our [private label](/private-label/) program. This page is for garments made for the people who will wear them at home.
+Matching monograms or initials, one set for each person, make the garments feel like they belong together. For a group of up to five, each garment is at its listed price; for a group of six or more, we will talk you through a family price. If you are dressing a hotel, spa or company, our [custom corporate gifts](https://baronboutique.com/custom-corporate-gifts/) page is the better place to start, and if you would like to sell the garments or put your own label on them, please see our [private label](https://baronboutique.com/private-label/) program. This page is for garments made for the people who will wear them at home.
 
 Ask About a Gift Certificate Ask About Ordering Together
 
@@ -392,7 +392,7 @@ Yes. Initials can be embroidered on the chest pocket, the cuff or inside the col
 
 #### Can we order bespoke silk sleepwear together, as a family or a wedding party?
 
-Yes, however many of you there are. Each person sends their own measurements, tries on their own free test garment and receives a garment cut to their own pattern, with matching monograms or initials if you like. Ordering together takes the same time as ordering alone. For a group of up to five, each garment is at its listed price; for a group of six or more, we offer a family price. If you are dressing a hotel, spa or company, our [custom corporate gifts](/custom-corporate-gifts/) page is the better fit.
+Yes, however many of you there are. Each person sends their own measurements, tries on their own free test garment and receives a garment cut to their own pattern, with matching monograms or initials if you like. Ordering together takes the same time as ordering alone. For a group of up to five, each garment is at its listed price; for a group of six or more, we offer a family price. If you are dressing a hotel, spa or company, our [custom corporate gifts](https://baronboutique.com/custom-corporate-gifts/) page is the better fit.
 
 ### Care and Comfort
 
@@ -442,7 +442,7 @@ No. One robe or one pajama set, for you or for someone you love, is a complete o
 
 #### Can I buy bespoke silk sleepwear to resell, or under my own label?
 
-This page is for garments made for the people who will wear them at home. For resale or your own label, our [private label](/private-label/) program is the place to start.
+This page is for garments made for the people who will wear them at home. For resale or your own label, our [private label](https://baronboutique.com/private-label/) program is the place to start.
 
 #### How long does it take?
 
@@ -476,7 +476,7 @@ Yes. Your pattern and order details are kept on file, so a second robe, a new co
 
 Also from the Atelier
 
-[Our Services](/our-services/) · [Men’s Silk Suits, Shirts and Ties](/menswear/mens-silk-suits-shirts-ties-scarves/) · [Custom Cashmere Gifts](/custom-cashmere-gifts/) · [Custom Corporate Gifts](/custom-corporate-gifts/) · [Private Label](/private-label/) · [Women’s Body Measuring Guide](/womens-body-measuring-guide/) · [Alterations, Returns and Refunds](/alteration-return-refund/)
+[Our Services](https://baronboutique.com/our-services/) · [Men’s Silk Suits, Shirts and Ties](https://baronboutique.com/menswear/mens-silk-suits-shirts-ties-scarves/) · [Custom Cashmere Gifts](https://baronboutique.com/custom-cashmere-gifts/) · [Custom Corporate Gifts](https://baronboutique.com/custom-corporate-gifts/) · [Private Label](https://baronboutique.com/private-label/) · [Women’s Body Measuring Guide](https://baronboutique.com/womens-body-measuring-guide/) · [Alterations, Returns and Refunds](https://baronboutique.com/alteration-return-refund/)
 
 **Related terms:** custom silk pajamas, silk robe made to measure, men's silk dressing gown, women's silk pajama set, 22 momme silk pajamas, personalized silk sleepwear, bespoke silk robe
 

@@ -15,8 +15,8 @@ sources:
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 Baron Boutique produces branded corporate cashmere gifts to order: scarves, shawls, wraps and pashminas, hand-knitted beanies, gloves and socks, throws, and boxed gift sets. Grade A cashmere is handwoven and hand-knitted in Nepal, Pantone color-matched from over 350 hand-dyed colors using Azo-free dyes, and branded with an embroidered logo, a custom woven label, or a pattern woven into the cloth. A concept illustration and mockup are approved before anything is produced. Minimum order is 6 pieces. Production takes 3 to 4 weeks at 6 pieces and 45 to 50 days up to 200 pieces, with larger programs agreed individually. Delivered gift-ready worldwide with tracking, typically 4 to 6 days in transit. Quotes are returned within 24 hours.
@@ -257,12 +257,12 @@ Baron Boutique is an independent, family-owned bespoke house founded in 2000, se
 
 Also in the Collection
 
-[Handwoven Scarves & Shawls](/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/) ·  
- [Hand-Felted Wraps](/handmade-cashmere-collection/hand-felted-cashmere-wraps/) ·  
- [Patterned Scarves](/handmade-cashmere-collection/patterned-cashmere-scarves/) ·  
- [Men’s Cashmere & Pashmina](/handmade-cashmere-collection/mens-cashmere-pashmina/) ·  
- [Cashmere Sweaters & Knitwear](/handmade-cashmere-collection/cashmere-sweaters-knitwear/) ·  
- [Personalized Gifts](/custom-cashmere-gifts/) ·
+[Handwoven Scarves & Shawls](https://baronboutique.com/handmade-cashmere-collection/handwoven-cashmere-scarves-shawls/) ·  
+ [Hand-Felted Wraps](https://baronboutique.com/handmade-cashmere-collection/hand-felted-cashmere-wraps/) ·  
+ [Patterned Scarves](https://baronboutique.com/handmade-cashmere-collection/patterned-cashmere-scarves/) ·  
+ [Men’s Cashmere & Pashmina](https://baronboutique.com/handmade-cashmere-collection/mens-cashmere-pashmina/) ·  
+ [Cashmere Sweaters & Knitwear](https://baronboutique.com/handmade-cashmere-collection/cashmere-sweaters-knitwear/) ·  
+ [Personalized Gifts](https://baronboutique.com/custom-cashmere-gifts/) ·
 
 **Related terms:** branded corporate cashmere gifts, custom logo scarf, corporate gift scarves, cashmere gifts for employees, branded cashmere wraps
 

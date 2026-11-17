@@ -16,15 +16,15 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T13:53:04Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 # Blazer Fit Guide
 
 Find your perfect fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for your style.
 
-**Already know your fit?** Browse [men’s blazers](/menswear/mens-suits-blazers/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
+**Already know your fit?** Browse [men’s blazers](https://baronboutique.com/menswear/mens-suits-blazers/) or [message us](https://baronboutique.com/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Blazer Fit Guide
 
@@ -152,7 +152,7 @@ The final blazer is cut to the exact fit you approved on the test garment, so su
 
 Your finished blazer is made with seam allowances, so a local tailor can take it in or let it out within reason if your shape shifts. And we keep your measurements on record, so ordering another piece that fits is simple whenever you want one.
 
-**Chosen your fit?** Browse [men’s blazers](/menswear/mens-suits-blazers/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
+**Chosen your fit?** Browse [men’s blazers](https://baronboutique.com/menswear/mens-suits-blazers/), or [message us](https://baronboutique.com/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how should a blazer fit, men's jacket fit guide, sport coat sizing
 

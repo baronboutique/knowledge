@@ -16,8 +16,8 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-21T06:09:26Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 Don't guess your tie size. Our complete guide explains how to choose the perfect tie width and length based on your body type and suit style.
@@ -198,7 +198,7 @@ All three are handmade in satin silk, in skinny, standard or extra large, with c
  [Two face silk neckties](https://baronboutique.com/two-face-silk-neckties-handmade/)  
  [Tie and pocket square set](https://baronboutique.com/mens-silk-tie-pocket-square-set/)
 
-Not sure which width suits the suit you already own? [Send us the lapel measurement](/contact-baron/) and we will tell you honestly, even if the answer is the tie you already have.
+Not sure which width suits the suit you already own? [Send us the lapel measurement](https://baronboutique.com/contact-baron/) and we will tell you honestly, even if the answer is the tie you already have.
 
 **Related terms:** necktie length guide, tie size chart, how long should a tie be
 

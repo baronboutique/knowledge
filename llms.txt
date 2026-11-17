@@ -125,7 +125,6 @@ Links below point to plain markdown wherever a markdown version exists, and to t
 ## Guides
 
 - [How It Works](https://baronboutique.com/how-it-works/index.md): Baron Boutique's step-by-step tailoring process. Choose your garment, enter measurements, receive a free test garment, & then your final piece.
-- [Our Services](https://baronboutique.com/our-services/index.md): Six tailoring services, made to order for men & women. Bespoke with a fitting prototype, CMT, prototypes with no minimum, small batches from 5 pieces.
 - [Men&#8217;s Measuring Guide](https://baronboutique.com/mens-measuring-guide/index.md): Ensure your custom garment fits flawlessly. Our men's measurement guide provides step-by-step tutorials on measuring everything.
 - [Women&#8217;s Body Measuring Guide](https://baronboutique.com/womens-body-measuring-guide/index.md): Step-by-step guide on how to measure women accurately. Learn to measure your bust, waist, hips, & more with clear images & easy instructions.
 - [Women&#8217;s Shirt Measuring Guide](https://baronboutique.com/womens-shirt-measuring-guide/index.md): Step-by-step guide to measuring for a woman's shirt. Learn to measure your bust, waist, hips, & more with clear images & easy instructions.

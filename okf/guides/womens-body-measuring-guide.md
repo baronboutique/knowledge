@@ -16,15 +16,15 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-19T08:15:36Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 # Women’s Body Measuring Guide
 
 Step-by-step guide on how to measure women accurately. Learn to measure your bust, waist, hips, & more with clear images & easy instructions.
 
-**Already know what you want?** Browse [women’s bespoke tailoring](/womenswear/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
+**Already know what you want?** Browse [women’s bespoke tailoring](https://baronboutique.com/womenswear/) or [message us](https://baronboutique.com/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Women’s Measuring Guide
 
@@ -218,7 +218,7 @@ Snug but not tight. The tape should sit flat against your body with just enough 
 
 That is exactly why we send a free test garment. Give us your best measurements, and we build a test version in a stand-in cloth to your numbers and ship it to you. You try it on, we adjust from there, and nothing is cut in your final fabric until the fit is confirmed.
 
-**Measurements taken?** Browse [women’s bespoke tailoring](/womenswear/), or [message us](/contact-baron/) with your numbers and any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
+**Measurements taken?** Browse [women’s bespoke tailoring](https://baronboutique.com/womenswear/), or [message us](https://baronboutique.com/contact-baron/) with your numbers and any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 Measurements are entered during checkout. A comment box is available for special tailoring instructions.
 

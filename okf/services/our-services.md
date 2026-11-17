@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/our-services/
     title: "Our Services"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-11T13:10:53Z
+    last_modified: 2026-11-17T05:58:49Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: human:baron-boutique, at: 2026-10-19T08:22:07Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: human:baron-boutique, at: 2026-11-17T05:58:49Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 Baron Boutique operates as a made-to-order tailoring house. Every garment is cut after it is ordered, to one person's measurements, in the fabric they chose, and no ready-made stock is held. Bespoke tailoring includes a hand-cut pattern and a fitting prototype. Garments made to your measurements use a pattern built from scratch with a free test fit and post-delivery alteration support at no extra cost. Cut, make and trim covers client-supplied designs, patterns or fabric. Prototype development has no minimum. Small-batch production starts at 5 pieces per style. Alterations are accepted on garments bought anywhere, with the client covering shipping in both directions. Everything is made in the company's own atelier in Kathmandu and shipped worldwide through FedEx, DHL or UPS with tracking. Timelines are quoted per project rather than published, because they depend on complexity, material availability and how quickly measurements are returned.

@@ -16,15 +16,15 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T13:37:52Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 # Skirt Fit Guide
 
 Find your perfect skirt fit—Slim, Standard, or Relaxed. Baron Boutique's women's guide helps you choose the best custom garment for your style.
 
-**Already know your fit?** Browse [women’s skirts](/womenswear/skirts-for-women/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
+**Already know your fit?** Browse [women’s skirts](https://baronboutique.com/womenswear/skirts-for-women/) or [message us](https://baronboutique.com/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Skirt Fit Guide
 
@@ -138,7 +138,7 @@ The final skirt is cut to the exact fit you approved on the test garment, so sur
 
 Your finished skirt is made with seam allowances, so a local tailor can take it in or let it out at the waist and seat within reason. And we keep your measurements on record, so ordering another skirt that fits is simple whenever you want one.
 
-**Chosen your fit?** Browse [women’s skirts](/womenswear/skirts-for-women/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
+**Chosen your fit?** Browse [women’s skirts](https://baronboutique.com/womenswear/skirts-for-women/), or [message us](https://baronboutique.com/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how should a pencil skirt fit, skirt sizing guide, skirt length guide
 

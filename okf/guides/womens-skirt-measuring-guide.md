@@ -16,15 +16,15 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T13:04:15Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 # Women’s Skirt Measuring Guide
 
 Step-by-step guide on how to measure for a woman's skirt. Learn to measure waist, hips, & skirt length with clear images & easy instructions.
 
-**Already know what you want?** Browse [women’s skirts](/womenswear/skirts-for-women/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
+**Already know what you want?** Browse [women’s skirts](https://baronboutique.com/womenswear/skirts-for-women/) or [message us](https://baronboutique.com/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Women’s Skirt Measuring Guide
 
@@ -170,7 +170,7 @@ Snug but not tight. The tape should sit flat against your body with just enough 
 
 That is exactly why we send a free test garment. Give us your best measurements, and we build a test version in a stand-in cloth to your numbers and ship it to you. You try it on, we adjust from there, and nothing is cut in your final fabric until the fit is confirmed.
 
-**Measurements taken?** Browse [women’s skirtss](/womenswear/skirts-for-women/), or [message us](/contact-baron/) with your numbers and any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
+**Measurements taken?** Browse [women’s skirtss](https://baronboutique.com/womenswear/skirts-for-women/), or [message us](https://baronboutique.com/contact-baron/) with your numbers and any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how to measure for a skirt, women's skirt measurement guide, skirt measuring instructions
 

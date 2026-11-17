@@ -16,15 +16,15 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T14:00:59Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 # Outwear Fit Guide
 
 Find your perfect outwear fit—Slim, Standard, Relaxed, or Athletic. Baron Boutique's guide helps you choose the best custom garment for you.
 
-**Already know your fit?** Browse [men’s outwear](/menswear/mens-coats-and-overcoats/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
+**Already know your fit?** Browse [men’s outwear](https://baronboutique.com/menswear/mens-coats-and-overcoats/) or [message us](https://baronboutique.com/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Outerwear Fit Guide
 
@@ -152,7 +152,7 @@ The final coat is cut to the exact fit you approved on the test garment, so surp
 
 Your finished coat is made with seam allowances, so a local tailor can adjust it within reason if your shape shifts, and its layering room gives it natural flexibility. We also keep your measurements on record, so ordering another piece that fits is simple whenever you want one.
 
-**Chosen your fit?** Browse [men’s outwear](/menswear/mens-coats-and-overcoats/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
+**Chosen your fit?** Browse [men’s outwear](https://baronboutique.com/menswear/mens-coats-and-overcoats/), or [message us](https://baronboutique.com/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how should an overcoat fit, men's coat sizing, topcoat fit guide
 

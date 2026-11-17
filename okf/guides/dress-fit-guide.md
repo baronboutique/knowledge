@@ -16,15 +16,15 @@ sources:
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T13:07:56Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
-generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T06:03:28Z }
+generated: { by: baron-ai-knowledge-manager/1.25.1, at: 2026-11-17T06:03:28Z }
 ---
 
 # Dress Fit Guide
 
 Find your perfect dress fit—Slim, Standard, or Relaxed. Baron Boutique's guide helps you choose the best custom dresses for you.
 
-**Already know your fit?** Browse [women’s dresses](/womenswear/dresses-for-women/) or [message us](/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
+**Already know your fit?** Browse [women’s dresses](https://baronboutique.com/womenswear/dresses-for-women/) or [message us](https://baronboutique.com/contact-baron/). Every piece is custom made to your measurements, with a free test garment first.
 
 ## Women’s Dress Fit Guide
 
@@ -124,7 +124,7 @@ Nothing final is cut until you have approved the fit on the free test garment, s
 
 Take your measurements as close to the event as you can, and if your size shifts before we cut the final cloth we simply adjust to your new numbers. Afterwards, the finished dress is made with seam allowances so a local tailor can take it in or let it out within reason, and we keep your measurements on record for any future pieces.
 
-**Chosen your fit?** Browse [women’s dresses](/womenswear/dresses-for-women/), or [message us](/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
+**Chosen your fit?** Browse [women’s dresses](https://baronboutique.com/womenswear/dresses-for-women/), or [message us](https://baronboutique.com/contact-baron/) with any questions. We build the free test garment first to confirm the fit on your body, and it is yours to keep.
 
 **Related terms:** how should a dress fit, dress sizing guide, custom dress measurements
 
