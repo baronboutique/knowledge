@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/women-rust-cashmere-turtleneck-sweater/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-20
+    last_modified: 2026-10-20T08:09:27Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-20T08:09:27Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women's Rust Cashmere Turtleneck Sweater
@@ -31,7 +31,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Size:** M (8). Total 9 options available: 3XL (15), 4XL (16), L (10), M (8), S (6), XL (12), XS (4), XXL (14), XXS (0-2)
+- **Knitwear Size:** M (8). Total 9 options available: 3XL (15), 4XL (16), L (10), M (8), S (6), XL (12), XS (4), XXL (14), XXS (0-2)
 
 ## Short Description
 

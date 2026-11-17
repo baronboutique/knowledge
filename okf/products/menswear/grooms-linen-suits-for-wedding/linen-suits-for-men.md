@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/linen-suits-for-men/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-19
+    last_modified: 2026-10-19T17:08:38Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Blue Linen Suit for Men, Made to Your Measurements
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Blue Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
-- **Lining:** Blue Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Linen Fabric:** Blue Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
+- **Lining Fabric:** Blue Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

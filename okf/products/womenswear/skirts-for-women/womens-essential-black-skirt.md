@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-essential-black-skirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-01
+    last_modified: 2026-11-01T13:45:35Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women's Black Pencil Skirt for Work in Fresco Wool
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 180100-8-Black. Total 13 options available: 180100-3-Gray, 180100-4-Dark Gray, 180100-5-Charcoal, 180100-6B-Blue, 180100-7-Navy, 180100-8-Black, Beige, Black With Grey Stripes, Black With Self Stripes, Brown, Light Gray, Red, W1004-Tan
-- **Lining:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **High Twist Wool Fabric:** 180100-8-Black. Total 13 options available: 180100-3-Gray, 180100-4-Dark Gray, 180100-5-Charcoal, 180100-6B-Blue, 180100-7-Navy, 180100-8-Black, Beige, Black With Grey Stripes, Black With Self Stripes, Brown, Light Gray, Red, W1004-Tan
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

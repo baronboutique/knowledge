@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/alteration-return-refund/
     title: "Alteration, Return & Refund Policy"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-08-17
+    last_modified: 2026-08-17T20:18:39Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Alteration, Return, and Refund

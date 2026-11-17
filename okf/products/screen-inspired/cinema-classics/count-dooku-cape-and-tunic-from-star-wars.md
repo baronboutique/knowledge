@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/count-dooku-cape-and-tunic-from-star-wars/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-14
+    last_modified: 2026-10-14T05:55:40Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-10-14T17:40:43Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-14T17:40:43Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Count Dooku Cape and Tunic Star Wars

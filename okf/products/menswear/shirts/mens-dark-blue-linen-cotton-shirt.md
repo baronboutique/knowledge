@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-dark-blue-linen-cotton-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-10
+    last_modified: 2026-11-10T15:02:32Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-11T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-11T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Men's Linen-Cotton Shirt, Short Sleeves, Custom Made
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Dark Blue Linen Cotton. Total 11 options available: Black Linen Cotton, Brown Linen Cotton, Dark Blue Linen Cotton, Gold Linen Cotton, Light Khaki Linen Cotton, Lilac Linen Cotton, Lime Linen Cotton, Off White Linen Cotton, Stone Grey Linen Cotton, Turquoise Linen Cotton, White Linen Cotton
+- **Linen Cotton Blend Fabric:** Dark Blue Linen Cotton. Total 11 options available: Black Linen Cotton, Brown Linen Cotton, Dark Blue Linen Cotton, Gold Linen Cotton, Light Khaki Linen Cotton, Lilac Linen Cotton, Lime Linen Cotton, Off White Linen Cotton, Stone Grey Linen Cotton, Turquoise Linen Cotton, White Linen Cotton
 
 ## Short Description
 

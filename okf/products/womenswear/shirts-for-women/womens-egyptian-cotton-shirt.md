@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-egyptian-cotton-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-06T10:50:28Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women's White Shirt With Pockets in Egyptian Cotton
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** White Egyptian Cotton. Total 8 options available: Black Egyptian Cotton, Blue Egyptian Cotton, Lavender Egyptian Cotton, Light Blue Egyptian Cotton, Light Purple Egyptian Cotton, Pink Egyptian Cotton, Sky Blue Egyptian Cotton, White Egyptian Cotton
+- **Egyptian Cotton Fabric:** White Egyptian Cotton. Total 8 options available: Black Egyptian Cotton, Blue Egyptian Cotton, Lavender Egyptian Cotton, Light Blue Egyptian Cotton, Light Purple Egyptian Cotton, Pink Egyptian Cotton, Sky Blue Egyptian Cotton, White Egyptian Cotton
 
 ## Short Description
 

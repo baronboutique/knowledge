@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-off-white-pinstripe-double-breasted-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-26
+    last_modified: 2026-10-26T16:56:50Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-27T17:12:39Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women's White Pinstripe Double-Breasted Suit in Cream Merino Wool
@@ -31,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Off-White With Black Bold Stripes - 907300. Total 8 options available: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Light Grey Bold Pink Stripes - 907301, Off-White With Black Bold Stripes - 907300
-- **Lining:** White Paisley Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Merino Wool Stripes:** Off-White With Black Bold Stripes - 907300. Total 8 options available: Black Bold White Rope Stripes - 907285, Black Red Bold Stripes - 907303, Blue With White Bold Rope Stripes - 907284, Charcoal Bold White Rope Stripes - 907283, Grey With Bold White Rope Stripes - 907282, Grey With Dark Blue Bold Stripes - 907302, Light Grey Bold Pink Stripes - 907301, Off-White With Black Bold Stripes - 907300
+- **Lining Fabric:** White Paisley Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

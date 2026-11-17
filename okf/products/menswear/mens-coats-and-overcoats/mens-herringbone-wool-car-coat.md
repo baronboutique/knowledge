@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-herringbone-wool-car-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-06T09:34:53Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-11-06T09:08:27Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Men's Herringbone Car Coat in Wool Blend Tweed
@@ -31,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Coffee Brown Herringbone Tweed Wool (G-JK9427). Total 7 options available: Charcoal Herringbone Tweed Wool (G-JK9426), Coffee Brown Herringbone Tweed Wool (G-JK9427), Dark Grey Herringbone Tweed Wool (G-JK9522), Light Grey Herringbone Tweed Wool (G-JK9520), Medium Grey Herringbone Tweed Wool (G-JK9521), Slate Brown Herringbone Tweed Wool (G-JK9523), Teal Green Herringbone Tweed Wool (G-JK9429)
-- **Lining:** Brown Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Herringbone Wool Fabric:** Coffee Brown Herringbone Tweed Wool (G-JK9427). Total 7 options available: Charcoal Herringbone Tweed Wool (G-JK9426), Coffee Brown Herringbone Tweed Wool (G-JK9427), Dark Grey Herringbone Tweed Wool (G-JK9522), Light Grey Herringbone Tweed Wool (G-JK9520), Medium Grey Herringbone Tweed Wool (G-JK9521), Slate Brown Herringbone Tweed Wool (G-JK9523), Teal Green Herringbone Tweed Wool (G-JK9429)
+- **Lining Fabric:** Brown Satin. Total 35 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Light Sea Blue Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

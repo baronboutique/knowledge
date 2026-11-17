@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-gingham-ruffle-hem-midi-dress/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-20
+    last_modified: 2026-10-20T16:11:10Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women's Gingham Ruffle Hem Midi Dress in Cotton Poplin
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Midnight Gingham. Total 9 options available: Admiral Gingham, Dear Sea Gingham, Emerald Gingham, Haze Gingham, Midnight Gingham, Scotch Gingham, Slate Gingham, Tiger Gingham, True Gingham
+- **Gingham Cotton Fabric:** Midnight Gingham. Total 9 options available: Admiral Gingham, Dear Sea Gingham, Emerald Gingham, Haze Gingham, Midnight Gingham, Scotch Gingham, Slate Gingham, Tiger Gingham, True Gingham
 
 ## Short Description
 

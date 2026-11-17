@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-wool-cashmere-topcoat-in-navy/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-06T18:55:53Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-08-13T13:18:48Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Navy Wool Cashmere Dress Overcoat, Cut to Wear Over a Suit
@@ -31,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Navy Wool Cashmere. Total 6 options available: Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
-- **Lining:** Navy Satin. Total 21 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Dark Grey Satin, Dusky Pink Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Teal Satin, White Satin
+- **Wool Cashmere Fabric:** Navy Wool Cashmere. Total 6 options available: Black Wool Cashmere, Brown Wool Cashmere, Camel Wool Cashmere, Charcoal Wool Cashmere, Coffee Brown Wool Cashmere, Navy Wool Cashmere
+- **Lining Fabric:** Navy Satin. Total 21 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Dark Grey Satin, Dusky Pink Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Teal Satin, White Satin
 
 ## Short Description
 

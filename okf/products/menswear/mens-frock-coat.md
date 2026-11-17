@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/mens-frock-coat/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-12
+    last_modified: 2026-10-12T19:58:52Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-06T10:45:13Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Western Frock Coat in Wool, Custom Made
@@ -31,8 +31,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** TC65003-Dark-Grey. Total 10 options available: TC65001-Camel, TC650017-Burgundy, TC650018-Red, TC65002-Grey, TC650029-Chocolate Brown, TC65003-Dark-Grey, TC65004-Charcoal, TC650041-Light Grey, TC65005-Blue, TC65006-Black
-- **Lining:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Flannel Wool Fabric:** TC65003-Dark-Grey. Total 10 options available: TC65001-Camel, TC650017-Burgundy, TC650018-Red, TC65002-Grey, TC650029-Chocolate Brown, TC65003-Dark-Grey, TC65004-Charcoal, TC650041-Light Grey, TC65005-Blue, TC65006-Black
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

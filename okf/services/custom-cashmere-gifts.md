@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/custom-cashmere-gifts/
     title: "Custom Cashmere Gifts"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-11
+    last_modified: 2026-11-11T13:10:55Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-19T05:38:12Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-12T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-12T03:00:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 Baron Boutique offers a bespoke cashmere gifting service for life's most meaningful occasions, including weddings, corporate milestones, baby showers, and personal celebrations. Each piece is handwoven in Nepal by artisan partners using the world’s finest cashmere. We offer fully personalized options, including Pantone-matched colors, custom monograms, delicate scent infusions, and eco-friendly luxury packaging, with flexible minimums starting at just 6 pieces per style.

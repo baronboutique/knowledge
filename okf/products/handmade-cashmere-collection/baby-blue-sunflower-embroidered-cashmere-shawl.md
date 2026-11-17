@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/baby-blue-sunflower-embroidered-cashmere-shawl/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-01
+    last_modified: 2026-11-01T12:49:42Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-11-01T12:49:42Z }
-  - { by: process:baron-catalog-watch, at: 2026-11-02T03:00:05Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-02T03:00:05Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # The Sunflower-Embroidered Baby Blue Cashmere Wrap

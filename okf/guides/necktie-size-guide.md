@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/necktie-size-guide/
     title: "Necktie Size Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-21
+    last_modified: 2026-09-21T06:09:26Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-21T06:09:26Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 Don't guess your tie size. Our complete guide explains how to choose the perfect tie width and length based on your body type and suit style.

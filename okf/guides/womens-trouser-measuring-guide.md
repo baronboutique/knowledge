@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-trouser-measuring-guide/
     title: "Women’s Trouser Measuring Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-09-20
+    last_modified: 2026-09-20T12:59:24Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-09-20T12:59:25Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T21:24:41Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T21:24:41Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women’s Trouser Measuring Guide

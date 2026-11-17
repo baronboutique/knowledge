@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-pink-oxford-cotton-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-06T11:06:24Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women's Pink Oxford Shirt, Button-Down Collar in Oxford Cotton
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Pink Oxford Cotton. Total 11 options available: Butter Oxford Cotton, Cornflower Oxford Cotton, Indigo Oxford Cotton, Light Blue Oxford Cotton, Light Brown Oxford Cotton, Pink Oxford Cotton, White and Burgundy Stripe Oxford Cotton, White and Crimson Stripe Oxford Cotton, White and Purple Stripe Oxford Cotton, White and Sky Blue Stripe Oxford Cotton, White Oxford Cotton
+- **Oxford Cotton Fabric:** Pink Oxford Cotton. Total 11 options available: Butter Oxford Cotton, Cornflower Oxford Cotton, Indigo Oxford Cotton, Light Blue Oxford Cotton, Light Brown Oxford Cotton, Pink Oxford Cotton, White and Burgundy Stripe Oxford Cotton, White and Crimson Stripe Oxford Cotton, White and Purple Stripe Oxford Cotton, White and Sky Blue Stripe Oxford Cotton, White Oxford Cotton
 
 ## Short Description
 

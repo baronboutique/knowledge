@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/royal-blue-essential-wrap-in-diamond-weave-cashmere/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-07
+    last_modified: 2026-10-07T10:57:14Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-07T07:25:12Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-13T03:00:48Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-13T03:00:48Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Royal Blue Essential Wrap in Diamond Weave Cashmere

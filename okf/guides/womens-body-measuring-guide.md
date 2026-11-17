@@ -9,15 +9,15 @@ sources:
     resource: https://baronboutique.com/womens-body-measuring-guide/
     title: "Women’s Body Measuring Guide"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-19
+    last_modified: 2026-10-19T08:15:36Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
   - { by: human:baron-boutique, at: 2026-10-19T08:15:36Z }
-  - { by: process:baron-catalog-watch, at: 2026-10-19T08:36:49Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-10-19T08:36:49Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women’s Body Measuring Guide

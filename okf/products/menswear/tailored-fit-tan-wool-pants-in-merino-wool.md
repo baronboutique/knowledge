@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/tailored-fit-tan-wool-pants-in-merino-wool/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-09
+    last_modified: 2026-11-09T02:21:41Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-09T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-09T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Men's Tan Wool Dress Pants in Super 130s Merino
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 8300-1 Tan. Total 17 options available: 8300-1 Tan, 8300-11 Cobalt, 8300-12 Crimson Blue, 8300-13 Blue, 8300-19 Chocolate Brown, 8300-2 Olive, 8300-20 Blue Teal, 8300-4 Light Gray, 8300-5 Gray, 8300-6 Dark Gray, 8300-7 Charcoal, 8300-8 Navy, 8300-9 Black, 8302-1-Charcoal-Pinstripe, 8302-2-Navy-Pinstripe, 8302-3-Black-Pinstripe, 8309-1 Light Brown Narrow Pinstripe
-- **Lining:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Merino Wool Fabric:** 8300-1 Tan. Total 17 options available: 8300-1 Tan, 8300-11 Cobalt, 8300-12 Crimson Blue, 8300-13 Blue, 8300-19 Chocolate Brown, 8300-2 Olive, 8300-20 Blue Teal, 8300-4 Light Gray, 8300-5 Gray, 8300-6 Dark Gray, 8300-7 Charcoal, 8300-8 Navy, 8300-9 Black, 8302-1-Charcoal-Pinstripe, 8302-2-Navy-Pinstripe, 8302-3-Black-Pinstripe, 8309-1 Light Brown Narrow Pinstripe
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 

@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/james-west-wild-wild-west-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-06T18:56:33Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # James West Wild Wild West Suit
@@ -32,8 +32,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** 8300-13 Blue. Total 16 options available: 8300-1 Tan, 8300-11 Cobalt, 8300-12 Crimson Blue, 8300-13 Blue, 8300-19 Chocolate Brown, 8300-2 Olive, 8300-20 Blue Teal, 8300-4 Light Gray, 8300-5 Gray, 8300-6 Dark Gray, 8300-7 Charcoal, 8300-8 Navy, 8300-9 Black, 8302-1-Charcoal-Pinstripe, 8302-2-Navy-Pinstripe, 8302-3-Black-Pinstripe
-- **Lining:** Blue Satin. Total 25 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
+- **Merino Wool Fabric:** 8300-13 Blue. Total 16 options available: 8300-1 Tan, 8300-11 Cobalt, 8300-12 Crimson Blue, 8300-13 Blue, 8300-19 Chocolate Brown, 8300-2 Olive, 8300-20 Blue Teal, 8300-4 Light Gray, 8300-5 Gray, 8300-6 Dark Gray, 8300-7 Charcoal, 8300-8 Navy, 8300-9 Black, 8302-1-Charcoal-Pinstripe, 8302-2-Navy-Pinstripe, 8302-3-Black-Pinstripe
+- **Lining Fabric:** Blue Satin. Total 25 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
 - **Vest Fabric:** Beige Self Stripes (TCAD2). Total 7 options available: Baby Blue Self Stripes (TCAD7), Beige Self Stripes (TCAD2), Black Grey Stripes (TCAD15), Black Self Stripes (TCAD6), Purple Black Stripes (TCAD9), Red Self Stripes (TCAD10), White Self Stripes (TCAD1)
 
 ## Short Description

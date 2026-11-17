@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/essential-black-mohair-wool-tuxedo-2-button/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-19
+    last_modified: 2026-10-19T17:08:37Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Black Mohair Tuxedo, Made to Your Measurements
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Mohair. Total 6 options available: Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
-- **Lining:** Black Satin. Total 25 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
+- **Mohair Wool Fabric:** Black Mohair. Total 6 options available: Black Mohair, Dark Grey Mohair, Light Grey Mohair, Medium Grey Mohair, Navy Mohair, Teal Mohair
+- **Lining Fabric:** Black Satin. Total 25 options available: Aubergine Satin, Beige Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Satin, Off White Satin, Olive Satin, Orange Satin, Purple Satin, Red Satin, Sea Blue Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Satin
 
 ## Short Description
 

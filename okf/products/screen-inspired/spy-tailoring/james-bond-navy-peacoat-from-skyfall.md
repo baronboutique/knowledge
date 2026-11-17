@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/james-bond-navy-peacoat-from-skyfall/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-06T18:55:38Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # James Bond Skyfall Peacoat
@@ -32,7 +32,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Navy Melton Wool. Total 15 options available: Aubergine Melton Wool, Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Purple Melton Wool, Teal Melton Wool, Turquoise Melton Wool
+- **Melton Wool Fabric:** Navy Melton Wool. Total 15 options available: Aubergine Melton Wool, Black Melton Wool, Burgundy Red Melton Wool, Camel Melton Wool, Charcoal Melton Wool, Cobalt Melton Wool, Dark Grey Melton Wool, Gold Yellow Melton Wool, Grey Melton Wool, Light Brown Melton Wool, Light Grey Melton Wool, Navy Melton Wool, Purple Melton Wool, Teal Melton Wool, Turquoise Melton Wool
 
 ## Short Description
 

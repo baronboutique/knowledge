@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-crepe-silk-shirt/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-11-06
+    last_modified: 2026-11-06T11:06:20Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women's Crepe Silk Shirt With Chest Pockets
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** White Crepe Silk. Total 16 options available: Aqua Crepe Silk, Beetroot Crepe Silk, Black Crepe Silk, Buttercup Crepe Silk, Dark Blue Crepe Silk, Dark Grey Crepe Silk, Lavender Crepe Silk, Light Grey Crepe Silk, Lime Crepe Silk, Mandarin Red Crepe Silk, Orange Crepe Silk, Red Crepe Silk, Rose Crepe Silk, Royal Blue Crepe Silk, Sage Crepe Silk, White Crepe Silk
+- **Crepe Silk Fabric:** White Crepe Silk. Total 16 options available: Aqua Crepe Silk, Beetroot Crepe Silk, Black Crepe Silk, Buttercup Crepe Silk, Dark Blue Crepe Silk, Dark Grey Crepe Silk, Lavender Crepe Silk, Light Grey Crepe Silk, Lime Crepe Silk, Mandarin Red Crepe Silk, Orange Crepe Silk, Red Crepe Silk, Rose Crepe Silk, Royal Blue Crepe Silk, Sage Crepe Silk, White Crepe Silk
 
 ## Short Description
 

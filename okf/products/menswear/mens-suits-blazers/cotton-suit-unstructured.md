@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/cotton-suit-unstructured/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-06T18:54:21Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # The Unstructured Cotton Suit Slim Fit Custom Made
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Navy Chino Cotton-BOL-012. Total 18 options available: Black Chino Cotton-BOL-013, Blue Chino Cotton-PAL-025, Bright Red Chino Cotton-BOL-024, Burgundy Chino Cotton-BOL-044, Burnt Orange Khaki-BOL-048, Lemon Yellow Chino Cotton-BOL-033, Light Blue Chino Cotton-PAL-003, Light Grey Chino Cotton-PAL-034, Light Pink Chino Cotton-PAL-012, Medium Grey Chino Cotton-PAL-035, Mustard Chino Cotton-PAL-019, Navy Chino Cotton-BOL-012, Purple Chino Cotton-PAL-024, Sea Blue Chino Cotton-PAL-033, Slate Blue Chino Cotton-PAL-030, Tan Beige Chino Cotton-PAL-032, Teal Chino Cotton-PAL-029, White Chino Cotton-PAL-001
+- **Chino Cotton:** Navy Chino Cotton-BOL-012. Total 18 options available: Black Chino Cotton-BOL-013, Blue Chino Cotton-PAL-025, Bright Red Chino Cotton-BOL-024, Burgundy Chino Cotton-BOL-044, Burnt Orange Khaki-BOL-048, Lemon Yellow Chino Cotton-BOL-033, Light Blue Chino Cotton-PAL-003, Light Grey Chino Cotton-PAL-034, Light Pink Chino Cotton-PAL-012, Medium Grey Chino Cotton-PAL-035, Mustard Chino Cotton-PAL-019, Navy Chino Cotton-BOL-012, Purple Chino Cotton-PAL-024, Sea Blue Chino Cotton-PAL-033, Slate Blue Chino Cotton-PAL-030, Tan Beige Chino Cotton-PAL-032, Teal Chino Cotton-PAL-029, White Chino Cotton-PAL-001
 
 ## Short Description
 

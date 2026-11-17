@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/womens-linen-long-dress/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-21
+    last_modified: 2026-10-21T05:37:03Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # Women's Sleeveless Linen Maxi Dress, Custom Made
@@ -30,7 +30,7 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Black Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
+- **Linen Fabric:** Black Linen. Total 18 options available: Black Linen, Blue Linen, Brown Linen, Burgundy Linen, Charcoal Linen, Cornflower Linen, Dark Blue Linen, Grey Linen, Herringbone Natural Linen, Khaki Linen, Lavender Linen, Light Blue Linen, Natural Linen, Off White Linen, Pink Linen, Soft Tan Linen, Turquoise Linen, White Linen
 
 ## Short Description
 

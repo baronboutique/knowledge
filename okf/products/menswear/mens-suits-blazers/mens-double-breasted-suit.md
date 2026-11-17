@@ -9,14 +9,14 @@ sources:
     resource: https://baronboutique.com/mens-double-breasted-suit/
     title: "Product page"
     author: team:baron-boutique-tailoring
-    last_modified: 2026-10-06
+    last_modified: 2026-10-06T18:56:44Z
   - id: baron-catalog
     resource: all products, categories, and pages in the baronboutique.com store
     title: "Baron Boutique live catalog"
     author: team:baron-boutique-tailoring
 verified:
-  - { by: process:baron-catalog-watch, at: 2026-11-07T03:00:04Z }
-generated: { by: baron-ai-knowledge-manager/1.24.0, at: 2026-11-07T03:00:04Z }
+  - { by: process:baron-catalog-watch, at: 2026-11-17T05:17:45Z }
+generated: { by: baron-ai-knowledge-manager/1.25.0, at: 2026-11-17T05:17:45Z }
 ---
 
 # 6 Button Double Breasted Suit, Custom Made in Super 120s Wool
@@ -30,8 +30,8 @@ Every garment is made to order after the order is confirmed. No pre-made stock.
 
 ## Options
 
-- **Fabric:** Charcoal Worsted Wool (LSR1-9501-9). Total 8 options available: Black Worsted Wool (LSR1-9501-10), Blue Worsted Wool (LSR1-9501-2), Charcoal Worsted Wool (LSR1-9501-9), Dark Brown Worsted Wool (LSR1-9501-0), Dark Grey Worsted Wool (LSR1-9501-8), Light Grey Worsted Wool (LSR1-9501-7), Lightest Brown Worsted Wool (LSR1-9501-1), Navy Worsted Wool (LSR1-9501-6)
-- **Lining:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
+- **Worsted Wool Plain Fabric:** Charcoal Worsted Wool (LSR1-9501-9). Total 8 options available: Black Worsted Wool (LSR1-9501-10), Blue Worsted Wool (LSR1-9501-2), Charcoal Worsted Wool (LSR1-9501-9), Dark Brown Worsted Wool (LSR1-9501-0), Dark Grey Worsted Wool (LSR1-9501-8), Light Grey Worsted Wool (LSR1-9501-7), Lightest Brown Worsted Wool (LSR1-9501-1), Navy Worsted Wool (LSR1-9501-6)
+- **Lining Fabric:** Black Satin. Total 34 options available: Aubergine Satin, Beige Satin, Black Paisley Satin, Black Satin, Blue Satin, Brown Satin, Burgundy Paisley Satin, Burgundy Satin, Cornflower Blue Satin, Dark Grey Satin, Dusky Pink Satin, French Blue Satin, Gold Paisley Satin, Gold Satin, Green Satin, Grey Satin, Maroon Satin, Navy Blue Paisley Satin, Navy Satin, Off White Paisley Satin, Off White Satin, Olive Satin, Orange Satin, Plum Satin, Purple Satin, Red Satin, Royal Pink Paisley Satin, Sea Blue Satin, Silver Paisley Satin, Smoke Grey Satin, Tan Satin, Teal Satin, White Paisley Satin, White Satin
 
 ## Short Description
 
